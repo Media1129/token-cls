@@ -407,7 +407,7 @@ def main():
                 batched=True,
                 num_proc=data_args.preprocessing_num_workers,
                 load_from_cache_file=not data_args.overwrite_cache,
-                desc="Running tokenizer on train dataset",
+                # desc="Running tokenizer on train dataset",
             )
 
     if training_args.do_eval:
@@ -437,7 +437,7 @@ def main():
                 batched=True,
                 num_proc=data_args.preprocessing_num_workers,
                 load_from_cache_file=not data_args.overwrite_cache,
-                desc="Running tokenizer on prediction dataset",
+                # desc="Running tokenizer on prediction dataset",
             )
 
     # Data collator
