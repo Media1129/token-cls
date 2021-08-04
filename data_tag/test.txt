@@ -1,0 +1,44 @@
+Thai B-dishname
+cuisine I-dishname
+is O
+what O
+I O
+want O
+to O
+cook O
+today O
+
+Do O
+I O
+need O
+any O
+ingredients O
+for O
+cheesecake? B-dishname
+
+I O
+want O
+to O
+make O
+juice. B-dishname
+Can O
+you O
+please O
+teach O
+me? O
+
+Teach O
+me O
+how O
+to O
+make O
+aci B-dishname
+bowl I-dishname
+
+I O
+want O
+to O
+make O
+spicy B-dishname
+spaghetti I-dishname
+
