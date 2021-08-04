@@ -35,19 +35,18 @@ python3 run_ner.py \
   --num_train_epochs 1
 ```
 
-
-
-5. run script
+6. run script
 ```bash=
 python generate_data.py [cd data_tag/]
 vim recipe_dataset.py [change features label]
 bash run.sh
 ```
+7. ssh login
+  + ssh -i media1129-key-pair.cer ubuntu@34.204.168.125
+  + tmux 
+  + conda activate python3
+  + pip uninstall transfoerms
+  + pip install transformers
+  + du -h
+  + df -h -> /dev/xvda1
 
-
-
-## Train bert on recipe entity slot tag
-```bash=
-python src/preprocess_seq_tag.py datasets
-python src/train_seq_tag.py
-```

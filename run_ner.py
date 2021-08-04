@@ -479,6 +479,7 @@ def main():
                 "accuracy": results["overall_accuracy"],
             }
 
+    training_args.save_steps = 3000
     # Initialize our Trainer
     trainer = Trainer(
         model=model,
