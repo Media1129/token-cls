@@ -1,0 +1,519 @@
+utterance,dishname_first (score),dishname_second (score),dishname_third (score),ingredient_first (score),ingredient_second (score),ingredient_third (score)
+"How do you make a spaghetti sauce, keeping it healthy?",spaghetti sauce (1.00),it (1.00),none,healthy (0.74),none,none
+"How good are French fries that are cooked in an air fryer, or is there another healthy alternative method to cook them that is better?",french fries (1.00),cooked in an (0.88),air fryer (0.98),better (0.86),none,none
+What are risks of undercooked salmon?,none,none,none,undercooked salmon (1.00),none,none
+Can you substitute garlic powder for garlic cloves?,garlic powder for garlic cloves (1.00),none,none,none,none,none
+"Are Instant Pot recipes healthier than other ways of cooking, or does it matter?",instant pot recipes healthier (0.91),other ways (0.99),cooking (0.99),none,none,none
+Which cooking oils are harmful for health?,none,none,none,cooking oils (0.87),health (0.94),none
+Is it healthier to use honey instead of sugar in baking recipes?,honey instead of sugar in baking recipes (1.00),none,none,none,none,none
+What is the best way to cook green prawns?,green prawns (1.00),none,none,none,none,none
+What should I have for healthy skin? Share some recipes?,healthy skin (1.00),recipes (0.58),none,none,none,none
+What are some simple and easy meals?,simple and easy meals (1.00),none,none,none,none,none
+What are some good ways to use fresh basil when cooking?,fresh basil when cooking (1.00),none,none,none,none,none
+How can you incorporate leftover broccoli into other recipes?,leftover broccoli into other recipes (1.00),none,none,none,none,none
+"Which is healthier, rice or flour?","healthier, rice or flour (0.92)",none,none,none,none,none
+How long does it take to cook soaked kidney beans?,soaked kidney beans? (1.00),none,none,none,none,none
+"Is beef tendon considered protein, carbohydrate, fat or none of the above?",beef tendon (1.00),"protein, carbohydrate, fat or none of the above (0.99)",none,none,none,none
+"I have health issue, which cooking oil should I use?",cooking (0.59),none,none,health issue (0.99),oil (0.93),none
+"Which is healthier, steak or ground beef?","healthier, steak or ground beef? (0.96)",none,none,none,none,none
+Which spices add to the food value and to your good health?,food (1.00),health (0.59),none,spices (0.87),value (0.72),good (0.80)
+What are the best recipes for juicing?,best (0.95),juicing (1.00),none,none,none,none
+Is an air fryer healthy?,air fryer healthy (1.00),none,none,none,none,none
+Is roasting a healthy way to cook vegetables?,healthy (1.00),vegetables (1.00),none,none,none,none
+How do I learn how to cook healthily for one person?,healthily for one person (1.00),none,none,none,none,none
+What are the health benefits of olive oil?,olive oil (1.00),none,none,none,none,none
+Why should I eat chia seeds? What are the health benefits and recipe tips?,chia seeds (1.00),health benefits and recipe tips (0.95),none,none,none,none
+Why is highly processed food bad?,highly processed food bad (0.88),none,none,none,none,none
+What is the easiest way to cook perfect rice?,perfect rice? (1.00),none,none,none,none,none
+Is it safe to eat barely cooked (almost raw) potatoes? Are there health benefits to preparing them this way?,barely cooked ( almost raw ) potatoes (1.00),them (1.00),none,health (1.00),none,none
+How long does it take to cook tofu in soup?,tofu in soup (1.00),none,none,none,none,none
+Why are we advised that pork needs to be cooked more thoroughly than say beef or chicken?,pork (1.00),cooked more thoroughly than say beef or chicken (0.99),none,none,none,none
+Do you lose nutrients in spinach when you boil it?,##ach when (0.89),boil it (0.83),none,nutrients in (0.93),spin (0.85),none
+What are some natural ways to thicken blood?,##en blood (0.95),none,none,natural (0.99),thick (0.56),none
+How do I cook dried pinto beans fast?,dried pinto beans fast? (1.00),none,none,none,none,none
+How can I make a healthy home made pizza?,healthy home made pizza? (0.96),none,none,none,none,none
+What simple advice for cooking could improve every meal you make?,meal (0.94),none,none,simple (0.67),cooking (0.96),none
+How can I cook the perfect crispy bacon?,the perfect crispy bacon? (1.00),none,none,none,none,none
+Is red rice healthier than white rice for daily consumption?,red rice healthier than white rice for daily consumption (1.00),none,none,none,none,none
+Is the skin on salmon good for you? Why or why not?,skin on salmon (1.00),why (0.55),why (0.44),none,none,none
+What are some good spinach recipes?,good spinach recipes (1.00),none,none,none,none,none
+Why does cooking oil thicken when cooled down?,cooking oil thicken when cooled down (1.00),none,none,none,none,none
+How long can cooked meat be left out?,meat (1.00),out (0.93),none,left (0.31),none,none
+What are some great juice recipes?,great juice (1.00),none,none,none,none,none
+How do you make healthy pasta for a diet?,healthy pasta (1.00),diet (0.59),none,none,none,none
+What is the recipe to JC GreenLife NYC's oatmeal?,jc greenlife nyc's oatmeal? (1.00),none,none,none,none,none
+What happens to the human body when one does not eat any cooked food for one month?,human body (0.91),any (0.45),food (0.94),cooked (0.78),one (0.51),none
+What is a good recipe for healthier fried rice?,healthier fried rice? (1.00),none,none,none,none,none
+What is the best way to cook vegetables?,vegetables (1.00),none,none,none,none,none
+How do I cook an already cooked ham?,already cooked ham (1.00),none,none,none,none,none
+Which foods are less nutritious when you reheat them?,foods (0.96),reheat them (0.89),none,nutritious when (0.95),none,none
+How long does it take to cook bacon at 400?,bacon at 400? (1.00),none,none,none,none,none
+Should cooked brown rice be soft like white rice?,brown rice (0.94),soft like white rice (0.90),none,none,none,none
+"What are some examples of edible, non-organic matter?","edible, non - organic matter (1.00)",none,none,none,none,none
+What is your best meal prep recipe that I can freeze?,best meal prep (0.93),i can freeze? (0.73),none,none,none,none
+"Why do some meats/cuts turn white when cooked, and others turn red/brown?","meats / cuts turn white when cooked, (1.00)",others turn red / brown (0.96),none,none,none,none
+What is a good recipe for fried rice without actually using rice?,fried rice (1.00),using rice (1.00),none,actually (1.00),none,none
+What is the easiest way to clean leafy vegetables from possible pesticides?,leafy vegetables from possible pesticides (1.00),none,none,none,none,none
+What is the best deep fried food?,the best deep fried food (1.00),none,none,none,none,none
+"What are some fail-safe, delicious freeze-ahead recipes for dinner meals?","fail - safe, delicious freeze - ahead (1.00)",dinner meals (1.00),none,none,none,none
+Are boiled potatoes bad for health?,boiled potatoes (0.86),none,none,health (1.00),none,none
+How long are cooked lentils good for?,lentils good for (0.86),none,none,none,none,none
+Is fried rice healthy?,rice healthy (0.75),none,none,none,none,none
+Can you make your own pasta that is actually healthy?,pasta (1.00),actually healthy (0.76),none,none,none,none
+What is a good substitute for potatoes?,potatoes (1.00),none,none,none,none,none
+Are there rice cookers that can cook just small amounts of rice?,rice cooke (1.00),just small amounts of rice (1.00),none,none,none,none
+What three deep fried foods are okay to eat once a week?,three (0.38),deep fried foods (1.00),once a week (0.91),eat (0.93),none,none
+Should you remove the skin before cooking chicken?,chicken (1.00),none,none,skin (0.80),none,none
+What is the healthiest way of making fries?,healthiest (0.98),fries (0.99),none,none,none,none
+Why are fried foods so tasty to human beings?,fried foods (0.99),human beings (0.67),none,tasty (0.49),none,none
+What can I use to purify used cooking oil aside from ginger?,purify used cooking oil aside from (0.98),none,none,ginger (0.91),none,none
+Is it socially acceptable to spoon cream cheese into my mouth?,cream cheese into (0.88),mouth (0.83),none,socially (0.55),none,none
+What are good side dishes with steak and lobster?,good side dishes with (1.00),and lobster? (0.87),none,steak (0.99),none,none
+Does cooking vegetables change their nutritional value?,vegetables (0.97),none,none,nutritional value (0.97),none,none
+How do I fix too much garlic powder?,too much garlic powder (1.00),none,none,none,none,none
+Is it best to prep vegetables and spice mixes before starting a recipe or as you go along?,vegetables and spice mixes (1.00),recipe or (0.82),none,as (0.57),none,none
+What is the best cooking oil to use that's healthy for the heart and keeps cholesterol healthy?,the best cooking oil (1.00),' s healthy for the heart and keeps cholesterol healthy (0.96),none,none,none,none
+Is cooking with olive oil toxic?,none,none,none,olive oil toxic (0.96),none,none
+How important is it to change your frying oil regularly when you deep fry foods at home?,frying oil regularly when you deep fry foods (1.00),none,none,none,none,none
+How do I test whether a food item has MSG (monosodium glutamate)/Ajinomoto in it?,food item (1.00),none,none,msg ( monosodium glutamate ) / ajinomoto in it (1.00),none,none
+"What meals are at least semi-healthy, easy to make, and delicious?",meals (0.89),"semi - healthy, easy to make, and delicious (0.79)",none,none,none,none
+Is baking veggies healthier than sauteeing them?,baking veggies healthier than sauteeing them (1.00),none,none,none,none,none
+"If you are one of the many people that fear pressure cookers, what are you afraid will happen?",none,none,none,pressure cookers (0.79),none,none
+"If you follow the recipe to a T, if your cookies always turn out hard, why?",t (1.00),your cookies always turn out hard (0.79),none,none,none,none
+What is the best dish you can cook? Can you share the preparation methods?,the best dish (0.98),preparation (0.80),none,methods (0.70),none,none
+Why did our ancestors switch from eating raw meat to eating cooked meat?,raw meat (1.00),cooked meat (1.00),none,eating (0.53),none,none
+"What are some good, cheap and easy vegetarian recipes?","good, cheap and easy vegetarian recipes (1.00)",none,none,none,none,none
+"What source do you use to reach for updated healthy meal recipes, simple good ones without weird ingredients?","updated healthy meal recipes, simple good ones (1.00)",none,none,weird ingredients (1.00),none,none
+What is an interesting and healthy spinach dish that some people might not have prepared?,interesting and healthy spinach dish (1.00),people (0.40),not (0.87),prepared (0.94),none,none
+Can you work wonders with very few ingredients but make a tasty meal?,few (0.99),tasty meal (1.00),none,very (1.00),ingredients (0.85),none
+What are some of the ways you can make your regular every day food healthier?,regular every day food healthier (1.00),none,none,none,none,none
+Are french fries cooked in olive oil actually good for you?,french fries cooked in olive oil actually good (0.95),none,none,none,none,none
+How do I make Creamy Leche Flan quickly and easily?,creamy leche flan quickly and easily? (1.00),none,none,none,none,none
+Which food recipes use both grilling plus another cooking method?,food (0.73),none,none,both grilling plus another cooking method (1.00),none,none
+"What is the difference between polenta, grits and cornmeal?","polenta, grits and cornmeal (1.00)",none,none,none,none,none
+What’s the recipe to the easiest and best dish that you make?,the easiest and best dish that you make (1.00),none,none,none,none,none
+How firm should pasta be cooked?,firm (0.66),pasta (0.93),cooked (0.68),none,none,none
+Is Tilapia fish healthy to eat?,tilapia fish (1.00),none,none,eat (1.00),none,none
+Do people in Sweden use olive oil extra virgin for cooking? I like to make cook sophisticated recipes and I was wondering what do they use.,olive oil extra virgin for cooking (1.00),sophisticated recipes (0.94),none,sweden (0.43),none,none
+"How many things do you add to your salad that makes it the most delicious, most healthy thing you can eat?","salad that makes it the most delicious, most healthy thing (0.98)",eat (0.38),none,none,none,none
+How long is cooked oatmeal good for?,cooked oatmeal good for (0.93),none,none,none,none,none
+What is an easily made and healthy dish for dinner?,easily made and healthy dish (1.00),dinner (1.00),none,none,none,none
+What are the easy and healthy ways to make desserts?,easy and healthy (1.00),desserts (1.00),none,none,none,none
+What's the healthiest oil for stir frying? Olive oil?,healthiest oil for stir frying? olive oil? (0.98),none,none,none,none,none
+What's the healthiest way to eat cabbage?,healthiest (1.00),cabbage? (0.94),none,none,none,none
+Is hamburger grease a terrible choice to cook food in?,hamburger grease (0.94),food in (1.00),none,none,none,none
+What is the nutritional difference between Celtic Sea salt and Mediterranean Sea salt?,celtic sea salt and mediterranean sea salt (1.00),none,none,nutritional difference (0.75),none,none
+"What are some healthy, inexpensive, filling snacks that involve little to no prep work or cooking?","healthy, inexpensive, filling snacks that (0.94)",to no prep work or (0.95),none,little (1.00),cooking (0.65),none
+Why do my brussels sprouts taste like horseradish/wasabi?,brussels sprouts taste like horseradish / wasabi? (0.99),none,none,none,none,none
+How do you prepare a perfect tasty lentil ragout with an enveloping taste?,perfect tasty lentil ragout with an enveloping taste (1.00),none,none,none,none,none
+How do you modify recipes around what you have in stock?,none,none,none,what (0.86),in (0.51),stock (0.80)
+How long does it take to cook beans after soaking?,beans after soaking? (1.00),none,none,none,none,none
+How do I make the best keto recipes?,the best keto recipes (1.00),none,none,none,none,none
+How do I cook beans properly?,beans properly (1.00),none,none,none,none,none
+Which dishes must be slow cooked for the best results?,dishes (0.97),slow cooked for the best results (0.99),none,none,none,none
+When cooking is it a big deal if you cut meat and vegetables on the same cutting boards?,big (0.85),meat and vegetables on the same cutting boards (1.00),none,none,none,none
+What should every cook know?,cook (0.43),none,none,none,none,none
+How do I limit cooking and still eat healthy?,cooking (0.51),? (0.83),none,healthy (0.94),none,none
+What is the right order to cook in order to retain nutrients?,none,none,none,nutrients (0.91),none,none
+How come every cook says to use more garlic than the recipe calls for? Aren't recipes written by cooks? Who is responsible for all these garlic-deficient recipes?,more garlic than the recipe calls (0.95),recipes (0.80),garlic - deficient (0.98),cooks (0.94),none,none
+"Which is healthier, sunflower seed oil or olive oil?","healthier, sunflower seed oil or olive oil? (1.00)",none,none,none,none,none
+What is your favorite dip recipe?,favorite dip (1.00),none,none,none,none,none
+What are some good broccoli recipes?,good broccoli recipes (1.00),none,none,none,none,none
+What is a healthy recipe with just a few ingredients that can be made quickly and will last a family for several days?,healthy (1.00),family (0.97),for several days (0.37),just (1.00),few ingredients that (0.82),be made quickly (0.65)
+"What is the cheapest, healthiest, and most nutritionally complete recipe you know?","cheapest, healthiest, and most nutritionally complete recipe (1.00)",none,none,none,none,none
+What are some recommendations on healthy chicken dinner recipes that have seasoning?,healthy chicken dinner recipes that have seasoning? (0.94),none,none,none,none,none
+Do you need to wash the inside of cabbages?,inside (0.99),cabbages (0.99),none,none,none,none
+How do you know when oats are cooked?,oats (1.00),cooked (0.95),none,none,none,none
+Do I have to cook soaked beans right away?,soaked beans (1.00),none,none,none,none,none
+Is fresh garlic better than garlic powder to use in cooking?,fresh garlic better than garlic powder (0.89),none,none,cooking (0.45),none,none
+"How do I eat healthy? My mum gets takeaway or lets me make my own dinner. The only issue is I'm not very good at cooking and have low motivation. What are some ways I can make processed, pre made food healthier?",healthy (1.00),##away or (0.83),dinner (1.00),take (0.98),issue (0.45),cooking (1.00)
+Sometimes I eat spaghetti with chopsticks. Am I alone? Has the way we eat meals evolved?,spaghetti with chopsticks (1.00),meals (0.98),none,evolved (0.62),none,none
+How long before food starts to go bad while cooking (e.g. in a slow cooker or pot of broth)?,food (0.99),go bad while cooking ( e. g. in a (1.00),slow cooker or pot of broth ) (1.00),none,none,none
+Is kamut flour healthier than regular flour?,kamut flour health (0.92),than regular flour (0.92),none,none,none,none
+"How do I cook beef meat recipes, healthy dinner ideas, and good recipes?","beef meat recipes, healthy dinner ideas, and good recipes (1.00)",none,none,none,none,none
+How do I make fruit salad?,fruit salad (1.00),none,none,none,none,none
+How can you afford to make healthy meals 3 times a day and not break the bank?,healthy meals 3 times a day (1.00),bank (0.95),none,none,none,none
+What are some good recipes that include tuna fish?,good (0.74),none,none,tuna fish? (0.99),none,none
+Should you fry onions with oil or butter?,onions with oil or butter (1.00),none,none,none,none,none
+Do air fryers fry or bake your food?,air fryers fry or bake (1.00),food (1.00),none,none,none,none
+What are some great garlic-free pasta recipes?,great garlic - free pasta recipes (1.00),none,none,none,none,none
+What are recipes for kachori?,kachori (1.00),none,none,none,none,none
+How long does it take to cook dry pinto beans?,dry pinto beans? (1.00),none,none,none,none,none
+Where can I find low-carb keto recipes?,low - carb keto recipes (1.00),none,none,none,none,none
+"Is it inadvisable to cook olive oil, and why?",inadvis (0.57),"olive oil, and why (0.99)",none,none,none,none
+How healthy and nutritious are Japanese frozen meals?,healthy and (0.59),nutritious (0.63),japanese frozen meals (0.98),none,none,none
+What are some good roasted chicken recipes?,good roasted chicken recipes (1.00),none,none,none,none,none
+I've seen people using oil to cook rice. Isn't it unhealthy? Why don't they use water only?,rice (1.00),un (0.37),none,oil (1.00),##healthy (0.84),water only (1.00)
+What low-calorie foods can you eat in large volumes?,low - calorie foods (1.00),large volumes (0.67),none,none,none,none
+Is cooking food with olive oil healthier or natural salted butter?,food (1.00),none,none,olive oil healthier or natural salted butter (1.00),none,none
+"What is your favourite low cost, easy cook, Uber healthy recipe?","favourite low cost, easy cook, uber healthy recipe (0.96)",none,none,none,none,none
+How can popcorn be made to taste good and also be healthy for you?,popcorn (0.99),taste good (0.53),none,healthy (0.45),none,none
+What's the best method for removing fat off a whole chicken?,best (0.45),fat off a whole chicken? (0.99),none,none,none,none
+"What is your recipe to cook turnips (شلجم) for a meal, delicious yet healthy?","turnips ( شلجم ) for a meal, delicious yet healthy (1.00)",none,none,none,none,none
+How do I make garlic infused olive oil?,garlic infused olive oil (1.00),none,none,none,none,none
+Which is healthier chicken or mutton?,healthier chicken or mutton? (1.00),none,none,none,none,none
+"Which quick, nutritious, and delicious recipe is suitable for many guests?","quick, nutritious, and delicious recipe (1.00)",guests (0.98),none,none,none,none
+"Which is better, black rice or quinoa?",black rice or quinoa? (1.00),none,none,none,none,none
+Are raw green beans healthier than cooked?,raw green beans healthier than cooked? (1.00),none,none,none,none,none
+What is the most delicious food item (except fried rice) that can be made with rice?,most delicious food item ( except fried rice ) that can (0.95),made with (0.91),none,rice (0.68),none,none
+How does an infra red cooker work? Is it bad for health if we eat food cooked in it?,infra red cooker work (0.97),cooked in it (1.00),none,health (0.98),food (0.79),none
+"What is the superior food, and why: Pizza or Calzone?",superior food (0.96),why (0.57),pizza or calzone? (0.92),none,none,none
+Are most foods (vegetables) healthier to eat when they are partially cooked?,foods (0.90),vegetables (0.96),health (0.27),) (0.44),##ier (0.29),eat (0.64)
+"How do I cook tasty healthy meals with no spice, citrus, tomatoes, onion or garlic to get started due to stage 3 GERD? Keep cheese and eggs to a min for cholesterol. Herbs, soy sauce, balsamic vinaigrette, vegan butter & salt are ok.","tasty healthy meals with no spice, citrus, tomatoes, onion or garlic to get started due to stage 3 gerd (1.00)","cheese and eggs to a min for cholesterol. herbs, soy sauce, balsamic vinaigrette, vegan butter & salt (1.00)",. (0.78),none,none,none
+What are your favorite vegetarian Instant Pot recipes?,favorite vegetarian instant pot recipes (1.00),none,none,none,none,none
+What is healthy to cook this week?,week (0.50),none,none,none,none,none
+How can you use prekese in cooking?,prekese in cooking (1.00),none,none,none,none,none
+What foods are inherently healthy but that are often prepared in an unhealthy way?,foods (0.97),often (0.37),##healthy way (0.80),healthy (0.62),prepared (0.35),un (0.62)
+What is the difference between roasting and rotisserie cooking?,roasting and rotisserie cooking (1.00),none,none,none,none,none
+What are some of the popular foods in Russia?,popular foods (0.89),russia (0.41),none,none,none,none
+Can one get food poisoning from cooked food?,food poisoning from cooked food (0.99),none,none,none,none,none
+What are the best slow cooker recipies?,the best slow cooker recipies? (0.99),none,none,none,none,none
+What home cooked meals taste better the second day?,home cooked meals (1.00),better the second day (0.94),none,none,none,none
+What are easy recipes to get into so that I can stop eating out?,out (0.75),none,none,eating (0.61),none,none
+Which spices do well in both sweet and savory recipes?,both sweet and savory recipes (0.99),none,none,spices (0.93),none,none
+"Which is healthier: steamed, boiled or fried dumplings?","steamed, boiled or fried dumplings? (0.98)",none,none,health (0.87),none,none
+"What vegetable recipes are filling, low fat, cheap, and easy?",vegetable (0.59),"filling, low fat, cheap, and easy (0.97)",none,none,none,none
+What is the easiest meal to cook?,none,none,none,none,none,none
+How can I substitute eggs in homemade pasta?,eggs in homemade pasta (1.00),none,none,none,none,none
+Can you safely eat asparagus raw or is it healthier for you to cook it first before consuming?,asparagus raw (1.00),it healthier (0.75),it first (0.73),consuming (0.97),none,none
+What’s different about instant oatmeal that allows it to be made quicker than regular oatmeal?,instant oatmeal that allows it (1.00),be made quicker than regular oatmeal? (0.99),none,none,none,none
+What are some healthy recipes that I can make on a budget? And easy to make?,budget? (0.78),easy (0.55),none,healthy recipes (0.84),none,none
+Does it conserve more nutrients when rice/pasta is cooked in high heat quickly or in low heat but cooked more slowly? Which is the healthiest method of cooking?,when (0.44),rice / pasta is cooked in (0.96),high heat quickly or in (0.83),nutrients (1.00),low (0.54),cooking (0.79)
+Why am I always burning my butter when I fry eggs? I use an plain old frying pan but the butter always turn brown and the egg won’t cook fast enough.,butter when (0.97),fry eggs (1.00),plain old frying pan (1.00),brown (0.72),egg (0.92),none
+What are some healthy baking recipes that I can use tofu in? I have a bunch of tofu that I have to use before it goes bad but I don’t like the texture. Can I hide it in something?,healthy baking (0.99),tofu in (0.82),it goes bad (0.65),tofu that (0.91),the (0.93),texture (0.82)
+How could you fry food without oil and fat apart from air fryers?,food (1.00),none,none,oil and fat apart from air fryers (1.00),none,none
+What are some substitutes for minced garlic?,none,none,none,substitutes for minced garlic (0.87),none,none
+Would it make much difference to the health benefit of tomatoes to cook them rather than eat them raw?,health benefit of tomatoes (1.00),them (0.90),none,raw (0.57),none,none
+Is steak tartare healthy?,steak tartare healthy (1.00),none,none,none,none,none
+"I heard that French fries should be cooked twice to make them crispy, how do I do that?",french fries (1.00),cooked twice to make them crispy (1.00),none,none,none,none
+How healthy is wonton soup?,wonton soup (0.99),none,none,none,none,none
+Is it wrong to bake your oatmeal for making oatmeal bars?,oatmeal for making oatmeal bars (1.00),none,none,none,none,none
+What are some common mistakes people make when cooking chicken?,chicken? (0.93),none,none,common mistakes (1.00),cooking (0.59),none
+"Do baked beans in a can give you the most bang for your buck in terms of protein, value, nutrition, and ease of use?",baked beans in a can (1.00),the most bang for your buck (0.97),terms (0.99),protein (1.00),nutrition (0.97),ease (0.70)
+What are some of the healthy recipes that utilize air fryer?,healthy recipes (0.82),fryer (1.00),none,air (0.68),none,none
+Can You get sick by eating half cooked fish?,half cooked fish (1.00),none,none,none,none,none
+What's your secret to cooking baked potatoes?,baked potatoes? (1.00),none,none,none,none,none
+What's your favourite way to have potatoes?,potatoes (1.00),none,none,none,none,none
+What is the best pan for deep frying?,the best pan (0.87),deep frying (1.00),none,none,none,none
+"Do some nutrients lose while cooking, and what would be a better way to cook?",none,none,none,nutrients lose while cooking (0.95),none,none
+"What food can I make, that lasts a long time without refrigeration and is reasonably satisfying to eat?",food (0.93),lasts (0.80),long time (0.90),refrigeration (1.00),reasonably satisfying (0.47),eat (0.80)
+What is the healthiest and tastiest way to cook endives?,healthiest and tastiest (1.00),endives (1.00),none,none,none,none
+What’s the most unusual recipes you have using fresh garlic?,most (0.92),garlic? (0.96),none,unusual (0.41),fresh (0.73),none
+What are some cheap keto recipes?,cheap keto recipes (1.00),none,none,none,none,none
+What's the best recipe for cake without an oven?,best (1.00),cake (1.00),none,an (1.00),oven (0.98),none
+Can you give me 3 reasons why homemade food is always better than food from the majority of restaurants?,homemade food is always better than food from the majority of restaurants (0.99),none,none,none,none,none
+Does sauerkraut lose its probiotic benefits if it's been stewed with pork all day?,##uerkraut (0.88),probiotic benefits if it's been stewed with pork all day (1.00),none,sa (0.98),none,none
+How can you make healthy meals interesting?,healthy meals interesting (1.00),none,none,none,none,none
+How long does it take to cook steamed vegetables?,steamed vegetables? (1.00),none,none,none,none,none
+What are some examples of food preparation and making that make food the most nutritious and authentic?,food the most nutritious and authentic (0.96),none,none,food preparation and making that (0.93),none,none
+Sandwiches: Is it acceptable to slice both meat and cheese on a deli slicer?,both meat and cheese on a deli slicer? (1.00),none,none,sandwiches (0.47),none,none
+Is OPOS - One Pot One Shot cooking technique healthy?,opos - one pot one shot cooking technique (1.00),healthy (0.30),none,none,none,none
+How do I cook food more nutritiously?,food more nutritiously? (1.00),none,none,none,none,none
+What are the foods that make a person feel full for the longest period of time?,foods (0.71),person (0.98),full for the longest period of time (0.64),none,none,none
+What are some preparing/cooking tips and tricks when consuming healthy food?,none,none,none,preparing / cooking tips and tricks when consuming healthy food (0.99),none,none
+Are stir-fry dishes healthier than regular dishes?,stir - fry dishes healthier than regular dishes (1.00),none,none,none,none,none
+"Which cooking option is better for vegetables so that it does not loose its nutritional value: steaming, boiling, or cooking them in olive oil?",vegetables so (0.90),it (0.99),its (0.64),cooking (0.72),nutritional value (0.87),steaming (0.89)
+What can you add to make your oatmeal tastier?,oatmeal tastier (1.00),none,none,none,none,none
+"How do you cook spinach for an alternative, quick, and tasty lunch?","spinach for an alternative, quick, and tasty lunch (1.00)",none,none,none,none,none
+"Is there different levels of quality, e.g., taste, nutritional value, cooking time, of the same type of non-organic rice?",non - (0.86),rice (0.55),none,"quality, e. g., (0.80)","taste, nutritional value, cooking time (0.91)",same (0.56)
+Is cooking oatmeal with milk healthy?,oatmeal with milk healthy (1.00),none,none,none,none,none
+What are the new innovations for cooking food easily?,food easily (1.00),none,none,none,none,none
+What is a good substitute for raw onion in salads and other recipes that do not cook the onion?,raw onion in salads and other recipes (1.00),the onion (0.95),none,none,none,none
+"Which is healthier to cook with, lard or shortening?","with, lard or shortening (1.00)",none,none,health (0.98),none,none
+Have you felt planning what to cook for a week (3 times) is tougher than actual cooking?,for a week ( 3 times ) is tougher than (0.99),cooking (1.00),none,actual (0.73),none,none
+Why do cooked onions taste the sweeter than raw onions?,cooked onions (1.00),sweeter than raw onions (0.94),none,none,none,none
+What new meals did you learn how to cook during Covid and proud of?,meals (0.83),during covid and proud of? (1.00),none,new (0.37),none,none
+Which raw beans and raw grains cook the fastest?,beans and raw grains (0.90),the fastest? (1.00),none,raw (0.85),none,none
+What can I do/add to make oatmeal less bland tasting?,oatmeal less bland tasting (1.00),none,none,none,none,none
+What are the ingredients in döner kebab meat?,doner kebab meat (1.00),none,none,none,none,none
+What are some substitutes for garlic cloves?,substitutes (0.50),garlic cloves? (0.88),none,for (0.95),none,none
+Is frying with olive oil healthy?,fry (1.00),with olive oil healthy (0.95),none,none,none,none
+What are the healthiest and least healthy oils to cook with?,healthiest and least healthy oils (1.00),none,none,none,none,none
+What seasoning can be used to replace msg?,msg? (1.00),none,none,season (1.00),##ing (0.81),none
+How do I cook without oil or butter?,without oil or butter? (1.00),none,none,none,none,none
+"Which ones are the pros and cons of eating spicy food, and why?",pros and cons of eating spicy food (0.93),none,none,none,none,none
+Are scrambled eggs healthy?,scrambled eggs (1.00),none,none,none,none,none
+Do professional chefs eat mushroom stems?,mushroom stems (1.00),none,none,none,none,none
+"Why do humans like to cook meat before they eat it? Why do humans like the taste of cooked things, which were invented/discovered, not natural? Why is there a need to add spices, salt, fat, etc.? Why aren't we more partial to natural tastes?",meat (1.00),it (1.00),"things, which were invented / discovered, not natural (0.89)",taste (0.30),cooked (0.93),natural tastes (1.00)
+What’s a good potato recipe for a terrible cook like myself?,good potato (1.00),terrible cook (0.77),none,none,none,none
+Is it dangerous to cook tomatoes with aluminum cookware and does it harm the cookware? I've read elsewhere on Quora that tomatoes are acidic and leach metals. Is there a health risk?,tomatoes with aluminum cookware (1.00),cookware (0.99),quora (0.82),it (0.81),tomatoes (0.91),acidic (0.80)
+Where can I find Nutri-pot recipes?,nutri - pot recipes (1.00),none,none,none,none,none
+What are some good recipes we can make with simple things that are still healthy?,simple things (0.94),still (0.59),none,good recipes (0.87),healthy (0.82),none
+Does smoked salmon need to be cooked or heated before eating? Why or why not?,smoked salmon (1.00),cooked or heated before (0.84),? why (0.82),eating (0.50),why (0.48),none
+What are some healthy alternatives for shortening in recipes?,shortening in recipes (0.83),none,none,healthy alternatives (1.00),none,none
+How do I cook broccoli without making it soggy?,broccoli (1.00),it soggy? (1.00),none,making (0.96),none,none
+What are good recipes to use up leftover sesame seeds?,leftover sesame seeds (1.00),none,none,none,none,none
+What food is good for your heart?,heart (0.81),none,none,food (0.99),none,none
+Is an omelette healthy?,omelette healthy (1.00),none,none,none,none,none
+How good is salmon for you?,salmon (0.98),none,none,none,none,none
+Is it necessary to add oil and salt when cooking rice? How is it different to just using salt in the rice?,oil and salt when cooking rice (1.00),in the rice (1.00),none,salt (0.44),none,none
+How do you replace minced garlic with garlic powder?,minced garlic with garlic powder (1.00),none,none,none,none,none
+"What are some good, quick and healthy dinner recipes for children? No finger foods.","good, quick and healthy dinner (1.00)",children? no finger foods (1.00),none,none,none,none
+What is some tasty and easy to cook food that can be cooked within 5-10 minutes?,food (0.79),be cooked within 5 - (0.79),none,tasty and easy (0.84),cook (0.80),10 minutes (0.56)
+Can we eat garlic leaves?,garlic leaves (1.00),none,none,none,none,none
+Why aren't cereals stirred during cooking?,cereals stirred during cooking (1.00),none,none,none,none,none
+"What's an easy, healthy, workday breakfast?","easy, healthy, workday breakfast (1.00)",none,none,none,none,none
+How can you enjoy sauces on your vegetables and still lose weight?,sauces on your vegetables (1.00),none,none,weight (1.00),none,none
+Should vegetable salad be eaten with cooked food when Ayurveda prohibits cooked and raw food to be eaten together?,vegetable salad (1.00),food when ayurveda prohibits cooked and raw food (0.99),eaten (0.37),cooked (1.00),none,none
+Meals: What are the quick and easy meal recipes that you use to prepare meals for a family that is always on the go?,quick and easy meal recipes (0.98),meals (0.98),family (0.82),meals (0.64),go (0.56),none
+Is it healthier to use pepper than salt on one's food?,pepper than salt on one's food (1.00),none,none,none,none,none
+What are your go-to healthy weeknight meals?,go - to healthy weeknight meals (1.00),none,none,none,none,none
+Are the health benefits of spinach preserved if baked into buns?,spinach preserved if baked into buns (1.00),none,none,health (0.38),none,none
+What are some foods that taste better when prepared or cooked in a healthier way than an alternative?,foods (1.00),when prepared or cooked in a (0.93),##ier way than (0.83),better (0.86),health (0.89),alternative (0.66)
+How do I cook fresh picked green beans?,fresh picked green beans? (1.00),none,none,none,none,none
+"Is cooked oatmeal a good, occasional, evening meal entree?","cooked oatmeal a good, occasional, evening meal entree (0.97)",none,none,none,none,none
+"What is the correct cooking term for making pancakes? It is not frying, baking, toasting.",correct cooking (0.45),pancakes (1.00),", (0.55)",frying (0.69),"baking, toasting (0.81)",none
+"If you are going to cook a vegetable dish, what would be the pointer in cooking vegetables that you will exemplify?",vegetable dish (1.00),pointer in cooking vegetables (1.00),##em (1.00),ex (0.40),none,none
+How do I cook fresh beets and greens?,fresh beets and greens? (1.00),none,none,none,none,none
+What is a healthier option for cooking an eggplant that does not involve frying?,healthier (1.00),eggplant that does not involve (1.00),##ing (1.00),fry (0.97),none,none
+"Is cooking with less oil, in general, better and healthier for your health? Why?",health (0.35),none,none,"less oil, in general, better and healthier (0.95)",none,none
+What is your favourite way of cooking pan-seared sirloin steak?,pan - seared sirloin steak? (0.98),none,none,none,none,none
+How do I cook a head of broccoli?,head of broccoli? (1.00),none,none,none,none,none
+Which cooking method is healthiest for preparing vegetables?,vegetables (1.00),none,none,cooking (0.95),health (0.61),none
+How do you not overcook bacon?,##cook bacon? (1.00),none,none,over (0.53),none,none
+Is the entire organic foods industry a scam?,entire organic foods industry (1.00),scam? (1.00),none,none,none,none
+Are canned chickpeas healthy?,chickpeas healthy (0.93),none,none,none,none,none
+"Is there anything good you can cook with carrot tops, beet tops, or the other green tops of root vegetables?","with carrot tops, beet tops, or the other green tops of root vegetables (1.00)",none,none,none,none,none
+How do you cook rice so it doesn't stick?,rice so it doesn't stick (0.96),none,none,none,none,none
+How do you prepare couscous?,couscous? (1.00),none,none,none,none,none
+"For frying, what is the healthiest oil I could use?",healthiest oil (1.00),none,none,none,none,none
+What are the health benefits from using Tapioca flour in baked goods as opposed to white flour/all purpose flour? Is the former healthier than the latter?,tapioca flour in baked goods as opposed to white flour / all purpose flour (1.00),##ier (0.52),latter (0.60),health (0.50),former (0.85),health (0.85)
+"Which edible oil is better for cooking: sunflower, canola, or olive?",oil (0.99),": sunflower, canola, or olive? (0.94)",none,edible (0.65),none,none
+"Is eating ""heavy food"" like cooked meat in the morning harmful?","heavy food "" like cooked meat in the morning harmful (1.00)",none,none,none,none,none
+What are some healthy ingredients to use on a weekly basis?,weekly basis (0.60),none,none,healthy ingredients (1.00),none,none
+How do I use fresh cilantro in everyday foods and recipes?,fresh cilantro in everyday foods and recipes (1.00),none,none,none,none,none
+"People always say after cutting fruits they lose nutrients, but how does that happen? What kinds of nutrients are lost?",cutting fruits they (0.72),none,none,after (0.41),nutrients (0.87),nutrients (0.94)
+Are there any healthy recipes you personally enjoy making or recommend?,or (0.72),none,none,healthy recipes (1.00),making (0.39),recommend (0.49)
+What are some quick easy dinner recipes to make?,quick easy dinner (1.00),none,none,none,none,none
+What foods we can cook with less consumption of oil?,foods (0.89),none,none,less consumption (0.99),oil (1.00),none
+What are some good spaghetti recipes?,good spaghetti recipes (0.84),none,none,none,none,none
+What are some keto sauces I can make?,keto sauces i (1.00),make (0.99),none,none,none,none
+What is an easy 30 minutes or less recipe that costs under $10 and that can feed a family of four?,easy 30 minutes or less recipe that (0.95),$ 10 (1.00),family of four (0.83),none,none,none
+What can I cook without meat?,without (0.97),none,none,meat (0.88),none,none
+Are there any simple recipes a beginner should know?,beginner (1.00),none,none,simple recipes (0.97),none,none
+What are the best things to add to a homemade omelette?,homemade omelette (1.00),none,none,none,none,none
+What's the best choice for an healthy oil to cook eggs in (non-dairy)?,healthy oil to cook eggs in ( non - dairy )? (1.00),none,none,none,none,none
+What is the secret to making perfect oatmeal?,perfect oatmeal? (1.00),none,none,none,none,none
+When should garlic salt be used in recipes and when should garlic powder be used?,garlic salt (0.83),recipes (0.89),garlic powder (0.99),when (0.38),none,none
+How do you tell if garlic cloves have gone bad?,garlic cloves have gone bad (1.00),none,none,none,none,none
+Is there an available calorie difference between cooked and raw food?,available calorie difference between cooked and raw food (0.99),none,none,none,none,none
+"I just want to eat steak for the health benefits. What is the fastest, most low maintenance way to cook it?",steak for the health benefits (1.00),"fastest, most low maintenance (1.00)",it (0.75),none,none,none
+Does oatmeal need to be cooked prior to adding to a smoothie?,oatmeal (1.00),prior (0.62),smoothie (0.87),cooked (0.46),adding (0.88),none
+What are some easy ways to make healthy meals?,healthy meals (1.00),none,none,easy (0.99),none,none
+"What are some healthy, quick meal recipes or ideas?","healthy, quick meal recipes or ideas (1.00)",none,none,none,none,none
+What are some healthy recipes for a good diet shake?,good diet shake (1.00),none,none,healthy (0.97),none,none
+When is it best to cook vegetables?,vegetables (1.00),none,none,none,none,none
+Do you know a good recipe for caramelized Brussels sprouts?,caramelized brussels sprouts (1.00),none,none,none,none,none
+Can you kill mold by simply cooking it?,mold (1.00),none,none,none,none,none
+What is a good substitute for lemon juice?,lemon juice (1.00),none,none,none,none,none
+Would you cook healthy meals?,healthy meals (1.00),none,none,none,none,none
+Is fried cabbage and bacon a good meal?,fried cabbage and bacon (0.87),meal (0.99),none,none,none,none
+What is a good recipe for butter (infused) olive oil? I’m trying to make one at home from scratch.,butter ( infused ) olive oil (1.00),none,none,scratch (0.99),none,none
+What are some tips for cooking potatoes?,potatoes (1.00),none,none,none,none,none
+"What are the benefits, or side effects, of eating raw onions?",raw onions (0.98),none,none,side effects (0.99),none,none
+What are some healthy and tasty ways to prepare meat?,meat (1.00),none,none,healthy and tasty ways (0.99),none,none
+How thoroughly does steak need to be cooked to kill bacteria?,steak (0.99),cooked (0.77),kill bacteria (0.75),none,none,none
+What veggies are extremely healthy but aren't healthy when they're cooked?,ve (0.75),##ggies (0.86),healthy (0.49),healthy (0.95),cooked (0.51),none
+How do I make fish batter for frying?,fish batter for frying? (1.00),none,none,none,none,none
+Should rice be covered while cooking?,none,none,none,rice (0.57),covered (0.76),none
+How long does it take to cook fresh string beans?,fresh string beans? (1.00),none,none,none,none,none
+What are some healthy and easy recipes with products we all have at home?,healthy and easy recipes with products (1.00),all (0.95),none,none,none,none
+What is one cooking ingredient that you use the most for big meals?,the most for big meals (1.00),none,none,cooking ingredient (0.52),none,none
+Are onions vegetables?,onions (0.43),vegetables (0.91),none,none,none,none
+What's the best way to make stir fried shrimp with vegetables?,stir fried shrimp with vegetables (1.00),none,none,none,none,none
+"Is it advisable to add the liquid from canned foods to a dish being cooked, in order to preserve nutrients?",liquid from canned foods to (1.00),dish (1.00),"cooked, (0.84)",nutrients (0.81),none,none
+What is a good recipe for fried rice?,fried rice? (0.98),none,none,none,none,none
+What is the best way to cook veggies without losing their nutrients?,veggies (1.00),none,none,losing (1.00),their (0.83),nutrients (1.00)
+What is the hardest recipe to make?,hardest (0.96),none,none,none,none,none
+How much of the oil used in cooking a dish should be counted towards the calorie count?,dish (1.00),none,none,oil used (0.96),counted towards (0.37),the calorie count (0.89)
+Which foods still taste good when you are sick?,foods (0.81),none,none,good (0.89),none,none
+"What are some easy, simple ingredient dinner recipes?","easy, simple ingredient dinner (1.00)",none,none,none,none,none
+What is spicy food good for?,spicy food (1.00),none,none,none,none,none
+How do I make butter chicken?,butter chicken? (1.00),none,none,none,none,none
+What should I use for healthy cooking?,healthy cooking (1.00),none,none,none,none,none
+What are some great KETO pasta recipes?,great keto pasta recipes (1.00),none,none,none,none,none
+What are some diet-friendly recipes for 30-minute meals?,diet - friendly (0.90),30 - minute meals (1.00),none,none,none,none
+How long will cloves of garlic stay fresh in the fridge?,cloves of garlic stay fresh in (0.95),fridge (0.95),none,none,none,none
+What is a healthy meal of the week with a leftover idea?,healthy meal of the week with a leftover idea (1.00),none,none,none,none,none
+How do you make chocolate chip cookies healthier?,chocolate chip cookies healthier? (1.00),none,none,none,none,none
+Are fried potatoes worse than baked potatoes if the oil adds the same amount of calories?,fried potatoes (0.89),baked potatoes if the oil adds the same amount of calories (0.95),none,none,none,none
+What are some good healthy easy recipes to make?,good healthy easy recipes (1.00),none,none,none,none,none
+What is the healthiest way to cook food?,health (0.93),food (1.00),none,none,none,none
+"When preparing a meal, what are some 'quick fixes' to turn the meal into something more healthy?",meal (1.00),' quick fixes ' (0.88),meal (0.98),to (0.59),healthy (0.96),none
+"What is the cooking oil used in restaurants, and how bad is it?",cooking (0.59),restaurants (1.00),none,oil used (0.93),bad (0.56),none
+"According to an NBC opinion piece, ""Potato salad recipes are sacred scripture in most families. But nobody agrees what it should say. After potatoes what are the key ingredients in your potato salad recipe?",nbc opinion (0.86),potato salad recipes (1.00),sacred scripture (0.88),potatoes (0.97),none,none
+How do I cook beet greens with bacon?,beet greens with bacon? (1.00),none,none,none,none,none
+Which vegetables are healthier when cooked?,vegetables (0.99),when cooked (0.55),none,healthier (0.56),none,none
+Is there anything in bacon fumes that is bad for your health?,none,none,none,bacon fumes (1.00),health (0.63),none
+What's your favorite leftover cooking advice?,favorite (0.94),leftover cooking advice (0.99),none,none,none,none
+How do I make one serving of oatmeal?,serving (0.55),oatmeal? (1.00),none,none,none,none
+How long is cooked broccoli good for?,cooked broccoli good for (0.94),none,none,none,none,none
+What is the difference between brining and marinating?,brining and marinating (1.00),none,none,none,none,none
+What are the best food recipes that include fruits?,the best food (1.00),none,none,fruits? (1.00),none,none
+What are good substitutes for sherry?,sherry (0.79),none,none,none,none,none
+Which foods do people think are healthy but are actually unhealthy?,foods (0.90),healthy (0.80),none,un (0.49),##healthy (0.50),none
+What's the best way to cook plantains?,plantains? (1.00),none,none,none,none,none
+Is cooking with bacon fat any worse or better for your health than cooking with lard?,worse or (0.40),better (0.26),health (0.74),bacon fat any (0.86),than (0.52),lard (0.68)
+Is an air fryer healthier than a normal deep fryer?,air fryer healthier (1.00),normal deep fryer (1.00),none,none,none,none
+What is the nutritional value of tomatoes?,tomatoes (1.00),none,none,nutritional (0.54),none,none
+How do you know when your vegetables for a stir fry are cooked properly?,vegetables for a stir fry (1.00),cooked properly (0.91),none,none,none,none
+"Serious chefs: What is the shortest list of oils you would keep on hand to cover most cooking and baking uses, and what is the main use for each oil?",chefs (0.88),shortest list of oils (0.92),cover most cooking and baking uses (0.90),hand (0.68),main (0.53),each (0.73)
+"I left out pancakes with 1 egg and coconut milk inside for about 9 hours, can I still eat them?",pancakes with (1.00),and (0.76),inside (0.96),1 egg (0.85),coconut milk (0.61),9 (0.45)
+How do you cook your leafy greens without losing their nutrients?,leafy greens (1.00),none,none,losing (1.00),their (0.96),nutrients (0.99)
+Is it okay if my rice ends up hard? Is it over or under cooked?,rice (0.99),up hard (0.73),or under cooked? (0.60),over (0.71),none,none
+How do I make meals for the week?,meals for the week (0.96),none,none,none,none,none
+What is the best recipe that you can make with a steamer?,the best (1.00),with a steamer (1.00),none,none,none,none
+What is the healthy way to eat sprouts - raw or boiled?,healthy (0.76),sprouts - raw or boiled? (1.00),none,none,none,none
+Is black rice healthier than brown rice?,black rice healthier than brown rice (1.00),none,none,none,none,none
+"Besides olive oil, what other cooking oils are known to be a good choice for healthier cooking?",cooking (0.51),##ier (0.66),none,olive oil (0.99),oils (0.97),health (0.99)
+What is the difference between a garlic clove and a garlic head?,garlic clove and a garlic head (1.00),none,none,none,none,none
+What are some easy made delicious food recipes?,easy made delicious food recipes (0.92),none,none,none,none,none
+How can some leaves be tasty and healthy while most of them are meh?,tasty and healthy (0.74),them (0.47),##h (0.49),leaves (0.99),me (0.90),none
+"Is it healthy to use COLD pressed, unrefined sunflower oil for cooking, and why?","cold pressed, unrefined sunflower oil (1.00)",why (0.41),none,cooking (0.58),none,none
+What is the healthiest food for kids?,healthiest (1.00),kids (0.60),none,none,none,none
+What is the healthiest way to cook vegetables?,health (0.84),vegetables (1.00),none,none,none,none
+What are some healthy and filling snacks that are easy to make?,healthy and filling snacks that (0.91),easy to make (0.99),none,none,none,none
+How can I make vegetables taste good — so that I eat more of them and eat more healthily?,vegetables taste good — (1.00),eat more of them (0.89),##ily (0.97),health (1.00),none,none
+Which food items should never be consumed without cooking?,food (0.95),items (0.47),none,cooking (1.00),none,none
+"Is spaghetti with squid ink a healthy choice ""black pasta""?",spaghetti with squid ink (1.00),"healthy choice "" black pasta "" (1.00)",none,none,none,none
+How much corn do I need to make 1 litre of corn oil?,1 litre of corn oil? (0.97),none,none,corn (1.00),none,none
+Why do we eat vegetables by cooking them?,vegetables (1.00),them (0.94),none,none,none,none
+Which are the best chocolate flavoured desserts?,the best chocolate flavoured desserts (0.98),none,none,none,none,none
+Is pork fried rice healthy?,pork fried rice healthy (1.00),none,none,none,none,none
+Are there any healthy low carb meals that are easy to make and actually taste nice? All the meals I've tried either don't fill me up or are just meh with no taste.,healthy low carb meals (1.00),easy to make and actually taste nice (0.99),meals (1.00),me (0.53),taste (0.88),none
+What are some cooking tips or hacks?,none,none,none,cooking tips or hacks (0.94),none,none
+Can olive oil be mixed with refined sunflower oil while cooking?,olive oil (1.00),mixed with (0.87),sunflower oil (0.99),refined (0.71),cooking (0.54),none
+Is polenta healthier than mashed potatoes?,polenta healthier than mashed potatoes (1.00),none,none,none,none,none
+What is the cooking method which destroys nutrients?,cooking (0.95),none,none,nutrients (0.97),none,none
+Is there a cooking book that basically just has the must know cooking tips?,cooking book (1.00),just (0.80),the (0.93),must (0.97),tips (0.94),none
+Are there any delicious recipes that can be made out of soya chunks?,made out of soya chunks (0.98),none,none,delicious (0.77),none,none
+What recipe is full of nutriment and easy to cook for late night work?,for (0.28),none,none,nutriment and easy to cook (0.99),late night work (0.99),none
+What are some easy meals I can make for cheap?,easy meals (0.97),for cheap (0.81),none,none,none,none
+What are some healthy recipes that I can make on a budget?,none,none,none,healthy recipes (0.88),none,none
+"Does cooking meat actually increase its nutritional value? If so, how?",meat (0.74),none,none,nutritional value (0.90),none,none
+What are the most versatile vegetables for cooking cheap but healthy meals?,vegetables (0.47),cheap but healthy meals (0.99),none,none,none,none
+Are carrots healthier when raw or cooked?,carrots (0.98),healthier when raw or cooked? (0.85),none,none,none,none
+What's the best way to cook liver with onions?,liver with onions? (1.00),none,none,none,none,none
+What are some good recipes using bell peppers?,good (0.65),? (0.78),none,bell peppers (0.97),none,none
+What could be a very easy recipe at no cost to consume leftover vegetables?,very easy (1.00),cost (0.66),leftover vegetables (0.93),none,none,none
+"What is the difference between soy bean, soy and soy sauce?","soy bean, soy and soy sauce (1.00)",none,none,none,none,none
+If you use an electric grill does the food taste as good as a charcoal grill outside?,electric grill (1.00),food (1.00),good (0.87),none,none,none
+What ingredients would you suggest for a unique and delicious omelette?,unique and delicious omelette (1.00),none,none,none,none,none
+How long is roasted garlic good for?,roasted garlic (1.00),for (0.67),none,none,none,none
+Why is fish sauce considered good for you?,fish sauce considered (0.99),none,none,none,none,none
+When is it better to use raw onions rather than cooked onions in recipes?,raw onions rather than cooked onions in recipes (1.00),none,none,none,none,none
+Is it ok to leave cooked food in the fridge for 1 week?,cooked food in the fridge (1.00),1 week (0.76),none,none,none,none
+Which cooking oil do you use for frying?,frying (0.98),none,none,cooking oil (0.94),none,none
+What are the best low-fat recipes?,the best low - fat (1.00),none,none,none,none,none
+How many pancakes is 1 serving?,pancakes (0.98),1 serving (0.89),none,none,none,none
+What is your secret ingredient to make the best cake?,the best cake (1.00),none,none,secret (0.71),none,none
+Which fruits have the highest vitamins?,fruits (0.94),none,none,highest (0.30),vitamins (0.94),none
+Is it healthy to use oil in food?,in (0.55),food (0.72),none,oil (0.98),none,none
+"What makes creating an aioli from scratch safe to eat, since it contains raw egg yolks?","aioli from scratch safe to eat, since it contains raw egg yolks (1.00)",none,none,none,none,none
+How can I start cooking at age 15? What’s some easy beginner recipes?,’ (0.99),easy beginner recipes (1.00),none,none,none,none
+What are the health benefits of sweet potatoes over normal white potatoes?,sweet potatoes over normal white potatoes (1.00),none,none,health (0.52),none,none
+Is bread healthier than toast?,bread health (0.66),toast (0.80),none,none,none,none
+What is the simplest recipe you know?,simplest (0.85),none,none,none,none,none
+Can you freeze eggs raw or cooked?,eggs raw or cooked (0.88),none,none,none,none,none
+What are some good dishes to serve with focaccia bread?,dishes (0.57),with focaccia bread (0.94),none,good (0.90),none,none
+Are free-range eggs really better than normal ones?,free - range eggs really better than normal ones (0.99),none,none,none,none,none
+"Which is more unhealthy, white rice or white bread?","##healthy, white rice or white bread (0.96)",none,none,un (0.94),none,none
+Is bacon as unhealthy as it is tasty?,bacon (0.95),unhealthy as it is tasty (0.85),none,none,none,none
+"Can you cook scrapple in the microwave? If so, how?",scrapple in the microwave? (0.98),so (1.00),none,none,none,none
+Which bacon is healthier?,bacon (0.56),health (0.69),none,none,none,none
+Are there advantages and disadvantages to eating garlic?,garlic (0.99),none,none,advantages (0.86),disadvantage (0.81),none
+"What is your favorite recipe for a snack that is healthy, but satisfying?",snack (1.00),"is healthy, but (0.83)",none,satisfying (0.57),none,none
+What are some of the best ways to cook and eat asparagus?,the best (0.99),eat asparagus (0.97),none,none,none,none
+How long should I boil bones for a good broth?,bones for a good broth (0.99),none,none,none,none,none
+Is avocado oil good for deep frying?,avocado oil (1.00),frying (1.00),none,deep (0.95),none,none
+"Should I buy organic canned beans (black, pinto, kidney, etc.), or are non organic canned beans just fine?","organic canned beans ( black, pinto, kidney, etc. ), (1.00)",non organic canned beans just fine (0.97),none,none,none,none
+What are some healthy omelette recipes?,healthy omelette recipes (1.00),none,none,none,none,none
+What are some easy dump recipes?,easy dump (1.00),none,none,none,none,none
+Why is chicken pot pie considered healthy for you?,chicken pot pie (1.00),healthy (0.91),none,none,none,none
+What's the best type of oats to make oatmeal out of? What do you like to put in it?,the best type (0.98),oats to make oatmeal out of? (0.92),it (0.30),none,none,none
+Are there any cooking ingredients you should never mix together for safety reasons?,together (0.27),none,none,cooking ingredients (1.00),safety reasons (0.69),none
+What are some fruits used in cooking?,cooking (0.90),none,none,fruits used (0.97),none,none
+What kinds or recipes can you add cooking sherry to to make it better or unique?,cooking sherry to to (0.93),it better or unique (1.00),none,kinds (0.50),none,none
+What are some healthy recipes for a beginner?,beginner? (1.00),none,none,healthy (0.67),none,none
+"What do you think of using beef/pork meatloaf mix, tossing in the appropriate seasonings for bratwurst, except the salt and making quick and easy brat patties?","beef / pork meatloaf mix, tossing in the appropriate seasonings for bratwurst, except the salt (1.00)",quick and easy brat patties (1.00),none,none,none,none
+"Since a couple of years ago, I am into cooking, but I just cook whatever I like. I just mix different foods and herbs, thereby never using recipes. Could that be functional?",different (0.68),foods and (0.66),none,cooking (0.99),herbs (0.52),recipes (0.96)
+Does the oven run continuously to cook food?,oven (0.83),food (1.00),none,none,none,none
+How long does tofu last after being cooked?,tofu last after (0.84),cooked (1.00),none,none,none,none
+What step in cooking has been proven to make no difference?,none,none,none,no difference (0.75),none,none
+Does garlic turn bitter if cooked for too long?,garlic (0.62),bitter if cooked for too long (0.93),none,none,none,none
+Is it possible to scratch non-stick surfaces with plastic cooking or cleaning tools?,non - stick surfaces with plastic cooking or cleaning tools (1.00),none,none,none,none,none
+Is chili (with beans) reasonably healthy and nutritious as a meal option?,chili ( with beans ) reasonably healthy and nutritious as a meal option (0.99),none,none,none,none,none
+What are some healthy dessert recipes?,healthy dessert (1.00),none,none,none,none,none
+How fattening are potatoes?,potatoes (1.00),none,none,fatten (0.49),none,none
+What low FODMAP ingredients can be substituted for garlic and onion but taste just as good?,low fodmap ingredients can be substituted for garlic and onion but taste (0.99),none,none,good (0.70),none,none
+Which cooking oil is good for human health?,cooking (0.78),health (0.61),none,oil (0.90),human (0.49),none
+Is it okay to eat instant oatmeal partially cooked?,instant oatmeal partially cooked? (1.00),none,none,none,none,none
+What's the best way to defrost individual meat inside a package that got stuck together?,defrost individual meat inside a package that got stuck together (0.98),none,none,none,none,none
+Are canned black olives a healthy snack option?,canned black olives (0.99),healthy snack option (1.00),none,none,none,none
+Does cooking or processing reduce the fiber content in food?,fiber (0.61),food (0.91),none,cooking or (0.92),processing (0.62),content in (0.70)
+"Food: If you buy fresh fish and accidentally leave it out at room temperature for 5 hours, then refrigerate, is it safe to cook later?",fresh fish (1.00),accidentally leave it out at room temperature for 5 hours (1.00),then refrigerate (1.00),food (0.98),later (0.49),none
+Is it healthier to make mashed potatoes from scratch?,mashed potatoes from scratch (1.00),none,none,health (0.74),none,none
+How do I cook beets from the garden?,beets from the garden (1.00),none,none,none,none,none
+What are some good parsnip recipes?,good parsnip recipes (1.00),none,none,none,none,none
+What are the benefits of eating a couple of boiled eggs every day after dinner?,couple of boiled eggs every day (1.00),none,none,dinner (0.92),none,none
+How often do you use a recipe when cooking?,none,none,none,cooking (0.37),none,none
+What are easy 30-minute main dish recipes for anyone on the go?,easy 30 - minute main dish (1.00),go (0.80),none,none,none,none
+What are some other ingredients besides the usual that I could put in chili?,i could put in chili (0.90),none,none,ingredients (0.50),usual that (0.90),none
+How do I get into the habit of cooking healthy foods consistently?,healthy foods consistently (1.00),none,none,none,none,none
+What meal can you make that is foolproof?,meal (0.76),foolproof? (0.73),none,none,none,none
+What is the secret to preparing perfectly cooked asparagus?,perfectly cooked asparagus? (1.00),none,none,none,none,none
+"I’m a teen, have little time and not much cooking experience or a huge variety of ingredients. What are some simple but healthy recipes for dinner?",simple but healthy (1.00),dinner (0.99),none,time and (0.99),not much (0.74),cooking experience or (0.99)
+What is the difference between green and yellow zucchini?,green and yellow zucchini? (1.00),none,none,none,none,none
+"What are some delicious, fairly healthy chicken recipes?","delicious, fairly healthy chicken recipes (1.00)",none,none,none,none,none
+Cooking food in aluminum vessels or having a meal in aluminum vessels are good for health?,food in (0.82),vessels (1.00),meal in aluminum vessels (1.00),aluminum (0.84),health (1.00),none
+Is an air fryer healthier than deep frying food?,air fryer healthier than deep frying food (1.00),none,none,none,none,none
+Does cooking foods at high temperatures destroy the nutrients?,foods (1.00),none,none,high (0.63),temperatures (0.40),nutrients (0.81)
+Can you save vegetable oil after using it to fry?,vegetable oil (1.00),it (0.93),fry (1.00),none,none,none
+"I've been slowly losing my appetite for meat for the last several weeks. Although I am an animal lover, I've never felt the need to be a vegetarian. What is happening?",animal lover (0.81),none,none,meat (1.00),weeks (0.34),none
+How do I cook beet greens and stems?,beet greens and stems (1.00),none,none,none,none,none
+How long does it take to cook red kidney beans?,red kidney beans? (1.00),none,none,none,none,none
+I want to add veggies to my bread baking such as sweet potatoes. Are there any healthy recipes that work?,veggies to (1.00),bread baking such as sweet potatoes (1.00),recipes (1.00),healthy (1.00),none,none
+"What is the difference, if any, between coconut oil for cooking and for hair?",difference (0.56),coconut oil for cooking and (0.85),none,any (0.25),for (0.70),hair (1.00)
+Is deep frying one whole potato considered a single French fry or just a fried potato?,fry (1.00),whole potato considered a (0.92),single french fry or just (0.98),none,none,none
+How can I cook crispy fried chicken at home?,crispy fried chicken (1.00),none,none,none,none,none
+"How do I stop mince, and diced chicken, from sticking to the bottom of my pan when dry frying them? Is it much healthier to dry fry mince and chicken?","mince, and diced chicken, from sticking to the bottom of (1.00)",pan when dry frying them (1.00),fry mince and chicken (1.00),health (0.97),dry (0.99),none
+How do I cook fish bones (ideally without oil)?,fish bones ( ideally without (1.00),) (0.99),none,oil (1.00),none,none
+Is brown rice better than wheat for weight loss?,brown rice better (0.81),wheat for (0.93),loss (0.98),weight (0.90),none,none
+What are some awesome S'mores recipes?,awesome s'mores recipes (1.00),none,none,none,none,none
+What’s the most delicious meal you have cooked anyone?,most (0.98),delicious meal (0.68),anyone (0.47),none,none,none
+"What is an easy, simple recipe for a beginner's vanilla cake?","easy, simple (1.00)",beginner's vanilla cake (1.00),none,none,none,none
+How can you add rice to your daily diet?,rice (1.00),daily diet (0.82),none,none,none,none
+What are three ways to find the best olive oil for cooking?,the best olive oil for cooking (1.00),none,none,none,none,none
+Why is canned tuna totally different from fresh tuna (cooked)?,canned tuna totally different from fresh tuna ( cooked )? (1.00),none,none,none,none,none
+Why do some people take out that little snow white part of the eggs when they are cooking? Do you remove it or don’t bother?,little snow white part of the eggs when they (1.00),cooking (0.97),’ (0.63),it (0.82),none,none
+What are some healthy but very frugal recipes I could try?,healthy but very frugal recipes i (0.95),try (0.90),none,none,none,none
+Is it safe to eat uncooked sweet potatoes?,uncooked sweet potatoes? (0.95),none,none,none,none,none
+Is eating healthy more expensive?,healthy more expensive (0.86),none,none,none,none,none
+What are some healthy meals you can cook for yourself for under five dollars?,healthy meals (0.92),for yourself for under five dollars (0.99),none,none,none,none
+Is it safe to eat steak rare or medium rare?,steak rare or medium rare (1.00),none,none,none,none,none
+"What is a suggested overnight oat recipe with the following ingredients: rolled oats, unsweetened soy milk, non-fat plain greek yogurt, real or dry fruits, and chia seeds?","suggested overnight oat recipe with the following ingredients : rolled oats, unsweetened soy milk, non - fat plain greek yogurt, real or dry fruits, and chia seeds? (1.00)",none,none,none,none,none
+What are some unique recipes using zucchini?,none,none,none,unique (0.54),zucchini? (0.98),none
+"What vitamins or nutrients in food, are destroyed by cooking heat?",food (0.99),none,none,vitamins (0.77),nutrients (0.90),", (0.33)"
+How can I cook tasty food at low cost?,tasty food (1.00),cost (1.00),none,none,none,none
+Does the temperature of a food affect its calorie count?,food (1.00),none,none,temperature (1.00),calorie count (0.87),none
+What vegetables are often cooked incorrectly? How should they be?,vegetables (0.86),incorrectly (0.36),none,none,none,none
+What are some tasty eggplant recipes?,tasty eggplant recipes (1.00),none,none,none,none,none
+Is there a way you can cook without heat?,without heat (1.00),none,none,none,none,none
+What is a fast and nutritious pasta recipe that you can make in about 30 minutes?,fast and nutritious pasta recipe that you can make in about 30 minutes (0.98),none,none,none,none,none
+What are some unique Halloween recipes you'd highly recommend?,unique halloween recipes (0.99),highly recommend (1.00),none,none,none,none
+What is brown rice syrup?,brown rice syrup (1.00),none,none,none,none,none
+What is a healthy recipe for lasagna?,lasagna? (1.00),none,none,none,none,none
+How do I cook dried red kidney beans?,dried red kidney beans? (1.00),none,none,none,none,none
+What is the healthiest and tastiest way to cook Brussels sprouts?,healthiest and tastiest (1.00),brussels sprouts (1.00),none,none,none,none
+"What are some simple, healthy recipes that don't involve veggies? My husband doesn't like green veggies, and it's almost impossible to find healthy, low-fat recipes.","simple, healthy recipes (1.00)",' t involve veggies (1.00),green veggies (1.00),none,none,none
+What is your favorite recipe for canned green beans?,canned green beans? (1.00),none,none,none,none,none
+What is the best way to cook healthy meals on a $200.00 Food Budget?,healthy meals on a $ 200. 00 food budget (1.00),none,none,none,none,none
+What is the difference between upma and kichadi? How are both used in recipes?,upma and kichadi (1.00),recipes (0.44),none,none,none,none
+Why did we go from being able to eat raw meat to needing to cook meat in order to eat it or else we’ll get sick?,raw meat (1.00),meat in (0.96),it (0.76),sick (0.86),none,none
+What is the healthiest cooking oil in UK?,healthiest cooking oil in uk (1.00),none,none,none,none,none
+How often do you use thyme in your recipes?,none,none,none,thyme in (0.86),none,none
+What are some low-cost hummingbird food recipes?,low - cost hummingbird food recipes (1.00),none,none,none,none,none
+What is the nutritional value of chickpea (garbanzo bean) skin?,chickpea ( garbanzo bean ) skin (1.00),none,none,nutritional (0.81),none,none
+What low carb recipe can you share?,low carb (0.99),none,none,none,none,none
+"What easy and ""healthy"" culinary recipe would you suggest during this period of confinement because of the Covid-19?","easy and "" healthy "" culinary recipe (0.94)",period (0.40),covid - 19 (0.92),confinement (0.41),none,none
+Are Chick-fil-A grilled nuggets healthy?,chick - fil - a grilled nuggets healthy (1.00),none,none,none,none,none

@@ -1,0 +1,646 @@
+utterance,dishname_first (score),dishname_second (score),dishname_third (score),ingredient_first (score),ingredient_second (score),ingredient_third (score)
+How do I know when ice cream is done?,ice cream is done (1.00),none,none,none,none,none
+Is it true that you cannot eat dessert and drink alcohol at the same time?,dessert and drink alcohol (1.00),same (0.53),none,none,none,none
+Why is there no wine flavour in ice cream?,ice cream (1.00),none,none,wine flavour (1.00),none,none
+What type of chocolate should I use to make fudge? Normal dark chocolate is not available where I live. Do I use milk chocolate or baking/cooking chocolate?,fudge? normal dark chocolate (0.99),chocolate or baking / cooking (0.96),none,chocolate (1.00),milk (0.65),chocolate (0.84)
+How long will a fruit-based ice cream last?,fruit - based ice cream last (0.91),none,none,none,none,none
+"If someone invented delicious zero calorie cake and ice cream, how much would you eat every day?","delicious zero calorie cake and ice cream, (0.96)",much (1.00),day (0.71),none,none,none
+What would happen if I put ice cream in a hot chocolate?,ice cream in a hot chocolate (1.00),none,none,none,none,none
+Can you make chocolate pudding with water instead of milk?,chocolate pudding with water instead of milk (1.00),none,none,none,none,none
+What are the similarities between chocolate mousse and chocolate sauce?,chocolate mousse and chocolate sauce (1.00),none,none,none,none,none
+"Can I use custard powder in baking (pancakes), or would it not work?",custard powder in baking ( pancakes ) (1.00),none,none,none,none,none
+Are you planning on eating a donut on National Donut Day?,donut on national donut day (1.00),none,none,none,none,none
+"What is the best way to transport ice cream, up to six hours, in a car?","ice cream, up to six hours, (1.00)",none,none,car (0.50),none,none
+Is cornbread a dessert?,cornbread (1.00),dessert (1.00),none,none,none,none
+What do I do if I added too much cream on sauce? It's very sugary.,too much cream on sauce (1.00),sugary (0.91),none,none,none,none
+What is meaning of E407 printed on Amul ice cream as a ingredient?,e407 printed on amul ice cream as a ingredient (0.98),none,none,none,none,none
+What is the best substitute for ice cream?,best (0.96),ice cream (1.00),none,none,none,none
+Is ice cream easy to digest for IBD and not feel bloated?,ice cream (1.00),for ibd and not feel bloated (0.94),none,none,none,none
+How do you turn a fruit into a chocolate pudding?,fruit into (0.84),chocolate pudding (0.91),none,none,none,none
+"Which is better for you, light ice cream or regular ice cream?",light ice cream or regular ice cream? (1.00),none,none,none,none,none
+How do I make ice cream with ice?,ice cream with ice? (1.00),none,none,none,none,none
+What’s one of your favorite cakes to either buy or bake?,favorite cakes to (0.95),buy or bake? (0.99),none,either (0.57),none,none
+Is black pudding like summer sausage?,black pudding (0.99),summer sausage (1.00),none,none,none,none
+What words describe ice cream?,ice cream (1.00),none,none,none,none,none
+What would happen if you only ate ice cream for a week?,ice cream for a week (1.00),none,none,none,none,none
+What Japanese desserts should a visiting foreigner try?,japanese desserts (0.97),visiting foreigner try (0.95),none,none,none,none
+Do you like ice cream soda?,ice cream soda (1.00),none,none,none,none,none
+What is the best dessert you've ever had?,best dessert (0.90),none,none,none,none,none
+Why is it so hard to find bubblegum ice cream in a tub?,bubblegum ice cream in a tub (1.00),none,none,none,none,none
+Can you use cream cheese instead of heavy cream?,cream cheese instead of heavy cream (1.00),none,none,none,none,none
+Can vanilla extract be eaten raw like in ice cream?,vanilla extract (1.00),eaten raw like in ice cream (0.98),none,none,none,none
+"What is the translation of ""ice cream"" to Japanese?",""" ice cream "" to japanese (0.98)",none,none,none,none,none
+Bakers! Should I avoid freezing cakes/cupcakes if possible? Is it better to freeze and thaw or package well at room temp for an order that’s 3-4 days away?,bakers! (0.82),freezing cakes / cupcakes if possible (1.00),freeze and thaw or package well at (0.94),room (0.48),none,none
+Why do you always have room for desserts no matter how much you are filled with the main course?,dessert (0.99),much (0.75),with (0.51),##s (0.96),the main course (0.97),none
+Why am I having diarrhea over gelato but not ice cream or milk?,diarrhea over gelato but not ice cream or milk (1.00),none,none,none,none,none
+"Do strange flavored ice cream exist like hamburger flavor, pizza flavor, and cigarette flavor?",strange flavored ice cream exist like (0.99),"hamburger flavor, pizza flavor, and cigarette flavor (1.00)",none,none,none,none
+Is there a sugar-free cake mix?,sugar - free cake mix (1.00),none,none,none,none,none
+Mrs. Bustista prepared leche flan for her office mates. She set aside two boxes of this dessert for her family activity this weekend. She placed them in the freezer. Is she right or wrong?,bustista (0.86),leche flan for her office mates (1.00),boxes (0.84),none,none,none
+Is it okay to eat unopened cake frosting that has been expired for a year?,unopened cake frosting that has been expired for (0.99),year (0.59),none,none,none,none
+How do I make a dessert with 3 ingredients?,dessert with (1.00),ingredients (1.00),none,3 (1.00),none,none
+How are waffle cones made?,waffle cones (1.00),none,none,none,none,none
+Are ice creams vegan/vegetarian?,ice creams vegan / vegetarian (1.00),none,none,none,none,none
+Can melted ice cream be re-frozen?,melted ice cream (1.00),frozen (0.98),none,none,none,none
+Why does melted ice cream not taste as good when melted then frozen again?,melted ice cream not taste (0.99),good when melted then frozen again (1.00),none,none,none,none
+Which is the best flavor of peppermint ice cream?,best (0.92),peppermint ice cream? (1.00),none,none,none,none
+What is the purpose of using both white sugar and brown sugar in some desserts?,both white sugar and brown sugar in some desserts (0.99),none,none,none,none,none
+What do you call a person who makes ice cream?,ice cream? (0.88),none,none,none,none,none
+How do people record a video inside the oven while the dessert is baking?,video inside (0.98),oven while the dessert (0.89),none,baking (0.44),none,none
+"What is your favorite fast, no-bake keto dessert recipe?","favorite fast, no - bake keto dessert recipe (1.00)",none,none,none,none,none
+"If my wife is going on a diet, why do I have to give up my ice cream as well?",ice cream (0.77),none,none,none,none,none
+How do you store cannoli?,cannoli? (1.00),none,none,none,none,none
+Can I mix two different brands of cream cheese for a cheesecake?,cream cheese for a cheesecake (1.00),none,none,none,none,none
+Why does my lemon curd taste metallic? No one else seemed to notice but I immediately did. I want to fix it to have perfect lemon desserts.,lemon curd taste metallic (1.00),one else seemed (0.69),notice (0.46),none,none,none
+What is the perfect cake frosting for your kitchen?,perfect cake frosting (1.00),kitchen (0.77),none,none,none,none
+How many types of custards can go inside a mini tart?,custards (0.85),go inside (0.63),mini tart (1.00),none,none,none
+How does ice cream make people fat?,fat (0.92),none,none,ice cream (0.99),none,none
+What is your favorite flavor birthday cake?,favorite flavor birthday cake (1.00),none,none,none,none,none
+What are the best limoncello plum tart recipes?,the best limoncello plum tart recipes (1.00),none,none,none,none,none
+Are ice cream machines worth buying?,ice cream machines (1.00),none,none,buying (0.53),none,none
+"When you make ice cream, do you boil your dairy or not? Why?",ice cream (1.00),dairy or not (1.00),none,none,none,none
+What's better: butter cream icing or whipped cream?,better (0.57),butter cream icing or whipped cream? (1.00),none,none,none,none
+"What happens when you're full, you can't eat another bite, then mom brings out a delectable dessert?",", you can't eat another bite (0.97)",mom (0.81),delectable dessert (1.00),none,none,none
+How do you eat an ice cream?,ice cream? (1.00),none,none,none,none,none
+How much does 2 liters of ice cream weigh in kgs in the frozen state?,much (0.74),2 liters of ice cream weigh in kgs in the frozen state (1.00),none,none,none,none
+How can ice cream help my ice flares?,ice flares (1.00),none,none,ice cream (0.92),none,none
+Why doesn’t ice cream freeze solid in a refrigerator ‘s freezer?,ice cream freeze solid in a refrigerator ‘ s freezer (1.00),none,none,none,none,none
+"If you use milk that's one day past its sell by date to make ice cream, will it not last as long as it would have if you'd used fresher milk? Does it make a difference if it's a cooked custard ice cream?",milk that's one day past its sell by date to make ice cream (0.99),it (0.37),long (0.40),last (0.55),it (0.61),none
+What is the difference in ice cream flavor between French Vanilla and Vanilla Bean?,ice cream flavor between french vanilla and vanilla bean (1.00),none,none,none,none,none
+Ben & Jerry’s uses the last thing you ate as the basis for a new ice cream flavor. What was it and would you eat this?,ben & jerry ’ s (1.00),the (0.49),last thing you ate (0.90),none,none,none
+Is ice cream a good first date?,ice cream (1.00),good first date (1.00),none,none,none,none
+Where did ice cream originate from?,ice cream (1.00),none,none,none,none,none
+Why is my custard like scrambled eggs?,custard like scrambled eggs (1.00),none,none,none,none,none
+"How do I transport my ice cream from A to B, about a 35 minute drive, and without a cooler, without it melting?","ice cream from a to b, about a 35 minute drive (1.00)",none,none,cooler (1.00),it (1.00),melting (0.96)
+How many ounces are in a pint of ice cream?,##s (1.00),pint of ice cream (1.00),none,ounce (1.00),none,none
+Is any brand of keto ice cream actually healthy?,keto ice cream actually healthy (1.00),none,none,none,none,none
+What are mix-ins in regards to ice cream bars such as ice cream bars from Blue Bunny?,ice cream bars such as ice cream bars from blue bunny (1.00),none,none,mix (0.98),none,none
+Is ice cream bad for acne?,ice cream (1.00),for acne (0.99),none,none,none,none
+Are there special considerations for making a pie with the express intention of freezing?,pie (1.00),none,none,express intention (0.97),freezing (1.00),none
+Is it legal for kids under 21 to have rum raisin ice cream?,kids (1.00),21 (0.80),raisin ice cream (1.00),rum (0.66),none,none
+How do I melt caramel for caramel apples?,caramel for caramel apples (1.00),none,none,none,none,none
+How much cornstarch is needed to thicken apple pie?,thicken apple pie (1.00),none,none,cornstarch (0.99),none,none
+How often does icing the kicker work?,ic (1.00),the kicker (1.00),none,none,none,none
+What are some of the best desserts involving mangoes?,the best desserts involving mangoes (1.00),none,none,none,none,none
+Why do I need to use an oven to make creme brulee?,oven (1.00),make creme brulee (0.99),none,none,none,none
+Do you prefer ice cream or cake?,ice cream or cake (1.00),none,none,none,none,none
+What are the tricks for making a perfect béchamel?,perfect bechamel? (1.00),none,none,none,none,none
+What is your favorite ice cream and how old are you?,favorite ice cream (0.99),old (0.42),none,none,none,none
+What is the best pancake recipe for the fluffiest pancakes in the world?,the best pancake (0.99),the fluffiest pancakes in the world (1.00),none,none,none,none
+What are some desserts whose names start with the letter 'K'?,desserts whose (1.00),the letter'k ' (0.94),none,names (0.52),none,none
+How do you make blackberry pie filling from scratch?,blackberry pie filling from scratch? (0.95),none,none,none,none,none
+What is your favorite dessert?,dessert (0.99),none,none,none,none,none
+How do I whip cream with a hand mixer?,cream with a hand mixer (0.90),none,none,none,none,none
+What is a Boston roll?,boston roll (1.00),none,none,none,none,none
+How do I become an ice cream man?,ice cream man (1.00),none,none,none,none,none
+Does McDonalds serve ice cream year around?,mcdonalds (1.00),ice cream year around (1.00),none,none,none,none
+Is a Wendy's Frosty actually ice cream?,wendy's frosty actually ice cream (1.00),none,none,none,none,none
+Why is the McDonald’s ice cream machine always broken?,mcdonald ’ s ice cream machine always broken (1.00),none,none,none,none,none
+What is the best 3 ingredient dessert you ever had?,best 3 ingredient dessert (1.00),ever (0.64),none,none,none,none
+What kind of ice cream do you like the most?,ice cream (0.90),the most (0.77),none,none,none,none
+What is bread and butter pudding?,bread and butter pudding (0.99),none,none,none,none,none
+Is an ice cream a pure veg?,ice cream (1.00),pure veg? (0.88),none,none,none,none
+What are some time-consuming desserts you can make at home that are worth it for a special treat?,time - consuming desserts (0.96),it for (0.42),special treat (0.99),none,none,none
+The only ice cream flavor you can have for the rest of the year is the same flavor as the last thing you ate. What ice cream are you having?,ice cream flavor (0.99),rest of the year (0.67),the same flavor as the last thing (0.71),ice (0.99),none,none
+What kinds of desserts can I make with cream cheese and fruits?,desserts (1.00),with cream cheese and fruits (0.90),none,none,none,none
+What's the consensus on the quality of Hershey's chocolate from people who make dessert for a living?,quality of (0.73),hershey's chocolate from people who (0.99),dessert (1.00),none,none,none
+Why do my peanut butter cookies not taste like peanut butter?,peanut butter cookies (1.00),taste (0.95),peanut butter (1.00),none,none,none
+How do I make egg wash for pies?,egg wash for pies? (0.98),none,none,none,none,none
+How does Sonic ice cream compare to Dairy Queen?,sonic ice cream (1.00),dairy queen (1.00),none,none,none,none
+How can you tell if custard is thick enough?,custard is thick enough (1.00),none,none,none,none,none
+Do ice cream trucks run late at night?,ice cream trucks (1.00),late (0.75),night (0.91),none,none,none
+"What desserts start with ""P""?",dessert (0.98),none,none,""" p "" (1.00)",none,none
+What is the perfect ice cream sundae?,perfect ice cream sundae (1.00),none,none,none,none,none
+Am I the only person who doesn't like chocolate/sweets/desserts?,none,none,none,chocolate / sweets / desserts (1.00),none,none
+Can having brain freeze by having too much ice cream be deadly?,much ice cream (0.97),none,none,brain freeze (0.84),deadly (0.40),none
+How much cream cheese is in a cup?,cheese (0.91),cup (1.00),none,cream (0.89),in (0.42),none
+How do I melt white chocolate for dipping?,white chocolate for dipping (1.00),none,none,none,none,none
+What is any dessert that begins with the letter X?,dessert (0.99),none,none,the (0.56),letter x (0.63),none
+What would a scoop of ice cream do in space?,scoop (1.00),ice cream do (0.80),none,space (0.56),none,none
+Is there something I can do to keep ice cream soft?,ice cream soft (1.00),none,none,none,none,none
+What kinds of fruits would taste nicely in pudding?,fruits (1.00),nicely in (0.67),none,pudding (0.37),none,none
+What dessert goes with fried chicken?,dessert (0.35),? (0.94),none,fried chicken (0.83),none,none
+"Does Scandinavian cuisine have any sweet custard pies? Dessert pies made with eggs and cream/milk? My Swedish Swedish husband says no, only savoury pies are made with eggs and cream/milk.",scandinavian cuisine (0.62),sweet custard pies? dessert pies made with eggs and cream / milk (1.00),swedish swedish husband (0.99),none,none,none
+What is your favorite dessert to make for 4th of July get-togethers?,dessert (0.80),make for (0.83),4th of july get - togethers (0.95),none,none,none
+What happens if you put a hot cheesecake in the fridge?,hot cheesecake in the fridge (1.00),none,none,none,none,none
+Was croissant invented in Romania?,croissant (1.00),romania (0.74),none,none,none,none
+Is it okay to have a cheat meal and dessert once a week?,cheat meal and dessert once a week (1.00),none,none,none,none,none
+Would ice cream help heartburn?,heart (0.52),none,none,ice cream (1.00),##burn (0.86),none
+What are some candy names that start with the letter R?,candy names (0.98),the letter r? (0.95),none,none,none,none
+Guy is making Bananas Foster for dessert. The recipe calls for one quart of ice cream. How many cups of ice cream is Guy going to get from one quart of ice cream?,guy (0.40),bananas foster for dessert (1.00),recipe (0.99),none,none,none
+How do you make creme brulee without a torch?,creme brulee (1.00),none,none,a (1.00),torch (1.00),none
+Why does my homemade ice cream freeze so hard?,homemade ice cream freeze so hard (0.99),none,none,none,none,none
+Do you make your own double cream that you add to your ice cream base?,double cream that (0.98),add to (0.75),ice cream base (0.97),none,none,none
+What's the most popular ice cream flavor?,most popular (0.70),ice cream flavor (0.90),none,none,none,none
+Can I eat ice cream before eating hot food?,ice cream (1.00),hot food (1.00),none,none,none,none
+What's your favorite traditional dessert?,favorite traditional dessert (0.90),none,none,none,none,none
+Can you freeze ice cream in glass containers?,ice cream in glass containers (1.00),none,none,none,none,none
+What happens if you eat a bucket of ice cream every day?,bucket of ice cream (1.00),day (0.97),none,none,none,none
+How do I make crème brûlée?,creme brulee? (1.00),none,none,none,none,none
+"What happens if I add cream cheese or yogurt to molten chocolate, and will the mixing be solidifiable?",cream cheese or yogurt to molten chocolate (1.00),##ifiable (1.00),none,mixing (0.51),solid (0.54),none
+"Hi Chef! I want to make Pavlova but I live in a very humid country, Philippines. Do I need to add anything or change anything in the recipe? My first time to make this if ever.",hi chef (0.88),pavlova (1.00),"very humid country, philippines (0.97)",anything (0.94),anything (0.31),recipe (0.36)
+Where will I find the most traditional Italian handmade ice creams in Italy?,most traditional italian handmade ice creams in italy (1.00),none,none,none,none,none
+Can you use large eggs instead of medium in a cake recipe?,large eggs instead of medium in a cake (1.00),none,none,none,none,none
+What is considered a typical dessert in your country?,typical dessert (1.00),country (0.67),none,none,none,none
+Which ice cream uses pig fat?,ice cream (0.99),? (0.98),none,pig fat (0.94),none,none
+What is the best Swiss chocolate?,the best swiss chocolate (1.00),none,none,none,none,none
+Is it okay to have a dessert every day as long as you're counting calories?,dessert every day as long as you're counting calories (0.94),none,none,none,none,none
+How long does it take an ice maker to make ice?,ice maker (1.00),make ice (0.89),none,none,none,none
+What do you think of people who allow their children (say 11 years old) to eat adult-sized meals and desserts in restaurants?,( say 11 years old ) (1.00),adult - sized meals and desserts (1.00),none,children (0.75),restaurants (0.93),none
+The progressive American company Ben and Jerry's are purveyors of ice cream and other frozen treats. The company is named after the two original founders. What are their surnames?,progressive american company ben and jerry's are purveyors of ice cream and other frozen treats (1.00),company (0.68),two original founders (0.71),surname (0.76),none,none
+"What is the difference between pudding, custard, mousse, panna cotta and pots de creme?","pudding, custard, mousse, panna cotta and pots de creme (1.00)",none,none,none,none,none
+Why do I regularly eat entire pints of ice cream in one sitting?,entire pints of ice cream (1.00),sitting (0.96),none,none,none,none
+"Whirlpool developed freeze-dried ice cream for NASA, but why was it unpopular and never used on space missions?",whirlpool developed freeze - dried ice cream (1.00),nasa (0.99),space missions (0.89),unpopular (0.39),never (0.34),none
+What is your favorite ice cream? I need 300 responses for a math project.,favorite ice cream (0.89),responses (0.79),math project (0.91),300 (0.93),none,none
+How do I control crystallisation in ice cream?,crystallisation in ice cream (1.00),none,none,none,none,none
+Is the inside of a 'Ferrero Rocher' actually Nutella?,' ferrero rocher'actually nutella (1.00),none,none,none,none,none
+What are the ingredients in Quiche Lorraine?,quiche lorraine? (0.98),none,none,none,none,none
+How long can savory cream cheese dishes last?,savory cream cheese dishes (0.98),none,none,last (0.53),none,none
+Are there any people who don't like ice cream?,none,none,none,ice cream (1.00),none,none
+What kinds of desserts can I make with ladyfingers?,desserts (1.00),with ladyfingers (0.89),none,none,none,none
+"Which is healthier to consume long-term, soda or ice cream?","long - term, soda or ice cream? (1.00)",none,none,none,none,none
+What’s that one dessert or snack that many people usually think is bad for you but is surprisingly good for you?,one (0.66),dessert or snack (0.96),people usually (0.73),surprisingly (0.28),none,none
+What are some delicious desserts of your country (pictures encouraged)?,delicious desserts of your country ( pictures encouraged ) (1.00),none,none,none,none,none
+"If aliens made contact and asked you to impress them with one meal from anywhere on Earth, what would you serve them?",aliens (0.82),them with one meal from anywhere (0.98),earth (0.44),contact (0.41),none,none
+What are the mini versions of desserts in a jar called?,mini versions (1.00),desserts in a jar called? (0.96),none,none,none,none
+"Which is more delicious, ice cream or cake?",ice cream or cake (0.99),none,none,delicious (0.82),none,none
+Is there anywhere to get Superman ice cream in New York or just the Blue Moon ice cream?,superman ice cream in new york or just the blue moon ice cream (1.00),none,none,none,none,none
+Are black pudding and haggis the same thing?,black pudding and haggis the same thing (0.96),none,none,none,none,none
+Why does ice cream sometimes turn grainy in taste?,ice cream (1.00),grainy in taste (0.90),none,none,none,none
+How can I make ice cream at home without eggs?,ice cream (1.00),none,none,eggs (1.00),none,none
+What is half baked flavor ice cream? I’ve had it many times but I don’t understand the meaning of the flavor half baked.,half baked flavor ice cream (1.00),many times (0.73),flavor half baked (1.00),it (0.88),none,none
+Why is chocolate dipped vanilla ice cream instead of vanilla dipped chocolate?,chocolate dipped vanilla ice cream instead of vanilla dipped chocolate (1.00),none,none,none,none,none
+How do I make 50 tasty cakes and desserts?,50 tasty cakes and desserts (1.00),none,none,none,none,none
+Does the Amul Ice Cream contain pig fat in India?,amul ice cream contain (0.92),fat in india (1.00),none,pig (0.99),none,none
+What makes a cake light and fluffy?,cake light and fluffy? (1.00),none,none,none,none,none
+Why is it I can have all dairy products (I pretty much live off of milk and cheese) but ice cream upsets my stomach?,all dairy products ( i pretty much live off of milk and cheese ) but ice cream (1.00),none,none,stomach (0.49),none,none
+What is the reason of using a wooden stick for ice cream?,wooden stick for ice cream (1.00),none,none,none,none,none
+What is your favorite ice cream flavor which not many people have tried?,favorite ice cream flavor which (0.99),people (0.75),none,tried (0.76),none,none
+What is your favorite dessert to make (and how do you make it?,dessert (0.96),( (0.70),how (0.80),none,none,none
+Can children eat a dessert which contains small amounts of alcohol?,dessert (1.00),none,none,small amounts of alcohol (0.98),none,none
+"What is a cherry-chocolate cake recipe that utilizes brandy? My grandmother had an amazing cake recipe that I just cannot remember, and I would like to make it in her memory.",cherry - chocolate cake recipe that utilizes brandy (1.00),cake (1.00),none,amazing (0.87),none,none
+"Which is healthier, vanilla ice cream or whipped cream?","healthier, vanilla ice cream or whipped cream? (1.00)",none,none,none,none,none
+Do you like mint ice cream?,mint ice cream (1.00),none,none,none,none,none
+In K-pop why is mint ice cream mentioned so much?,k - pop (1.00),mint ice cream mentioned so much (0.99),none,none,none,none
+What was the first ice cream ever made?,first (0.88),ice cream ever made (0.87),none,none,none,none
+How do I make an ice cream with soda?,ice cream with soda? (0.95),none,none,none,none,none
+Why does soft-serve ice cream give me diarrhea?,soft - serve ice cream (1.00),diarrhea? (1.00),none,none,none,none
+Is it bad to eat mint chocolate chip ice cream?,mint chocolate chip ice cream (1.00),none,none,none,none,none
+Can vegans eat ice cream? Why or why not?,vega (0.99),ice cream? why or why not (0.98),none,none,none,none
+How do fruit cakes taste like?,fruit cakes (1.00),none,none,none,none,none
+How much sugar is in an average bowl of ice cream?,average bowl of ice cream (1.00),none,none,sugar (1.00),none,none
+"Which famous opera singer inspired the creation of a popular dessert, which is based on peaches and ice cream?",singer (0.99),popular dessert (1.00),##es and ice cream? (1.00),opera (0.94),peach (1.00),none
+What is the best bagged ice cream recipe?,the best bagged ice cream recipe (1.00),none,none,none,none,none
+What is your favorite recipe for simple buttery cookies?,simple buttery cookies (1.00),none,none,none,none,none
+"What is the best Ice-Cream flavor, hands down?","the best ice - cream flavor, hands down (1.00)",none,none,none,none,none
+"What's crunchy on the outside, and soft and delicious on the inside?",crunchy (0.89),outside (0.38),soft and delicious (0.78),none,none,none
+What is the most loved dessert in America?,most (0.96),loved (0.53),dessert (0.97),none,none,none
+Do Asians just eat fruit for dessert?,asian (0.98),fruit for dessert (1.00),none,none,none,none
+What kinds of desserts taste nice with brown sugar?,desserts (0.92),nice with brown sugar (0.81),none,none,none,none
+Is fruit puree thin enough to pour?,fruit puree thin (1.00),pour (0.69),none,none,none,none
+How do you make blueberry pie filling from scratch?,blueberry pie filling from scratch? (0.97),none,none,none,none,none
+What is Romanian food like?,romanian food (1.00),none,none,none,none,none
+How do I make sugar glasses for cakes?,sugar glasses for cakes (1.00),none,none,none,none,none
+What is the best Keto dessert or bread?,the best keto dessert or bread? (0.95),none,none,none,none,none
+"Which is better, McDonald's ice cream or Wendy’s ice cream?",mcdonald's ice cream or wendy ’ s ice cream? (1.00),none,none,none,none,none
+How do you saute shrimp in butter?,##ute shrimp in butter? (0.95),none,none,sa (0.70),none,none
+What is your favorite ice cream flavor? Do you like your brownies warm or normal?,favorite ice cream flavor (0.93),brownies warm or normal (1.00),none,none,none,none
+Do Chinese people eat ice cream with chopsticks?,ice cream with chopsticks (1.00),none,none,none,none,none
+What is the “bread” on ice cream sandwiches made out of/called?,“ bread ” on ice cream sandwiches made out of / called? (1.00),none,none,none,none,none
+How do you soften cream cheese quickly?,soften cream cheese quickly (0.98),none,none,none,none,none
+"What is your favorite “light” ice cream with texture/flavor that tastes like normal ice cream (Nick’s, Halo Top, etc.)?","“ light ” ice cream with texture / flavor that tastes like normal ice cream ( nick ’ s, halo top, etc. ) (1.00)",none,none,none,none,none
+"If I gave you an Oreo with an ice cream filling inside it, would you eat it? 👀👀",oreo with an ice cream filling inside it (1.00),👀👀 (0.75),none,none,none,none
+How important is dessert?,none,none,none,dessert (0.53),none,none
+"How would I make a cake that is mostly air, like 80%?",cake (1.00),none,none,mostly (0.98),"air, like 80 % (1.00)",none
+There are 6 flavors of ice cream and 3 different cones in a grocery store. How many orders of ice creams can you make?,ice cream and 3 different cones (1.00),grocery store (0.98),orders (0.73),none,none,none
+When do you crave ice cream the most?,ice cream the most (0.93),none,none,none,none,none
+Why do people tend to eat ice cream when they're sad or is it just in tv shows?,ice cream when they're sad (1.00),it (0.93),tv shows (1.00),none,none,none
+How is milk turned into ice cream?,milk turned into (0.98),ice cream (0.85),none,none,none,none
+Why is ice cream with syrup called a sundae?,ice cream with syrup called a sundae (1.00),none,none,none,none,none
+Why is it so uncommon to bite ice cream?,ice cream (0.98),none,none,none,none,none
+What is the most eaten dessert in America?,most (0.79),eaten (0.59),dessert (0.99),none,none,none
+What are some desserts that don’t have to taste sweet and won't affect my bulking up?,desserts (0.77),’ (0.37),t (0.41),to (0.94),taste sweet and (0.90),' (0.50)
+What ice cream does start with the letter d?,ice cream does (0.84),the (0.44),letter d (0.72),none,none,none
+"During the Wimbledon tennis event, strawberries and cream are often in the news, but of the two I find raspberries and cream far nicer, and if a few blackcurrants are added even better. Why is this superior delicacy so neglected?",wimbledon tennis event (1.00),strawberries and cream (1.00),raspberries and cream far nice (0.88),news (0.34),two (0.46),##r (0.46)
+Do you like strawberry ice cream?,strawberry ice cream (1.00),none,none,none,none,none
+What is the best ice cream for a root beer float? Why?,the best ice cream for a root beer float (1.00),none,none,none,none,none
+"Which is better, cookies or ice cream?",cookies or ice cream (1.00),none,none,none,none,none
+"Before baking a baked Alaska, what is the ice cream covered with?","baked alaska, (0.87)",ice cream covered with? (1.00),none,none,none,none
+Why is ice cream so much more perishable compared to other food products?,ice cream so much more perishable compared to other food products (0.99),none,none,none,none,none
+How do I make a delicious dessert without using the oven?,delicious dessert (1.00),none,none,using (1.00),the (0.78),oven (1.00)
+What are some classes in San Jose for dessert lessons for 12+?,san jose for dessert lessons for 12 +? (1.00),none,none,none,none,none
+What's worse ice cream or chips?,what (1.00),worse ice cream or chips? (1.00),none,none,none,none
+Can you use 1/3 less fat cream cheese for cheesecake?,1 / 3 less fat cream cheese for cheesecake (1.00),none,none,none,none,none
+"Whenever I eat something too sweet, I feel like throwing up. My friends can enjoy a doughnut/any other treat, but I just don’t feel like eating anything sweet ever. Does it have something to do with me being a little too slim for my height?",sweet (0.93),throwing up (0.78),friends (0.66),height (0.72),none,none
+Why are desserts important in a meal?,dessert (0.94),meal (1.00),none,##s (0.98),none,none
+Can you deep fry a cake?,cake (1.00),none,none,none,none,none
+Do popsicles always have a stick?,popsicles (1.00),none,none,stick (1.00),none,none
+"Does vanilla ice cream typically have vanilla, or is it just commonplace to refer to mundane things as vanilla?",vanilla ice cream (1.00),mundane things (0.75),none,vanilla (1.00),vanilla (0.90),none
+Is lasagna a cake?,lasagna (0.90),cake (1.00),none,none,none,none
+Can I make milk chocolate by adding milk to dark chocolate?,milk chocolate (1.00),adding milk to dark chocolate (0.98),none,none,none,none
+"Which is correct, ""which do you want for dessert"" or ""what do you want for dessert""?","dessert "" (0.75)","dessert "" (0.80)",none,none,none,none
+My Breyers ice cream didn’t come with a plastic seal. Is this normal? Should I be worried?,breyers ice cream (1.00),seal (0.99),normal (0.60),plastic (1.00),worried (0.46),none
+What is the most delicious Turkish baklava?,most delicious turkish baklava? (0.99),none,none,none,none,none
+Does Baskin-Robbins feature both dairy-based and plant-based frozen treats that ice cream lovers crave?,baskin - robbins (1.00),- based and plant - based frozen treats that ice cream lovers crave (0.98),none,dairy (0.93),none,none
+What are the options for the main ingredient to make dairy-free ice creams?,main ingredient (1.00),dairy - free ice creams (1.00),none,none,none,none
+Why do people say they don’t like white chocolate?,none,none,none,white chocolate (0.88),none,none
+Why do you neee salt in the ice when you use ice cream maker to make ice cream?,neee salt in the ice when you use ice cream maker (1.00),ice cream (1.00),none,none,none,none
+What is the most popular ice cream flavor in U.S. adults?,most popular (0.64),ice cream flavor in u. s. adults (1.00),none,none,none,none
+Can we eat ice cream after 2 hours of eating fish?,ice cream after 2 hours of eating fish (1.00),none,none,none,none,none
+How many scoops of ice cream are in one liter?,scoop (1.00),ice cream are in (0.73),one liter (0.73),none,none,none
+"Are cinnamon and nutmeg interchangeable in desserts like apple pie, apple crumble, and rice pudding?",and (0.40),"##meg interchangeable in desserts like apple pie, apple crumble, and rice pudding (0.92)",none,cinnamon (0.74),nut (0.97),none
+What is worse for you butter or whipped cream?,butter or whipped cream? (0.91),none,none,none,none,none
+Should I eat ice cream or have a glass of Coke?,ice cream (1.00),glass of coke (0.97),none,none,none,none
+How is it possible for someone to die from a whipped cream dispenser?,whipped cream dispenser (1.00),none,none,none,none,none
+How could you replace the dessert after dinner with something less caloric but still greedy?,dessert after dinner (1.00),something less (0.99),##oric but still (0.91),cal (1.00),greedy (0.86),none
+What are the best things to eat with cream cheese?,best (0.82),with cream cheese (0.81),none,none,none,none
+What is the National Syrup or Sharbat of Pakistan?,national syrup or sharbat of pakistan (1.00),none,none,none,none,none
+Should Yorkshire pudding batter be thick or runny?,yorkshire pudding batter (1.00),thick or runny? (0.93),none,none,none,none
+How do I make a horseradish cream sauce?,horseradish cream sauce (1.00),none,none,none,none,none
+"In banofee pie recipe, they place condensed milk in a sealed tin, inside a pressure cooker with water to turn it into toffee. Is this safe?",banofee pie (1.00),"condensed milk in a sealed tin, inside a (1.00)",pressure cooker with water (0.98),safe (0.43),none,none
+How do I make cream sauce for pasta?,cream sauce for pasta? (1.00),none,none,none,none,none
+Can you make a buttercream frosting that tastes exactly like cream cheese frosting?,buttercream frosting that tastes exactly like cream cheese frosting (1.00),none,none,none,none,none
+What do you think of mint ice cream?,mint ice cream (1.00),none,none,none,none,none
+What is the most tasty dessert from the Middle East?,most (0.98),##sty dessert from the middle east (0.97),none,ta (0.54),none,none
+Is a steam cake softer than a baked cake?,steam cake (1.00),baked cake (1.00),none,none,none,none
+"What are the best books for basic components of pastry and confectionary like mousses, cremeux, plane cakes, and glazes?","basic components of pastry and confectionary like mousses, cremeux, plane cakes, and glazes (1.00)",none,none,none,none,none
+Why does my homemade ice cream melt so fast?,homemade ice cream melt so fast (0.97),none,none,none,none,none
+Why is cookie dough ice cream the best flavor?,cookie dough ice cream the best flavor (1.00),none,none,none,none,none
+Can you use cornstarch to thicken whipped cream?,cornstarch to thicken whipped cream (1.00),none,none,none,none,none
+How do I soften cream cheese for mixing?,soft (0.98),cream cheese for mixing? (0.99),none,none,none,none
+How do I rent an ice cream truck?,ice cream truck (1.00),none,none,none,none,none
+How can you tell if ice cream at a grocery store has been thawed and refrozen?,ice cream at (0.99),grocery store has been thawed and refrozen (0.97),none,none,none,none
+What are some good types of fudge recipes?,good types (0.98),fudge recipes (1.00),none,none,none,none
+How do I make a chocolate drizzle for a cake?,chocolate drizzle for a cake (1.00),none,none,none,none,none
+How do you use Hoosier Hill Farm heavy cream powder?,hoosier hill farm heavy cream powder? (0.99),none,none,none,none,none
+"If you’re a recovering alcoholic, will rum cake, rum cherry/raisin ice cream, rum ham, or other rum related foods make you go back to being an alcoholic?","recovering alcoholic, will rum cake, rum cherry / raisin ice cream, rum ham, or other rum related foods (1.00)",alcoholic (0.61),none,none,none,none
+"If you were reincarnated as ice cream, what ice cream would you be?",##car (0.91),ice cream (1.00),ice cream (1.00),none,none,none
+Can cake recipes be poured into a cupcake pan?,cake (1.00),cupcake pan (1.00),none,none,none,none
+How do you recycle a leftover panettone to prepare a delicious and quick-to-make dessert?,##y (0.97),leftover panettone (1.00),delicious and quick - to - make dessert (1.00),none,none,none
+What are some desserts that start with the letter H?,dessert (0.99),the letter h? (0.86),none,##s (0.91),none,none
+What goes well with mint chocolate chip ice cream?,mint chocolate chip ice cream? (1.00),none,none,none,none,none
+What is the most popular ice cream?,popular (0.68),ice cream (0.96),none,none,none,none
+How can I stop my ice cream from freezing solid?,ice cream from freezing solid (1.00),none,none,none,none,none
+What are some easy desserts to make with few ingredients?,easy desserts to make with few ingredients (1.00),none,none,none,none,none
+"I’m on a dessert island and it’s bear like nothing but sand. Do I drink my urine, sweat, or tear first?",dessert island (1.00),’ s bear like nothing but sand (0.97),", sweat, or tear first (1.00)",urine (0.57),none,none
+Why do some American diners refer to all blended ice cream drinks as “malts” regardless of whether they have malted milk powder in them?,american diners (0.87),all blended ice cream drinks as “ malts ” (1.00),they (0.97),whether (0.85),none,none
+"Which is better, pure vanilla or vanilla extract?",pure vanilla or vanilla extract? (1.00),none,none,none,none,none
+Why is ice cream a junk food?,ice cream (1.00),junk food (1.00),none,none,none,none
+"Why do blue creamsicles seem to have less ice cream? My family has gone through 3 boxes of creamsicles this summer, and every time I’ve ate a blue one there always seems to not be as much ice cream at the top. Is there a reason for this?",blue creamsicles (1.00),have less ice cream (0.96),3 boxes of creamsicles (1.00),as (0.33),top (0.71),none
+How would you eat ice cream if you were a walrus?,ice cream (1.00),walrus (1.00),none,none,none,none
+"What ice cream flavor out of the three would you choose, strawberry, chocolate, or vanilla?",ice cream flavor out of the three would (0.90),", strawberry, chocolate, or vanilla (0.95)",none,none,none,none
+"Which is correct, this is an ice cream or this is ice cream?",ice cream (1.00),this is ice cream? (0.96),none,none,none,none
+"Why don't grocery stores offer healthy alternatives to desserts like pastries, cookies, and cakes?",grocery stores (1.00),"alternatives to desserts like pastries, cookies, and cakes (0.93)",none,healthy (0.78),none,none
+I want to make a restaurant-quality milkshake. Is it true that they add chocolate to a vanilla base? Syrup or powder?,restaurant - quality milkshake (1.00),to a vanilla base? syrup or powder (1.00),none,chocolate (1.00),none,none
+Why is Polish ice cream so delicious?,polish ice cream (1.00),delicious (0.94),none,none,none,none
+Is it legal for an individual to walk backwards with an ice cream cone in their back pocket on a sidewalk in down town Atlanta?,backwards with an ice cream cone in their back pocket (0.98),sidewalk in (0.78),down town atlanta (1.00),none,none,none
+"What are food genres called? Like dessert, snacks, and appatizer, what are the base names of these food types?",food genres (0.85),"dessert, snacks, and appatizer, (0.94)",food types (0.99),base names (0.68),none,none
+How do I make caramel sauce with milk?,caramel sauce with milk? (1.00),none,none,none,none,none
+I have been listening to a biscuit connoisseur and heard of a kind of biscuit named custard cream. Where can I buy this?,biscuit connoisseur (1.00),of biscuit named custard cream (1.00),none,none,none,none
+Who brought ice cream to America?,ice cream (1.00),america (0.41),none,none,none,none
+What unusual ingredients can be used to make ice cream?,ice cream (1.00),none,none,unusual (0.94),ingredients (0.92),none
+How do I make whipped cream out of 18% cream granulated sugar with no cornstarch?,whipped cream out of 18 % cream granulated sugar with no cornstarch (1.00),none,none,none,none,none
+How do you make salmon ice cream without using sugar?,salmon ice cream (1.00),sugar (0.87),none,using (1.00),none,none
+How do I make bubble gum ice cream?,bubble gum ice cream (1.00),none,none,none,none,none
+I just had a Pop-Tart for the first time. How is this considered a breakfast food?,pop - tart for (0.92),first time (1.00),breakfast food? (0.87),none,none,none
+What are all the arguments for eating dessert before dinner?,dessert before dinner (1.00),none,none,none,none,none
+Do you have to refrigerate cake pops before dipping?,##rigerate cake pops before dipping (1.00),none,none,ref (0.98),none,none
+Is Eddy’s no added sugar ice cream okay to eat?,eddy ’ s no added sugar ice cream okay (0.99),none,none,eat (0.99),none,none
+How do I keep a puff pastry crisp overnight?,puff pastry crisp overnight (1.00),none,none,none,none,none
+Can we eat ice cream after tooth cleaning from dentist?,ice cream after tooth cleaning from dentist (1.00),none,none,none,none,none
+When a recipe asks for cream what kind of cream are is it referring to? Heavy whipping cream?,cream (0.69),kind of cream are (0.92),heavy whipping cream (0.99),none,none,none
+"What is the pronunciation of the dessert ""tres leches"" in English?","dessert "" tres leches "" (1.00)",english (0.53),none,none,none,none
+"Why when it comes to desserts, whether they are cakes, pastries, or something alternative, is there an ingredient, the egg, which is almost always present?",desserts (0.98),whether they (0.96),"cakes, pastries (0.99)",ingredient (0.95),egg (0.97),present (0.42)
+What does space taste like? Does it taste like ice cream? I bet it does.,space (0.98),ice cream (1.00),none,none,none,none
+What is one dessert you never liked but then you started to appreciate with age or tried different versions of it?,dessert (1.00),started (0.34),or (0.43),liked (0.45),with (0.64),age (0.99)
+"What was the best, most mouthgasmic dessert you've ever had? Where did you have it?","best, most mouthgasmic dessert (1.00)",ever had (0.74),none,none,none,none
+What brand of cream cheese is best for cheesecakes? I’m looking for a proven brand that would give me the best possible result.,cream cheese (1.00),best for cheesecakes (1.00),proven brand (0.77),none,none,none
+When should I ice cinnamon rolls if they’ll be served a day after baking?,cinnamon rolls if they ’ (0.87),be served a day (0.79),none,baking (1.00),none,none
+How do I make a mango puree for a baby?,mango puree for a baby (1.00),none,none,none,none,none
+What can I do with cherries that aren't very good?,aren't very (0.79),none,none,cherries that (0.92),good (0.79),none
+How much is a tall caramel macchiato?,tall caramel macchiato? (1.00),none,none,none,none,none
+How does the temperature of ice cream when you eat it change its flavor?,ice cream when you eat it (1.00),its (0.67),none,flavor (0.96),none,none
+Will Greek style yogurt do as a sour cream alternative for cheesecake?,greek style yogurt (1.00),sour cream alternative for cheesecake (1.00),none,none,none,none
+What temperature range should I churn ice cream at? What is the best temperature to churn it at?,ice cream (1.00),the best temperature (0.85),chu (0.52),temperature range (0.66),none,none
+Can ice cream soothe my GI pain?,gi pain (0.99),none,none,ice cream (0.93),none,none
+How can I start raw ice cream business in Texas legally? I’d like to make homemade ice cream at home using raw A-grade dairy. Since selling ice cream is illegal could I just be donation based? Could I have an ice cream truck? What’s the process?,raw ice cream business in texas legally (0.95),homemade ice cream (1.00),using (1.00),raw (0.98),none,none
+Why is buying ice cream from an ice cream truck more appealing than buying a box of the same kind ice cream from a grocery store even though the ice cream truck is more expensive?,ice cream from an ice cream truck (1.00),appealing (0.55),box of the same kind ice cream from (1.00),expensive (0.51),none,none
+How can I make whip cream frosting?,whip cream frosting (1.00),none,none,none,none,none
+What or how can I make chocolate syrup freeze on ice cream?,chocolate syrup freeze on ice cream (1.00),none,none,none,none,none
+How do I make buttercream look like fondant?,buttercream look like fondant (1.00),none,none,none,none,none
+How do I make cup cakes at home?,cup cakes (1.00),none,none,none,none,none
+How do I make a chocolate drizzle without shortening?,chocolate drizzle without (1.00),##ening? (0.96),none,short (1.00),none,none
+Why does my stomach hurt after eating ice cream?,stomach (0.80),ice cream (1.00),none,none,none,none
+How are Sabayon and Zabaglione similar? What makes either of them so difficult to make?,sabayon and zabaglione similar (1.00),none,none,none,none,none
+Why can’t McDonald’s clean the ice cream machine overnight?,mcdonald ’ s clean the ice cream machine overnight (1.00),none,none,none,none,none
+Are ice cream makers loud?,ice cream makers (1.00),none,none,none,none,none
+What do you do when you make your mother’s chocolate cheesecake card recipe from the 80s and it is too good?,mother ’ s chocolate cheesecake card recipe from the 80s (1.00),it is (1.00),good (0.89),too (0.45),none,none
+Can you freeze yogurt and eat it like ice cream?,yogurt (1.00),it like ice cream (0.95),none,none,none,none
+Can ice cream aggravate acid reflux?,ice cream aggravate acid reflux? (1.00),none,none,none,none,none
+How do I keep whipped cream from melting?,whipped cream from melting? (0.96),none,none,none,none,none
+What happens if I accidentally used soft peak meringue for making meringue cookies? What will happen? They’re in the oven and they’re expanding a lot.,soft peak meringue for making meringue cookies (1.00),they (0.99),oven (0.85),expanding (0.90),none,none
+What is the best store-bought vanilla ice cream?,the (0.99),best store - bought vanilla ice cream? (0.94),none,none,none,none
+Are you a chocolate or vanilla person? Why?,chocolate or vanilla person (1.00),none,none,none,none,none
+How much is Blue Bunny ice cream?,blue bunny ice cream (1.00),none,none,none,none,none
+"Apart from breakfast and those choc nest rock things, what else can you do with cornflakes?",choc nest rock things (1.00),##flakes (0.76),none,breakfast and (0.74),corn (1.00),none
+Is an ice cream shop a good business?,ice cream shop (1.00),business (0.68),none,none,none,none
+I want to try the Dairy Queen Cotton Candy Blizzard but I'm not sure I like it. Do they successfully mix cotton candy with ice cream?,dairy queen cotton candy blizzard (1.00),cotton candy with ice cream (1.00),none,none,none,none
+How do I make a 7-up cake icing?,7 - up cake icing (1.00),none,none,none,none,none
+Is it possible to survive eating nothing but ghost peppers and ice cream?,nothing but ghost peppers and ice cream (1.00),none,none,none,none,none
+I cannot finish my dessert. It is too sweet. What can I do?,dessert (1.00),sweet (0.74),none,none,none,none
+When is the best time to eat dessert?,dessert (1.00),none,none,none,none,none
+What kind of liqueur should I use for a tiramisu?,##queur (0.99),tiramisu (1.00),none,li (1.00),none,none
+How much cream and sugar is in coffee?,coffee (0.83),none,none,cream and sugar is in (0.86),none,none
+What are the ingredients in a flan?,flan? (1.00),none,none,none,none,none
+Which Keto bread and Keto desserts do you love?,keto bread and keto desserts (1.00),none,none,none,none,none
+Do people usually eat dessert every night or only on special occasions?,dessert every night (1.00),only (0.71),occasions (1.00),special (0.80),none,none
+"Dear autists, my 7 year old daughter (also autistic) hates ice cream, popsicles, anything cold. I'm curious if this has anything to do with autism. It almost seems like a sensory overload. Do any of you have an aversion to eating cold things?",dear autists (0.98),"7 year old daughter ( also autistic ) hates ice cream, popsicles, anything cold (1.00)",sensory overload (0.98),autism (1.00),##rs (0.58),eating (1.00)
+Is it possible to make cheesecake without having it in the oven?,cheesecake (1.00),it (0.70),the oven (0.93),none,none,none
+How long does it take to cook a pecan pie?,pecan pie (1.00),none,none,none,none,none
+Can one use butter to replace cream or milk in drinks?,butter (0.76),cream or milk in drinks (1.00),none,none,none,none
+What do you think of strawberry ice cream?,strawberry ice cream? (0.88),none,none,none,none,none
+How could you prepare a delicious dessert with some not very well-known oriental fruit?,delicious dessert with some (1.00),very well - known oriental fruit (1.00),none,not (0.99),none,none
+What kinds of fruits can I dip in whip cream?,fruits (0.99),whip cream (1.00),none,none,none,none
+Does anyone really like fruitcake?,fruitcake (1.00),none,none,none,none,none
+How do I get blue moon flavored ice cream in South Carolina? Do they sell it in tubs?,blue moon flavored ice cream in south carolina (1.00),it in tubs (0.97),none,none,none,none
+Which light corn syrup makes the best pecan pie filling: Crown or Karo?,corn syrup (1.00),the best pecan pie filling : crown or karo? (1.00),none,light (0.51),none,none
+Can you thicken custard with gelatin?,thick (0.99),custard with gelatin? (0.94),none,none,none,none
+How do you make a store-bought mug cake?,store - bought mug cake (1.00),none,none,none,none,none
+"Why have cupcakes become so popular, in-style?",cupcakes (1.00),popular (1.00),in - style (1.00),none,none,none
+Would you want a cake mix that only makes a single serving slice of cake?,cake mix (1.00),only makes a single serving slice of cake (1.00),none,none,none,none
+Can I eat a whole tub of ice cream without getting any major illnesses?,whole tub of ice cream (1.00),none,none,getting (0.96),major illnesses (0.83),none
+Is ice cream healthy for the elderly?,ice cream (1.00),elderly (0.62),none,none,none,none
+How long does it take to freeze ice cream in an ice cream maker?,ice cream in an ice cream maker (1.00),none,none,none,none,none
+How do I make whipped cream last longer?,whipped cream last longer (1.00),none,none,none,none,none
+Why does fondant melt on whipped cream?,fondant melt on whipped cream (1.00),none,none,none,none,none
+Why do ice cream scoops have liquid inside the handle?,ice cream scoops have (0.98),inside the handle (1.00),none,liquid (1.00),none,none
+How do you eat ice cream without catching a cold?,ice cream (1.00),? (1.00),none,catching (1.00),cold (0.97),none
+"Are there any desserts which include cooked rice, but are not rice pudding?",dessert (1.00),none,none,"cooked rice, but (0.92)",rice pudding (0.95),none
+What is your favorite Baskin Robbins ice cream flavor? Why?,favorite baskin robbins ice cream flavor (1.00),none,none,none,none,none
+Would you eat strawberry ice cream?,strawberry ice cream (1.00),none,none,none,none,none
+How long can milk and ice cream stay in a car when it is 40 degrees out?,milk and ice cream stay in (0.96),car when it (0.99),40 degrees out (0.89),none,none,none
+Why is ice cream always so soft when you first open the container and gets so hard over time with the lid closed in the freezer?,ice cream always (1.00),soft when you first open the container and gets so hard over time with the lid closed in the freezer (0.98),none,none,none,none
+Why do milkshakes come from ice cream and milk?,milkshakes (1.00),from ice cream and milk (1.00),none,none,none,none
+What causes a sandy texture in ice cream?,sandy texture in ice cream? (0.97),none,none,none,none,none
+How do I make a cake for kids?,cake (1.00),none,none,kids (0.98),none,none
+"If a cake is way too soft and it crumbles at the touch and it also didn’t rise, why?",cake (1.00),soft (0.65),touch (0.52),it (0.43),crumbles (0.52),at (0.40)
+Is it okay for kids to eat tiramisu cake?,tiramisu cake (1.00),none,none,none,none,none
+How do you know when baked custard is done?,baked custard is done (1.00),none,none,none,none,none
+How much batter should I put in a cupcake?,cupcake (1.00),none,none,batter (1.00),none,none
+How do I make fluffy icing for cupcakes?,fluffy icing for cupcakes (1.00),none,none,none,none,none
+Is it okay to eat mint ice cream every morning?,mint ice cream (1.00),morning (1.00),none,none,none,none
+"If you were an ice cream flavor, what would it be?",ice cream flavor (1.00),none,none,none,none,none
+How can I revive a stale pastry?,stale pastry (1.00),none,none,none,none,none
+What causes homemade ice cream to leave a waxy film in the mouth?,homemade ice cream (1.00),leave (0.99),waxy film in the mouth (1.00),none,none,none
+Why should I eat ice cream in winter?,ice cream (1.00),winter (1.00),none,none,none,none
+"Can we find glaciers, deserts, and rainforests in the same country?","glaciers, deserts, and rainforests (1.00)",none,none,none,none,none
+Which US state's citizens eat more ice cream per capita than any other?,us state (0.87),ice cream per capita than (0.99),other (0.77),none,none,none
+What is the finest chocolate in the world?,finest chocolate (0.71),none,none,none,none,none
+Should Skittles make skittles flavor ice cream for customers for the market?,skittles (0.98),skittles flavor ice cream for customers (0.96),none,none,none,none
+How do I make icing for cinnamon buns?,icing for cinnamon buns (0.99),none,none,none,none,none
+"What's better, fluffy cakes or dense cakes?",better (0.78),fluffy cakes or dense cakes (1.00),none,none,none,none
+Why do my cake loaves have a rubbery texture instead of a crumbly texture?,cake loaves (1.00),##y texture instead of a crumbly (0.91),none,rubber (0.75),texture (0.74),none
+"In situations where someone requests a birthday cake with less icing sugar in the buttercream than reccomended, Do I make the buttercream a day in advance and freeze it to make sure its firm and not too runny? Or will this make the icing TOO firm?",birthday cake with less icing sugar in the buttercream than reccomended (1.00),buttercream a day in advance (1.00),it (1.00),firm (0.89),none,none
+Do you like cupcakes?,cupcakes (1.00),none,none,none,none,none
+Can you use a dessert syrup instead of flavouring? I need a Raspberry flavouring to mix in with white chocolate or an alternative.,dessert syrup instead of flavouring (1.00),raspberry flavouring to mix in with white chocolate (1.00),an alternative (0.92),none,none,none
+Which fruits can ruin your gelatin dessert?,gelatin dessert (1.00),none,none,fruits (0.95),none,none
+How long do you cook cupcakes for?,cupcakes for (1.00),none,none,none,none,none
+Where in the UK do they sell small pots of plain vanilla ice cream for me to eat out of the pot with a spoon?,small pots of plain vanilla ice cream (1.00),eat out of the pot with a spoon (0.99),none,none,none,none
+I am having a really hard day. Do you think that ice cream from the ice cream parlor will help?,really hard day (0.79),ice cream from the ice cream parlor (1.00),none,none,none,none
+The last thing that you ate becomes a popular ice cream flavor. What was it and will you participate in that trend?,thing (0.99),popular ice cream flavor (1.00),was it (0.87),trend (0.56),none,none
+Is it safe to eat a pint of ice cream?,pint of ice cream (1.00),none,none,none,none,none
+"Which one do you like better, ice cream or being in a romantic relationship?","better, ice cream or being (1.00)",romantic relationship (0.98),none,none,none,none
+Are hostess CupCakes vegetarian?,cupcakes (0.95),none,none,none,none,none
+I am getting burned out on chocolate flavored desserts. What is the second most popular flavor that comes to desserts?,chocolate flavored desserts (1.00),second most popular flavor that (0.82),desserts (0.93),none,none,none
+How do I package cupcakes for a bake sale?,cupcakes for a bake sale (1.00),none,none,none,none,none
+Do you like ice cream cake?,ice cream cake (1.00),none,none,none,none,none
+Why do children like ice cream?,children (0.99),ice cream (1.00),none,none,none,none
+"Which candy do you prefer, Mike and Ike or Good&Plenty?",candy (0.63),", mike and ike or good & plenty (1.00)",none,none,none,none
+How do I make a parfait with yogurt?,parfait with yogurt? (0.94),none,none,none,none,none
+Should we serve prisoners fast food and ice cream desserts so that they all get fatter and weaker when they’re finally released?,prisoners fast food and ice cream desserts so (1.00),they all get (0.99),##ter and weaker when they ’ (0.96),fat (0.98),none,none
+Do you like bagels with cream cheese?,bagels with cream cheese (1.00),none,none,none,none,none
+"Do you ever eat pots of plain vanilla ice cream out of the pot with a spoon? I do, I love it",pots (1.00),plain vanilla ice cream out of the pot with a spoon (1.00),none,it (0.97),none,none
+Can coconut cream be mixed with milk as a substitute for half-and-half for making ice cream?,coconut cream (1.00),mixed with milk as (1.00),substitute for half - and - half for making ice cream (1.00),none,none,none
+What is Japan's favorite ice cream?,japan's favorite ice cream (1.00),none,none,none,none,none
+What is the difference between an angel food cake and a chiffon cake?,angel food cake (1.00),a chiffon cake (0.99),none,none,none,none
+"I want to lose 10 pounds by next month, but I don’t want to go about it by working out. What are some ""healthier"" options of chips, ice cream, soda, and any other fatty foods?",10 pounds by next month (0.96),out (0.71),""" (0.69)",working (1.00),none,none
+Are ice cream makers worth buying?,ice cream makers (1.00),none,none,none,none,none
+Which desserts are the most popular where you live and why?,dessert (0.95),why (0.30),none,popular (0.37),none,none
+Wouldn’t an individual child be getting the same nutrition whether they ate their dessert before or after their main meal?,individual child (1.00),same nutrition whether they ate their dessert before or after their main meal (0.84),none,none,none,none
+"What's your favorite flavor ice cream, and how do you like to eat it?","favorite flavor ice cream, (1.00)",it (0.99),none,none,none,none
+I need to know how to serve single serve ice cream cups at a reception? Should we layer regular ice on top of dry ice?,single serve ice cream cups (1.00),reception (1.00),regular ice on top of dry ice (0.99),none,none,none
+Can we have Turkish ice cream without letting the vendor perform tricks?,turkish ice cream (1.00),vendor perform tricks (0.98),none,none,none,none
+Do you know how to make an Apple dessert?,apple dessert (1.00),none,none,none,none,none
+Why do Indonesians eat cheese as a dessert?,indonesian (0.95),cheese as a dessert (1.00),none,none,none,none
+I’m not a fan of root beer but I love ice cream treats. Should I try putting a couple scoops of vanilla ice cream in an ice cold glass of Coca Cola?,beer (1.00),cream treats (1.00),couple scoops of vanilla ice cream in (1.00),root (1.00),ice (0.56),none
+"What is the name of a mild chocolate cake with a thin gelatin/gelled layer in the middle? I think it has Russian, Ukrainian, or Jewish origins.",mild chocolate cake with a thin gelatin / gelled layer in the middle (1.00),", ukrainian, or jewish (1.00)",none,russian (0.98),none,none
+How long does flan take to set in the fridge?,flan (0.76),fridge (0.76),none,none,none,none
+Is water a good substitute for milk in Jello Pudding?,milk in jello pudding (1.00),none,none,water (0.98),none,none
+What is the best brand of frozen egg rolls?,the best (1.00),frozen egg rolls? (1.00),none,none,none,none
+What kinds of fruits are best with cream cheese?,fruits (1.00),with cream cheese (0.88),none,none,none,none
+My grandmother used to serve a dessert called ice milk instead of ice cream. I never see it in the grocery store anymore. Does anyone still make it?,dessert called ice milk instead of ice cream (1.00),store (1.00),it (0.45),grocery (0.50),none,none
+How do I keep desserts chilled in a display? I sell small batches of baked goods to a cafe and am allowed one glass cake stand for display. Is there a cooling pad or something I can buy to keep desserts with fruit or whipped cream cool all day?,desserts chilled in a display (1.00),small batches (1.00),baked goods (1.00),display (0.96),none,none
+What is the best 3-ingredient cake recipe?,the best 3 - ingredient cake recipe (1.00),none,none,none,none,none
+"If water and butter do not mix together (as oils are hydrophobic), then why are water and fats very well mixed in an ice cream?",and (0.69),( as oils are hydrophobic ) (0.77),and fats (0.94),water (0.82),butter (0.71),together (0.29)
+Would you eat vanilla ice cream made from plastic bottles?,vanilla ice cream made from plastic bottles (1.00),none,none,none,none,none
+Is creamed butter and sugar grainy?,creamed butter and sugar grainy? (1.00),none,none,none,none,none
+Does it make sense for a cake icing recipe to call for vinegar but not baking soda?,cake icing recipe (1.00),vinegar but not baking soda (0.98),none,for (0.56),none,none
+Why do wedding cakes never taste good?,wedding cakes (1.00),none,none,good (0.94),none,none
+What are good desserts to pair with pasta bolognese?,dessert (1.00),pair with pasta bolognese (0.94),none,none,none,none
+What happens if you eat too much ice cream?,too much ice cream? (0.96),none,none,none,none,none
+Which cake frosting is your favorite to use on a homemade cake?,cake frosting (0.90),homemade cake (1.00),none,none,none,none
+What is the worst flavor of ice cream that you have tasted?,worst flavor (0.71),ice cream that (1.00),none,tasted (0.57),none,none
+Is there a way to make creme brûlée without using a broiler?,creme brulee (1.00),##iler (1.00),none,using (1.00),bro (0.72),none
+Ben and Jerry's has called to dismantle the police. What will the anti-cop ice cream flavor be called?,ben and jerry's (1.00),##sman (0.57),police (1.00),none,none,none
+What is the most popular dessert in Chile?,popular (0.58),dessert (1.00),chile (0.53),none,none,none
+What is your favourite Spanish dish or dessert and your favourite recipe for it?,favourite spanish dish or dessert (0.99),favourite (0.98),none,it (0.48),none,none
+What is the best ice cream maker?,the best ice cream maker (1.00),none,none,none,none,none
+"Is there a cardiovascular difference between eating a pint of ice cream in one sitting versus eating it over a period of time, such as a week?",difference (0.68),pint of ice cream in one sitting (1.00),it (1.00),cardiovascular (0.98),none,none
+How am I supposed to lose weight when I love desserts so much?,desserts so much (0.99),none,none,weight (1.00),none,none
+What are the mechanics of a can of Reddi Wip (whipped cream)? How does it work?,can of reddi wip ( whipped cream ) (1.00),none,none,none,none,none
+How do I make a cake for someone who doesn’t like sweets?,cake (1.00),none,none,sweets (1.00),none,none
+What is the best way to scoop ice cream?,ice cream? (1.00),none,none,none,none,none
+Why were cornflakes invented? For what reason did it come in this life?,cornflakes (1.00),none,none,it (0.76),none,none
+How do I make ice cream sandwich cookies?,ice cream sandwich cookies (1.00),none,none,none,none,none
+"Why do your teeth hurt when you eat ice cream? How do you control it? Every time I eat ice cream, my gums ache.",ice cream (1.00),it (0.46),ice cream (1.00),teeth (0.87),gums (0.69),none
+What is the name of the famous dessert made of lemon on the Amalfi Coast?,famous dessert made of lemon on the amalfi coast (1.00),none,none,none,none,none
+Can I put ice cream in the fridge instead of the freezer? For how long would that be healthy for the product?,ice cream in (1.00),fridge instead of the freezer (1.00),long (0.94),none,none,none
+What's your favorite recipe to use for banana pudding? Why is it your favorite?,banana pudding (1.00),favorite (0.38),none,none,none,none
+Why is lactose-free ice cream so good?,lactose - free ice cream (1.00),good (1.00),none,none,none,none
+Would you kill for a Klondike ice cream bar?,klondike ice cream bar (1.00),none,none,none,none,none
+Why does ice cream get so hard in the freezer?,ice cream get so hard in the freezer (0.93),none,none,none,none,none
+What desserts can I eat while losing weight?,dessert (0.99),none,none,weight (0.99),none,none
+How do I make perfectly round cake pops?,perfectly round cake pops? (1.00),none,none,none,none,none
+What syrups go best on vanilla ice cream?,syrups go (0.54),best (0.43),vanilla ice cream? (1.00),none,none,none
+"Which one has to go forever, chocolate, cake, or ice cream? Which do you banish?","forever, chocolate, cake, or ice cream? (0.96)",none,none,none,none,none
+Why can I eat ice cream and cookie dough and drink a big milkshake one day and be fine yet a few days later eat some pasta with cream sauce and trigger the most uncomfortable diarrhoea and abdominal bloating?,ice cream and cookie dough and drink a big milkshake one day (1.00),fine yet (0.94),few days later (0.95),none,none,none
+Who can give me a simple recipe for dessert (no baking needed)?,simple (1.00),dessert ( no (1.00),needed ) (1.00),baking (0.85),none,none
+"Are store-bought pastries and desserts made with lard, butter, or other margarine?","store - bought pastries and desserts made with lard, butter, or other margarine (1.00)",none,none,none,none,none
+How do you fix gelatin that didn't set?,gelatin that didn't set (1.00),none,none,none,none,none
+Which breakfast foods are really just desserts masquerading as breakfast?,breakfast foods (0.75),desserts masquerading as breakfast (0.99),none,none,none,none
+How do I make powder makeup into cream?,powder makeup into cream? (1.00),none,none,none,none,none
+How long is it okay to keep the ice cream in the freezer?,ice cream in the freezer (1.00),none,none,none,none,none
+Why doesn’t Ben & Jerry’s sell ice cream in gallons?,’ (0.51),ben & jerry ’ s sell ice cream in gallons (1.00),none,none,none,none
+Would fruits taste good in vanilla ice cream?,fruits (1.00),in vanilla ice cream (0.99),none,none,none,none
+What desserts did they eat in the Renaissance?,dessert (0.97),renaissance (0.37),none,none,none,none
+Why doesn’t ice cream smell like sherbet?,ice cream (1.00),sherbet (1.00),none,none,none,none
+How do I make cream for snow cones?,cream for snow cones? (0.95),none,none,none,none,none
+What is the best dessert to serve with lasagna?,the best dessert (1.00),serve with lasagna? (0.99),none,none,none,none
+"Even though Chinese buffets are my favorite, the dessert is always a disappointment. What are some good Chinese desserts?",chinese buffets (0.89),favorite (0.63),dessert (0.97),none,none,none
+Which city gave its name to a three-coloured Neapolitan ice cream?,city (0.39),three - coloured neapolitan ice cream? (1.00),none,none,none,none
+What are the most cream pies you have had in one day?,cream pies (0.81),none,none,none,none,none
+How do I make ice cream by hand?,ice cream (1.00),none,none,none,none,none
+How can you make mango ice cream at home with natural mangoes?,mango ice cream (1.00),with natural mangoes (1.00),none,none,none,none
+What do I do when I eat pineapple and ice cream at the same time?,pineapple and ice cream (1.00),none,none,none,none,none
+Is Magnum ice cream healthy?,magnum ice cream healthy (0.91),none,none,none,none,none
+How long does it take for Nilla Wafers to soften in banana pudding?,nilla wafers to soften in banana pudding (1.00),none,none,none,none,none
+What is the favorite dessert in the UK? Is it served elsewhere in the world?,favorite dessert (0.99),uk (0.76),served (0.48),none,none,none
+How is McDonald's soft serve ice cream made?,mcdonald's soft serve ice cream made (1.00),none,none,none,none,none
+Has anyone ever tasted chocolate mint ice-cream? What was your reaction when you did?,chocolate mint ice - cream? (1.00),reaction (0.40),none,none,none,none
+"If selling your gelato or ice cream in a restaurant that is not yours, how is inspection dealt with (at least in VA)? In most cases, do restaurants charge for square footage and partial utilities, or a portion of the sale?",gelato or ice cream in a restaurant that (0.96),dealt with ( at least in va ) (0.93),restaurants (0.64),yours (0.90),inspection (0.95),none
+What does buttermilk pie taste like?,buttermilk pie (1.00),none,none,none,none,none
+Is ice cream a less unhealthy snack than chocolate?,ice cream (1.00),less unhealthy snack than (1.00),none,chocolate (0.98),none,none
+"A Chinese restaurant owner told me ""ice cream is not eaten in China."" Is this true or false?",chinese restaurant owner (0.84),ice cream is not eaten in china (1.00),true or false (0.57),none,none,none
+"What is a popular dish or dessert today that has a long, if not ancient, history?",popular dish or dessert today (1.00),", if not (0.87)",", history (0.67)",long (0.94),ancient (0.37),none
+"What are some tips and techniques on how to consider the following factors in plating and presenting dessert: plate, color, texture, cleanliness, and garnishes?","following factors in plating and presenting dessert : plate, color, texture, (1.00)",##liness (0.79),and (0.78),tips and techniques (1.00),clean (0.69),garnishes (0.84)
+"What is the best ice cream (selecta, magnolia, etc.) in the Philippines?","the best ice cream ( selecta, magnolia, etc. ) in (1.00)",philippines (1.00),none,none,none,none
+"Why is it called ""Baked Alaska""?","baked alaska "" (1.00)",none,none,none,none,none
+Would alcohol content in a small dessert be enough to get someone drunk?,small dessert (1.00),drunk (0.59),none,alcohol content in (0.90),none,none
+Is it safe to eat ice cream after drinking coffee?,ice cream after drinking coffee (1.00),none,none,none,none,none
+Does sugar make ice cream freeze faster or slower?,ice cream freeze faster or slower (1.00),none,none,sugar (1.00),none,none
+What’s the difference in ingredients between ice cream and frozen yogurt?,ice cream and frozen yogurt? (1.00),none,none,ingredients (0.95),none,none
+"First date. When eating at a fancy restaurant, are desserts ordered alongside the meal or after? would appreciate other suggestions about restaurant etiquettes.",fancy restaurant (1.00),desserts ordered alongside the meal or after (0.97),##ique (0.70),restaurant et (0.92),##ttes (0.97),none
+What is your best/favorite seasonal dessert or fruit?,best / favorite seasonal dessert or fruit? (0.99),none,none,none,none,none
+What can you substitute for cream in an ice cream recipe?,cream in an ice cream recipe (1.00),none,none,none,none,none
+"What is the best ice cream, Amul or Kwality Wall’s?","the best ice cream, amul or kwality wall ’ s? (1.00)",none,none,none,none,none
+Can I use cornstarch to stabilize whipped cream?,cornstarch to stabilize whipped cream (0.95),none,none,none,none,none
+What are some good recipes for someone who wants to start learning to make desserts and pastries?,desserts and pastries (0.96),none,none,none,none,none
+I want to start making homemade ice cream. What flavor would be the easiest but also fun to make for the first time?,homemade ice cream (1.00),flavor (1.00),be the easiest but also fun (1.00),none,none,none
+Can you eat ice cream and soda at the same time but not mixed?,ice cream and soda (1.00),same time (1.00),mixed (0.83),none,none,none
+How long do you churn ice cream in an ice cream maker?,chu (0.85),ice cream in an ice cream maker (1.00),none,none,none,none
+How do you make Nutella super creamy to make sure it stays soft in sweets?,nutella super creamy (1.00),sure it stays soft in sweets (1.00),none,none,none,none
+What are the most popular pasta flans?,popular (0.51),pasta flans? (0.98),none,none,none,none
+Do they sell ice cream in North Korea?,ice cream (1.00),north korea (1.00),none,none,none,none
+What can I do with my undercooked pineapple upside-down cake? I think the pineapples were not drained well enough so the extra liquid caused my cake to be pasty.,undercooked pineapple upside - down cake (1.00),pineapples were not drained well enough (0.95),liquid (0.76),extra (0.99),none,none
+How can I make the side crusts of my cake less dry?,side crusts of my cake less dry (1.00),none,none,none,none,none
+Is it healthier to eat ice cream or candy?,health (0.74),ice cream or candy (1.00),none,none,none,none
+How is rolled ice cream different from regular?,rolled ice cream (1.00),regular? (1.00),none,none,none,none
+"When you picture an ice cream cone in your head, what flavor is the ice cream?",ice cream cone in (0.88),head (1.00),flavor (0.95),none,none,none
+Why is it best to serve desserts slightly chilled?,desserts slightly chilled? (1.00),none,none,none,none,none
+What desserts start with the letter L?,dessert (0.72),? (0.88),none,letter l (0.83),none,none
+How do I cut a cake in half?,cake in half (0.98),none,none,none,none,none
+Why does the custard in my lemon/lime bars always come out looking terrible and with bad texture?,custard in my lemon / lime bars always come out looking terrible and with (0.95),texture (0.91),none,bad (1.00),none,none
+Do you consider peanut butter a dessert food?,peanut butter (1.00),dessert food (0.92),none,none,none,none
+What is ice cream to easily digest when I have an IBS flare?,cream (0.97),easily digest when (0.85),ibs flare (0.97),ice (0.82),none,none
+Can pastry cream be more than just vanilla?,pastry cream (1.00),just vanilla (0.88),none,none,none,none
+Is French Raclette the best dish of the Alps?,french raclette (0.93),best dish of the alps (0.98),none,none,none,none
+What is the best store-bought dessert?,the best store - bought dessert (0.94),none,none,none,none,none
+How many calories are in a bowl of ice cream?,##ories (1.00),bowl of ice cream (1.00),none,cal (1.00),none,none
+What can you do with a melted unwrapped chocolate bar?,melted unwrapped chocolate bar (1.00),none,none,none,none,none
+Can you add Eno in a chocolate cake?,eno in a chocolate cake (1.00),none,none,none,none,none
+Can ice cream be included in a healthy diet if you eat one scoop per week and exercise regularly?,cream (1.00),healthy diet (1.00),one scoop per week and exercise regularly (0.96),ice (0.67),none,none
+How long does it take to whip heavy whipping cream?,whip heavy whipping cream (0.99),none,none,none,none,none
+Would you put ice cream on top of a hamburger?,ice cream on top of (1.00),hamburger (1.00),none,none,none,none
+How long do I need to freeze the freezer bowl when making the second batch of ice cream?,freezer bowl when making the second batch of ice cream (1.00),none,none,none,none,none
+What is your favorite fruit dessert?,favorite fruit dessert (1.00),none,none,none,none,none
+What is the most unique flavor of ice cream you have tried?,most (0.84),unique (0.46),ice cream (1.00),none,none,none
+Are soft serves the same as ice cream?,serves (0.96),same as ice cream (0.76),none,soft (0.68),none,none
+Why is mint chocolate chip ice cream green?,mint chocolate chip ice cream green (1.00),none,none,none,none,none
+How many Marzipan balls should sit on top of a simnel cake?,marzipan balls (1.00),top (0.46),simnel cake (0.85),none,none,none
+How did the Turkish ice cream show become so popular?,turkish ice cream show (1.00),popular (0.99),none,none,none,none
+Why doesn't sugar-free ice cream taste so good although it tastes no different?,sugar - free ice cream taste so good (0.94),it (1.00),none,different (0.85),none,none
+What is the dessert that you usually enjoy in November?,dessert (1.00),november (0.70),none,none,none,none
+What’s a dessert you only tasted once but have never been able to forget?,dessert (1.00),once (0.53),none,never (0.32),forget (0.96),none
+What bread with what topping makes the best toast?,bread (0.72),the best toast? (0.90),none,what (1.00),topping (0.68),none
+Is Nestle drumstick ice cream halal?,nestle drumstick ice cream halal? (1.00),none,none,none,none,none
+Where can I find Godiva soft serve ice cream?,godiva soft serve ice cream (1.00),none,none,none,none,none
+What is the pope’s favorite ice cream flavor?,pope ’ s favorite ice cream flavor (1.00),none,none,none,none,none
+"When eating a fancy dinner, what is normally your dessert of choice?",fancy dinner (1.00),dessert of choice (0.94),none,none,none,none
+Is there any Artisan Pastry & Desserts course for beginning bakers?,artisan pastry & desserts course for beginning bakers (1.00),none,none,none,none,none
+How do I make cream of turkey soup?,cream of turkey soup (1.00),none,none,none,none,none
+"If you were on a desert island alone, and you could choose to bring 3 cooked different types of food (be precise), to eat for the rest of your life, what would you bring? I would bring a Carbonara, ribeye-Steak and pistacchio gelato.",desert island (1.00),"3 cooked different types of food ( be precise ), (1.00)","carbonara, ribeye - steak and pistacchio gelato (1.00)",none,none,none
+How do I use an ice cream maker?,ice cream maker (1.00),none,none,none,none,none
+How do I make fondant icing at home?,fondant icing (1.00),none,none,none,none,none
+I never tasted cream. What does it taste like?,cream (1.00),it (0.39),none,none,none,none
+"Is it possible to make ice cream with no freezer, just ice?","ice cream with no freezer, just ice (1.00)",none,none,none,none,none
+How can I sweeten frozen mangoes?,sweet (0.83),frozen mangoes (1.00),none,none,none,none
+How do you keep the bottom crust of a cherry pie from getting soggy?,bottom crust of (1.00),cherry pie (0.86),getting soggy (0.64),none,none,none
+Desserts: What are some desserts whose names start with the letter 'M'?,desserts (0.96),desserts whose names start with the letter'm ' (1.00),none,none,none,none
+What are some great ways to make ice cream without an ice cream machine?,ice cream (1.00),cream machine (1.00),none,an (0.98),ice (0.87),none
+How do I make ice cream without ice?,ice cream (1.00),? (0.96),none,ice (1.00),none,none
+Would you ever eat mint ice cream?,mint ice cream (1.00),none,none,none,none,none
+"Which would you choose, ice cream or pizza?",ice cream or pizza (1.00),none,none,none,none,none
+Should I tip at an Ice Cream shop?,ice cream shop (1.00),none,none,none,none,none
+How can you tell if ice cream is moldy before eating it?,ice cream is moldy before eating it (0.98),none,none,none,none,none
+What do you call that cake or ice cream flavor that has 3 colors?,cake or ice cream flavor that has (1.00),none,none,3 colors (0.82),none,none
+How can someone claim to be lactose intolerant if they can enjoy ice cream and pizza?,lactose intolerant if they can enjoy ice cream and pizza (1.00),none,none,none,none,none
+How do I make icing with icing sugar?,icing with icing sugar (1.00),none,none,none,none,none
+What is real ice cream?,real ice cream (1.00),none,none,none,none,none
+"If you are an ""Anglo"" and you serve a dessert, ice cream with little bean-like chocolate bits and call it a ""brrito"", would that be cultural appropriation?",""" anglo "" (1.00)","dessert, ice cream with little bean - like chocolate bits (1.00)",""" brrito "" (0.95)",cultural (0.56),none,none
+What sodas work well with what ice creams?,ice creams? (0.98),none,none,sodas (0.93),what (0.70),none
+How do you make store-bought icing easier to spread?,store - bought icing easier to spread (1.00),none,none,none,none,none
+What are the best Italian chocolates?,the best italian chocolates (0.93),none,none,none,none,none
+"Whenever I bake my cake in my microwave Oven (convec tion mode), it burns within 1 minute even when I have preheated the microwave at 120 only. What am I doing wrong? Or how can I bake my cake without burning it…",cake (1.00),"microwave oven ( convec tion mode ), it (0.94)",within (0.50),1 (0.45),##hea (0.46),wrong (0.72)
+How is ice cream related to Boku no Pico?,ice cream related (1.00),boku no pico? (0.99),none,none,none,none
+Will my ice cream maker stop on its own?,ice cream maker (1.00),own (0.84),none,none,none,none
+Can you create brown butter directly from heavy cream?,brown butter directly from heavy cream (1.00),none,none,none,none,none
+What is your favorite recipe for the most delicious cake?,the most delicious cake (1.00),none,none,none,none,none
+What is your favourite ice cream flavour? How did you get addicted to that taste?,favourite ice cream flavour (0.96),none,none,that taste (0.95),none,none
+What would be a good dessert to go with your version of the beef wellington?,dessert (0.96),the beef wellington (0.76),none,none,none,none
+How do you store an ice cream cake in the fridge?,ice cream cake in the fridge (1.00),none,none,none,none,none
+What do you think about mint ice cream?,mint ice cream? (0.94),none,none,none,none,none
+What time does the ice cream truck come?,ice cream truck (1.00),none,none,none,none,none
+Is melted ice cream less calories than frozen ice cream?,melted ice cream less calories than frozen ice cream (1.00),none,none,none,none,none
+Are donuts considered a breakfast or a dessert?,donuts (0.87),breakfast or (0.91),dessert (0.55),none,none,none
+Does vanilla ice cream have beaver poop in it?,vanilla ice cream (1.00),none,none,beaver poop in it (1.00),none,none
+"If a guy takes a woman on a lunch date, would you expect her to order dessert?",woman (0.94),lunch date (1.00),dessert (1.00),none,none,none
+Does really really good quality coffee ever taste better with sugar or cream?,really really good quality coffee ever taste better with sugar or cream (1.00),none,none,none,none,none
+Should I use salted or unsalted butter for cheesecake?,salted or unsalted butter for cheesecake (1.00),none,none,none,none,none
+"What is a country whose name start with an A, and end with other letter?",country (0.86),", (0.59)",none,name (1.00),a (0.62),other letter (0.99)
+How sick can you get from eating expired ice cream?,expired ice cream? (1.00),none,none,none,none,none
+Are cannolis an authentic Italian pastry dish? How do they put the sweet cream inside the soft outer shell? How do they make the outer shell of the cannoli?,cannolis (0.99),authentic italian pastry dish (1.00),sweet cream inside the soft outer shell (1.00),none,none,none
+Do Turkish women like ice cream?,turkish (0.62),ice cream (1.00),none,none,none,none
+What happens if you eat an expired pie?,expired pie (1.00),none,none,none,none,none
+Can a baby eat cold foods like ice cream and watermelon?,baby (1.00),cold foods like ice cream and watermelon? (0.99),none,none,none,none
+What are the most favorite desserts in Asia nowadays?,most (0.81),favorite (0.71),desserts (0.96),none,none,none
+What are the alternative ingredients to replace the bechamel?,bechamel? (1.00),none,none,alternative (0.86),none,none
+"I baked mini cheesecakes with red cupcake liners but the color transferred a bit to the cake at the folds. It’s said that the liner is food grade, so is it safe to eat?",mini cheesecakes with red cupcake liners but the color transferred a bit (0.98),cake at (0.71),folds (0.37),the (0.37),liner (0.90),it (0.60)
+What are the best frozen pancakes?,the best frozen pancakes (1.00),none,none,none,none,none
+Is Italian style gelato achievable with standard home ice cream makers and home freezers?,italian style gelato achievable with standard home ice cream makers and home freezers (1.00),none,none,none,none,none
+Is it more socially acceptable to eat ice cream or cereal at 3 am?,ice cream or cereal (1.00),am (1.00),none,socially (1.00),3 (0.59),none
+What do I do if my custard is too thick?,custard (1.00),thick (0.95),none,none,none,none
+"Who wins when it comes to cheese, wine, and desserts, Italy or France?","cheese, wine, and desserts, italy (0.98)",france (0.55),none,none,none,none
+How do you eat panettone?,panettone? (0.96),none,none,none,none,none
+"Which is better for homemade frozen yogurt, Greek yogurt or plain yogurt?","homemade frozen yogurt, greek yogurt or plain yogurt (1.00)",none,none,none,none,none
+"What would the straight up bad effects be if a person ate ALL of the ice cream in the sundae challenge, and all within the time limit?",straight up bad effects be (0.94),"person ate all of the ice cream in the sundae challenge, and all within (0.94)",time limit (0.98),none,none,none
+Why do ice and salt make ice cream?,ice and salt make ice cream (1.00),none,none,none,none,none
+What the best way to get rid of ice crystals in my ice cream if I want to eat the rest of it?,the best (0.81),ice crystals in my ice cream (1.00),rest of it (1.00),none,none,none
+How much is a McDonald’s ice cream machine?,mcdonald ’ s ice cream machine (1.00),none,none,none,none,none
+Do you like fried bananas with whip cream?,fried bananas with whip cream (1.00),none,none,none,none,none
+"Why is soft serve ice cream often colloquially shortened to ""Fro-Yo"" despite the seemingly unrelated and dissimilar naming conventions?","soft serve ice cream often colloquially shortened to "" fro - yo "" despite the seemingly unrelated and dissimilar naming conventions (1.00)",none,none,none,none,none
+I love ice cream but I am on diet. Should I totally abandon eating ice cream?,cream (0.99),eating ice cream (1.00),none,ice (0.94),none,none
+Why is it unlucky to eat only half of the fortune cookie?,##lu (0.39),only half of the fortune cookie (0.93),none,none,none,none
+What happens if you eat an entire pint of ice cream?,entire pint of ice cream? (1.00),none,none,none,none,none
+What is the red sauce on strawberries that are usually put on top of cakes?,red sauce on strawberries that are usually put on top of cakes (1.00),none,none,none,none,none
+How could a deliciously fresh dessert without cooking be obtained?,deliciously fresh dessert (1.00),none,none,cooking (1.00),none,none
+Can eating ice cream raise your blood pressure?,ice cream (1.00),blood pressure (0.82),none,none,none,none
+"How did the Mayas, the Spaniards, and the English use chocolate? How is chocolate used today?","mayas, the spaniards, and the english (1.00)",none,none,chocolate (0.99),chocolate used (0.83),none
+Why do some people enjoy eating ice cream in the winter?,ice cream (1.00),the winter (0.94),none,none,none,none
+How long does a DairyQueen ice cream cake last in the freezer before becoming unsafe to eat?,dairyqueen ice cream cake last in the freezer before (1.00),none,none,eat (0.99),none,none
+How do I make a crispy peach cobbler?,crispy peach cobbler? (1.00),none,none,none,none,none
+Will one bowl of ice cream ruin a diet?,ice cream (1.00),none,none,none,none,none
+Can we eat chocolate ice cream during the fast of Navratri?,chocolate ice cream during the fast of navratri (1.00),none,none,none,none,none
+Why does ice cream give me heartburn?,heartburn (0.99),none,none,ice cream (1.00),none,none
+What is the best ice cream you've ever had?,best ice cream (0.95),ever (0.65),none,none,none,none
+What are some of the great easy-to make desserts?,great easy - to make desserts (1.00),none,none,none,none,none
+Why does cake icing taste so bad?,cake icing (1.00),bad (0.63),none,none,none,none
+Has a type of ice cream ever been marketed that contained crunchy bacon bits mixed with vanilla or French vanilla ice cream?,ice cream (1.00),contained crunchy bacon bits mixed with vanilla or french vanilla ice cream (1.00),none,none,none,none
+Are cakes better than ice creams?,cakes (1.00),creams (0.98),none,ice (0.98),none,none
+What did they eat for dessert in medieval times?,dessert (0.98),medieval times (0.70),none,none,none,none
+Why are some people fond of sweet dishes even though they know their hazards?,none,none,none,sweet dishes even (0.95),they (0.60),their hazards (0.91)
+Is pudding a safe dessert to spoil your kids with?,safe dessert (0.84),kids with (0.89),none,none,none,none
+How do I make a flan in the oven?,flan in the oven (1.00),none,none,none,none,none
+What type of ice cream goes best with brownies?,ice cream goes best with brownies (1.00),none,none,none,none,none
+Whatever happened to McDonald's cookies?,mcdonald's cookies (1.00),none,none,none,none,none
+Can I freeze a soft serve ice cream?,soft serve ice cream (1.00),none,none,none,none,none
+What was your worst baking disaster?,worst baking disaster (0.91),none,none,none,none,none
+What is your favorite dessert from your culture?,favorite (0.89),dessert (0.90),none,culture (0.32),none,none

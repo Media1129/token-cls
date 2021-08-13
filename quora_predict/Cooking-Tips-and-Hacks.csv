@@ -1,0 +1,817 @@
+utterance,dishname_first (score),dishname_second (score),dishname_third (score),ingredient_first (score),ingredient_second (score),ingredient_third (score)
+Are potato wedges fried or baked?,potato wedges fried or baked? (1.00),none,none,none,none,none
+How is the perfect onion ring prepared according to the chef’s source?,perfect onion ring prepared according (1.00),the chef ’ s source (1.00),none,none,none,none
+"What are some tricks to preserve the leftover pizza and bring it to the table the following day, always soft and fragrant as fresh from the oven?",leftover pizza (1.00),it (1.00),table (1.00),none,none,none
+"Can you make minute rice the way you make risotto, or would that turn out weird?",minute rice the way (1.00),"risotto, (1.00)",weird (0.43),none,none,none
+What recipes do you love that happen to rely on dry ingredients?,none,none,none,dry ingredients (1.00),none,none
+What tools can I use from my kitchen to cook food on steam without a steamer?,food on steam (1.00),none,none,tools (0.36),a (0.97),steamer (1.00)
+How do you thicken au jus? What are some tips?,thicken au jus? (1.00),? (0.90),none,tips (1.00),none,none
+How do you fix undercooked rice in a rice cooker?,undercooked rice in a rice cooker (1.00),none,none,none,none,none
+How is pizza sauce different from regular pasta sauce?,pizza sauce (1.00),from regular pasta sauce (1.00),none,none,none,none
+"What is your tip or secret for keeping the ""hard shell"" on your tacos from breaking?",tip or secret (0.89),""" hard shell "" on your tacos from (0.99)",none,breaking (0.78),none,none
+How much water do I put in my Zojirushi rice cooker?,zojirushi rice cooker (1.00),none,none,water (1.00),none,none
+Is butter good for searing steak?,butter (0.66),searing steak (1.00),none,none,none,none
+"What is the quickest, easiest way to remove the outer skin of an onion?","quickest, easiest (1.00)",the outer skin of (0.87),onion (1.00),none,none,none
+Should you grill salmon with the skin-side down first?,salmon with the skin - side down first (0.99),none,none,none,none,none
+How do I heat up a baked potato?,baked potato? (1.00),none,none,none,none,none
+Why does my rice always taste watery when I cook it what am I doing wrong?,rice (0.98),it (0.62),none,watery (0.72),wrong (0.63),none
+Why does it take so long to make pancake batter?,pancake batter (1.00),none,none,none,none,none
+How do I make a zucchini wrapped sole recipe?,zucchini wrapped sole recipe (1.00),none,none,none,none,none
+What are some ways to improve canned tomato soup to make it taste better?,canned tomato soup to make it taste better (1.00),none,none,none,none,none
+How do you fix pulled pork that turned out dry? Will adding a ton of butter help?,pulled pork that turned out dry? (1.00),adding (0.36),ton of butter (0.90),none,none,none
+How long does it take to cook a 9lb spiral ham?,9lb spiral ham? (1.00),none,none,none,none,none
+What should you never do when cooking mushrooms?,mushrooms (1.00),none,none,none,none,none
+How hot should oil be for frying?,frying (0.82),none,none,hot (0.27),oil (0.62),none
+How do you can food with a pressure cooker?,none,none,none,pressure cooker (0.96),none,none
+How do you keep chicken from burning on the grill?,chicken from burning on the grill (1.00),none,none,none,none,none
+What is the best way to counteract vinegar if too much is put into soup?,##act vinegar if too much is put into soup (0.87),none,none,none,none,none
+"What type of cooked pasta reheats best, egg-based or water-based?","cooked pasta reheats best, egg - based or water - based? (1.00)",none,none,none,none,none
+How do I cook a bottom round rump roast?,bottom round rump roast? (0.98),none,none,none,none,none
+How can I stop food from sticking to the bottom of the air fryer?,food (1.00),sticking (0.60),to (0.40),none,none,none
+How do you saute shrimp in butter?,##ute shrimp in butter? (0.95),none,none,sa (0.70),none,none
+What is the easiest pasta dish to prepare?,easiest pasta dish (0.99),none,none,none,none,none
+How do you clean and cook asparagus?,asparagus? (1.00),none,none,none,none,none
+Why is a 3/4 cups not common measurement cup in measurement sets?,3 / 4 cups not common measurement cup in measurement sets (1.00),none,none,none,none,none
+How do I cook a rock cornish game hen?,rock cornish game hen? (0.99),none,none,none,none,none
+How do I seal a jar with a jam so that it can be opened without breaking the lid?,jar (1.00),it (0.47),opened (0.42),jam (1.00),breaking (0.99),lid (0.86)
+Why do you bring steak to room temperature before cooking?,steak (1.00),room temperature (0.99),none,cooking (0.97),none,none
+How do you fry pork chops without them sticking to the pan?,pork chops (1.00),to (0.39),pan (1.00),them (1.00),sticking (0.71),the (0.98)
+What is a panade in cooking?,panade in cooking (1.00),none,none,none,none,none
+How do I cook and mash sweet potatoes?,and mash sweet potatoes? (1.00),none,none,none,none,none
+What's the best lamb for roasting?,the best lamb for roasting? (1.00),none,none,none,none,none
+What does it mean to cook a steak blue?,steak blue? (1.00),none,none,none,none,none
+How do I cook without oil or butter?,without oil or butter? (1.00),none,none,none,none,none
+Why does my brown rice always turn out hard?,brown rice always turn out hard (0.88),none,none,none,none,none
+"What are some easy, quick, and low-budget recipes?","easy, quick, and low - budget recipes (1.00)",none,none,none,none,none
+"What is the best way to tenderize a steak, without making a career out of it?","steak, (1.00)",career out (0.78),none,making (0.92),it (0.81),none
+What’s are some of your favourite summer gathering recipes?,favourite summer gathering recipes (1.00),none,none,none,none,none
+How do you keep bacon from curling up while you cook it?,bacon from curling up (0.93),it (0.93),none,none,none,none
+How do I fry French fries at home?,french fries (1.00),none,none,none,none,none
+How do you toast pecans on the stove?,pecans on the stove (1.00),none,none,none,none,none
+How do you keep the crust of a frozen pizza from burning?,crust (1.00),frozen pizza from (0.95),none,burning (0.98),none,none
+How can I replace peanut butter in a recipe?,peanut butter in (1.00),recipe (0.99),none,none,none,none
+How do you make scampi sauce?,scampi sauce? (0.93),none,none,none,none,none
+How could you roast eggplants without having a grill?,eggplants (1.00),? (0.92),none,grill (1.00),none,none
+What are the advantages of stir frying?,stir frying (1.00),none,none,none,none,none
+Can you grate an onion?,onion (1.00),none,none,none,none,none
+What kind of fuel should I use in a fondue burner?,fondue burner (1.00),none,none,fuel (0.99),none,none
+What are the most common blunders in home cooking?,most (0.57),blu (0.56),home cooking (0.66),common (0.46),##nders (0.91),none
+Are store-bought tortillas fully cooked?,store - bought tortillas fully cooked? (0.99),none,none,none,none,none
+How do I fix soggy fried rice?,soggy fried rice (1.00),none,none,none,none,none
+How do I cook zucchini on a stove top?,zucchini on a stove top (1.00),none,none,none,none,none
+How do I cook a boneless top sirloin steak?,boneless top sirloin steak? (1.00),none,none,none,none,none
+How do you choose and cook your pasta so that it sticks well to the sauce?,pasta (1.00),it sticks well to the sauce (0.72),none,none,none,none
+How hot do you cook a turkey?,turkey (1.00),none,none,none,none,none
+How do I make canned chicken taste good?,canned chicken taste good? (1.00),none,none,none,none,none
+How do I cook a bone in an oven?,bone in an oven (1.00),none,none,none,none,none
+How do I cook a turkey with cheesecloth?,turkey with cheesecloth? (1.00),none,none,none,none,none
+Does marinating steak make it more tender?,tender (0.58),none,none,marinating steak (1.00),none,none
+How do I cook a 5lb beef tenderloin?,5lb beef tenderloin? (1.00),none,none,none,none,none
+Do you have to soak rice noodles before cooking?,so (0.73),rice noodles (1.00),cooking (0.53),none,none,none
+What is a nice alternative to pancetta when preparing carbonara?,pancetta when preparing carbonara? (1.00),none,none,none,none,none
+What is the best way to grill ahi tuna?,ahi tuna? (0.99),none,none,none,none,none
+"What is the best way to prepare hotdogs? Boiled, fried or microwaved?","hotdogs? boiled, fried or microwaved? (1.00)",none,none,none,none,none
+What are some of the best ways to elevate a simple dish up to another level?,the best (1.00),eleva (0.80),simple dish up (1.00),none,none,none
+What are some good tips for an oven that is too hot at the bottom?,oven (1.00),is too hot at the bottom (0.90),none,good (0.99),none,none
+How do I cook pheasant on the stove?,pheasant on the stove (1.00),none,none,none,none,none
+How can you fix a cast iron pan that becomes sticky after cooking?,cast iron pan that becomes sticky after cooking (1.00),none,none,none,none,none
+What ingredients do you use for cooking bacon?,bacon (1.00),none,none,ingredients (0.97),none,none
+How do I make a giant chicken nugget?,giant chicken nugget? (1.00),none,none,none,none,none
+How could you fry food without always using oil?,food (1.00),none,none,always using oil (1.00),none,none
+How do I cut an eggplant for eggplant parmesan?,eggplant for eggplant parmesan? (0.97),none,none,none,none,none
+How long does it take to cook asparagus at 450?,asparagus at 450? (1.00),none,none,none,none,none
+Why do baking recipes call for unsalted butter?,baking recipes (0.89),unsalted butter (1.00),none,none,none,none
+How do I make popcorn like in the movies?,popcorn like in the movies (1.00),none,none,none,none,none
+How do I safely make cold cut deli meat?,cold cut deli meat (1.00),none,none,none,none,none
+"I love baking and cooking, but I can't bake or cook anything. I can't even make a doughnut. What do I do?",bake or cook anything (0.83),doughnut (1.00),none,baking (1.00),cooking (0.83),none
+What happens to your rice if you leave it in the rice cooker on warm mode?,rice (0.99),it in the rice cooker on warm mode (0.93),none,none,none,none
+How do you cook bacon and eggs in the same pan?,bacon and eggs in the same pan (1.00),none,none,none,none,none
+Can you use the oven and stove at the same time?,oven and (0.96),none,none,stove (0.52),none,none
+What would be a good non-dairy butter substitute for preparing a steak?,good non - dairy butter substitute for (1.00),steak (0.99),none,none,none,none
+How do you crush grains at home?,grains (0.97),none,none,none,none,none
+Have you ever cooked the eggplant like this? I can never stop cooking eggplant.,eggplant (1.00),this (0.80),eggplant (0.98),none,none,none
+"What kind of meat should be used for fondue, and why?","fondue, and why (0.84)",none,none,meat (0.96),none,none
+Can you grill and barbecue when it is raining outside?,when it (0.67),raining outside (0.85),none,none,none,none
+How would you prepare the fastest and tastiest summer meal in a few minutes?,the fastest and tastiest summer meal (1.00),a few minutes (1.00),none,none,none,none
+Do you use the same amount of pure vanilla as vanilla extract?,pure vanilla as vanilla extract (1.00),none,none,none,none,none
+"Do you have to peel potatoes for a soup? E.g. Scotch Broth. When I bake potatoes I leave the skin on, that's the best bit isn't it?",potatoes for (1.00),soup? e. g. scotch broth. (1.00),bake potatoes i (0.97),skin (0.83),none,none
+Has anyone ever tried heating or reheating food in a microwave using cooking oil?,or reheating food in a microwave using cooking oil (0.98),none,none,heating (0.99),none,none
+Should I blanch vegetables before roasting?,vegetables before roasting (0.99),none,none,none,none,none
+How large in diameter should one’s frying pan be for stir fry?,diameter (0.64),one ’ s frying pan (1.00),for stir fry (0.94),none,none,none
+What are your techniques in cooking eggs to be delicious?,eggs to be delicious (1.00),none,none,none,none,none
+What are some simple cooking tips that can make a quick and easy dish taste better?,quick and easy dish taste better (1.00),none,none,simple cooking tips (0.89),none,none
+How can you incorporate leftover broccoli into other recipes?,leftover broccoli into other recipes (1.00),none,none,none,none,none
+Is it worth getting canned whole tomatoes to then immersion blend them?,canned whole tomatoes to then immersion blend them (1.00),none,none,none,none,none
+What if a recipe calls for two eggs but you have only one?,two eggs (1.00),none,none,one (0.99),none,none
+How do you make blueberry pie filling from scratch?,blueberry pie filling from scratch? (0.97),none,none,none,none,none
+How do I cook a 20 lb ham?,20 lb ham? (1.00),none,none,none,none,none
+How do I bake a tri-tip roast?,tri - tip roast (1.00),none,none,none,none,none
+"Is it really necessary to soak the potatoes in water, before putting them in the oven/pan?","potatoes in water, (1.00)",them (0.71),oven / pan (0.99),none,none,none
+"When trying to sear a steak on the pan, is it best to have the pan as hot as possible before putting the steak on or cold?",steak on the pan (1.00),pan as hot as possible (0.86),steak (0.96),or (0.50),none,none
+How do I avoid splatter when cooking with oil?,splatter when cooking with oil (1.00),none,none,none,none,none
+What's the best method for removing fat off a whole chicken?,best (0.45),fat off a whole chicken? (0.99),none,none,none,none
+How long should dry beans be soaked before cooking?,dry beans (1.00),soaked before (0.58),none,cooking (0.81),none,none
+How many cloves of garlic should you use for one portion of pasta sauce?,cloves of garlic (1.00),one portion of pasta sauce (1.00),none,none,none,none
+How do I cook a country cured ham?,country cured ham? (1.00),none,none,none,none,none
+Can I use pasta sauce instead of tomato sauce?,pasta sauce instead of tomato sauce (1.00),none,none,none,none,none
+How do I cook a petite tender beef filet?,petite tender beef filet? (1.00),none,none,none,none,none
+How can you fix it when you overproof your pizza dough?,overproof your pizza dough (0.99),none,none,none,none,none
+What is the best way to fix Yukon Gold potatoes?,yukon gold potatoes (1.00),none,none,none,none,none
+How do I cook garlic in the microwave?,garlic in the microwave? (1.00),none,none,none,none,none
+When I don't have an egg tray or egg carton how to carry eggs without breaking them?,egg tray or egg carton how to carry eggs (1.00),them (0.77),none,breaking (1.00),none,none
+What is the most practical way to steam rice?,rice (1.00),none,none,none,none,none
+What is the most difficult way to cook an egg?,egg (1.00),none,none,none,none,none
+Is it okay to let the chicken marinate for 15-20 minutes before cooking?,chicken marinate for 15 - 20 minutes (1.00),none,none,cooking (0.85),none,none
+Is dry ginger an option for fresh ginger in recipes?,ginger (1.00),fresh ginger in recipes (1.00),none,dry (0.86),none,none
+What do you call foods cooked in a frying pan?,foods cooked in a frying pan (1.00),none,none,none,none,none
+What is the best way to not have dough stick to your hands as you’re kneading it?,dough stick to (0.71),hands as (0.91),knead (0.98),none,none,none
+Help! I forgot to put onions in my meatloaf. Meatloaf is already done so I cut it in half and stuffed raw onions in it. How long before onions are cooked on 375 in oven without overcooking meatloaf?,onions in my meatloaf. meatloaf is already done (1.00),it in half (0.80),stuffed raw onions in it (0.88),over (1.00),##ng (0.92),none
+"Why should you gently fry/infuse your olive oil with garlic (or lime zest/salt etc.) and not the meat directly that you're pan-frying (cooking, technique, flavor, aroma, food science)?",fry (0.95),infus (0.99),olive oil with garlic ( or lime zest / salt etc. ) and (1.00),meat (1.00),none,none
+What are some uncomplicated ingredients that can really make a boring dish tasty?,can really make (0.89),boring dish tasty (0.97),none,uncomplicated ingredients that (0.95),none,none
+"What's a good, lightweight solution for portable cookware?","good, lightweight solution (1.00)",portable cookware (1.00),none,none,none,none
+How long does steak last after being cooked?,steak (1.00),cooked (0.45),none,none,none,none
+How do I cook a sirloin steak medium rare?,sirloin steak medium rare? (1.00),none,none,none,none,none
+What can you cook in a multicooker?,multicooker (1.00),none,none,none,none,none
+Why does ground beef get tougher the more it’s handled prior to cooking?,ground beef (1.00),##er the more it ’ s handled prior (0.93),none,tough (0.66),cooking (0.96),none
+What is the difference between broiling and braising?,broiling and braising (1.00),none,none,none,none,none
+Does a roasting pan have to have a lid to cook a large stuffed turkey properly?,roasting pan (1.00),large stuffed turkey properly (1.00),none,lid (1.00),none,none
+Can you leave pizza dough to rise for hours?,pizza dough (1.00),rise for hours (0.99),none,none,none,none
+How do I cook a 6-pound chicken?,6 - pound chicken? (1.00),none,none,none,none,none
+What ingredients can be added to pasta dough to give it more flavor?,pasta dough (1.00),it (0.97),none,ingredients (0.99),flavor (0.49),none
+What's your cooking tip that sounds gross but is actually amazing?,cooking tip that sounds gross but is actually amazing (0.98),none,none,none,none,none
+What can you add to make your oatmeal tastier?,oatmeal tastier (1.00),none,none,none,none,none
+How long do you cook string beans?,string beans? (1.00),none,none,none,none,none
+How long does it take to cook pork at 350?,pork at 350? (1.00),none,none,none,none,none
+What is the best way to clean a roasting tray/baking tray that has sauce burned onto it?,roasting tray / baking tray that has (1.00),burned onto (0.89),none,sauce (0.98),none,none
+How do I cook a pork blade roast?,pork blade roast (1.00),none,none,none,none,none
+"When you cook, do you often spice up your preparations? If so, what kind?",preparations (0.83),so (0.40),none,kind (0.34),none,none
+"Can popcorn be made out of any kind of corn? If so, why don't we do that more often?",popcorn (1.00),made out of any kind of corn (0.99),often (0.55),none,none,none
+"As a cooking enthusiast, what is one thing you absolutely could not do without in the kitchen?",cooking (1.00),absolutely could not (0.45),none,in (0.96),kitchen (0.63),none
+With what do you balance a dish that turned out more spicy than you planned?,dish (1.00),out more spicy than (0.74),none,turned (0.98),none,none
+How do I boil eggs to make them easy to peel?,eggs (1.00),them (0.99),easy to peel (0.91),none,none,none
+What do you add to powdered gravy to make it better?,powdered gravy to (1.00),it better (0.98),none,none,none,none
+Does the way you prepare garlic impact its flavor?,garlic impact its flavor (1.00),none,none,none,none,none
+How long does it take to cook oatmeal in a microwave?,oatmeal in a microwave (1.00),none,none,none,none,none
+How do you soften tough corned beef?,soft (1.00),tough corned beef (1.00),none,none,none,none
+How can I make ham taste more interesting? The hams I cooked are usually very plain.,ham taste more interesting (1.00),hams (0.96),none,plain (0.62),none,none
+How often do you cook a slow stew?,slow stew (1.00),none,none,none,none,none
+How long does it take to reheat pasta in a microwave?,reheat pasta in a microwave (0.94),none,none,none,none,none
+Can rice be cooked in a pressure cooker?,rice (0.99),pressure cooker (1.00),none,none,none,none
+Is there any benefit of sous vide in butter?,vide in butter (0.93),none,none,sous (0.73),none,none
+How do I cook a tender chicken breast?,tender chicken breast? (1.00),none,none,none,none,none
+How do I cook tamales on the stove?,tamales on the stove (1.00),none,none,none,none,none
+How long do you soak kidney beans?,kidney beans? (1.00),none,none,none,none,none
+How much uncooked rice makes 1 cup cooked?,1 cup cooked? (1.00),none,none,uncooked rice makes (0.87),none,none
+How do I cook a pork Boston butt steak?,pork boston butt steak? (1.00),none,none,none,none,none
+Can pizza dough be made in advance?,pizza dough (1.00),made in advance (0.86),none,none,none,none
+What are the advantages of brining a turkey?,turkey (1.00),none,none,br (0.95),none,none
+How do I make Mac and cheese cheesier?,mac and cheese cheesier? (1.00),none,none,none,none,none
+What did you cook last week?,last week (0.88),none,none,none,none,none
+What cheap nice food can I cook on a budget?,cheap nice food (1.00),none,none,none,none,none
+What can I do to drain my vegetables from the oil that I used too much of?,vegetables from the oil that (1.00),used (0.77),much of (0.70),none,none,none
+How do I cook cabbage in a pot?,cabbage in a pot? (0.96),none,none,none,none,none
+What are the best stocks you can use while cooking lamb?,lamb (0.99),none,none,best stocks (0.81),none,none
+How long should a rub stay on meat before cooking?,rub stay on (1.00),meat before (0.84),none,cooking (0.76),none,none
+How long does it take to cook uncooked chicken tenders?,uncooked chicken tenders (1.00),none,none,none,none,none
+How do I cook chicken on a traeger?,chicken on a traeger? (1.00),none,none,none,none,none
+How long do you let charcoal burn before cooking?,charcoal burn before cooking (0.98),none,none,none,none,none
+How do I use a power pressure cooker?,power pressure cooker (1.00),none,none,none,none,none
+How do I make my homemade yogurt less sour?,homemade yogurt less sour? (1.00),none,none,none,none,none
+How do you cook steak fajitas without the meat being too tough?,steak fajitas (1.00),none,none,the (1.00),meat being (0.75),tough (0.95)
+Why is it important to cut vegetables into a uniform size before cooking?,vegetables into a uniform size (0.94),none,none,cooking (1.00),none,none
+How do I cook on a cast iron griddle?,cast iron griddle? (1.00),none,none,none,none,none
+Is steak better if cooked in a stone/wood fired oven?,steak (0.80),cooked (0.78),stone / wood fired oven (1.00),none,none,none
+How do I thicken pasta sauce without cornstarch?,thick (0.74),pasta sauce (0.93),none,cornstarch (1.00),none,none
+How do you cook spinach without losing nutrients?,spinach (1.00),nutrients (1.00),none,losing (1.00),none,none
+"Can you slow roast a Strip Steak to make it more tender? Our grocers meats are pretty bad, tasteless and tough. I've tried Sous Vide, reverse sear, brining and roasting . . . looking for the roasting trick to work.",strip steak (1.00),it more tender (1.00),our grocers meats (1.00),none,none,none
+Can I use any chili paste as a substitute for sambal?,chili paste (1.00),sambal (0.98),none,none,none,none
+How could you prepare an appetizing bruschetta in a few minutes?,appetizing bruschetta (1.00),a few minutes (0.91),none,none,none,none
+What is your favorite ketchup recipe and/or unique recipe item for your ketchup?,favorite ketchup recipe and / or unique recipe item for (0.97),ketchup (1.00),none,none,none,none
+Do different cooking methods affect meat taste?,meat taste (0.71),none,none,cooking methods (0.91),none,none
+How long do you cook a medium rare steak on the stovetop?,medium rare steak on the stovetop (1.00),none,none,none,none,none
+What are some safety precautions for cooking?,cooking (0.62),none,none,safety precautions (0.99),none,none
+Can ragù be used for dishes that don't contain pasta?,dishes (1.00),none,none,ragu (0.99),pasta (1.00),none
+How do I cook a pork shoulder roast?,pork shoulder roast? (0.92),none,none,none,none,none
+What are the mistakes not to make because they would spoil the clams before cooking?,mistakes (0.84),because they would spoil the clams before (0.81),none,cooking (0.90),none,none
+How long does it take to pressure cook a pork roast?,pork roast (1.00),none,none,none,none,none
+How do you make bacon not crispy?,bacon not crispy? (1.00),none,none,none,none,none
+How do I prepare steak on the stove?,steak on the stove (1.00),none,none,none,none,none
+Can You cook sardines (canned) in many ways?,sardines ( canned ) in many ways (1.00),none,none,none,none,none
+What is the best technique to ensure pan-fried sandwiches (e.g. a reuben) does not fall apart when you flip it?,pan - fried sandwiches ( e. g. a reuben ) does not fall apart when (1.00),it (0.85),none,none,none,none
+How much rice should I cook for 4?,for 4? (1.00),none,none,rice (1.00),none,none
+How do I slice cheese without a slicer?,cheese (1.00),none,none,a (0.99),slicer (1.00),none
+What is bain marie in cooking? What benefits does it have for food?,bain marie (0.73),it (0.43),none,cooking (0.60),benefits (0.50),food (1.00)
+I've put too much mustard in my potato salad. Do you have a remedy so I can salvage my dish?,mustard in my potato salad (0.90),dish (0.88),none,remedy (0.99),none,none
+What will happen to my cake if I don't preheat the oven?,cake (1.00),the (0.40),none,pre (0.47),##hea (0.48),oven (0.44)
+How do I cook white rice in an instant pot?,white rice in an instant pot? (0.97),none,none,none,none,none
+Are woks practical for cooking for a family?,wo (0.54),family (0.99),none,##ks (0.70),none,none
+Does steak from a supermarket cook quicker than steak from butchers?,steak from (1.00),supermarket (0.91),quicker than steak from butchers? (0.95),none,none,none
+What are some tips for searing a steak?,steak (1.00),none,none,none,none,none
+Are popcorn kernels edible?,popcorn kernels (1.00),none,none,none,none,none
+What are some recipes for cooking corn on the cob?,corn on the cob? (1.00),none,none,none,none,none
+How do I broil lamb chops in an oven?,lamb chops in an oven (0.99),none,none,bro (0.58),none,none
+What are some easy tricks to prolong the life of your grill?,prolong (0.51),life (0.98),grill (0.81),easy tricks (0.93),none,none
+Is it worth it to buy more expensive eggs?,more expensive eggs (0.94),none,none,none,none,none
+How do I cook poached eggs without it sticking to the pan?,poached eggs (1.00),sticking to the pan (0.82),none,it (1.00),none,none
+What's the recipe for a tempura worthy of the name?,tempura worthy of the name (1.00),none,none,none,none,none
+How do you make cabbage interesting?,cabbage interesting? (1.00),none,none,none,none,none
+Can I brush melted butter on the edges of a pizza before cooking it?,melted (0.71),on the edges (0.96),pizza (0.77),butter (0.68),none,none
+How can you ruin an expensive cut of steak?,expensive cut of steak (1.00),none,none,none,none,none
+Can hard boiled eggs be made in a steamer?,hard boiled eggs (1.00),made in a steamer (0.99),none,none,none,none
+What’s a good potato recipe for a terrible cook like myself?,good potato (1.00),terrible cook (0.77),none,none,none,none
+How do I rescue a dish which is too salty or too oily?,dish (1.00),none,none,salty or (0.85),too (0.48),oily? (0.80)
+What are the best tomato sauces (with herb or without) you use while cooking?,the best tomato sauces ( with herb or without ) you (1.00),none,none,none,none,none
+"What's the quickest way to cook pinto beans, so I can make homemade refried beans?",quick (0.97),pinto beans (1.00),homemade refried beans (0.92),none,none,none
+How do I saute spinach with olive oil?,spinach with olive oil? (0.95),none,none,sa (0.83),none,none
+How long does it take to cook a sirloin roast?,sirloin roast? (0.99),none,none,none,none,none
+How long does it take to cook wings at 400?,wings at 400? (1.00),none,none,none,none,none
+"When making your pizza at home, how do you apply the toppings?",pizza (1.00),? (0.37),none,the (0.99),toppings (0.81),none
+"Can I combine meat and fruit in a main dish? If so, what do you suggest?",meat and fruit in (1.00),main dish (1.00),none,none,none,none
+What is your go-to 'save it from the trash’ recipe?,go - to'save it from the trash ’ (1.00),none,none,none,none,none
+Why isn't dry pasta salted?,dry pasta salted? (1.00),none,none,none,none,none
+What are some grilling tools that everyone should have?,everyone (0.42),none,none,grilling tools (1.00),none,none
+How do I cook a rib eye roast in the oven?,rib eye roast in the oven (1.00),none,none,none,none,none
+How do I reuse an undercooked steak?,undercooked steak (1.00),none,none,none,none,none
+Why do you have to stir pasta in the bowl to prevent it from sticking?,pasta in the bowl (1.00),it (0.94),none,sticking (0.93),none,none
+How long does it take to broil thick pork chops?,broil thick pork chops (0.99),none,none,none,none,none
+What is gratin in cooking?,##atin in cooking (0.75),none,none,gr (0.80),none,none
+What is the best thing to add to leftover pizza to make it taste fresh?,leftover pizza to (1.00),it taste fresh (0.98),none,none,none,none
+How do I make a beef eye round roast?,beef eye round roast? (1.00),none,none,none,none,none
+What is the cheapest way to make plain pasta taste better?,cheap (0.58),plain pasta taste better (1.00),none,none,none,none
+Do you love pepperoni grease? Would you buy jars of it to cook with?,pepperoni grease (1.00),jars of it to (0.89),with (0.97),none,none,none
+Does it ruin pasta to cook without salt?,pasta (0.44),without salt (1.00),none,none,none,none
+Which spices do well in both sweet and savory recipes?,both sweet and savory recipes (0.99),none,none,spices (0.93),none,none
+How many recipes out of a cookbook do you actually use?,recipes out (0.74),cookbook (1.00),none,none,none,none
+"Does adding salt while shallow frying onions make them fry quicker? If so, what’s the reason behind it?",shallow frying (0.88),them fry quicker (0.97),none,adding salt while (0.79),onions (0.64),none
+How can you make your beans more watery when cooking?,beans more watery when cooking (1.00),none,none,none,none,none
+What can I do in the kitchen with a searing torch?,kitchen (1.00),torch (0.95),none,searing (0.61),none,none
+Why do some people store salt in the refrigerator?,people store salt in the refrigerator (1.00),none,none,none,none,none
+"Device I can buy or build myself to make (roll) Cheeseballs (basically some grinded vegetables/spices and different types of cheese shredded as well) before adding the breadcrumbs and egg yolk, because I have to roll like alot of balls?",( roll ) cheeseballs ( basically some grinded vegetables / spices and different types of cheese shredded as well ) (1.00),"breadcrumbs and egg yolk, (1.00)",like alot of balls (1.00),roll (0.97),none,none
+"Can you make delicious cube steak in the microwave? Something without heavy salt, garlic, or onions.",delicious cube steak in the microwave? something (1.00),none,none,"heavy salt, garlic, or onions (0.97)",none,none
+How long does a whole chicken last in a crock pot?,long (0.92),whole chicken last in a crock pot? (1.00),none,none,none,none
+What's the easiest way to spice up a boring ole hamburger or hot dog on the grill at a BBQ? How? Why?,boring ole hamburger or hot dog on the grill at a bbq? how (0.99),none,none,none,none,none
+How is cookie dough different than cake batter?,cookie dough (1.00),than cake batter (1.00),none,none,none,none
+When I fry beef this grey stuff often comes out? What is it and how do I avoid it?,beef this grey stuff often comes out (0.99),none,none,it (0.90),it (0.84),none
+What is a good way to cook cauliflower rice if you are a person who doesn't like cauliflower very much?,cauliflower rice (1.00),##uliflower very much (1.00),none,ca (1.00),none,none
+What is the best set of pots for those who cook every day?,the best (0.63),pots (0.95),every day (0.85),none,none,none
+Are ceramic utensils always microwave oven safe?,ceramic utensils always microwave oven safe (1.00),none,none,none,none,none
+What can I cook without meat?,without (0.97),none,none,meat (0.88),none,none
+How do I cut vegetables without the knife going off at an angle?,vegetables (1.00),none,none,the (1.00),knife going off (0.98),none
+How do you make tomato sauce less tangy?,tomato sauce less tangy? (1.00),none,none,none,none,none
+How long does it take for potatoes in a crock pot?,potatoes in a crock pot? (1.00),none,none,none,none,none
+How long does it take to cook zucchini on a stove?,zucchini on a stove (1.00),none,none,none,none,none
+How do you avoid rice sticking to the cooker?,rice sticking to the cooker (0.99),none,none,none,none,none
+What seasonings do you use for your homemade fries?,homemade fries (1.00),none,none,seasonings (0.99),none,none
+Do pasta and beans go together?,pasta and beans (1.00),none,none,none,none,none
+Do you have to cook pasta before putting it in a slow cooker?,pasta (1.00),it in a slow cooker (1.00),none,none,none,none
+How do I cook bass in the oven?,bass in the oven (1.00),none,none,none,none,none
+What is the best way to cook canned soup?,canned soup? (1.00),none,none,none,none,none
+What happens if you forget to dust the pan with flour before pouring cake batter in it and putting it in the oven?,pan with flour before pouring cake batter in it (1.00),oven (0.81),none,none,none,none
+Does oil or butter help rise the dough?,dough (1.00),none,none,oil or butter (1.00),none,none
+Can you cook 4 2-pound meat loafs at the same time?,4 2 - pound meat loafs (1.00),none,none,none,none,none
+What’s the best way to reheat ground beef in the oven?,reheat ground beef in the oven (0.98),none,none,none,none,none
+What are some tips for cooking without making a huge mess?,huge mess (1.00),none,none,none,none,none
+How do I make store bought Alfredo sauce taste better?,store bought alfredo sauce taste better (1.00),none,none,none,none,none
+What can you use instead of baking powder for pancakes?,baking powder for pancakes (0.99),none,none,none,none,none
+Is hard pasta an indication that it was overcooked or undercooked?,pasta (0.75),overcooked or undercooked? (0.89),none,hard (0.55),none,none
+What are some substitutions for flour when cooking pasta sauces that need to thicken a bit?,when cooking pasta sauces that (0.96),##en a bit (0.67),none,substitutions for flour (0.97),thick (0.99),none
+What can be used as a substitute for Dijon mustard when making deviled eggs?,dijon mustard when making deviled eggs (1.00),none,none,none,none,none
+Why are some pizzas under cooked on the bottom and burnt on the top?,pizzas under cooked on the bottom and burnt on the top (0.99),none,none,none,none,none
+How do you drain the blood from burgers before cooking?,blood from burgers before (0.94),none,none,cooking (0.79),none,none
+How do I cook pasta in a crock pot?,pasta in a crock pot? (0.93),none,none,none,none,none
+Would it be weird/blasphemous to use roasted garlic instead of raw garlic in sauces and dressings?,weird / blasphemous to use roasted garlic instead of raw garlic in sauces and dressings (1.00),none,none,none,none,none
+What's the best water temperature for making pizza dough?,the best water (0.99),pizza dough (1.00),none,none,none,none
+What unexpected ingredient do you add to a dish?,dish (1.00),none,none,unexpected ingredient (0.97),none,none
+Should I poke holes in steak before grilling?,holes (0.94),steak before grilling (1.00),none,none,none,none
+"Do I need to change tongs, spoons, or other utensils I used when I started cooking meat midway through cooking to avoid contamination? Or can I use the same throughout the cooking process? Why or why not?","tongs, spoons, or other utensils i used when (0.99)",meat midway through cooking (1.00),same throughout the cooking process (0.95),contamination (1.00),why (0.73),why (0.52)
+How do I use extra white boiled rice left after lunch?,extra white boiled rice left after lunch (1.00),none,none,none,none,none
+How do you fix mushy pancakes?,mushy pancakes (1.00),none,none,none,none,none
+Do you have a recipe that you don't share with anybody?,none,none,none,none,none,none
+How do I deep fry without a thermometer?,deep (0.69),none,none,thermometer (0.90),none,none
+How long should I quick soak my dry black beans?,so (0.99),dry black beans? (1.00),none,none,none,none
+What can I do with a bad batch of brownies?,bad batch of brownies (1.00),none,none,none,none,none
+What is the best way to cook purple sprouting broccoli?,purple sprouting broccoli? (1.00),none,none,none,none,none
+How do you keep vegan pancakes from sticking together?,vegan pancakes from sticking together (1.00),none,none,none,none,none
+"Whenever I boil pasta (specifically spaghetti), it always sticks to itself before I'm ready to use it. What can I do to avoid this without it becoming mushy (which happens if I keep it in the water)?",pasta ( specifically spaghetti ) (1.00),it always sticks (0.72),itself (0.63),it (0.93),it (0.44),water (0.60)
+Why cooking is a good hobby?,none,none,none,cooking (0.76),none,none
+What is the most delicious dish someone brought to a gathering that the person would not give out the recipe for? Did you ever find out how to make it?,most (0.97),delicious dish (0.72),gathering (0.43),none,none,none
+How do I turn a dry rub into sauce?,dry rub into sauce (1.00),none,none,none,none,none
+How can I save burnt pork ribs?,burnt pork ribs (1.00),none,none,none,none,none
+How do you keep cornbread from sticking to the cast iron cornbread stick pans? Cooking spray doesn't seem to work too well.,cornbread from sticking to the cast iron cornbread stick pans? cooking spray (1.00),none,none,none,none,none
+Can you use a deep fryer without the basket?,deep fryer (1.00),basket (0.99),none,the (1.00),none,none
+What are the easiest non-pancake recipes that use pancake mix?,easiest non - pancake recipes that (0.96),##cake mix (1.00),none,pan (1.00),none,none
+How do you cook female eggplants?,female eggplants? (0.99),none,none,none,none,none
+How do you cook spleen?,spleen? (0.94),none,none,none,none,none
+How do I cook a cure 81 ham?,cure 81 ham? (1.00),none,none,none,none,none
+Does chopping steak negate the benefit of using better meat?,none,none,none,chopping steak (0.88),better meat (0.86),none
+"If you want your potatoes to be baked quickly (dinner is in an hour) but you forgot to preheat the oven, should you put them in while preheating or not (baking, potatoes, cooking)?",potatoes (1.00),be baked quickly ( dinner is in an hour ) (1.00),##hea (0.68),pre (0.86),while (0.49),none
+How long is dry pasta good for?,dry pasta (1.00),none,none,none,none,none
+How long do you soak no-boil lasagna noodles?,no - boil lasagna noodles? (1.00),none,none,none,none,none
+How can you reheat noodles without them sticking to each other?,reheat noodles (1.00),other (0.68),none,them (1.00),sticking (0.62),each (0.82)
+Should I add salt to the batter of a fried food OR sprinkle salt after frying it?,batter (0.81),fried food or sprinkle salt after frying it (1.00),none,salt (0.79),none,none
+Is there a pasta equivalent to risotto?,pasta (1.00),risotto (1.00),none,none,none,none
+How long does it take to cook a turkey overnight?,turkey overnight (1.00),none,none,none,none,none
+"When making fresh pasta, do I salt the water or the pasta itself?",fresh pasta (0.99),the water or the pasta itself (1.00),none,none,none,none
+How do I grill without an actual grill?,grill (0.77),none,none,an (0.87),actual (0.98),none
+How do you make great brown rice in a rice cooker?,great brown rice in a rice cooker (1.00),none,none,none,none,none
+Is it better to fry bake or boil meatballs when making spaghetti and meatballs?,bake or boil meatballs when making spaghetti and meatballs (1.00),none,none,none,none,none
+Can I use coconut oil instead of ordinary veg oil in a cake mix?,coconut oil instead of ordinary veg oil in a cake mix (1.00),none,none,none,none,none
+What does butter do to tomato sauce?,tomato sauce (1.00),none,none,butter (0.90),none,none
+How do I cook hard boiled eggs without the shell sticking to the egg?,hard boiled eggs (1.00),shell sticking to the egg (1.00),none,the (0.99),none,none
+How do I make loaded baked potato soup?,loaded baked potato soup? (1.00),none,none,none,none,none
+What are great-to-know tips for preparing clay pot cooking?,great - to - know (1.00),clay pot cooking? (0.98),none,none,none,none
+How do I cook a beef round eye steak?,beef round eye steak (1.00),none,none,none,none,none
+How do you cook frozen dumplings without a steamer?,frozen dumplings (1.00),none,none,a (0.92),steamer (1.00),none
+What is the best way to reheat leftover gnocchi?,rehea (0.86),leftover gnocchi? (1.00),none,none,none,none
+How do I cook stuffed mushrooms in an oven?,stuffed mushrooms in an oven (1.00),none,none,none,none,none
+Can I add vanilla extract to simple syrup?,vanilla extract to simple syrup (1.00),none,none,none,none,none
+How can you use a grill mat on an indoor grill?,grill mat on an indoor grill (1.00),none,none,none,none,none
+Which dish do you default to when you have no ideas on what to cook?,none,none,none,dish (0.40),ideas (0.74),what (0.83)
+How do you microwave pasta without drying it out?,pasta (1.00),none,none,drying it out (1.00),none,none
+How do you make turkey meatballs that don't fall apart?,turkey meatballs that don't fall apart (1.00),none,none,none,none,none
+What part of the human body would be more delicious if it has properly cooked with herbs and seasonings?,human body (0.75),delicious (0.58),none,properly (1.00),cooked with herbs and (0.87),seasonings (0.78)
+How do I cook tender country ham slices?,tender country ham slices? (0.99),none,none,none,none,none
+How can I make a casserole without chopping any of the ingredients?,casserole (1.00),any of the ingredients (0.97),none,chopping (0.93),none,none
+"When making pancakes, what are some tricks to avoid the big mess and how to make them similar in size?",pancakes (1.00),tricks (0.56),mess (0.93),the (0.71),big (0.69),none
+How long do you cook red potatoes?,red potatoes (1.00),none,none,none,none,none
+What do you do if you mistake salt for sugar while cooking?,salt for sugar while cooking (1.00),none,none,none,none,none
+What tips do you have on cutting vegetables lengthways before adding to a stew?,vegetables lengthways before adding to a stew (0.93),none,none,tips (0.87),none,none
+"What can I use instead of carrots, onions, and celery when making a stew?","##s, onions, and celery when (0.92)",stew (1.00),none,carrot (0.80),none,none
+"How do you slice, chop, and mince?","slice, chop, and mince (0.94)",none,none,none,none,none
+How do I make rotisserie chicken less moist?,rotisserie chicken less moist? (1.00),none,none,none,none,none
+"What is the difference between chicken bouillon, chicken stock and chicken broth?","chicken bouillon, chicken stock and chicken broth (1.00)",none,none,none,none,none
+How do I make pizza not stick on a ceramic stone?,pizza not stick on a ceramic stone (1.00),none,none,none,none,none
+What is chervil used for in cooking?,chervil (0.90),cooking (0.63),none,none,none,none
+Which cooking oil is best for frying eggs?,frying eggs? (0.96),none,none,cooking oil (0.88),none,none
+Can I pre-cook tri tip and finish it later?,tri tip and finish it later (1.00),none,none,none,none,none
+What can you add to boiled food to make them taste better?,boiled food (1.00),them taste better (1.00),none,none,none,none
+What is the best way to cook a rock eel?,rock eel? (0.94),none,none,none,none,none
+How do I cook a cube steak without frying?,cube steak (1.00),none,none,fry (1.00),##ing (0.76),none
+What is special about the chain cut off of the beef tenderloin? How do you like to cook it?,chain cut off of the beef tenderloin (1.00),it (0.44),none,none,none,none
+How do you clean a pellet grill in an easy way?,pellet grill (1.00),easy way (1.00),none,none,none,none
+How long does it take to BBQ a steak medium rare?,##q a (0.99),steak medium rare? (0.94),none,none,none,none
+"Is there a way to cook minced garlic without it ""popping"" out of the pan?","minced garlic without it "" popping "" out of the pan (1.00)",none,none,none,none,none
+What does ‘spatchcock’ mean in cooking?,spatchcock ’ (1.00),none,none,cooking (0.56),none,none
+What foods do you feel are always better when cooked on a grill?,foods (0.71),when cooked on a grill (0.88),none,better (0.62),none,none
+Can I stir fry potatoes without boiling them?,potatoes (1.00),none,none,boiling them (1.00),none,none
+How do I make mustard greens taste good?,mustard greens taste good? (1.00),none,none,none,none,none
+Can onions be grilled on a barbecue grill?,onions (1.00),grille (0.88),on (0.98),none,none,none
+What is a fruit puree?,fruit puree (1.00),none,none,none,none,none
+"After preheating an oven, am I supposed to bake at the same temperature or is it advisable to change?",oven (1.00),##ke (0.45),the same temperature (0.49),##hea (0.47),ba (0.67),ad (0.34)
+What is the most versatile cooking device for people with limited space?,most (0.72),cooking (0.89),people (0.50),versatile (0.67),device (0.69),limited (1.00)
+How long do you mix pizza dough in a spiral mixer?,pizza dough in a spiral mixer (1.00),none,none,none,none,none
+"Is it true that if someone attempts to grill frozen brats and hamburgers on the grill without unthawing them first, they will most likely burn the outside but leave the inside uncooked?",frozen brats and hamburgers on the grill (1.00),them first (0.96),uncooked? (0.55),unthawing (0.97),outside (0.62),inside (0.82)
+How long should I put microwave popcorn in for?,microwave popcorn in (1.00),none,none,none,none,none
+What is a natural starter?,natural starter (1.00),none,none,none,none,none
+How do I boil an egg without its shell getting cracked during boiling?,egg (1.00),none,none,its shell getting cracked during boiling (0.94),none,none
+How do I broil steak in a gas oven?,steak in a (0.98),gas oven (0.98),none,none,none,none
+How do I cook al pastor on a stove?,al pastor on a stove? (0.99),none,none,none,none,none
+"Why do we need salt to ""pull"" the flavor of things we cook?","pull "" the flavor of things (0.98)",none,none,"salt to "" (0.85)",none,none
+How do I make salty food less salty?,salty food less salty? (1.00),none,none,none,none,none
+How could cooking be creative?,none,none,none,cooking (0.92),none,none
+What kind of meals can you cook using tamarind powder?,meals (0.72),using tamarind powder? (1.00),none,none,none,none
+How do you make the bottom of a frozen pizza crispy?,bottom (0.99),frozen pizza crispy? (1.00),none,none,none,none
+How do I peel and chop an onion?,onion (1.00),none,none,none,none,none
+What can a rice cooker cook beside rice?,rice cooker cook beside rice (0.98),none,none,none,none,none
+"After searing, how long do you bake a 1-pound sirloin steak?",1 - pound sirloin steak (1.00),none,none,searing (0.71),none,none
+How do you grill a burger without drying it out?,burger (1.00),none,none,drying it out (1.00),none,none
+Can I make pancakes with just sweet potatoes and eggs?,pancakes with (1.00),none,none,just sweet potatoes and eggs (0.93),none,none
+Why shouldn't you break the pasta before cooking it?,pasta (1.00),it (0.98),none,none,none,none
+How long does it take to roast garlic in an oven?,garlic in an oven (0.94),none,none,none,none,none
+How do you make salmon patties from scratch?,salmon patties (1.00),scratch (1.00),none,none,none,none
+How do you cook pork loin chops?,pork loin chops? (1.00),none,none,none,none,none
+How do I cook Denver steak in an oven?,denver steak in an oven? (0.92),none,none,none,none,none
+How do I cook an angus steak in an oven?,angus steak in an oven (1.00),none,none,none,none,none
+Can you cook sous vide directly with the store sealed packaging?,sous vide directly with the store sealed packaging (1.00),none,none,none,none,none
+How can I make my shepherds pie taste better after already cooking the filling?,shepherds pie taste better (1.00),cooking the filling (1.00),none,already (0.68),none,none
+How can I keep pizza from sticking to the pan?,pizza (1.00),sticking (0.64),pan (0.95),the (0.70),none,none
+How long does it take to cook chicken at 325?,chicken at 325? (1.00),none,none,none,none,none
+What's the best non-dairy way to neutralize spicy foods?,the best non - dairy way to neutralize spicy foods? (1.00),none,none,none,none,none
+How can I safely dispose cooking oil that I used?,cooking oil that (0.99),none,none,none,none,none
+What ingredient do you always add more than is called for in a recipe?,more than is called (0.69),in (0.56),none,ingredient (0.50),for (0.40),none
+"How do I cook a ""one minute microwave pudding"" without a microwave?",""" one minute microwave pudding "" (1.00)",none,none,a (0.98),microwave (1.00),none
+How do I make sure the inside is cooked when frying?,inside is cooked when frying (1.00),none,none,none,none,none
+How long does it take to deep fry a ham?,ham (1.00),none,none,none,none,none
+What are some substitutes for eggs in pancakes?,none,none,none,substitutes for eggs in pancakes (0.92),none,none
+How can I boil eggs without the yolk turning green?,eggs (1.00),none,none,the yolk turning green (1.00),none,none
+What's the best way to cook oat groats?,oat groats (1.00),none,none,none,none,none
+What is the best bagged ice cream recipe?,the best bagged ice cream recipe (1.00),none,none,none,none,none
+Is there any way at home that I can make flour tortillas without rolling them out?,flour tortillas (1.00),them out (0.98),none,rolling (1.00),none,none
+"How do I achieve a ""simmer"" in an Instant Pot?",""" simmer "" in an instant pot (1.00)",none,none,none,none,none
+"What can I cook for my mom on her birthday? I have no experience in cooking that's why I want it to be as easy as possible but also very special. I want to prepare a whole meal with the main dish, a side, accompanying drink and a dessert",mom (0.93),birthday (0.98),easy as possible (0.78),cooking (1.00),dessert (0.87),none
+What will happen if the meat is not washed or rinsed before cooking?,meat (1.00),or rinsed before (0.77),none,washed (0.38),cooking (0.96),none
+How long does it take to cook frittata in an oven?,frittata in an oven (1.00),none,none,none,none,none
+"How do you make the bacon crispy, but not burn the scallops, for bacon wrapped scallops?","bacon crispy, but not burn the scallops, for bacon wrapped scallops (1.00)",none,none,none,none,none
+How do you make chicken tenders juicy yet well cooked?,chicken tenders juicy yet well cooked? (1.00),none,none,none,none,none
+How do I preserve pizza sauce for a year?,pizza sauce (1.00),none,none,none,none,none
+How do I cook a 3 lb roast beef?,3 lb roast beef? (1.00),none,none,none,none,none
+What are three ways to find the best olive oil for cooking?,the best olive oil for cooking (1.00),none,none,none,none,none
+How do you reheat baked ziti in the oven?,reheat baked ziti in the oven (1.00),none,none,none,none,none
+How do I cook perogies in the oven?,perogies in the oven (1.00),none,none,none,none,none
+How do you prevent chicken from sticking when searing?,chicken from sticking when searing? (1.00),none,none,none,none,none
+How do I cook a salmon fillet on the stove and what seasons should I use?,salmon fillet on the stove and (1.00),seasons (1.00),none,what (0.66),none,none
+Do you need to cook vegetables before putting on pizza?,vegetables (1.00),none,none,pizza (0.89),none,none
+Can you keep taco meat warm in a crockpot?,taco meat warm in a crockpot (1.00),none,none,none,none,none
+How do I cook food in the forest?,food in the forest (0.87),none,none,none,none,none
+What happens if you put too much bread crumbs in meatloaf?,too much bread crumbs in meatloaf? (1.00),none,none,none,none,none
+What is the difference between carbonara and boscaiola?,carbonara and boscaiola (1.00),none,none,none,none,none
+How do I make instant potatoes taste better?,instant potatoes taste better (1.00),none,none,none,none,none
+What are your favorite seasonings or toppings you like to use when making roasted vegetables?,favorite seasonings or toppings (0.99),roasted vegetables (0.91),none,none,none,none
+How do I cook brown rice on a stove?,brown rice on a stove? (0.96),none,none,none,none,none
+What are awesome cooking hacks for fixing burnt food?,burnt food (0.82),none,none,hack (0.72),none,none
+In how much water do I need to put ramekins when cooking au bain marie in the oven?,ramekins when cooking au bain marie in the oven (0.94),none,none,water (1.00),none,none
+How long does it take to bake a pizza at 400 degrees?,pizza at (1.00),degrees (1.00),none,400 (0.98),none,none
+How do I cook chicken skewers in an oven?,chicken skewers in an oven (1.00),none,none,none,none,none
+How do I make Chef Boyardee taste better?,chef boyardee taste better (1.00),none,none,none,none,none
+What are some tasty ways to fix salty potato salad?,tasty (0.57),salty potato salad? (0.86),none,none,none,none
+"Should you cook meat directly above the flame of a gas stove (grilling, cooking)?","meat directly above the flame of a gas stove ( grilling, cooking ) (1.00)",none,none,none,none,none
+How do you soften carrots quickly?,soft (0.99),carrots quickly (0.99),none,none,none,none
+How do I cook rice with coconut oil?,rice with coconut oil (1.00),none,none,none,none,none
+Can I prepare my cake batter with a blender?,cake batter with a blender (1.00),none,none,none,none,none
+How do you prevent a cake from rising and cracking in the middle while baking?,cake (1.00),and (0.74),in (0.43),rising (0.95),cracking (0.46),the (0.44)
+What happens if you don't let pizza dough rise?,pizza dough rise (1.00),none,none,none,none,none
+How do you make pasta salad with store-bought gnocchi?,pasta salad with store - bought gnocchi? (1.00),none,none,none,none,none
+How do I replace eggs in a recipe?,eggs in (0.98),recipe (0.90),none,none,none,none
+How do I make stir-fry sauces that don't get watery and thin as leftovers?,stir - fry sauces that don't get watery and thin as leftovers (1.00),none,none,none,none,none
+Why would you add vinegar to a spaghetti sauce?,vinegar to (0.94),spaghetti sauce (1.00),none,none,none,none
+Does egg temperature matter when making pancakes?,pancakes (1.00),none,none,egg temperature (1.00),none,none
+What seasoning do you use to marinate chicken?,marinate chicken? (0.78),none,none,seasoning (0.99),none,none
+What is a binding agent in cooking?,binding (0.88),cooking (0.63),none,agent (0.99),none,none
+How do I know when my eggs are safely cooked?,eggs (1.00),safely cooked (0.94),none,none,none,none
+Should I freeze dumplings raw or cooked?,dumplings raw or cooked (0.93),none,none,none,none,none
+How long does it take to cook a beef pot roast?,beef pot roast (1.00),none,none,none,none,none
+"What are tricks of the trade for cooking efficiently for one (food preservation, storage, shopping, cooking)?","efficiently for one ( food preservation, storage, shopping, cooking ) (0.99)",none,none,none,none,none
+What do you do with leftover pancakes?,none,none,none,leftover pancakes (1.00),none,none
+How do I keep Mac and cheese moist?,mac and cheese moist? (1.00),none,none,none,none,none
+How can you keep a hamburger from bulging in the middle while it's cooking on the grill?,hamburger from bulging in the middle while it's cooking on the grill (1.00),none,none,none,none,none
+What are the best pans to cook with and have food not stick to it or burn?,the best pans (0.97),with and have (0.81),not (0.84),food (0.58),stick (0.70),it (1.00)
+What does scalded milk do for bread?,scalded milk (0.96),bread (0.53),none,none,none,none
+What can you use instead of scalded milk in a recipe?,instead of scalded milk in a recipe (1.00),none,none,none,none,none
+In a rice cooker do you add spices before or after cooking?,rice cooker (1.00),spices before or after cooking (0.93),none,none,none,none
+Is slow cooking always the best way to cook brisket?,cooking (0.53),brisket (1.00),none,slow (0.87),none,none
+Why is beating eggs with sugar necessary in some recipes?,eggs with sugar (0.90),recipes (0.98),none,beating (0.89),necessary (0.52),none
+I would add BBQ powder on my fries but it won't stick to the fries. What do I do?,bbq powder (1.00),fries (1.00),it (0.67),the (0.77),none,none
+How do you keep eggs from sticking to stainless steel pans?,eggs (1.00),sticking to stainless steel pans (0.98),none,none,none,none
+What does 'blackened' mean in cooking? Does it mean this process will make the meat very well-done and dry?,meat very well - done and dry (0.78),none,none,' (0.66),blackened ' (0.83),cooking (0.54)
+"When cooking steak, how can I keep the fat melting from causing the steak to change shape?",steak (1.00),fat (0.89),from causing (0.63),melting (0.68),none,none
+Why shouldn't you peel potatoes when cutting onions?,potatoes when cutting onions (1.00),none,none,none,none,none
+"What is the best way to cook hotdogs (that tastes decent), at home when you do not have access to a grill?","hotdogs ( that tastes decent ), (1.00)",none,none,grill (1.00),none,none
+How do you stop boiled food from sticking to a stainless steel pot?,boiled food (1.00),sticking to (0.96),stainless steel pot (1.00),none,none,none
+Why does my soufflé cheesecake sink so much? It sunk by about half within 5 minutes of taking it out of the oven.,souffle cheesecake sink (1.00),much? it sunk by about half within (0.73),minutes (0.63),none,none,none
+How do you prevent your homemade potato salad from turning out watery?,homemade potato salad from turning out watery? (1.00),none,none,none,none,none
+Is there a tool for searing/browning the sides of a chuck roast?,/ browning the sides of a chuck roast (0.99),none,none,searing (0.85),none,none
+How do I cook linguica in the oven?,linguica in the oven (1.00),none,none,none,none,none
+How long does it take to cook a small ham?,small ham? (0.93),none,none,none,none,none
+What is the first thing you should always do before starting to cook?,none,none,none,none,none,none
+"How do you soften hardened, freshly boiled pasta?",soft (1.00),"hardened, freshly boiled pasta? (0.99)",none,none,none,none
+How do I cook chicken breast without oil?,chicken breast (1.00),none,none,oil (1.00),none,none
+Can I cook a frozen pizza in a frying pan?,frozen pizza in a frying pan (1.00),none,none,none,none,none
+What do you use instead of milk in meatloaf?,instead (0.50),milk in meatloaf? (0.99),none,none,none,none
+How do I cook a steak on a stove?,steak on a stove (1.00),none,none,none,none,none
+How do you grill without skewers?,without skewers? (1.00),none,none,none,none,none
+How can I make my stew taste better? The tomatoes was almost spoilt and now the stew has a tangy taste,stew taste better (0.97),was almost spoilt (0.75),stew (0.55),tomatoes (0.67),tangy taste (0.87),none
+How can I make an easy tofu marinade without sodium?,easy tofu marinade (1.00),none,none,sodium (1.00),none,none
+My cookbook tells me to cook my eggs (4 of them) in a saucepan for 15 minutes for hard cooked eggs. How much time would I have to add to get good results for a dozen at a time?,eggs ( 4 of them ) in a saucepan for 15 minutes for hard cooked eggs (1.00),good results for a dozen (1.00),a (0.86),time (1.00),add (0.91),none
+What do I do if my lasagna is too watery?,lasagna (1.00),watery (0.96),none,none,none,none
+Can I add lentils to a baked chicken-and-vegetable stew?,lentils to (1.00),baked chicken - and - vegetable stew (1.00),none,none,none,none
+Should I strip the factory seasoning off a new Lodge skillet?,factory seasoning off (1.00),new lodge skillet (0.98),none,none,none,none
+How do you cook a 30 pound turkey?,30 pound turkey? (1.00),none,none,none,none,none
+How do I make cream sauce for pasta?,cream sauce for pasta? (1.00),none,none,none,none,none
+How do you rescue overproofed dough?,overproofed dough (1.00),none,none,none,none,none
+Do ribs get more tender the longer they cook?,ribs (1.00),none,none,tender (1.00),none,none
+"When cooking breakfast, what do you cook first?",breakfast (1.00),first? (0.95),none,none,none,none
+"How do I make quick and easy fried chicken? What ingredients are required to make it juicy, crispy, and tender?",quick and easy fried chicken? (1.00),ingredients (0.66),"it juicy, crispy, and tender? (1.00)",none,none,none
+How long do you cook penne pasta?,penne pasta? (0.98),none,none,none,none,none
+What is your best recipe for a sour cherry pan sauce?,best (0.47),sour cherry pan sauce? (1.00),none,none,none,none
+What is a good replacement for mayonnaise?,mayonnaise? (1.00),none,none,none,none,none
+Do you need to wash scallops before cooking them?,scallops (1.00),them (1.00),none,none,none,none
+What can I use instead of an oven?,oven (1.00),none,none,none,none,none
+What is the best way to cook legumes?,legumes (1.00),none,none,none,none,none
+What can you use as a binder in meatloaf instead of breadcrumbs?,binder in meatloaf instead of breadcrumbs (1.00),none,none,none,none,none
+How hard is it to learn to cook?,none,none,none,none,none,none
+"Are you supposed to cook pasta sauce before putting it on the pasta or, should you add pasta sauce directly from the jar and stir it up on the hot stovetop?",pasta sauce (1.00),it on the pasta or (1.00),pasta sauce directly from the jar (1.00),none,none,none
+What trick does a professional chef do when he runs out of ingredients while cooking and the customer is waiting for him?,professional chef (1.00),he runs out of ingredients while cooking (1.00),the customer (0.83),none,none,none
+How many efforts will be wasted in becoming a good cook?,good cook (1.00),none,none,efforts (0.78),none,none
+What is the difference between a baked potato and a boiled potato?,baked potato and a boiled potato (0.96),none,none,none,none,none
+"What's the attraction for bucatini pasta? It's hollow like a straw so you cannot slurp it as you would with spaghetti or twirl it with a fork unless you overcook it into mush. If you are going to chop it into segments, why not just use ziti?",bucatini pasta (1.00),it (0.99),hollow like a straw (0.88),sl (0.93),spaghetti (0.61),over (0.44)
+How could you prepare a very tasty summer appetizer in just 5 minutes?,very tasty summer appetizer in just 5 minutes (1.00),none,none,none,none,none
+Can you cook eggs without oil in a nonstick pan?,eggs without (0.82),in a nonstick pan (0.99),none,oil (1.00),none,none
+How do you cook a boiled egg in which the egg white is cooked but the egg yolk is half-cooked and half liquid?,boiled egg in which the egg white is cooked but the egg yolk is half - cooked and half liquid (1.00),none,none,none,none,none
+How long should I leave rice out after cooking?,rice out after cooking (1.00),none,none,none,none,none
+How do you make tortilla chips?,tortilla chips (1.00),none,none,none,none,none
+Do you have to defrost pizza before cooking?,pizza (0.88),none,none,defrost (0.88),cooking (0.94),none
+"What's a foolproof way to prepare tofu where the cubes stay intact after cooking or baking, and don't break up?",foolproof (1.00),"tofu where the cubes stay intact after cooking or baking, (0.99)",none,break (0.94),up (0.61),none
+How do you keep long noodles like fettuccine and spaghetti from breaking apart?,long noodles like fettuccine and spaghetti from breaking apart (1.00),none,none,none,none,none
+How do I reheat leftovers in the oven?,leftovers in the oven (1.00),none,none,none,none,none
+What does it mean to let a sauce reduce?,sauce reduce (1.00),none,none,none,none,none
+What is the trick to making every single kernel pop when preparing popcorn?,single kernel pop when preparing popcorn (0.98),none,none,none,none,none
+What is pernod in cooking?,##nod in cooking (0.74),none,none,per (0.93),none,none
+How do you cook a pork soup without it tasting salty?,pork soup (1.00),? (0.41),none,it tasting salty (0.94),none,none
+How long does it take to cook chicken breast at 400?,chicken breast at 400? (1.00),none,none,none,none,none
+What is a free cooking book?,free cooking book (1.00),none,none,none,none,none
+How do I make potato latkes?,potato latkes? (1.00),none,none,none,none,none
+What would happen if you added a ton of Bay leaves to a soup?,ton of bay leaves to (1.00),soup (0.98),none,none,none,none
+How do I cook moist boneless pork chops?,moist boneless pork chops? (1.00),none,none,none,none,none
+Why do people pound chicken breasts flat before cooking?,chicken breasts flat before (0.98),none,none,cooking (0.85),none,none
+How do you fix undercooked potatoes?,undercooked potatoes? (0.93),none,none,none,none,none
+Do proteins disappear when boiling?,proteins (0.93),none,none,boiling (0.61),none,none
+How do I flatten meat without a mallet?,meat (1.00),none,none,a (1.00),mallet (1.00),none
+How do I spice up canned baked beans?,canned baked beans? (1.00),none,none,none,none,none
+Is there a way to use or transform leftover hollandaise sauce?,leftover hollandaise sauce (0.96),none,none,none,none,none
+Why do people use oil to cook popcorn when it cooks as well or better without using oil?,popcorn when it cooks as well or better (1.00),none,none,oil (1.00),using oil (0.98),none
+How do I cook food more nutritiously?,food more nutritiously? (1.00),none,none,none,none,none
+How do I cook a beef tip roast?,beef tip roast (1.00),none,none,none,none,none
+Should you add garlic to pasta sauce?,garlic to pasta sauce (0.96),none,none,none,none,none
+What are some tricks to prevent my omelettes from turning into scrambled eggs?,omelettes (0.97),turning into scrambled eggs (0.99),none,tricks (0.66),none,none
+How do I strain Chia Seeds after soaking them? (they go right through my strainer as they are so small),chia seeds after soaking them? ( they (0.99),right (0.96),strainer (1.00),none,none,none
+How long do you cook canned hominy?,canned hominy? (1.00),none,none,none,none,none
+What is the best way to cook jowl bacon?,jowl bacon (1.00),none,none,none,none,none
+How do you make fried food less greasy?,fried food less greasy? (1.00),none,none,none,none,none
+How can I become a better chef?,none,none,none,none,none,none
+How do I clean and cook a turkey?,turkey (1.00),none,none,none,none,none
+How do I cook pork chops with bones?,pork chops with bones (1.00),none,none,none,none,none
+How long does it take to cook chicken thighs in an oven at 180?,chicken thighs in an oven at (0.96),? (0.87),none,180 (0.92),none,none
+How long does it take to cook small baked potatoes?,small baked potatoes? (1.00),none,none,none,none,none
+Do you have to cook canned potatoes?,canned potatoes (1.00),none,none,none,none,none
+How can I make my own Bisquick?,bisquick? (0.98),none,none,none,none,none
+How much dry rice is needed to cook rice?,rice (1.00),none,none,dry rice (1.00),none,none
+How do I make a tuna casserole in an oven?,tuna casserole in an oven (1.00),none,none,none,none,none
+How long would you grill a full rack of ribs before flipping it over to season and cook the other side?,full rack of ribs before flipping it over to season (1.00),other side (0.99),none,none,none,none
+Can you marinate chicken in buttermilk for 36 hours?,marina (0.95),chicken in buttermilk for 36 hours (1.00),none,none,none,none
+What is the easiest way to cook perfect rice?,perfect rice? (1.00),none,none,none,none,none
+How long do you bake chicken legs at 350?,chicken legs at 350? (1.00),none,none,none,none,none
+Is it okay to season steak midway through cooking?,steak midway through cooking (0.98),none,none,season (0.47),none,none
+"As so many dislike garlic presses, what are better methods to mince garlic?",dislike garlic presses (1.00),methods (0.90),##ce garlic (1.00),min (0.80),none,none
+Why do chefs often put a wooden spoon across a pot of boiling water?,chefs (0.70),wooden spoon across a pot of boiling water (1.00),none,none,none,none
+What are tips every griller should know for the grillings of fresh vegetables?,griller (1.00),grillings of fresh vegetables (0.95),none,tips (0.47),none,none
+How do I cook mixed greens without meat?,mixed greens (1.00),none,none,meat (1.00),none,none
+Does a burger cook better on a grill than a stove top?,burger (1.00),better on a grill than a stove top (0.96),none,none,none,none
+What is the best tasting mushroom for cooking?,the best tasting mushroom (1.00),none,none,none,none,none
+How do I make spaghetti in the microwave?,spaghetti in the microwave? (1.00),none,none,none,none,none
+How long does it take to bake a 16 lb turkey?,16 lb turkey? (1.00),none,none,none,none,none
+How long does gnocchi take to cook?,gnocchi (1.00),none,none,none,none,none
+How could you prepare an excellent flan of potatoes and herbs?,excellent flan of potatoes and herbs? (0.99),none,none,none,none,none
+"When cooking steak, should the fat inside be cooked?",steak (1.00),none,none,fat inside (0.69),cooked (0.56),none
+What is the best way to reheat a cream based pasta dish?,##hea (0.62),cream based pasta dish (1.00),none,none,none,none
+What are some good heat resistant bags for cooking?,good heat resistant bags (0.97),cooking (0.97),none,none,none,none
+How long does it take to roast an unstuffed turkey?,unstuffed turkey (1.00),none,none,none,none,none
+Is parchment paper better to cook with than foil?,with than foil (0.99),none,none,parchment paper (0.60),none,none
+How do I cook mussels in red sauce?,mussels in red sauce (1.00),none,none,none,none,none
+What are the advantages and disadvantages of sauteing?,advantages (0.91),##uteing (0.97),none,and disadvantage (0.52),sa (0.99),none
+How do I cook a filet mignon medium well?,filet mignon medium well? (0.94),none,none,none,none,none
+What cheese do you use in Cordon Bleu?,cordon bleu? (1.00),none,none,cheese (1.00),none,none
+Is it better to cook wantons and then store them or store them in the fridge raw until they’re ready to cook?,wantons and then store them (0.89),them in the fridge raw until they ’ (0.87),cook (0.58),none,none,none
+How do I cut the chicken into pieces to cook?,chicken into pieces (0.98),none,none,none,none,none
+What is the best way to make my sourdough less sour?,sourdough less sour? (1.00),none,none,none,none,none
+Is there a guaranteed way to crack an egg into a pan without breaking the yolk?,egg into a pan (1.00),none,none,breaking (1.00),the (0.87),yolk (0.96)
+How do I cook calves liver and onions?,calves liver and onions? (1.00),none,none,none,none,none
+How do I cook pasta without a pot?,pasta (1.00),none,none,a (1.00),pot (1.00),none
+How do I chop a head of cabbage?,head of cabbage (1.00),none,none,none,none,none
+How can you make a microwaved Caesar Salad taste good?,microwaved caesar salad taste good (1.00),none,none,none,none,none
+Why is simmering important in making stocks?,stocks (0.83),none,none,simmering (0.97),none,none
+Do you soak skewers in hot or cold water?,soak skewers in hot or cold water (0.98),none,none,none,none,none
+How do I make tomato sauce with tomatoes?,tomato sauce with tomatoes? (1.00),none,none,none,none,none
+How do you add smoke flavor to food cooked on a gas grill?,smoke flavor (1.00),food cooked on a gas grill (1.00),none,none,none,none
+How do I thaw hash browns for a casserole?,tha (0.69),hash browns for a (0.90),casserole? (1.00),none,none,none
+How does cooking time affect food?,food (0.94),none,none,cooking time (1.00),none,none
+How do you fix Mac 'n Cheese That's too salty?,mac'n cheese that's too salty (1.00),none,none,none,none,none
+How long does it take to cook a 10lb prime rib?,10lb prime rib? (1.00),none,none,none,none,none
+"If you had to give either garlic or onion up in cooking, which one would it be?",garlic or onion up in cooking (1.00),one (0.41),none,none,none,none
+What is the best way to check if bread dough is proofed?,bread dough is proofed (1.00),none,none,none,none,none
+How do you make a weekend main dish with leftover last during the weekdays?,weekend main dish with leftover last during the weekdays (1.00),none,none,none,none,none
+Do you have to soak toothpicks before baking?,so (0.48),toothpicks before baking (0.91),none,none,none,none
+How many shrimps are 100g?,shrimps are 100g? (0.91),none,none,none,none,none
+How do I make sauce out of tomatoes?,sauce out of tomatoes (1.00),none,none,none,none,none
+How do I make all-purpose flour rise?,all - purpose flour rise? (1.00),none,none,none,none,none
+Should eggs be at room temperature for pancakes?,eggs (0.96),room (0.76),pancakes (1.00),none,none,none
+What is the benefit of soaking potatoes in water?,soaking potatoes in water (0.86),none,none,none,none,none
+Do you add salt to an omelette?,salt (0.99),omelette (0.98),none,none,none,none
+What spices would you put in roasted root vegetable soup purees?,roasted root vegetable soup purees (1.00),none,none,spices (0.97),none,none
+How do I maintain oil temperature when deep frying at home?,oil temperature when deep frying (1.00),none,none,none,none,none
+What can you do with overcooked simple syrup?,overcooked simple syrup (0.96),none,none,none,none,none
+What is the best way to light up charcoal for barbecue?,charcoal for barbecue? (1.00),none,none,none,none,none
+Why do people add ingredients to make their stew thick? What's wrong with runny stew?,stew thick? what's wrong with (0.92),##ny stew? (1.00),none,ingredients (0.99),run (1.00),none
+How do I cook dried pinto beans fast?,dried pinto beans fast? (1.00),none,none,none,none,none
+Are there any savory ideas (like for supper) for what you can do with bananas when their peels have gone brown?,##vory ideas ( like for supper ) for what you can do with bananas when their peels have gone (0.97),brown (0.43),none,sa (0.98),none,none
+How do I use an easy bake ultimate oven?,easy bake ultimate oven (1.00),none,none,none,none,none
+"When starting to cook, what should you practice and try to master first?",first (0.43),none,none,master (0.82),none,none
+What can I do with leftover tomatoes?,none,none,none,leftover tomatoes (1.00),none,none
+"When a recipe calls for partial ingredients, such as only the egg yolk, what are you supposed to do with the rest?",recipe (0.75),"partial ingredients, such as only the egg yolk (0.95)",none,rest (0.94),none,none
+How do I make steamed broccoli taste good?,steamed broccoli taste good (1.00),none,none,none,none,none
+How do I prepare a turkey before cooking?,turkey before cooking (1.00),none,none,none,none,none
+Is it okay to bake chicken in its marinade?,chicken in its marinade (1.00),none,none,ba (0.79),none,none
+How do I cook a 12 lb ham?,12 lb ham? (1.00),none,none,none,none,none
+How can I prevent the breading from falling off my chicken as I prepare to cook it?,breading from falling off my chicken (0.96),none,none,none,none,none
+How do I cook ham in a roaster?,ham in a roaster? (0.94),none,none,none,none,none
+What are some tips for making a better sandwich?,better sandwich (1.00),none,none,none,none,none
+What cannot be cooked in a steam oven?,steam oven (1.00),none,none,none,none,none
+What are the pros and cons of stewing meat?,pros and cons of stewing meat (0.92),none,none,none,none,none
+"Why do eggs stick to frying pans, no matter what material the pan is made of?",eggs (1.00),"frying pans, (0.98)",pan (0.98),material (0.99),none,none
+Should you keep the skin on watermelon rinds when cooking?,skin on watermelon rinds when cooking (1.00),none,none,none,none,none
+What’s your secret hack for boxed macaroni & cheese?,secret (0.99),boxed macaroni & cheese? (1.00),none,none,none,none
+What's the best way to make a homemade mashed potato?,homemade mashed potato? (1.00),none,none,none,none,none
+How do I know when a steak is done?,steak (1.00),done (0.99),none,none,none,none
+What do spices mean for you for cooking? How do you usually dose?,none,none,none,spices (0.82),none,none
+"One of the common problems in cooking starches is scorching, which resulted to starch granules settling in the bottom. How can we avoid this?","starches is scorching, which resulted (1.00)",##ch granules settling in (0.87),bottom (0.52),star (0.91),none,none
+How long do you cook spaghetti sauce?,spaghetti sauce? (0.99),none,none,none,none,none
+What is the best way to reheat breaded steak or pork?,reheat breaded steak or pork? (0.98),none,none,none,none,none
+"If you have no cooking knowledge and experience and want to be able to cook professional-quality food for your future kids, should you go to culinary school?",professional - quality food (1.00),future kids (0.93),culinary school (0.85),cooking knowledge and experience (0.98),none,none
+How do I make foods crispy and brown in the microwave?,foods crispy and brown in the microwave? (1.00),none,none,none,none,none
+Is there any way to salvage soggy pasta?,soggy pasta (1.00),none,none,none,none,none
+What happens if you cook with an unseasoned cast iron pan?,none,none,none,unseasoned cast iron pan (0.96),none,none
+How do I thicken red beans and rice?,red beans and rice? (1.00),none,none,none,none,none
+"I've been struggling for days to learn how to make rice pilaf, but I just can't get the hang of it. What is a good recipe or method to learn to make pilaf from scratch?",how to make rice pilaf (1.00),good (0.52),pilaf (1.00),scratch (0.95),none,none
+How do I make a simple stir fry?,simple stir fry? (1.00),none,none,none,none,none
+How do I spice up canned spaghetti sauce?,canned spaghetti sauce? (0.95),none,none,none,none,none
+How long do you cook sea scallops?,sea scallops? (1.00),none,none,none,none,none
+How do I make turkey gravy with giblets?,turkey gravy with giblets? (1.00),none,none,none,none,none
+"What is velveting meat, and what are the benefits?",##ing meat (0.56),none,none,velvet (0.62),none,none
+How do I steam salmon without a steamer?,salmon (1.00),none,none,steamer (1.00),none,none
+How do you keep your nachos from getting soggy in the oven?,nachos from getting soggy in the oven (1.00),none,none,none,none,none
+What is the best way to reheat cookies so they taste freshly baked?,reheat cookies so they taste freshly baked (0.96),none,none,none,none,none
+How can I bake the food that is meant to fry?,food (1.00),meant (0.54),fry (0.67),none,none,none
+"How would you get a person to eat your favorite dish, which contains an ingredient they don't like?","favorite dish, which contains an (0.95)",none,none,ingredient (0.83),none,none
+How do I steam chicken in a rice cooker?,chicken in a (1.00),rice cooker (1.00),none,none,none,none
+What should I bake on a Saturday?,saturday (0.99),none,none,none,none,none
+What is the easiest and quickest way to cook an egg?,easiest and (0.65),##est (0.71),egg (1.00),quick (0.62),none,none
+Are tupperware lids dishwasher safe?,tupperware lids dishwasher safe (1.00),none,none,none,none,none
+How do I reheat tamales without a steamer?,tamales (1.00),none,none,a (0.99),steamer (1.00),none
+What is ‘confit’ in cooking?,##t (0.82),none,none,con (0.97),##fi (0.57),’ (0.54)
+What does adding vinegar or baking soda do to boiling eggs?,or baking (0.65),eggs (1.00),none,adding (0.76),vinegar (0.56),soda (0.85)
+How do I cook beef cubes on a stove?,beef cubes on a stove (1.00),none,none,none,none,none
+How rough should the finish on a pizza peel be?,pizza peel (1.00),none,none,rough (0.52),finish (0.39),none
+What are some cooking tips or hacks?,none,none,none,cooking tips or hacks (0.94),none,none
+How do you make pulled pork that is tender but not dry?,pulled pork that is tender but not dry? (1.00),none,none,none,none,none
+What do I do with browned butter after frying a steak?,none,none,none,browned butter after frying a steak (0.99),none,none
+How do I cut onions so that they won't make me cry?,onions (1.00),they (0.91),' (0.46),none,none,none
+What is your favorite uncommon spice or herb to cook with?,favorite uncommon spice or herb to (0.98),with (0.94),none,none,none,none
+What are some tips that would instantly make somebody a better cook?,instantly (0.30),better cook (0.73),none,tips (1.00),none,none
+Why is it important to know different cuts of meat?,meat (0.99),none,none,none,none,none
+What is the best temperature to cook a joint of beef?,joint of beef (1.00),none,none,none,none,none
+How do I keep sliced potatoes from browning?,sliced potatoes from browning? (1.00),none,none,none,none,none
+The nonstick coating seems to be coming off my pan. Is there a way to fix it or at least to get food not to stick?,nonstick coating (0.99),pan (1.00),it (0.52),food (0.47),stick (1.00),none
+How long does it take to cook a precooked turkey?,precooked turkey (1.00),none,none,none,none,none
+What is the best way to keep store-bought corn tortillas from tearing or breaking when you roll them into enchiladas?,store - bought corn tortillas from tearing or breaking when you roll them into enchiladas (1.00),none,none,none,none,none
+How long do you cook a 3-pound roast at 350?,3 - pound roast at 350? (1.00),none,none,none,none,none
+What is a substitute for water when cooking?,water when cooking (0.99),none,none,none,none,none
+How do I deep fry in a pot?,pot (1.00),none,none,none,none,none
+"How could you prepare a quick, tasty, and so good fish sauce that it makes a great impression at the table?","quick, tasty, and so good fish sauce that it makes a great impression (1.00)",none,none,none,none,none
+Why should you always clean your grill with an onion?,grill with an onion (1.00),none,none,none,none,none
+How long does risotto take to cook?,risotto (1.00),none,none,none,none,none
+What is a simple but delicious potato recipe?,simple but delicious potato recipe (1.00),none,none,none,none,none
+What can you use instead of pie weights?,pie weights (0.98),none,none,none,none,none
+How do I cook snow peas on a stove?,snow peas on a stove (1.00),none,none,none,none,none
+Can I use blue bonnet butter for a beignet recipe when it asks for unsalted butter?,blue bonnet butter (1.00),beignet recipe when it asks (1.00),##salted butter (1.00),un (0.98),none,none
+How do I stop butter from burning when reverse searing steak?,butter from burning when reverse searing steak (1.00),none,none,none,none,none
+Why does YouTube do nothing about the proliferation of fake and dangerous food/cooking hacks?,fake and dangerous food / cooking hacks (0.96),none,none,proliferation (0.75),none,none
+What is the best way to drain grease from ground beef?,grease from ground beef? (1.00),none,none,none,none,none
+How can I learn to cook delicious vegetables and be good in cooking vegetarian food?,delicious vegetables (1.00),good in cooking vegetarian food (1.00),none,none,none,none
+Is spaghetti fattening?,spaghetti (0.79),fattening (0.52),none,none,none,none
+What is proofing in cooking?,none,none,none,proof (0.99),cooking (0.68),none
+"If I cooked three stews, one on the hob, one in the oven, and one in a slow cooker, how could a chef tell which way I cooked them?","three stews, one on the hob, one in the oven (1.00)",one in (0.97),slow cooker (0.99),none,none,none
+How can I get breaded chicken to stop from sticking to the frying pan?,breaded chicken to stop from sticking to the frying pan (1.00),none,none,none,none,none
+How do I cook a beef shank center cut?,beef shank center cut (1.00),none,none,none,none,none
+The middle of my brownies aren’t cooking while the edges are burning. What do I do?,middle (0.81),brownies (1.00),cooking (0.41),burning (0.60),none,none
+"If I use good cooking utensils, knives, frying pans, etc., will the food be delicious?",cooking (0.72),", knives, frying pans, (0.91)",food (0.73),utensils (0.94),etc. (0.79),none
+How do I cook a pork shoulder butt roast?,pork shoulder butt roast? (1.00),none,none,none,none,none
+How do you make one serving of rice?,serving (0.79),rice? (0.81),none,none,none,none
+Can you show the pictures of the best vegetable dishes you cooked?,the best vegetable dishes you cooked (1.00),none,none,none,none,none
+How can you choose a good microwave in order to be better protected from the waves it emits during cooking?,good microwave in (1.00),better protected (0.79),waves it emits during cooking (0.88),the (0.44),none,none
+What's your favorite recipe to use for banana pudding? Why is it your favorite?,banana pudding (1.00),favorite (0.38),none,none,none,none
+Why is garlic used in every savoury dish?,savoury dish (1.00),none,none,garlic (1.00),none,none
+How do you prepare portobello mushrooms for stuffing?,portobello mushrooms for stuffing (1.00),none,none,none,none,none
+Does studding a roast with garlic actually do anything?,roast with garlic actually (1.00),anything (0.57),none,stud (0.88),none,none
+What are some ways of keeping cooked food from spoiling?,cooked food from spoiling (0.98),none,none,none,none,none
+What is ‘parcooking’?,parcooking ’ (1.00),none,none,none,none,none
+How can I make an easy dinner?,easy dinner (1.00),none,none,none,none,none
+How does the microwave pizza button get the pizza cooked perfectly?,microwave pizza button (1.00),pizza cooked perfectly? (0.94),none,none,none,none
+How long does it take to cook a beef round roast?,beef round roast (1.00),none,none,none,none,none
+Can mashed potatoes be made on the stove without draining the potatoes?,mashed potatoes (1.00),made on the stove (0.89),none,draining (1.00),potatoes (0.56),none
+How do I make butter sauce for crab?,butter sauce for crab? (1.00),none,none,none,none,none
+What is a chef's trick to prepare boiled or grilled octopus but always as tender as butter?,chef's trick (1.00),boiled or grilled octopus but always as tender as butter (0.99),none,none,none,none
+How do I cook two turkeys at once?,two turkeys (1.00),once (1.00),none,none,none,none
+What are some ways to cheat saltiness when you add too much salt in your cooking?,saltiness when you add too much salt in (0.94),none,none,cooking (0.58),none,none
+What food can you prepare under 10 minutes?,under 10 minutes (1.00),none,none,food (0.77),none,none
+How do you add parmesan to a cream sauce so that it actually mixes into the sauce?,parmesan to a cream sauce so that it actually mixes into the sauce (0.99),none,none,none,none,none
+What is the difference between cooking wine and regular wine in terms of changing food taste?,cooking wine and regular wine (1.00),food taste (1.00),none,changing (0.98),none,none
+Why would chicken cooked on a grill turn out mushy?,chicken cooked on a grill turn out mushy? (1.00),none,none,none,none,none
+Do you have to marinate meat in an airtight container?,meat in an airtight container (0.98),none,none,marina (1.00),none,none
+How do I cook a free range turkey?,free range turkey (1.00),none,none,none,none,none
+"Premade pizza dough frozen, and then expired. Can I use it to make pizza?","premade pizza dough frozen, and then expired (1.00)",pizza (1.00),none,none,none,none
+What are ways to thicken an overly watery pancake batter without adding more flour?,overly watery pancake batter (1.00),none,none,adding (1.00),more (0.98),flour (0.98)
+Do dried beans need to be soaked if they are going to be cooked in a slow cooker?,dried beans (1.00),soaked if they (0.69),cooked in (0.79),none,none,none
+How long do you boil scallops?,scallops? (1.00),none,none,none,none,none
+How do I cook chicken in a pot?,chicken in a pot? (1.00),none,none,none,none,none
+How long do you barbecue chicken for?,chicken for (1.00),none,none,none,none,none
+Why are my mashed potatoes watery?,mashed potatoes watery (1.00),none,none,none,none,none
+How do I cook minute rice under a minute?,minute rice under a minute? (1.00),none,none,none,none,none
+How do you cook frozen hash brown patties in a frying pan?,frozen hash brown patties in a frying pan (1.00),none,none,none,none,none
+What happens if you only let pizza dough rise once?,pizza dough rise once (1.00),none,none,none,none,none
+How do you grill salmon without it sticking to the grill?,salmon (1.00),none,none,it sticking to (0.63),the (0.90),grill (0.91)
+How can I cook dried noodles with just hot water?,dried noodles with just hot water (1.00),none,none,none,none,none
+What type of dishes can you turn off the appliance and finish cooking by the residual heat to conserve energy?,dishes (0.89),the appliance and finish cooking by the residual heat (0.99),none,energy (0.95),none,none
+How exactly do you use pesto?,pesto? (1.00),none,none,none,none,none
+Why is onion sweet when cooked in a large amount?,onion sweet when cooked in (0.99),large amount (0.86),none,none,none,none
+Can you cook pizza on aluminum foil?,pizza on aluminum foil (1.00),none,none,none,none,none
+What happens if you cook a pizza while leaving the cardboard on the bottom?,pizza (1.00),on the bottom (0.72),none,leaving (0.82),cardboard (0.87),none
+What did you cook today?,none,none,none,none,none,none
+How do I make a delicious dessert without using the oven?,delicious dessert (1.00),none,none,using (1.00),the (0.78),oven (1.00)
+How do I make boxed stuffing taste better?,boxed stuffing taste better (1.00),none,none,none,none,none
+How do I cook a young turkey breast?,young turkey breast (1.00),none,none,none,none,none
+Is a scone supposed to be moist or more on the dry side?,scone (1.00),moist or more on the dry side (0.93),none,none,none,none
+What can we cook with salted butter?,none,none,none,salted butter (1.00),none,none
+Is searing meat before cooking worth the extra effort?,meat before (0.57),extra (0.47),none,cooking (0.57),effort (0.41),none
+What's a surefire way to reheat steak the following day?,surefire way to reheat steak the following day (1.00),none,none,none,none,none
+How long does it take to bake a pork shoulder?,pork shoulder (1.00),none,none,none,none,none
+What is the best way to cook frozen dumplings?,frozen dumplings? (0.96),none,none,none,none,none
+Is the time spent cooking worth it?,time spent cooking (1.00),none,none,none,none,none
+How do I cook a pot roast fast?,pot roast fast? (1.00),none,none,none,none,none
+How do I make stuffed green bell peppers?,stuffed green bell peppers? (1.00),none,none,none,none,none
+How do I cook jalapenos on the stove?,jalapenos on the stove (1.00),none,none,none,none,none
+I am bored of cooking an omelette. Is there any other recipe from egg ingredients that I can cook besides omelet?,omelette (1.00),recipe from egg ingredients (0.89),besides omelet (1.00),none,none,none
+What causes the center of a cake to fall through after it’s been cooked in the oven?,center (0.46),cake (1.00),fall through after it ’ (0.54),cooked (0.38),oven (0.48),none
+How do I bake chicken in an oven?,chicken in an oven (1.00),none,none,none,none,none
+How long does it take to pressure cook navy beans?,navy beans? (1.00),none,none,none,none,none
+How long does it take to reheat pasta in an oven?,reheat pasta in an oven (0.92),none,none,none,none,none
+What is the best way to reheat prawns without making them hard or chewy?,reheat prawns (1.00),them (0.51),or chewy (0.98),making (0.97),hard (0.52),none
+How long do you cook a beef roast at 350 degrees?,beef roast at 350 degrees (1.00),none,none,none,none,none
+What is your favorite recipe for canned green beans?,canned green beans? (1.00),none,none,none,none,none
+How do I cook pre-cooked turkey legs?,pre - cooked turkey legs? (1.00),none,none,none,none,none
+Can you deep fry a whole raw potato?,whole raw potato (1.00),none,none,none,none,none
+How do I bake a thick pork chop?,thick pork chop? (1.00),none,none,none,none,none
+At what temperature should you deep fry hash browns?,deep fry hash browns? (0.94),none,none,none,none,none
+Why does the ribbon stage in baking matter?,ribbon stage in baking matter (0.96),none,none,none,none,none
+What is the optimal way to remove salt from cooked meat?,salt from cooked meat (1.00),none,none,none,none,none
+What is the difference between the flour batter and sugar batter methods for mixing a cake?,flour batter and sugar batter (1.00),cake (1.00),none,none,none,none
+How do I cook a beef roast without drying it out?,beef roast (1.00),it out (0.97),none,drying (1.00),none,none
+How do I reduce the eggs from over-burnt at the sides in a wok?,eggs from over - burnt at the sides in a wok (1.00),none,none,none,none,none
+Is there an efficient and cheap way to remove burnt stuff from the bottom of a pot?,efficient and cheap (1.00),burnt stuff from the bottom of (0.96),pot (0.67),none,none,none
+How do I keep fresh pasta from sticking?,fresh pasta from sticking? (1.00),none,none,none,none,none
+Is there an optimum (or minimum) thickness for a steak when cooking on a BBQ?,optimum ( or minimum ) thickness for a steak when cooking on a bbq (1.00),none,none,none,none,none
+How long do you cook mustard greens?,mustard greens (1.00),none,none,none,none,none
+What can you do with the left over skins from pelled potatoes and sweet potatoes? How would you store them?,left over skins from pelled potatoes and sweet potatoes (1.00),none,none,none,none,none
+"What herbs, spices, and cheeses do you recommend to keep around to cook Italian food?",", spices, and cheeses (0.90)",italian food (1.00),none,herbs (0.70),none,none
+Do you need to cook the white tofu you buy in stores before using it?,white tofu you buy in stores (1.00),none,none,none,none,none
+Can you use a vegetable steamer to cook rice?,vegetable steamer (1.00),rice (0.98),none,none,none,none
+How can I make my own cereal?,cereal (1.00),none,none,none,none,none
+How can I make good pan crust pizza at home?,good pan crust pizza (0.96),none,none,none,none,none
+What can an inexperienced cook make as an entree for large numbers of people?,inexperienced (0.84),make as an entree for large numbers of people (1.00),none,none,none,none
+Which raw beans and raw grains cook the fastest?,beans and raw grains (0.90),the fastest? (1.00),none,raw (0.85),none,none
+"Why won't bread crumbs keep on with my onion rings? When I blend my rings with the crumbs I put it on the pan, but once there, the crumb seems to disappear leaving only the white onion layer.",bread crumbs (1.00),with my onion rings (0.86),rings with the crumbs (0.96),none,none,none
+How long does it take to deep fry pizza rolls?,deep fry pizza rolls (1.00),none,none,none,none,none
+Why does a vegetable cook quicker in water than in a sauce?,vegetable (1.00),quicker in water than in a sauce (0.97),none,none,none,none
+What is the best way to cook flank steak?,flank steak (1.00),none,none,none,none,none
+Is it okay to use dried herbs when recipes call for fresh?,dried herbs when recipes call (1.00),? (1.00),none,fresh (0.99),none,none
+"Can you cook a steak in a smoker? How does it compare to grilling, broiling, and pan-searing?",steak in a smoker (1.00),it (1.00),"grilling, broiling, and pan - searing (0.95)",none,none,none
+Why does pizza dough become crumbly?,pizza dough (1.00),crumbly (0.99),none,none,none,none
+How do I reheat chicken in the oven?,chicken in the oven (1.00),none,none,none,none,none
+What’s an ingredient that you’re still hesitant to cook with?,ingredient (0.66),none,none,none,none,none
+How do I cook a thin top round steak?,thin top round steak? (1.00),none,none,none,none,none
+Is getting a thick cut of meat (1.5 inches+) to room temperature before cooking really that important when you're reverse searing?,thick cut of meat ( 1. 5 inches + ) to room temperature before cooking really (1.00),important when (1.00),reverse searing (0.91),none,none,none
+How many times should you flip a steak when cooking?,steak when cooking (1.00),none,none,none,none,none
+What is the fastest way to cook a meat salad?,meat salad (1.00),none,none,none,none,none
+What seasonings pair well with garlic?,well with (0.43),none,none,seasonings (0.93),garlic (0.57),none
+"When making potato salad, do you peel and chunk the potatoes first, or boil them while, peel, and chunk them after they are cooked?",potato salad (1.00),"peel and chunk the potatoes first, (0.92)","boil them while, peel, and chunk them after they (0.99)",cooked (0.72),none,none
+How long do you cook a duck?,duck (1.00),none,none,none,none,none
+My cake is stuck to the pan; what should I do now?,cake (1.00),none,none,the (0.97),pan (0.55),none
+What are some amazing tricks to use when grilling fresh fruits?,grilling fresh fruits (0.97),none,none,amazing tricks (0.99),none,none
+How do you like to cook your filet mignon?,filet mignon? (1.00),none,none,none,none,none
+How long do you boil something to remove salt?,? (0.62),none,none,remove (1.00),salt (0.80),none
+How do I prevent smoke when cooking in a pan with oil?,smoke when cooking in (0.93),pan with oil (0.99),none,none,none,none
+My brother watches too many cooking contests and has challenged me - my best dish against his. What are some recommended winning dishes for an intermediate cook?,cooking contests (1.00),my best dish against (0.86),recommended winning dishes (1.00),none,none,none
+How do you keep queso dip warm without scorching it?,queso dip warm without (1.00),##orching it (1.00),none,sc (0.99),none,none
+How does garlic react in different cooking situations?,garlic (0.66),different cooking situations (0.75),none,none,none,none
+How do I make stuffed bell peppers without tomato sauce?,stuffed bell peppers without tomato sauce (0.99),none,none,none,none,none
+"What is the best way to rescue an over cooked, tough beef roast?","over cooked, tough beef roast? (0.95)",none,none,none,none,none
+How long should rice be soaked in water before cooking?,rice (0.99),soaked (0.43),none,water (1.00),cooking (0.94),none
+How can I keep peeled potatoes from turning brown before it's time to cook them?,peeled potatoes from turning brown before it ' (0.97),them (0.99),none,none,none,none
+"I heard that French fries should be cooked twice to make them crispy, how do I do that?",french fries (1.00),cooked twice to make them crispy (1.00),none,none,none,none
+How can I master using a knife for cooking without taking a course?,knife for cooking (1.00),none,none,taking (1.00),course (1.00),none
+How do I cook goguma in the oven?,goguma in the oven (1.00),none,none,none,none,none
+How do I cook chicken in a Dutch oven?,chicken in a dutch oven (1.00),none,none,none,none,none
+How long should you cook frozen hash browns in a deep fryer?,frozen hash browns in a deep fryer (1.00),none,none,none,none,none
+How do you guys handle steaks that have been cut too thin (1”)?,steaks that have been cut too thin ( 1 ” ) (1.00),none,none,none,none,none
+How do you make an omelet taste better?,omelet taste better (1.00),none,none,none,none,none
+Does the inside of a lid used to cook rice or steam vegetables have anything besides water on it?,inside (0.46),lid (0.99),rice or steam vegetables have anything (0.93),besides (0.36),water on (0.86),none
+Can you salt a steak for 2 days?,steak for 2 days (0.99),none,none,none,none,none
+What is the easiest way to find the end of a cling wrap roll?,end (0.61),cling wrap roll (1.00),none,none,none,none
+How do you cook a frozen seafood salad?,frozen seafood salad? (1.00),none,none,none,none,none
+What is a good method or product for pouring oil on your meal evenly?,product (0.55),pouring oil on your meal evenly (0.94),none,none,none,none
+How do you fix an undercooked steak?,undercooked steak? (1.00),none,none,none,none,none
+"If a dish is too spicy, how can I neutralize the hot spice?",dish (1.00),spicy (0.47),hot spice (0.77),neutral (0.51),none,none
+How do I season collard greens without meat?,collard greens (1.00),none,none,meat (1.00),none,none
+Does anyone actually have a chef to cook for them in their home?,them (0.47),none,none,chef (1.00),none,none
+How long does it take to cook a meatball in an oven?,meatball in an oven (1.00),none,none,none,none,none
+How much water do I add to a cup of white rice in a rice cooker?,cup of white rice in a rice cooker (1.00),none,none,water (1.00),none,none
+How do I cook a sirloin tri-tip steak?,sirloin tri - tip steak? (1.00),none,none,none,none,none
+What type of food should you never make in a slow cooker?,food (0.78),in (0.59),slow cooker (1.00),none,none,none
+What is the best way to prevent fish from sticking to the pan?,fish from sticking to the pan (0.97),none,none,none,none,none
+What is the best way to cook ribeye steak?,ribeye steak (1.00),none,none,none,none,none
+What's your secret recipe for making popcorn at home?,secret (0.98),popcorn (1.00),none,none,none,none
+How long do you soak red beans?,red beans? (1.00),none,none,none,none,none
+Is prepared brown rice supposed to be harder than white rice? No matter how much water I add it doesn't turn out as tender.,brown rice (0.99),harder than white rice? (0.99),much (0.83),water (0.99),tender (0.95),none
+How do I cook the perfect hot dog?,the perfect hot dog (1.00),none,none,none,none,none
+How can I tell if pasta is overcooked?,pasta (1.00),overcooked? (1.00),none,none,none,none
+How long does it take to cook a 2.6 pound roast?,2. 6 pound roast? (1.00),none,none,none,none,none
+Why do some recipes call for a specific variety of rice?,specific variety of rice (1.00),none,none,recipes (0.98),none,none
+Which is the best kitchen appliance and why?,the best kitchen appliance and why? (1.00),none,none,none,none,none

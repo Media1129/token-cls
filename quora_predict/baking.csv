@@ -1,0 +1,825 @@
+utterance,dishname_first (score),dishname_second (score),dishname_third (score),ingredient_first (score),ingredient_second (score),ingredient_third (score)
+Why are my waffles not cooking in the middle?,waffles (1.00),middle (0.85),none,none,none,none
+"Why does home-baked bread sometimes fail to rise? Assume for the purposes of the question that I didn't forget any ingredients, baked for the correct amount of time and so on.",home - baked bread sometimes (0.99),rise (1.00),question (0.65),ingredients (1.00),none,none
+How do I make a spiral potato cutter?,spiral potato cutter (1.00),none,none,none,none,none
+What is rolled-in dough?,rolled - in dough (1.00),none,none,none,none,none
+Should you refrigerate peanut butter cookie dough before baking it?,##riger (0.71),peanut butter cookie dough (0.90),it (0.98),ref (0.69),baking (0.89),none
+What is strong flour? What is it used for in baking?,none,none,none,strong flour (0.73),baking (0.46),none
+How is cookie dough different than cake batter?,cookie dough (1.00),than cake batter (1.00),none,none,none,none
+"How can you prevent using the wrong ingredients such as salt, cornstarch, flour, and baking powder?","wrong ingredients such as salt, cornstarch, flour, and baking powder (1.00)",none,none,none,none,none
+How can I make a Jiffy cornbread mix more moist?,jiffy cornbread mix more moist? (1.00),none,none,none,none,none
+Is corn flour the same as arrowroot?,corn flour (0.99),as arrowroot (0.96),none,none,none,none
+Does self rising flour need baking powder?,self rising flour (1.00),none,none,baking powder (0.99),none,none
+Can bread flour be used for baking pancakes?,bread flour (0.89),baking pancakes (0.98),none,none,none,none
+How long I could keep my cakes without using preservatives?,cakes (1.00),none,none,using preservatives? (1.00),none,none
+How does an oven with both gas & electricity work? What are its advantages for baking?,oven (1.00),none,none,both gas & electricity (1.00),advantages (0.54),baking (0.99)
+Is egg wash necessary for bread?,bread (1.00),none,none,egg wash (1.00),none,none
+How much do Buddy Valastro cakes cost?,buddy valastro cakes (1.00),none,none,none,none,none
+Why does it take so long to make pancake batter?,pancake batter (1.00),none,none,none,none,none
+What is the ribbon stage in baking?,ribbon (1.00),baking (0.69),none,stage (0.50),none,none
+"Can I use custard powder in baking (pancakes), or would it not work?",custard powder in baking ( pancakes ) (1.00),none,none,none,none,none
+What kind of sugar is primarily used in preparing icing?,icing (0.76),none,none,sugar (1.00),none,none
+What's the difference between baking and roasting when you're talking about bone-in skin-on chicken?,baking and roasting when (0.87),bone - in skin - on chicken (1.00),none,none,none,none
+How can I replace peanut butter in a recipe?,peanut butter in (1.00),recipe (0.99),none,none,none,none
+Is Backpulver the same as baking soda?,##pu (0.83),baking soda (0.78),none,back (0.98),##lver (0.64),none
+What can I do with hard pita bread?,none,none,none,hard pita bread (0.97),none,none
+Is it possible to hand-knead brioche?,hand - knead brioche? (0.99),none,none,none,none,none
+"My mother don’t like chocolate cake and she didn’t bake before, hence she wanted try today. Is this sentence right?",cake (0.99),bake before (0.73),today (0.80),chocolate (0.65),try (0.95),none
+How long does ketchup last after opening?,ketchup last after opening (0.95),none,none,none,none,none
+"If I’m cooking with duck eggs instead of chicken eggs, how do I adjust for baking?",eggs instead of chicken eggs (0.78),none,none,duck (1.00),baking (0.99),none
+"Why do all banana nut bread recipes use only either walnuts or pecans? Why do I never see almonds or peanuts, etc?",banana nut bread recipes (0.98),or pe (0.97),"almonds or peanuts, etc? (0.89)",only either walnuts (0.78),##cans (0.77),none
+How much baking soda can you eat?,none,none,none,baking soda (1.00),none,none
+Is 3 grams ok to make a batch of cannabis brownies?,grams (1.00),batch of cannabis brownies? (1.00),none,3 (0.94),none,none
+How do I store cut potatoes for the morning?,potatoes (1.00),morning (0.99),none,none,none,none
+What is a food that you hated as a child but now love to eat?,food (0.97),child (0.82),none,eat (1.00),none,none
+How do I make a Dutch Apple pie topping?,dutch apple pie topping (1.00),none,none,none,none,none
+Which type of pancakes uses a rising agent like baking powder to form much thicker fluffier pancakes?,pancakes (1.00),rising agent like baking powder (0.96),much thicker fluffier pancakes (1.00),form (0.64),none,none
+How much money do I need to start a bakery?,bakery (1.00),none,none,money (1.00),none,none
+How much baking powder is equal to baking soda?,baking (0.55),none,none,powder (0.96),baking soda (1.00),none
+Why can't you use a microwave instead of an oven to bake?,microwave instead of an oven to bake (1.00),none,none,none,none,none
+Can I use natural peanut butter for peanut butter cookies?,natural peanut butter for peanut butter cookies (1.00),none,none,none,none,none
+Can I paint buttercream gold?,buttercream gold (1.00),none,none,none,none,none
+Can you bake a cake in a combi oven?,cake (1.00),##i oven (0.82),none,comb (1.00),none,none
+Does a pastry cake contains egg?,pastry cake (1.00),? (0.65),none,egg (1.00),none,none
+Are there any sites that do recipes made with your ingredients?,recipes made with your ingredients (0.99),none,none,none,none,none
+How do I make Chick-fil-A biscuits?,chick - fil - a biscuits (1.00),none,none,none,none,none
+Are you supposed to eat fondant on cakes?,fondant on cakes (1.00),none,none,none,none,none
+What can I use if I don't have a 1/8 tsp?,1 / 8 tsp? (1.00),none,none,none,none,none
+Can corn flour be used as a replacement for cornstarch?,corn flour (0.86),cornstarch (1.00),none,none,none,none
+Do chefs and professional cooks carefully try to not waste ingredients and food while cooking/baking?,chefs (0.97),professional cooks (0.70),waste ingredients and food while cooking / baking (0.94),none,none,none
+What are some good recipes with fruit peels?,good (0.55),none,none,fruit peels? (1.00),none,none
+How can you fix a cake batter that is too thick?,cake batter that is too thick (1.00),none,none,none,none,none
+What is the best celebrity wedding cake?,the best celebrity wedding cake (1.00),none,none,none,none,none
+How do you reduce the baking powder after taste when baking?,baking powder after taste when baking (1.00),none,none,none,none,none
+How do you reheat baked ziti in the oven?,reheat baked ziti in the oven (1.00),none,none,none,none,none
+What happens if you only use white sugar in cookies?,white sugar in cookies (1.00),none,none,none,none,none
+What is the best way to make a no foil baked potato?,no foil baked potato? (1.00),none,none,none,none,none
+What would you recommend for homemade gluten-free baked goods?,homemade gluten - free baked goods (1.00),none,none,none,none,none
+What are the ingredients in soft rye bread?,soft rye bread (1.00),none,none,none,none,none
+What is no-knead bread?,no - knead bread (1.00),none,none,none,none,none
+How many bags of flour does Ruth need to make seven cakes if she uses three-quaters of a bag of flour to make one cake?,ruth (0.87),seven cakes (1.00),- quaters of a bag of flour (1.00),bags (0.75),flour (1.00),three (1.00)
+What can you make with bread crumbs?,crumbs (0.97),none,none,bread (0.99),none,none
+How do you spread pizza sauce evenly on pizza dough?,pizza sauce evenly on pizza dough (1.00),none,none,none,none,none
+Why does lard make pastry flaky?,##rd (0.99),pastry flaky? (0.99),none,la (0.99),none,none
+What is the most favorite type of bread in the world?,most (0.72),favorite (0.67),bread (0.92),none,none,none
+Why do baking sheets bend in the oven?,baking sheets bend in the oven (0.99),none,none,none,none,none
+How are waffle cones made?,waffle cones (1.00),none,none,none,none,none
+What is a Polish cake filled with candied fruits and nuts?,polish cake (1.00),##ed fruits (0.87),none,candi (1.00),and nuts? (0.82),none
+Can I bake pottery on aluminum foil?,pottery on aluminum foil (1.00),none,none,none,none,none
+How do I make my bread thick and fluffy?,bread thick and fluffy? (1.00),none,none,none,none,none
+Does cream cheese frosting go well with pineapple cake?,cream cheese frosting go well with pineapple cake (0.97),none,none,none,none,none
+"What can I make with overnight oats (ingredients used; 2 bananas, 1 cup instant oats, 1/2 cup milk, some cinnamon, and blueberries)? I made too much of the stuff & want to bake it into something.","oats ( ingredients used ; 2 bananas, 1 cup instant oats, 1 / 2 cup milk, (0.98)",", and blueberries ) (0.94)",much (0.65),overnight (0.99),cinnamon (1.00),none
+What is the rubbing-in method in baking?,rubbing - in (1.00),none,none,baking (0.76),none,none
+What is vegan blintzes? How is it made? Why?,vegan blintzes (1.00),it (1.00),none,none,none,none
+How do you make blackberry pie filling from scratch?,blackberry pie filling from scratch? (0.95),none,none,none,none,none
+Which company makes the best serrated knife for slicing bread?,the best serrated knife for slicing bread (1.00),none,none,none,none,none
+A baking question: What is “strong flour”?,baking question (0.98),strong flour ” (1.00),none,none,none,none
+Do baking soda and hydrogen peroxide clean pans?,baking soda and hydrogen peroxide clean pans (1.00),none,none,none,none,none
+Can I use Shopify for my pastry business?,pastry business (0.99),none,none,shopify (1.00),none,none
+How do you detect the difference between all-purpose and plain flour?,difference (0.67),all - purpose and plain flour (1.00),none,none,none,none
+What am I doing wrong? I’m trying to make macarons but my egg whites won’t stiffen. I’ve done everything right. Also I’m hand whisking it hurry plz,macarons (1.00),egg whites won ’ t stiffen (0.80),hand whisking it hurry plz (1.00),right (0.35),none,none
+Which icing sugar is best in clothing cake?,ic (0.48),##ing (0.63),cake (0.91),sugar (0.94),clothing (0.62),none
+How long can bread last before becoming stale?,bread (0.99),stale (0.59),none,last (0.37),none,none
+How do I cook a spiral ham in an oven?,spiral ham in an oven (1.00),none,none,none,none,none
+Can I use dry active yeast after the best before date?,dry active yeast after the best before date (1.00),none,none,none,none,none
+How many teaspoons of yeast are in 1 package?,teaspoons of yeast are in 1 package (1.00),none,none,none,none,none
+What is the best bread making machine for almond flour bread?,the best bread making machine for almond flour bread (1.00),none,none,none,none,none
+Why don't my brownies have a crust on top?,brownies (1.00),top (0.73),none,crust (0.82),none,none
+"Can I bake expired cookie dough, if the expiration date has been ~1 month?","expired cookie dough, (1.00)",expiration date (0.70),~ 1 month (0.60),none,none,none
+How do you make edible gold leaf for cakes?,edible gold leaf for cakes (1.00),none,none,none,none,none
+I forgot to add butter to my biscuits. Will it still taste good?,butter (1.00),biscuits (0.73),it (0.43),good (0.77),none,none
+Why do you need fresh egg whites for an angel food cake?,fresh egg whites for an angel food cake (0.99),none,none,none,none,none
+"If I cook something in the oven at 212 degrees F, would that be the same as steaming?",oven (0.59),none,none,at (0.62),212 degrees f (0.68),steaming (1.00)
+Is there any difference between cornflour and all purpose flour?,cornflour and all purpose flour (1.00),none,none,none,none,none
+Why do bread and milk taste so good together?,bread and milk (1.00),good together (0.74),none,none,none,none
+Why do my peanut butter cookies not taste like peanut butter?,peanut butter cookies (1.00),taste (0.95),peanut butter (1.00),none,none,none
+Is baking soda the same as corn starch?,baking soda (0.92),as corn starch? (0.86),none,none,none,none
+"Thinking of opening a small grocery store featuring bulk dry goods - spices, beans, grains, pastas, flours, etc. This would eliminate need for expensive refrigeration, reduce spoilage, and be cheaper for the customer. Is this a place you would visit?","small grocery store featuring bulk dry goods - spices, beans, grains, pastas, flours, etc (1.00)","refrigeration, reduce spoilage (1.00)",customer (0.52),expensive (1.00),none,none
+Why does my cake's bottom part get wet after baking? How do I prevent it?,cake (1.00),bottom part (0.55),after (0.55),wet (0.76),baking (0.97),it (0.46)
+How long do potatoes take to bake?,potatoes (1.00),bake? (0.78),none,none,none,none
+What is a dump cake?,dump cake (1.00),none,none,none,none,none
+Can I put olive oil or any other cooking oil in the baking oven? Would the heat cause a flash point fire?,olive oil or any other cooking oil in the baking oven (1.00),flash point fire (1.00),none,heat (1.00),none,none
+"When making your pizza at home, how do you apply the toppings?",pizza (1.00),? (0.37),none,the (0.99),toppings (0.81),none
+How do I convert a 2 kg cake recipe to 1 kg of cake recipe?,2 kg cake recipe to 1 kg of cake recipe (1.00),none,none,none,none,none
+Do you always need to blind bake pie crust?,blind bake pie crust (0.96),none,none,none,none,none
+How can you tell if dough has doubled in size?,dough (1.00),doubled in size (1.00),none,none,none,none
+What are good sides to serve with spinach pie?,sides (0.33),with spinach pie (0.89),none,none,none,none
+How long does it take brownies to cool?,brownies to cool? (0.99),none,none,none,none,none
+How do I make a vanilla frosting similar to the one on frozen Betty Crocker frozen devil's food cake? The bakery discontinued making them!,vanilla frosting similar to the one on frozen betty crocker frozen devil's food cake (1.00),them! (0.92),none,bakery (0.44),none,none
+How do you get meatloaf out of the pan?,meatloaf out of the pan (1.00),none,none,none,none,none
+Will buttercream icing harden in the fridge?,buttercream icing harden in the fridge (1.00),none,none,none,none,none
+What is the difference between cookie sheets and baking pans?,cookie sheets and baking pans (1.00),none,none,none,none,none
+How can I bake Toll House cookies in the microwave?,toll house cookies in the microwave (1.00),none,none,none,none,none
+What is plain flour called in Tamil?,plain flour called in tamil (0.97),none,none,none,none,none
+Why do cake recipes instruct you to mingle the flour and baking powder before incorporating both into the mixture? What difference would it make if you added both like separate ingredients?,cake (1.00),the flour and baking powder before incorporating (0.88),into the mixture (0.47),both (0.78),difference (0.56),both like separate ingredients (0.60)
+If I mistakenly add baking soda instead of baking powder is there a way to salvage?,baking soda instead of baking powder (1.00),none,none,salvage (0.90),none,none
+What does feeding a sourdough starter mean?,sourdough starter (1.00),none,none,none,none,none
+Would you want to marry a woman that could bake a double layer cake? Or would that not make a difference?,woman (0.99),bake (0.73),double layer cake (0.99),not (0.66),difference (0.49),none
+How do you apply fondant decorations to the side of a cake?,fondant decorations to the side of (1.00),cake (1.00),none,none,none,none
+"Making a pie for a birthday, what pie should I make?",pie (1.00),birthday (0.99),pie (0.94),none,none,none
+Why are my pancakes gooey inside?,pancakes gooey inside (1.00),none,none,none,none,none
+How do I draw a simple birthday cake?,simple birthday cake (1.00),none,none,none,none,none
+How much of flour & baking powder do I need for 1kg?,1kg (0.94),none,none,flour & baking powder (0.84),none,none
+Why do we use the pound to weigh cake instead of kg?,pound to weigh cake instead of kg (0.99),none,none,none,none,none
+What makes Brioche buns taste the way they do?,brioche buns taste the way they do (1.00),none,none,none,none,none
+How many 1/4 cups does it take to make a 2/3 cup?,1 / 4 cups (1.00),2 / 3 cup (1.00),none,none,none,none
+Does baking bread in a convection oven change the texture and taste of the bread?,baking bread in (0.96),convection oven (1.00),texture and taste (0.84),none,none,none
+What is the most impressive recipe you know to make with eggs to please a guest?,most impressive (0.74),make with eggs to (0.79),guest (0.86),none,none,none
+What is a chef's tip that sounds gross but is actually tasty?,chef's tip that sounds gross but is actually tasty (1.00),none,none,none,none,none
+My oven takes forever to preheat. What gives?,oven (0.92),none,none,preheat (0.41),none,none
+How do you remove oil from a silicone baking mat?,oil from (0.96),silicone baking mat (1.00),none,none,none,none
+How do you make pizza with the fluffy crust?,pizza with the fluffy crust? (1.00),none,none,none,none,none
+"Should I measure milk in ""milk mode ml"" on my kitchen scale?","milk in "" milk mode ml "" (1.00)",kitchen scale (0.95),none,none,none,none
+How do I lighten fabric with baking soda?,fabric with baking soda? (0.98),none,none,none,none,none
+Can you add a little bit of BBQ sauce while making a pizza dough for flavour?,of bbq sauce while (0.90),pizza dough for (1.00),none,flavour (0.98),none,none
+What is the least processed flour?,least processed flour (1.00),none,none,none,none,none
+Can I cook a pizza in the oven without a pan?,pizza in the oven (1.00),none,none,a (1.00),pan (1.00),none
+Can you bake a store bought graham cracker crust?,store bought graham cracker crust (1.00),none,none,none,none,none
+How do you use parchment paper in round pans without wrinkling a cake?,parchment paper in round pans without (1.00),a cake (0.99),none,wr (1.00),##inkling (0.99),none
+How does cold milk affect baking?,cold (0.59),baking (0.92),none,milk (0.60),none,none
+"Can you freeze homemade pizza dough, and does it affect its quality?",homemade pizza dough (0.99),none,none,its (0.77),quality (0.84),none
+What is the best vegan butter to use for baking cookies (that won't spread)?,the best vegan butter to use for baking cookies ( that won't spread ) (0.99),none,none,none,none,none
+What would you say if I told you that you can bake a month’s worth of healthy bread for your family in one baking day?,ba (0.89),a month ’ s worth of (0.97),healthy bread (0.90),none,none,none
+Why is it important to chill the pastry in the fridge?,pastry in the fridge (1.00),none,none,none,none,none
+What is the substitution account for coconut flour used in baking cookies?,substitution (0.59),coconut flour used in baking cookies (1.00),none,none,none,none
+How long do you cook puff pastries?,puff pastries (1.00),none,none,none,none,none
+What kind of biscuit to use for cheesecake crust?,##cuit (0.99),cheesecake crust (1.00),none,bis (1.00),none,none
+How long does it take to bake a pork shoulder?,pork shoulder (1.00),none,none,none,none,none
+How do I bake chicken wings with sauce?,chicken wings with sauce? (1.00),none,none,none,none,none
+Why is there a need to follow the pie crust recipes accurately and properly?,pie crust recipes accurately (0.93),none,none,properly (0.61),none,none
+How do professional bakers manage to bake cakes with flat tops instead of bowed up in the middle?,baker (0.57),##ke cakes with flat tops instead of (0.95),up in the middle (0.84),ba (0.32),bowed (0.88),none
+How long does it take to broil hamburgers in an oven?,broil hamburgers in an oven (0.98),none,none,none,none,none
+Do I have to have cinnamon to bake an apple pie? Why couldn’t I just mix sugar in with the apples and that’s it then fill it in the pie?,ba (0.97),apple pie (1.00),sugar in with the apples and that ’ (0.87),cinnamon (1.00),none,none
+Why do ceramic baking dishes crack?,ceramic baking dishes crack? (0.96),none,none,none,none,none
+Is it safe to use expired brownie mix?,expired brownie mix (1.00),none,none,none,none,none
+How do you keep puff pastries from sticking to the tray?,puff pastries from sticking to the tray (0.98),none,none,none,none,none
+Do you season a pizza stone before using it?,pizza stone (1.00),none,none,none,none,none
+"When portioning dough, for sure there will be some small pieces of dough, can I combine all the small pieces of dough together? Will the texture be different? Why?",dough (1.00),small pieces of dough (0.94),small pieces of dough (0.96),texture (0.82),none,none
+How do you make an Apple crisp topping?,apple crisp topping (1.00),none,none,none,none,none
+How do you rescue overproofed dough?,overproofed dough (1.00),none,none,none,none,none
+What can I use instead of flour to make gluten-free pancakes?,gluten - free pancakes (1.00),none,none,instead (1.00),flour (0.97),none
+How do you measure 1 ounce of flour?,1 ounce of flour (1.00),none,none,none,none,none
+What are the best ways to cook and bake with yeast?,and bake with yeast? (1.00),none,none,none,none,none
+What are some cooking/baking myths or tips that don't really pan out in reality?,cooking (0.56),tips that don't really pan out in (0.90),none,/ baking myths or (0.86),reality (0.52),none
+How long does it take to successfully bake a potato in the oven?,ba (0.99),potato in the oven (1.00),none,none,none,none
+What is the best recipe for yeast-free bread?,best (1.00),yeast - free bread (1.00),none,none,none,none
+What should I always remember when baking?,none,none,none,none,none,none
+How do I get my snickerdoodles less cake-y and more cookie-y?,snickerdoodles less cake - y and more cookie - y (1.00),none,none,none,none,none
+Is it helpful when seasoning cast iron to apply a second coat of oil before baking it again?,season (1.00),cast iron (1.00),second coat of oil (1.00),baking (0.63),none,none
+How do I dry Apple slices in an oven?,apple slices in an oven (1.00),none,none,none,none,none
+How do I make all-purpose flour rise?,all - purpose flour rise? (1.00),none,none,none,none,none
+Can I add vanilla extract to simple syrup?,vanilla extract to simple syrup (1.00),none,none,none,none,none
+Could you deep fry cup cakes?,deep fry cup cakes (1.00),none,none,none,none,none
+Do you refrigerate bread with parmesan in it?,refrigerate bread with parmesan in it (1.00),none,none,none,none,none
+"Which is better, no-bake cheesecake or bake?",no - bake cheesecake or bake? (1.00),none,none,none,none,none
+What can you use instead of flour to thicken a soup?,soup (0.99),none,none,instead (0.96),flour (0.75),thick (0.38)
+How is it possible to substitute almond milk for regular milk in cooking and baking?,almond milk for regular milk in cooking and baking (1.00),none,none,none,none,none
+How long does it take to bake 2 chicken breasts?,2 chicken breasts (0.98),none,none,none,none,none
+How long does it take to bake hamburgers at 350?,hamburgers at 350? (0.90),none,none,none,none,none
+"What do I do? I foolishly added fresh apricot to my banana muffins and now, despite being in the oven for a while, the muffins are really moist and I don't know if it's undercooked or not.",fresh apricot to my banana muffins (0.97),oven (0.63),muffins (1.00),under (0.99),none,none
+"Can I bake bread in a cast iron Dutch oven with the lid on, or should I use tin foil instead?",bread in (1.00),cast iron dutch oven with the lid on (1.00),foil (1.00),tin (1.00),none,none
+How do you make pancakes without making a mess?,pancakes (1.00),none,none,making (1.00),mess (1.00),none
+How do I make fondant stick to fondant?,fondant stick to fondant? (1.00),none,none,none,none,none
+Do you have to soak eggplant before baking?,eggplant before baking (0.91),none,none,so (0.55),none,none
+"When a recipe calls for a cup of chopped nuts, should they be measured before chopping or after chopping?",cup of chopped nuts (1.00),they (1.00),measured before chopping or after chopping (0.92),none,none,none
+Can you use both buttercream frosting as crumb coat and whipped cream frosting over that when frosting a cake? And also ganache as filling?,cake (1.00),none,none,buttercream frosting as crumb coat and whipped cream frosting over that when frosting (0.95),ganache as filling (0.98),none
+How many litres is 2.5 kg of flour?,litres is (0.91),2. 5 kg of flour (1.00),none,none,none,none
+Is it safe to bake with aluminum foil?,with aluminum foil (0.98),none,none,ba (0.96),none,none
+How does cold flour affect baking?,cold (0.88),none,none,flour (0.72),baking (0.57),none
+How does one make a moist meatloaf?,moist meatloaf? (1.00),none,none,none,none,none
+What is the recipe of your favourite pie by listing its complete ingredients and procedure?,favourite (0.98),pie (0.84),none,listing (0.92),its (0.36),complete ingredients and procedure (0.91)
+What is the best way to check if bread dough is proofed?,bread dough is proofed (1.00),none,none,none,none,none
+What’s a cookie you ask?,cookie (1.00),none,none,none,none,none
+How long does it take to bake stuffed pork loins?,stuffed pork loins (0.92),none,none,none,none,none
+How long does it take to cook a meatball in an oven?,meatball in an oven (1.00),none,none,none,none,none
+How do I cook a 2-pound meatloaf?,2 - pound meatloaf? (1.00),none,none,none,none,none
+What would be the best icing for a lemon-flavored cake?,the best icing (1.00),lemon - flavored cake (1.00),none,none,none,none
+How much powdered sugar is in a pound?,pound (0.99),none,none,powdered sugar (1.00),in (0.69),none
+What grade eggs should be used for cooking or baking?,eggs (0.27),cooking or baking (0.76),none,grade (0.31),none,none
+Why is steaming faster than baking?,none,none,none,steaming faster (0.78),baking (0.94),none
+How do you weigh eggs for baking?,eggs for baking (1.00),none,none,none,none,none
+Is bakers flour and plain flour the same?,bakers flour and plain flour (1.00),same (0.53),none,none,none,none
+"What's the difference between the sweet potato pie and the pumpkin pie, and why does it taste differently?",sweet potato pie and the pumpkin pie (1.00),it (0.50),none,none,none,none
+Can I bake my egg rolls instead of frying them?,egg rolls (1.00),frying them (0.99),none,none,none,none
+I baked a cake and forgot to add flavor into it. What should I do?,cake (1.00),none,none,flavor into it (0.98),none,none
+What is ‘retarding pizza dough’?,retarding pizza dough ’ (1.00),none,none,none,none,none
+Why do cakes from the store taste so different from homemade cakes?,cakes (1.00),store (0.87),none,from (0.32),homemade cakes (0.83),none
+What is the best baking pan material for beginner bakers?,the best baking pan (1.00),beginner bakers (0.98),none,none,none,none
+What is barley flour?,flour (0.90),none,none,barley (0.83),none,none
+What makes my bread turn green after about 4 days in the bread bin?,bread (1.00),green after about 4 days in the bread bin (0.81),none,none,none,none
+What is traditionally the main fruit ingredient in a black forest cake?,main fruit ingredient (0.84),black forest cake (1.00),none,none,none,none
+Will pizza dough stick on a steel platform in a conventional oven?,pizza dough (1.00),steel platform in a conventional oven (1.00),none,none,none,none
+How many feeds does a half sheet cake size feed?,half sheet cake size feed (1.00),none,none,feeds (0.88),none,none
+What sector is baking categorized under?,baking categorized (0.65),none,none,sector (0.53),none,none
+"Ingrid is doubling her recipe for Arroz con Leche (rice with milk). Her recipe calls for 1/2 cup of raisins. Because she is doubling the recipe, how many cups of Raisins will she now need?",ingrid (0.30),arroz con leche ( rice with milk ) (1.00),recipe (0.86),none,none,none
+Does it matter if you use softened or melted butter when baking?,softened or melted butter when baking (1.00),none,none,none,none,none
+How do I roast bacon in the oven?,bacon in the oven (1.00),none,none,none,none,none
+What causes indigestion and heartburn when eating uncooked flour dough?,indigestion and heartburn when eating uncooked flour dough (0.99),none,none,none,none,none
+"What is the maximum time to chill cookie dough (for chewy cookies)? Some say 24 hours, some say 72 hours.",maximum (0.67),cookie dough ( for chewy cookies )? (1.00),"24 hours, (0.98)",say (0.91),none,none
+What can you make with just flour water and sugar combined?,none,none,none,just flour water and sugar combined (0.92),none,none
+How long does it take to bake chicken breast cutlets?,chicken breast cutlets (0.98),none,none,none,none,none
+Would you cook with the baking soda you use to absorb odors in your fridge or bathroom?,absorb odors in (0.78),fridge or bathroom (0.62),none,baking soda (1.00),none,none
+What is a fat rascal cake?,fat rascal cake (1.00),none,none,none,none,none
+How do I make jiffy cornbread taste better?,jiffy cornbread taste better (1.00),none,none,none,none,none
+How long do you cook cupcakes for?,cupcakes for (1.00),none,none,none,none,none
+How do I keep fresh baked bread fresh?,fresh baked bread fresh? (1.00),none,none,none,none,none
+You have some cookies. Can you make this wonderfully quick and easy dessert?,wonderfully quick and easy dessert (1.00),none,none,cookies (1.00),none,none
+Is a steamed sponge cake better than baked?,steamed sponge cake (1.00),baked? (1.00),none,none,none,none
+What happens in baking if I use almond flour instead of wheat flour?,baking (0.84),almond flour instead of wheat flour (1.00),none,none,none,none
+"What will be the correct sentence of this?""Do not eat my share of cake.""",correct (0.92),share (0.60),cake (0.92),none,none,none
+How do I make oatmeal bread without flour?,oatmeal bread (1.00),none,none,flour (1.00),none,none
+How do I dry thyme in the oven?,thyme in the oven (1.00),none,none,none,none,none
+How do you prevent a cake from rising and cracking in the middle while baking?,cake (1.00),and (0.74),in (0.43),rising (0.95),cracking (0.46),the (0.44)
+Can I use powdered sugar in an angel food cake since I don’t have a way to make granulated sugar finer with a food processor?,powdered sugar in (0.99),angel food cake (1.00),’ (0.96),none,none,none
+How many scoops of spoons of corn starch do I use if I use 25 kg of flour?,scoops of spoons of corn starch (0.94),kg (1.00),flour (0.55),25 (0.45),none,none
+Does the type of flour make a difference in baking?,difference (0.96),none,none,flour (0.65),baking (0.99),none
+Why was my first batch of cookies nice and crunchy but the second batch chewy? I had put the cookie dough back in the fridge for a few days before making the second batch.,cookies nice and crunchy but the second batch chewy (1.00),cookie dough (1.00),second batch (0.99),none,none,none
+How do I make a mash potato with cheese?,mash potato with cheese (1.00),none,none,none,none,none
+How does the number of eggs affect baking?,eggs (0.98),none,none,baking (0.97),none,none
+How many brownies does a box make?,##ies (0.90),box make (1.00),none,brown (1.00),none,none
+"I buy frozen fries and bake them in the oven without any oil, is that healthy?",frozen fries (1.00),bake them in the oven (1.00),none,any (1.00),oil (0.73),healthy (0.84)
+Can you use moldy bananas for banana bread?,moldy bananas for banana bread (1.00),none,none,none,none,none
+How should I change the time or temperature to bake with silicone pans?,time or temperature to bake with silicone pans (0.99),none,none,none,none,none
+How do you keep pizza dough from sticking to the pan?,pizza dough from sticking to the pan (0.94),none,none,none,none,none
+Can you blend granulated sugar to make powdered sugar?,##ulated sugar (0.96),powdered sugar (1.00),none,gran (0.56),none,none
+What do you enjoy most about baking?,baking (0.64),none,none,none,none,none
+"I forgot to stagger my wet and dry ingredients for a cake, can I do anything to fix it?",wet and dry ingredients for (0.99),cake (1.00),none,none,none,none
+Why can't I bake?,none,none,none,none,none,none
+How rough should the finish on a pizza peel be?,pizza peel (1.00),none,none,rough (0.52),finish (0.39),none
+How do I determine how long it takes to bake bread dough?,bake bread dough (0.85),none,none,none,none,none
+What is your secret/hack to make the ultimate souffle?,/ hack (0.98),ultimate souffle? (1.00),none,secret (0.97),none,none
+How do you organize your spice rack in order to find the spices you need quickly?,spice rack (1.00),spices (0.91),none,quickly (0.66),none,none
+How long can you keep baked chicken?,baked chicken (1.00),none,none,none,none,none
+What is the whisking method in baking?,whisking (1.00),none,none,baking (0.77),none,none
+Why are English muffins popular in the US but not crumpets?,english muffins popular (0.99),the us but not crumpets (1.00),none,none,none,none
+Is it possible to make a jam-setting gelling agent at home?,jam - setting gelling agent (1.00),none,none,none,none,none
+Are egg grades important in baking?,egg (0.59),none,none,grades (0.98),baking (0.99),none
+How can I make use of vital wheat gluten flour and sodium bicarbonate powder? I have bought too much. I use a simple breadmaker machine with dried yeast powder.,vital wheat gluten flour and sodium bicarbonate powder (1.00),much (0.99),simple breadmaker machine with dried yeast powder (1.00),none,none,none
+How do you put nuts on the side of a cake?,nuts on the side of (0.98),cake (0.99),none,none,none,none
+Are all baked goods just bread with more sugar?,baked goods (0.99),bread with more sugar (0.97),none,none,none,none
+How long should you knead pizza dough in a mixer?,knead pizza dough in a mixer (1.00),none,none,none,none,none
+How do you make ganache cake filling?,ganache cake filling (1.00),none,none,none,none,none
+Do you level a cake before you freeze it?,cake (1.00),it (0.64),none,none,none,none
+How do I heat up a baked potato?,baked potato? (1.00),none,none,none,none,none
+Is it better to use oil or butter in baking?,oil or butter in baking (0.97),none,none,none,none,none
+Why are Twizzlers made from flour? Is it possible to make it out of sugar and corn syrup only?,twizzlers made from flour (1.00),it out of sugar and corn syrup only (1.00),none,none,none,none
+Can I use my fingers instead of a silicone pastry brush to apply an egg-and-milk wash to a crust?,fingers (0.54),silicone pastry brush (1.00),egg - and - milk wash (1.00),none,none,none
+How do I swap out instant yeast for active dry yeast?,instant yeast for active dry yeast (1.00),none,none,none,none,none
+"I’m making mini keto cheesecake cupcakes, and the ingredients are cream cheese, egg, powdered sweetener, sour cream, and vanilla extract. Can I skip the almond flour crust and put a shortbread cookie at the bottom and cover it up with filling?","mini keto cheesecake cupcakes, (1.00)",ingredients (1.00),"cream cheese, egg, powdered sweetener, sour cream, and vanilla extract. (0.99)",filling (1.00),none,none
+Can I use all purpose flour to make a pound cake?,purpose (0.56),pound cake (1.00),none,all (0.99),flour (0.74),none
+Can butter and shortening be used interchangeably in baked goods?,in baked goods (0.67),none,none,butter and (0.95),shortening (0.98),interchangeably (0.54)
+How much does it cost to build your own pizza oven?,pizza oven (1.00),none,none,none,none,none
+What does egg wash do to dough?,egg (0.90),none,none,wash (0.68),dough (0.73),none
+Can you soften a hard avocado by baking it?,hard avocado (1.00),baking it (0.99),none,none,none,none
+What is unleavened dough?,##leavened dough (0.96),none,none,un (0.84),none,none
+How do bakery ovens work?,bakery ovens (1.00),none,none,none,none,none
+How do I make a cupcake box template?,cupcake box template (1.00),none,none,none,none,none
+How do you keep salmon from sticking when baking?,salmon from sticking when baking (1.00),none,none,none,none,none
+What is special about Canadian flour?,canadian flour (0.97),none,none,none,none,none
+Where can you buy cake flour in the UK?,cake flour (1.00),none,none,none,none,none
+"What is your ""secret"" recipe hack to replace sugar?",""" secret "" recipe hack to replace sugar (1.00)",none,none,none,none,none
+"In his first course on recipes, our culinary student learned there were five basic flavors. Four of them (sweet, sour, salty and bitter) have been recognized for centuries. The fifth one was scientifically identified in the 20th century. What is it?",recipes (1.00),culinary student (0.98),basic flavors (0.93),scientific (0.65),identified (0.45),none
+Can I bring my therapist food? Like baked goods I made?,therapist food? like baked goods i made (0.98),none,none,none,none,none
+"How do you make a super chewy and fudgy brownie that's not too sweet? All the recipes I've looked at contain at least a cup of sugar, and my family doesn't really like treats that are too sweet.",super chewy and fudgy brownie that's not too sweet (1.00),cup of sugar (1.00),family (0.85),too (0.93),none,none
+What are soft peaks in baking?,soft peaks (1.00),baking (0.51),none,none,none,none
+What's the most carrot intensive carrot cake recipe that you know of?,most (0.78),carrot intensive carrot cake recipe (1.00),none,none,none,none
+How can I make a bar cookie more dense?,bar cookie more dense? (1.00),none,none,none,none,none
+"How can I make cream cheese frosting super light and fluffy, kind of like Cinnabon frosting?","cream cheese frosting super light and fluffy, kind of like cinnabon frosting (1.00)",none,none,none,none,none
+What kind of bananas are best for making bananas foster?,bananas foster? (1.00),none,none,bananas (0.91),none,none
+"What is wrong with my banana bread? It always ends up a bit gummy-looking (it's not wet) without proper crumb forming. I have tried baking banana bread a dozen of times, tweaking the recipes, and it still never came out like the ones from bakery :(",banana bread (1.00),it always (0.95),bit gummy - looking ( it's not wet ) (0.99),proper crumb forming (1.00),bakery (0.74),none
+Do you have to refrigerate cake pops before dipping?,##rigerate cake pops before dipping (1.00),none,none,ref (0.98),none,none
+What is the function of water in pastry?,water in pastry (0.93),none,none,none,none,none
+"Every time I try to store my cinnamon rolls in the fridge they get tough and weird, so how long can I store at room temperature before they go stale. And what's the reason for them getting tough in the fridge?","cinnamon rolls in the fridge they get tough and weird, (0.86)",long (0.91),room temperature (0.74),them (0.40),tough (0.88),none
+You are cooking with a recipe that called for 1/4 pound of butter. How many teaspoons of butter do you add?,1 / 4 pound of butter (1.00),many teaspoons of butter (1.00),none,none,none,none
+Can I use self-rising flour instead of baking powder?,self - rising flour instead of baking powder (1.00),none,none,none,none,none
+Can I bake at the same temperature in a toaster oven as an oven without it burning?,toaster oven as an oven (1.00),none,none,it burning (1.00),none,none
+Is vanilla the finest of the flavors?,finest (0.75),the (0.70),flavors (0.62),vanilla (0.64),none,none
+Why is the Battenberg cake pink and yellow?,battenberg cake pink and yellow (1.00),none,none,none,none,none
+How many teaspoons of baking powder can I use for 3kg of flour?,teaspoons of baking powder (1.00),3kg of flour (1.00),none,none,none,none
+Can pastry cream be more than just vanilla?,pastry cream (1.00),just vanilla (0.88),none,none,none,none
+I recently got into Red Velvet and I'm wondering who is the most popular member?,red velvet (1.00),most popular member (0.78),none,none,none,none
+How many bags of sprinkles do I need to cover a sprinkle cake?,##rinkles (1.00),sprinkle cake (1.00),none,bags (0.63),sp (1.00),none
+How long can dough be left out before it's not safe?,dough (1.00),left out before it (0.71),not safe (0.44),none,none,none
+How do you emboss a name on a cake?,name (0.96),cake (1.00),none,none,none,none
+How many 1/8 cups does it take to make a cup?,1 / 8 cups (0.97),cup (1.00),none,none,none,none
+How do I store an angel food cake overnight?,angel food cake overnight (1.00),none,none,none,none,none
+Why are dog treats called biscuits and not cookies?,dog treats (1.00),biscuits and not cookies (0.99),none,none,none,none
+How many grams of flour are in a recipe?,grams (0.85),recipe (0.66),none,flour (0.98),none,none
+Can I make a 5 layer 6inch tall cake without a cake disc/centre board in the middle? Preferably without any dowels too?,5 layer 6inch tall cake (1.00),disc / centre board in the middle (1.00),prefer (0.99),a (1.00),cake (0.89),any (1.00)
+What is sifted flour?,sifted flour (0.68),none,none,none,none,none
+What is the purpose of adding hot water in a cake recipe?,hot water in a cake recipe (1.00),none,none,none,none,none
+Can I bake two batches of brownie mixes in two baking pans at the same time?,batches of (0.99),brownie mixes in two baking pans (0.97),none,none,none,none
+Is cupcake an instrument?,cupcake (1.00),instrument (0.80),none,none,none,none
+Baking: How do you make great bread?,great bread (1.00),none,none,none,none,none
+How often do you buy bread?,bread (1.00),none,none,none,none,none
+How can I make my own Starbursts?,starbursts (1.00),none,none,none,none,none
+What is the average cost/value of a Cake Boss cake?,cost / value (0.96),cake boss cake (1.00),none,average (0.99),none,none
+Why is almost every deep frying/baking dish cooked at 180C/350F?,deep frying / baking dish cooked at 180c / 350f? (0.98),none,none,none,none,none
+How long do you bake chicken legs at 350?,chicken legs at 350? (1.00),none,none,none,none,none
+How long does it take to start baking potatoes in the microwave?,potatoes in the microwave? (1.00),none,none,none,none,none
+What do people do with rusty baking pans?,none,none,none,rusty baking pans? (0.99),none,none
+What is the benefit of letting the dough rest after punching down?,dough rest after punching down (1.00),none,none,none,none,none
+"If you were to kill someone with bread, how would you do it?",none,none,none,bread (1.00),none,none
+How can I brown a large turkey leg that is too big for the pan?,large turkey leg that is too big for the pan (1.00),none,none,none,none,none
+Why is Christmas pudding in the UK called a pudding when it actually is a cake? Shouldn't a pudding be creamy and yoghurt-like?,christmas pudding (1.00),pudding when it actually is a cake (1.00),pudding (1.00),none,none,none
+Today I made edible cookie dough. Is there a chance something could be wrong if I microwaved the flour for 2 minutes stirring each 15 seconds?,edible cookie dough (1.00),something (0.70),be wrong (0.51),none,none,none
+Can you use cane sugar instead of granulated sugar for baking?,cane sugar instead of granulated sugar for baking (0.98),none,none,none,none,none
+What ingredient do you always add more than is called for in a recipe?,more than is called (0.69),in (0.56),none,ingredient (0.50),for (0.40),none
+What makes an angel food cake have no fat?,angel food cake (1.00),? (1.00),none,no (0.99),fat (1.00),none
+How do I know when my brownies are finished baking?,brownies are finished baking (1.00),none,none,none,none,none
+What is the hardest pastry to make?,hardest pastry (0.99),none,none,none,none,none
+Are chemicals added to bread to make it last longer?,bread (0.99),it last longer (0.50),none,chemicals added (0.79),none,none
+Why do some bread recipes call for a second rise?,bread recipes (1.00),second rise (1.00),none,none,none,none
+What happens if you don't let pizza dough rise?,pizza dough rise (1.00),none,none,none,none,none
+What is your favorite flavor birthday cake?,favorite flavor birthday cake (1.00),none,none,none,none,none
+How do I make CO2 with baking soda?,co2 with baking soda? (0.99),none,none,none,none,none
+How do I bake a 10-pound turkey?,10 - pound turkey? (1.00),none,none,none,none,none
+Is pie crust a form of bread?,pie crust (0.99),bread (0.84),none,none,none,none
+How do I rewarm corn on the cob?,corn on the cob? (0.99),none,none,none,none,none
+Is steamed bread healthier than baked bread?,steamed bread health (1.00),than baked bread (0.98),none,none,none,none
+Is homemade bread healthier than store bought bread?,homemade bread health (1.00),store bought bread (0.96),none,none,none,none
+Should you use warm water when making bread dough?,bread dough (1.00),none,none,warm water (0.99),none,none
+Can you mix peanut butter into a brownie mix?,peanut butter into a brownie mix (0.98),none,none,none,none,none
+What is the best flour to use for a pound cake?,the best flour (1.00),pound cake (1.00),none,none,none,none
+Will two foods baked in the same oven impart flavor to each other?,foods (0.99),baked in the same oven impart flavor (0.80),none,none,none,none
+How much cheese and flour do I need to make a large cheese pizza at home to feed 8 people?,and flour (0.97),large cheese pizza (1.00),8 people (0.97),cheese (1.00),none,none
+How do you keep the bottom crust of a cherry pie from getting soggy?,bottom crust of (1.00),cherry pie (0.86),getting soggy (0.64),none,none,none
+How long do you bake monkey bread?,monkey bread (0.99),none,none,none,none,none
+How can I make a homemade strudel?,homemade strudel? (1.00),none,none,none,none,none
+How do you make a cake with just fruit?,cake (1.00),none,none,just fruit? (1.00),none,none
+How does cheesecake taste?,cheesecake (1.00),none,none,none,none,none
+In Chinese cooking can cornstarch replace tang flour?,cooking can (0.66),cornstarch replace tang flour? (0.99),none,none,none,none
+How do I make a glaze with confectioners sugar?,glaze with confectioners sugar (1.00),none,none,none,none,none
+What can you use instead of baking powder for pancakes?,baking powder for pancakes (0.99),none,none,none,none,none
+What is the best 3 ingredient dessert you ever had?,best 3 ingredient dessert (1.00),ever (0.64),none,none,none,none
+How much is 100 grams of flour in cups?,100 grams (0.99),flour in cups (0.86),none,none,none,none
+Can we add unboiled milk in a cake?,unboiled milk in a cake (1.00),none,none,none,none,none
+What other toppings can I add to a cupcake other than frosting?,cupcake other than frosting (1.00),none,none,topping (0.99),none,none
+What is a NutriProfit hot cake product in the market?,nutriprofit hot cake product (1.00),market (0.99),none,none,none,none
+Is there a way I can coat cake pops with frosting instead of candy melts?,cake pops with frosting instead of candy melts (1.00),none,none,none,none,none
+How do I make sfogliatelle with puff pastry?,sfogliatelle with puff pastry (1.00),none,none,none,none,none
+"What are some good beginner baking brands to make cakes, cupcakes, etc? Also baking tools and pans as well?",good beginner baking brands (0.98),"make cakes, cupcakes, etc? also baking tools and pans (0.99)",none,none,none,none
+Can you put egg wash (whites only) as a glaze on already baked bread?,egg wash ( whites only ) as a glaze on already baked bread (1.00),none,none,none,none,none
+"What is a good substitute for a banana in baking recipes, like quickbreads and brownies? I've tried avocado, which is ok. What else can I try?","banana in baking recipes, like quickbreads and brownies (1.00)",##ocado (1.00),none,av (1.00),ok (0.65),none
+Where can you buy rice flour in Chicago?,rice flour (1.00),chicago (1.00),none,none,none,none
+Can you replace water with milk when making bread?,with (0.91),bread (0.99),none,water (0.77),milk (0.96),none
+Can I leave fresh baked bread on the counter overnight?,fresh baked bread on the counter overnight (1.00),none,none,none,none,none
+"What makes the best pizza crust, active dry yeast, instant yeast, or baking powder?","the best pizza crust, active dry yeast, instant yeast, or baking powder? (0.97)",none,none,none,none,none
+How do you make bacon not crispy?,bacon not crispy? (1.00),none,none,none,none,none
+How do I make cupcakes without baking powder?,cupcakes without (1.00),powder (1.00),none,baking (1.00),none,none
+How many people can be served with 4 kg of cake?,people (0.90),kg of cake (0.89),none,4 (0.99),none,none
+Why do some recipes call for sifted flour?,sifted flour? (0.95),none,none,recipes (0.89),none,none
+"When attempting to make red icing, why does it always turn out pink?","red icing, (1.00)",it always turn out pink (0.98),none,none,none,none
+What will happen if I accidentally double the amount of baking soda in a recipe?,amount (0.66),baking soda in (0.99),none,none,none,none
+What is the best way to store muffins?,muffins (1.00),none,none,none,none,none
+"Why doesn't my cake come in brown colour, even after properly cooked?",cake (1.00),even (0.52),none,"brown colour, (0.76)",properly cooked? (0.88),none
+Are Lorna Doone cookies named after the inventor of them?,lorna doone cookies (0.99),none,none,none,none,none
+How much baking powder is needed for a cake?,cake (1.00),none,none,baking powder (1.00),none,none
+"Do you like to bake? If so, what do you like to make?",##ke (0.36),so (0.50),none,ba (0.89),none,none
+What happens if you put too much butter in cookies?,too much butter in cookies (0.94),none,none,none,none,none
+How many cake mixes go into a full sheet cake?,cake mixes (1.00),full sheet cake (1.00),none,none,none,none
+Is it okay to let pizza dough rise overnight?,pizza dough rise overnight (1.00),none,none,none,none,none
+Is there any bread that is not made from flour?,bread (1.00),none,none,made from flour (0.97),none,none
+"Which Wirral born chef had been a judge on BBC's ""The Great British Bake Off"" since 2010?",wirral born chef (0.78),"bbc's "" (0.85)","the great british bake off "" (0.97)",none,none,none
+What is the difference between leavened and unleavened dough?,leavened and unleavened dough (1.00),none,none,none,none,none
+Can you use 1/3 less fat cream cheese for cheesecake?,1 / 3 less fat cream cheese for cheesecake (1.00),none,none,none,none,none
+How do you fix runny meringue?,runny meringue? (1.00),none,none,none,none,none
+What is the ideal ratio of yeast to the total weight of a pastry to ensure optimal dough rising?,ideal ratio (0.84),yeast to the total weight (0.91),pastry (0.74),optimal (0.61),rising (0.84),none
+Is baking a talent or a skill?,talent or (0.93),skill (0.87),none,none,none,none
+How do I build a wood pizza oven?,wood pizza oven (1.00),none,none,none,none,none
+How do I make Chinese steamed buns white?,chinese steamed buns white? (1.00),none,none,none,none,none
+How do I bake chicken in aluminum foil?,chicken in aluminum foil (1.00),none,none,none,none,none
+Is it safe to eat cookie dough left out overnight?,cookie dough left out overnight (1.00),none,none,none,none,none
+"Except cheese pizza, what is the easiest pizza to make at home?",cheese pizza (0.96),the (0.99),easiest pizza to make (1.00),none,none,none
+How could you get a nice high and very soft sponge cake even without using yeast?,nice high and very soft sponge cake (1.00),none,none,using yeast (0.99),none,none
+Is there a recipe for a pizza that's cooked then rolled like a tube and cut up?,pizza that's cooked then rolled like a tube and cut up (1.00),none,none,none,none,none
+How do you fix overworked dough?,overworked dough (1.00),none,none,none,none,none
+What are the best alternatives for parchment paper?,parchment paper (1.00),none,none,none,none,none
+Can baking powder and vinegar be used for aquarium CO2?,powder and vinegar (0.87),aquarium co2? (1.00),none,baking (0.99),none,none
+"Why do cooks bother whipping egg whites for recipes that they later ""knock the air out of"" (i.e., macarons, meringue buttercream)?","whipping egg whites for recipes that they later "" knock the (0.87)","air out of "" ( i. e., macarons, meringue buttercream ) (0.91)",none,none,none,none
+"What is brioche bread, and why is it so expensive?",brioche bread (1.00),none,none,none,none,none
+How many cups are in a can of pumpkin?,cups (0.50),can of pumpkin? (1.00),none,none,none,none
+Why are there sometimes large holes inside of a cake?,cake (1.00),none,none,large holes inside (0.78),none,none
+"I'm interested in baking earrings. However, in all of the videos, they use oven to shrink the plastic. Is there any alternative besides an oven?",earrings (0.87),the (0.64),plastic (0.80),baking (0.85),videos (0.30),oven to (0.84)
+How do you stop baking sheets from warping in the oven?,baking sheets from warping in the oven (0.98),none,none,none,none,none
+How do I heat tamales in the oven?,tamales in the oven (1.00),none,none,none,none,none
+Can I add preservatives to my meat pie dough?,preservatives (1.00),meat pie dough (1.00),none,none,none,none
+Are disposable aluminum baking pans recyclable?,disposable aluminum baking pans recyclable? (1.00),none,none,none,none,none
+Can you use coconut flour for banana bread?,coconut flour for banana bread (1.00),none,none,none,none,none
+Which ingredient makes cookies moist and tender?,cookies moist and tender? (0.90),none,none,ingredient (0.81),none,none
+What are other ways to bake bread other than using an oven?,bread (0.98),none,none,ba (0.50),oven (1.00),none
+Is it better to cook an Apple when making an Apple pie?,apple when making (1.00),apple pie (1.00),none,none,none,none
+Is it okay to have a chocolate wedding cake or does it have to be vanilla? (I hate vanilla cake),chocolate wedding cake (1.00),? ( (0.76),vanilla cake ) (0.98),vanilla (0.98),none,none
+How can I make my sugar-free cake more moist?,sugar - free cake more moist? (1.00),none,none,none,none,none
+Are all purpose flour and wheat flour the same?,all purpose flour and wheat flour (1.00),same (0.87),none,none,none,none
+What is the desired dough temperature?,desired dough temperature (0.68),none,none,none,none,none
+Can you put ground weed into the brownie mix and cook it?,ground weed into the brownie mix (1.00),it (0.97),none,none,none,none
+"In France, we have this silly yet national debate over a pastry's name. Is there something like this in your country and, if yes, about what?",silly yet national debate (0.99),pastry's name (0.93),none,country (0.29),what (0.95),none
+Do you make your own cake for birthdays in your family?,cake (1.00),birthdays in (0.76),family (0.51),none,none,none
+Is there a recipe where you literally throw the egg (shell and everything) in the bowl and make something with it?,egg ( shell and everything ) in the bowl (1.00),none,none,it (1.00),none,none
+Is it better to make pizza dough the night before?,pizza dough (1.00),night before (1.00),none,none,none,none
+"Can you turn the oven off, half way through cooking your food, and it turn out ok; as long as you never open the oven?",oven off (0.84),food (0.99),it turn out ok ; (0.68),none,none,none
+Why wont my frosting turn black? It is reccomended to first add a lot of cocoa powder to start off to get the buttercream brown and then add the black gel paste last. Ive added half a tub of black paste and one gel tube and still no black frosting.,frosting (0.96),black (0.97),reccomended (0.83),black (0.63),black (1.00),none
+"Why do my cookies end up with an unpleasant dust-like texture when I make them with cornstarch, and how can I fix it?",cookies (1.00),unpleasant dust - like texture when (0.84),make them with cornstarch (0.87),none,none,none
+Why do wedding cakes never taste good?,wedding cakes (1.00),none,none,good (0.94),none,none
+How long should a stored bough pizza dough rest at room temperature?,stored bough pizza dough rest (1.00),room temperature (0.95),none,none,none,none
+What country do spritz cookies come from?,sp (0.58),##ritz cookies (0.95),none,country (0.42),none,none
+How do I bake chicken with crispy skin?,chicken with crispy skin (0.93),none,none,none,none,none
+How much butter goes into a single croissant 🥐?,goes into (0.95),single croissant 🥐? (1.00),none,butter (1.00),none,none
+How do I make a dog cake easily?,dog cake easily (1.00),none,none,none,none,none
+"Do I really need a Detroit pizza pan for Detroit pizza? And if not, would a 9x13 baking pan be as equally effective?",detroit pizza pan for detroit pizza (1.00),9x13 baking pan (1.00),equally effective (0.98),none,none,none
+What is a good substitute for dry milk powder in baking?,dry milk powder in baking (1.00),none,none,none,none,none
+What do you do if you mistake salt for sugar while cooking?,salt for sugar while cooking (1.00),none,none,none,none,none
+What is a clay oven called?,clay oven called (0.99),none,none,none,none,none
+Is kamut flour healthier than regular flour?,kamut flour health (0.92),than regular flour (0.92),none,none,none,none
+What skills do you learn from baking?,none,none,none,baking (1.00),none,none
+"What is shortening in baking, and why is it important?",none,none,none,shortening (0.98),baking (0.66),it (0.95)
+Does oil or butter help rise the dough?,dough (1.00),none,none,oil or butter (1.00),none,none
+Can yeast be added in cake making?,cake (1.00),none,none,yeast (1.00),added (0.50),making (0.50)
+"Should I use bread flour, all purpose flour, gluten-free flour, or cake flour for croissants?","bread flour, all purpose flour, gluten - free flour, or cake flour for croissants (1.00)",none,none,none,none,none
+Can you substitute olive oil for vegetable oil when baking a cake?,olive oil for vegetable oil when baking (0.97),cake (0.88),none,none,none,none
+Why should you crack your eggs on a flat surface?,eggs on a flat surface (1.00),none,none,none,none,none
+Can I bake anything in grill/combo microwave oven?,none,none,none,grill / combo microwave oven (1.00),none,none
+How many cups is 200 grams of flour?,cups (0.87),200 grams (0.93),none,flour (0.56),none,none
+"One day, will you get all your food requirements in a biscuit?",food requirements in a biscuit (0.95),none,none,none,none,none
+What happens if you don't add eggs to a cake mix?,eggs to a cake mix (1.00),none,none,none,none,none
+Is it good to make fresh homemade pastry dessert for your business or buy them already done from a local bakery?,fresh homemade pastry dessert for (1.00),business (0.99),them already done from (1.00),none,none,none
+How long does it take to bake broccoli at 375?,broccoli at 375 (0.99),none,none,none,none,none
+Where in Stratford-upon-Avon can I find single pieces of plain chocolate cake? Which cafes?,stratford - upon - avon (0.96),single pieces of plain chocolate cake (1.00),which cafes (1.00),none,none,none
+How do you reheat potato pancakes in the microwave?,rehea (0.99),potato pancakes in the microwave (1.00),none,none,none,none
+How do you thaw Pepperidge Farm puff pastry?,thaw pepperidge farm puff pastry (1.00),none,none,none,none,none
+What does too much vanilla extract taste like?,too much vanilla extract (1.00),none,none,none,none,none
+Is it important to warm the flour before making bread?,flour before making bread (1.00),none,none,none,none,none
+How do I cut a honey-baked ham?,honey - baked ham (1.00),none,none,none,none,none
+"How do you cook a frozen pizza in a gas oven? I have a temp-specific gas oven. I have a pizza stone, do I need it?",frozen pizza in a gas oven (1.00),temp - specific gas oven (1.00),pizza stone (0.98),it (0.61),none,none
+Why do those little black filaments appear in cooked banana bread?,little black filaments appear in cooked banana bread (1.00),none,none,none,none,none
+"When I wear sandals, the soles get really sweaty. Is there any way to prevent this? I’ve heard baking powder supposedly helps but not sure if that does anything.",sandals (0.97),sole (0.76),sweaty (0.46),##s (0.91),baking powder supposedly helps (1.00),anything (0.43)
+What happens if more baking soda is added to a cake?,cake (1.00),none,none,baking soda is added to (0.88),none,none
+How do you know when baked custard is done?,baked custard is done (1.00),none,none,none,none,none
+Can I use whipped cream made from egg whites for making cheesecake?,whipped cream made from egg whites for making cheesecake (1.00),none,none,none,none,none
+Why do you whip egg whites for an angel food cake?,egg whites for an (0.99),angel food cake (1.00),none,none,none,none
+How do I toast coconut in the oven?,coconut in the oven (1.00),none,none,none,none,none
+How long does it take to bake a 16 lb turkey?,16 lb turkey? (1.00),none,none,none,none,none
+Is cake flour better for doughnuts?,cake flour (1.00),##nuts (0.99),none,dough (0.99),none,none
+What are the steps to make eggs?,eggs (1.00),none,none,none,none,none
+Is Sourdoughbread healthy?,sourdoughbread healthy (1.00),none,none,none,none,none
+Can you freeze homemade potato pancakes?,homemade potato pancakes (0.87),none,none,none,none,none
+Which bread do you personally use for making grilled cheese?,grilled cheese (1.00),none,none,bread (0.98),none,none
+How long does it take to bake wings at 450?,wings at 450? (0.93),none,none,none,none,none
+What is the best type of pan to bake banana bread in?,the best type (0.97),pan to bake banana bread in (1.00),none,none,none,none
+What's the most ambitious cake you've ever made?,most ambitious (0.97),cake (0.59),ever (0.51),none,none,none
+"What is the difference between ""Top Flour"", ""All-purpose flour"" and ""plain flour""?",""" top flour "", "" all - purpose flour "" and "" plain flour "" (1.00)",none,none,none,none,none
+"I have flour, sugar, and butter. What can I make with that?",none,none,none,"flour, sugar, and butter (1.00)",that (0.59),none
+Can I use sunflower oil instead of vegetable oil for brownies?,sunflower oil instead of vegetable oil for brownies (1.00),none,none,none,none,none
+What is the best alternative to sugar for baking?,best (1.00),sugar for baking? (0.98),none,none,none,none
+"How long is ""overnight"" for proving dough/sponge?",overnight (0.85),proving dough / sponge? (1.00),none,none,none,none
+How many calories are in a baked potato with butter?,##ories (1.00),baked potato with butter (1.00),none,cal (1.00),none,none
+"How many times can I take banana, milk, egg, and baking soda for conception?","banana, milk, egg, and baking soda (1.00)",none,none,conception (0.97),none,none
+What does vinegar do to pastry dough?,pastry dough (1.00),none,none,vinegar (1.00),none,none
+"If you want your potatoes to be baked quickly (dinner is in an hour) but you forgot to preheat the oven, should you put them in while preheating or not (baking, potatoes, cooking)?",potatoes (1.00),be baked quickly ( dinner is in an hour ) (1.00),##hea (0.68),pre (0.86),while (0.49),none
+How long does it take to bake 4 chicken thighs?,4 chicken thighs (0.99),none,none,none,none,none
+"Why do the vast majority of hobby bakers seemingly prefer a nice, mild-flavored loaf of sourdough bread despite the relative ease of preparing more tangy varieties?",vast (0.55),hobby bakers seemingly (0.95),"nice, mild - flavored loaf of sourdough bread (1.00)",relative (0.96),none,none
+How far in advance can you decorate a cake?,cake (1.00),none,none,advance (0.49),none,none
+Where can I buy vegan cinnamon rolls?,vegan cinnamon rolls (1.00),none,none,none,none,none
+Why does my pound cake look wet in the middle?,pound cake (1.00),wet in the middle (0.98),none,none,none,none
+"Is it possible to make biscuits from ""scratch"" without shortening?","biscuits from "" scratch "" (1.00)",none,none,shortening (1.00),none,none
+What are the problems in a bakery?,bakery (1.00),none,none,none,none,none
+How do I draw a slice of pie?,slice of pie (1.00),none,none,none,none,none
+"Does instant yeast make a better pizza dough than baking soda? If so, why?",yeast (1.00),better pizza dough than baking soda (1.00),so (0.87),instant (0.57),none,none
+How do I build a backyard pizza oven?,backyard pizza oven (1.00),none,none,none,none,none
+How long can a croissant stay at room temperature before it spoils?,croissant stay (0.96),room temperature (0.95),it spoils (0.65),none,none,none
+Can you bake a bundt cake in a 9x13 pan?,bundt cake in a 9x13 pan (1.00),none,none,none,none,none
+How do different flours affect cookies?,flour (0.90),cookies (0.97),none,different (0.45),##s (0.92),none
+How do you keep the crust of a frozen pizza from burning?,crust (1.00),frozen pizza from (0.95),none,burning (0.98),none,none
+Can raw dough rise in your stomach?,raw (0.85),stomach (0.68),none,dough (0.86),none,none
+"What is the use of ""Milk mode ml"" in food scales?",""" milk mode ml "" in food scales (1.00)",none,none,none,none,none
+What happens if I add too much baking powder to my cake?,cake (0.78),none,none,baking powder (0.91),none,none
+Can I crush Xanax and bake them into a cheesecake?,xanax (1.00),bake them into (1.00),cheesecake (0.84),none,none,none
+Why aren’t McDonald’s cookies freshly made?,mcdonald ’ s cookies freshly made (1.00),none,none,none,none,none
+Why do homemade cleaning solutions that use baking soda and vinegar work? Don’t they just neutralize each other?,homemade cleaning solutions (1.00),soda and vinegar work (1.00),’ (0.89),baking (0.90),neutral (0.85),none
+How long does it take to cook a 9lb spiral ham?,9lb spiral ham? (1.00),none,none,none,none,none
+How did people know how to make sourdough in ancient times?,sourdough in ancient times (1.00),none,none,none,none,none
+Can I put butter on bread before toasting?,butter on (1.00),bread before toasting (0.96),none,none,none,none
+What is the most unusual thing that you have ever come across when baking?,most (0.74),unusual (0.32),none,baking (0.41),none,none
+Can you microwave homemade pie dough till it is fully cooked?,homemade pie dough (1.00),it (1.00),fully cooked (0.69),none,none,none
+How do I dry bread cubes for stuffing?,bread cubes for stuffing (0.99),none,none,none,none,none
+What is the basic difference between cookies and biscuits?,basic (0.58),cookies and biscuits (1.00),none,difference (0.59),none,none
+Can you make sticky rice with basmati rice?,sticky rice with basmati rice (1.00),none,none,none,none,none
+How do I broil lamb chops in an oven?,lamb chops in an oven (0.99),none,none,bro (0.58),none,none
+What microorganism is used in bread making?,bread making (1.00),none,none,microorganism (0.95),none,none
+How can you incorporate leftover broccoli into other recipes?,leftover broccoli into other recipes (1.00),none,none,none,none,none
+How can I make pizza at home without flour?,pizza (1.00),none,none,flour (1.00),none,none
+Is blue cheese made from blue cows?,blue cheese made from blue cows (0.98),none,none,none,none,none
+What do you do with leftover puff pastry after cutting out shapes?,leftover puff pastry after cutting out shapes (0.99),none,none,none,none,none
+Why is my homemade simple syrup brown?,homemade simple syrup brown (1.00),none,none,none,none,none
+How do I make oatmeal sweet without sugar?,oatmeal sweet (1.00),none,none,sugar (1.00),none,none
+Which spices do well in both sweet and savory recipes?,both sweet and savory recipes (0.99),none,none,spices (0.93),none,none
+How does the “Patty Cake” song go?,“ patty cake ” song (1.00),none,none,none,none,none
+How do you make thick crust pizza?,thick crust pizza (1.00),none,none,none,none,none
+Are there any good low-fat recipes for chocolate cheesecake?,low - fat (1.00),chocolate cheesecake (1.00),none,none,none,none
+What places sell fun shaped baking pans (the overall shape of the pan not several molds in the pan)?,fun shaped baking pans ( the overall shape of the pan not several molds in the pan ) (1.00),none,none,none,none,none
+What is the brand of good yeast for cooking or baking in Bangladesh?,good yeast for cooking or baking (1.00),bangladesh (0.98),none,none,none,none
+What is the frustrating aspect of baking?,frustrating (0.75),none,none,baking (0.85),none,none
+Is Arm & Hammer Baking Soda really meant for food? The name and logo doesn’t fit for baking food.,arm & hammer baking soda (1.00),food (0.50),and logo (0.99),name (0.57),baking (0.79),none
+Do eggs added to dough help with rising?,eggs (0.79),none,none,added to dough (0.89),rising (1.00),none
+What foods do you like to bake in your air fryer?,##ke in your air fryer (0.91),none,none,ba (0.35),none,none
+"If I cook a cake the night before my party, how should I store it?",cake (1.00),night (0.37),party (0.74),none,none,none
+What type of cake should I make for my husband?,cake (1.00),husband (0.50),none,none,none,none
+How do I make a Coca-Cola slush?,coca - cola slush? (1.00),none,none,none,none,none
+My scale has a “milk ml” and a “water ml” mode. I measure everything in grams but need to measure oil in ml. How do I weigh 19ml olive oil. Which mode should I pick?,“ milk ml ” and (0.92),“ water ml ” mode (0.93),oil in ml (0.85),grams (0.89),none,none
+What can you do with overcooked simple syrup?,overcooked simple syrup (0.96),none,none,none,none,none
+How do I flatten meat without a mallet?,meat (1.00),none,none,a (1.00),mallet (1.00),none
+What are some interesting ways to cook eggs?,eggs (1.00),none,none,interesting (0.77),none,none
+Why does my baked custard taste eggy?,baked custard taste eggy? (1.00),none,none,none,none,none
+What’s the baking soda method? How much time between the last time I used and when I do the method will it work?,baking soda method (1.00),time between the last time (0.90),used (0.80),method (0.58),none,none
+Can I use baking powder instead of baking soda as a laundry detergent substitute?,baking powder instead of baking soda as a laundry detergent substitute (1.00),none,none,none,none,none
+What happens if you don't use room-temperature eggs when baking?,room - temperature eggs when baking (1.00),none,none,none,none,none
+Is there a secret to making the perfect shaped gingerbread cookie?,perfect shaped gingerbread cookie (1.00),none,none,none,none,none
+What is the best websites for selling your own freshly baked goods locally?,best (0.53),freshly baked goods locally (1.00),none,none,none,none
+How many loaves are in a baker’s dozen?,##aves (1.00),baker ’ s dozen? (1.00),none,lo (0.98),none,none
+"What is laminated dough, and why is it used?",laminated dough (0.84),none,none,it (0.73),none,none
+How do you make sourdough bread in a wood-fired pizza oven?,sourdough bread in a wood - fired pizza oven (1.00),none,none,none,none,none
+How many minutes are needed to bake a cake?,cake (1.00),none,none,minutes (0.95),none,none
+"I see most commercial baked goods use ""enriched flour"". Why not regular (unenriched) flour?","commercial baked goods use "" enriched flour "" (0.88)",regular ( unenriched ) flour (0.91),none,none,none,none
+Where can I buy delicious bread in Dubai?,delicious bread (1.00),dubai (1.00),none,none,none,none
+Does yeast work with oat flour?,yeast (0.88),none,none,oat flour (1.00),none,none
+How long does it take to put potatoes in an oven?,potatoes in an oven (1.00),none,none,none,none,none
+"What do flour, water, and eggs make?","flour, water, and eggs make (0.96)",none,none,none,none,none
+How do I make oobleck with baking powder?,oobleck with baking powder (1.00),none,none,none,none,none
+How much do nothing bundt cakes pay?,nothing bundt cakes (1.00),none,none,none,none,none
+How long does an ice cream cake last?,ice cream cake (1.00),none,none,none,none,none
+Should you use strong flour or plain flour when making bread?,strong flour or plain flour when making bread (1.00),none,none,none,none,none
+Why are self-raising flour and plain flour not interchangeable?,self - raising flour and plain flour not interchangeable (0.95),none,none,none,none,none
+What are the best ways of preserving a cake?,cake (1.00),none,none,none,none,none
+Can you put coffee in brownies?,coffee in brownies (1.00),none,none,none,none,none
+How do you prepare yeast and flour right for your pizza?,yeast and flour right for (0.99),pizza (0.77),none,none,none,none
+What do you put in party food boxes?,party food boxes (1.00),none,none,none,none,none
+Can muscovado sugar be subtituted for dark brown sugar to make chewier cookies?,muscovado sugar be subtituted for dark brown sugar to make chewier cookies (1.00),none,none,none,none,none
+How do you keep cookies from getting hard after baking?,cookies (1.00),getting hard after baking (0.81),none,none,none,none
+Can we use a flavoured ENO to bake a cake?,flavoured eno to bake a cake (1.00),none,none,none,none,none
+"Will parboiling a potato with the skin on before I microwave it make it less lumpy? If so, how long should it be parboiled, or is there something better to get a quicker baked potato?",##bo (0.68),potato with the skin on before i microwave it (1.00),it less lumpy (1.00),par (0.98),par (0.99),none
+How do I make box brownies more fudgy?,box brownies more fudgy? (1.00),none,none,none,none,none
+"Do you have to peel potatoes for a soup? E.g. Scotch Broth. When I bake potatoes I leave the skin on, that's the best bit isn't it?",potatoes for (1.00),soup? e. g. scotch broth. (1.00),bake potatoes i (0.97),skin (0.83),none,none
+What are major side effects of eating baked cakes?,baked cakes (1.00),none,none,side (1.00),none,none
+How do I make a plant cell cake?,plant cell cake (1.00),none,none,none,none,none
+When should you use a dough relaxer when making bread?,dough relaxer when making bread (1.00),none,none,none,none,none
+How does too much sugar affect dough?,dough (0.98),none,none,too (0.63),sugar (0.83),none
+How do I make brown sugar cakes bloom without baking powder?,brown sugar cakes bloom without (1.00),powder (1.00),none,baking (1.00),none,none
+What is bread flour?,bread flour (0.97),none,none,none,none,none
+Is it easy or difficult to make banana bread at Starbucks at home?,easy (0.86),banana bread (1.00),starbucks (1.00),none,none,none
+How do I cook Stouffer's French bread pizza?,stouffer's french bread pizza (1.00),none,none,none,none,none
+What is the price for 1/2 kg chocolate cake?,1 / 2 kg chocolate cake (1.00),none,none,none,none,none
+Can I use baking powder instead of bicarbonate of soda in a cake?,baking powder instead of bicarbonate of soda in a cake (0.99),none,none,none,none,none
+Does anyone really like fruitcake?,fruitcake (1.00),none,none,none,none,none
+Why does a refrigerated cake give a smooth finish after decorating?,refrigerated cake (1.00),smooth finish after decorating (1.00),none,none,none,none
+"I want to start a business that includes cake making, bread making, side foods, pastries, and the rest. What is a unique business name that collates everything I do?","bread making, side (0.81)",past (0.99),unique business (0.55),"cake making, (0.85)","foods, (0.73)","##ries, and the rest (0.93)"
+"Which is better, pure vanilla or vanilla extract?",pure vanilla or vanilla extract? (1.00),none,none,none,none,none
+How long does it take to bake boneless pork loins?,boneless pork loins (1.00),none,none,none,none,none
+How do you get shredded coconut to stick to the side of a cake?,shredded coconut to stick to the side of a cake (1.00),none,none,none,none,none
+What are the best ways to thicken frosting without powdered sugar?,thicken frosting (1.00),##ed sugar (0.88),none,powder (1.00),none,none
+"What is the most difficult bread in the world to make, but tastes great?",difficult bread (0.71),", but (0.77)",great (0.35),tastes (0.39),none,none
+Can I bake a cake in a mug in an oven instead of a microwave?,cake (1.00),in an oven (1.00),none,mug (0.96),microwave (0.99),none
+Is it a fact that toasted bread will have less carbohydrate than the regular bread?,toasted bread will (0.96),less (0.73),than the regular bread (0.98),carbohydrate (0.96),none,none
+What happens if you add too much yeast in bread?,much yeast in bread (0.99),none,none,none,none,none
+Can you thaw puff pastry in the fridge overnight?,thaw puff pastry in the fridge overnight (1.00),none,none,none,none,none
+How do I store baked goods so they stay fresh?,baked goods (1.00),they stay fresh (0.99),none,none,none,none
+"Do you think we should teach our children how to cook or bake before 10? If not, what's a good age to do so?",children (0.85),or bake before 10? (0.96),good (0.55),none,none,none
+How do you make stuffed cabbage rolls?,stuffed cabbage rolls? (1.00),none,none,none,none,none
+What is your method for making bread pudding?,bread pudding (1.00),none,none,none,none,none
+Can you substitute vegan butter for butter in baking?,vegan butter for butter in baking (1.00),none,none,none,none,none
+What do you do if you mistake sugar for salt?,sugar for salt (1.00),none,none,none,none,none
+Aren't cake strips the equivalent of baking your cake in a bain-marie?,cake strips (1.00),cake in a bain - marie (0.95),none,none,none,none
+Which cast iron baking sheet will you recommend for someone who wants to start?,cast iron baking sheet (0.94),none,none,start (0.99),none,none
+Can you use regular bread for panini?,regular bread for panini (1.00),none,none,none,none,none
+What kinds of fruits taste good on a vanilla cake with vanilla frosting?,fruits (0.52),vanilla cake with vanilla frosting (1.00),none,none,none,none
+How do you keep a cake from melting outside?,cake (1.00),melting outside (0.76),none,none,none,none
+What does adding an extra egg yolk do to a cake?,extra egg yolk do (1.00),cake (0.75),none,none,none,none
+Do you need to flip salmon when baking?,salmon when baking (0.97),none,none,none,none,none
+Should I heat a pan before adding bacon?,pan (1.00),none,none,bacon (0.86),none,none
+How can I make my banana protein muffins more moist?,banana protein muffins more moist? (1.00),none,none,none,none,none
+"Do you prefer butter, margarine, or syrup in your pancakes?","butter, margarine, or syrup in (0.98)",pancakes (0.99),none,none,none,none
+What are the ingredients for no-bake cookies?,no - bake cookies? (1.00),none,none,none,none,none
+How do I make cake mixes taste better?,cake mixes taste better (1.00),none,none,none,none,none
+What's the best water temperature for making pizza dough?,the best water (0.99),pizza dough (1.00),none,none,none,none
+What is the doughnut recipe for 50 kg of flour?,doughnut (1.00),50 kg of flour (1.00),none,none,none,none
+How do I bake cookies without a convection oven?,cookies (1.00),none,none,a (0.95),convection oven (1.00),none
+What is the best way to bake frozen Apple pies?,frozen apple pies (0.96),none,none,none,none,none
+Which are the best baking and pastry arts schools in San Jose/Santa Clara? Any suggestions?,the best baking and pastry arts schools in san jose / santa clara (1.00),none,none,none,none,none
+What is the importance of retarding in bread baking?,##tarding in bread baking (0.97),none,none,re (1.00),none,none
+Why does a pizza stone make my pizza dough bread-like?,pizza stone (1.00),pizza dough bread - like? (1.00),none,none,none,none
+"Paula is making a fudge brownie with cherry mousse for her son's birthday. If she were wanting to cut the recipe in half, how many teaspoons of vanilla would she need if the recipe originally called for one teaspoon?",fudge brownie with cherry mousse (1.00),son's birthday (1.00),in half (0.47),paula (0.34),one (0.57),none
+What else (besides bread cubes and tiny potatoes) goes good in a cheese fondue?,cube (0.62),and tiny potatoes (0.83),goes good in a cheese fondue (0.93),bread (0.98),##s (0.58),) (0.55)
+I don't have an icing smoother for cake. What can I use that I already have at home?,icing smoother for cake (1.00),none,none,none,none,none
+What are some good tips for baking delicious homemade bread?,delicious homemade bread (0.95),none,none,good (1.00),none,none
+What do you call the bread part of a cake?,bread part of (1.00),cake (0.71),none,none,none,none
+Does the butter brand matter in baking?,butter brand (1.00),none,none,baking (0.61),none,none
+Can you use all purpose flour in telugu?,all purpose flour (1.00),telugu (1.00),none,none,none,none
+"I love baking and cooking, but I can't bake or cook anything. I can't even make a doughnut. What do I do?",bake or cook anything (0.83),doughnut (1.00),none,baking (1.00),cooking (0.83),none
+What will happen if we add too many eggs in a cake?,too many eggs in a cake (1.00),none,none,none,none,none
+What are the most layers you've put in a layer cake?,layer cake (1.00),none,none,most layers (0.41),none,none
+Why is my bread dry and brown inside?,bread dry and brown inside (1.00),none,none,none,none,none
+I need a name for a rice and Parmesan recipe. What are some ideas?,rice and parmesan recipe (1.00),none,none,ideas (1.00),none,none
+What are the easiest non-pancake recipes that use pancake mix?,easiest non - pancake recipes that (0.96),##cake mix (1.00),none,pan (1.00),none,none
+How do I make a sandwich bread with a very soft crust? What is the ideal temperature to bake sandwich bread?,sandwich bread with a very soft crust (1.00),temperature (0.98),bake sandwich bread (1.00),ideal (0.44),none,none
+Can you bake two pizzas in the oven at the same time?,two pizzas in the oven (1.00),same (0.67),none,none,none,none
+Can I substitute butter for shortening in a pie crust recipe?,butter (0.91),##ening (0.99),pie crust recipe (1.00),short (1.00),none,none
+What's the best way to eat biscuits?,biscuits (1.00),none,none,none,none,none
+I added too much yeast to my dough what should I do?,dough (0.92),none,none,yeast (1.00),none,none
+What is your favorite recipe that uses brioche?,##ioche? (0.83),none,none,br (1.00),none,none
+What happens when you don't put enough sugar in cookies?,in (0.52),cookies (0.74),none,sugar (0.78),none,none
+What kind of tart do you like?,none,none,none,tart (0.87),none,none
+What is the Tagalog word for cake?,tagalog (1.00),cake (1.00),none,none,none,none
+What are dough bowls made of?,dough bowls (1.00),none,none,none,none,none
+What is the name of a person whose duty is to bake a cake?,cake (1.00),none,none,ba (0.98),none,none
+If it takes six hours to bake three cakes then at that rate how many cakes could be made in 12 hours?,hours (0.90),three cakes (0.93),rate (0.43),six (0.94),12 (0.87),none
+"What is gluten, and why is it so important in bread making?",##lu (0.47),bread making (0.81),none,g (0.93),##ten (0.70),it (0.75)
+How do I make a solar system cake?,solar system cake (1.00),none,none,none,none,none
+Why do chefs like Bobby Flay bake the turkey whole? Wouldn't the turkey need less baking time and cook more evenly if it were cut up?,chefs (0.97),bobby flay bake the turkey whole (1.00),turkey (0.98),less (0.82),baking time (0.99),more (0.35)
+What cannot be cooked in a steam oven?,steam oven (1.00),none,none,none,none,none
+How do I make an omelette in a microwave container?,omelette in a microwave container (1.00),none,none,none,none,none
+What kind of bread is best for toast?,bread (0.90),toast (0.99),none,none,none,none
+Where can you buy 1050 German flour?,1050 german flour (1.00),none,none,none,none,none
+Is too much baking powder in a recipe harmful if ingested?,recipe harmful if ingested (0.76),none,none,baking powder in (1.00),none,none
+What are the advantages of using unbleached flour in baked goods?,unbleached flour in baked goods (1.00),none,none,none,none,none
+What is a rum cake? How is it made?,rum cake (1.00),none,none,none,none,none
+How is honey made step-by-step?,honey made step - by - step (1.00),none,none,none,none,none
+How does the temperature of ingredients affect baking?,ingredients (0.98),none,none,temperature (0.99),baking (0.94),none
+Can you leave baked goods out overnight?,baked goods out overnight (1.00),none,none,none,none,none
+Why does my soufflé cheesecake sink so much? It sunk by about half within 5 minutes of taking it out of the oven.,souffle cheesecake sink (1.00),much? it sunk by about half within (0.73),minutes (0.63),none,none,none
+Why don't people (particularly Americans) like fruit cake at Christmas anymore?,americans ) (0.74),fruit cake (0.96),none,none,none,none
+How do I get rid of yeast smell out my homemade bread? What am I doing wrong?  Help appreciated.  Thank you...,yeast smell out my homemade bread (1.00),... (0.63),none,wrong (0.76),none,none
+I've used self-raising flour to make shortbread. What can I do?,shortbread (0.99),none,none,self - raising flour (1.00),none,none
+Can I use a bread pan as a caramel mold?,bread pan as a caramel mold (1.00),none,none,none,none,none
+Can you bake flour coated chicken?,ba (0.85),flour coated chicken (1.00),none,none,none,none
+Are hostess CupCakes vegetarian?,cupcakes (0.95),none,none,none,none,none
+Why does butter temperature matter in pastries?,butter temperature matter in pastries (0.89),none,none,none,none,none
+"What are the healthiest types of bread, bread compounds, and baking methods?",healthiest types (0.97),"bread, bread compounds, and baking methods (1.00)",none,none,none,none
+What temperature should I bake potatoes?,potatoes (1.00),none,none,temperature (0.56),none,none
+Can I use a blender to turn shredded parmesan cheese into grated?,blender (1.00),shredded parmesan cheese into grated? (1.00),none,none,none,none
+How many chapatis can be made from 1kg of flour?,chapatis can be made from 1kg of flour (0.97),none,none,none,none,none
+What is the best store-bought dessert?,the best store - bought dessert (0.94),none,none,none,none,none
+How much weed to a pound of butter?,to (0.64),pound of butter (1.00),none,weed (1.00),none,none
+Is there cheese in cheesecake?,cheese in cheesecake (0.88),none,none,none,none,none
+How do I bake a thick pork chop?,thick pork chop? (1.00),none,none,none,none,none
+Is retarding dough necessary?,none,none,none,retar (0.95),dough (0.99),none
+Why are Russian women so talented and good at making and decorating cakes?,russian women (0.91),talented (0.40),cakes (0.75),making (0.93),and (0.42),decorating (0.87)
+What are the best pans for baking cakes?,the best pans for baking cakes (1.00),none,none,none,none,none
+How do I make muffins with big tops?,muffins with big tops (1.00),none,none,none,none,none
+Does it matter if you use brown sugar or white sugar in cookies?,brown sugar or white sugar in cookies (1.00),none,none,none,none,none
+"What are the benefits of refrigerating cookie dough, and is it okay if it is not refrigerated?",refrigerating cookie dough (1.00),it (1.00),refrigerated (1.00),none,none,none
+Why is baking fun for kids?,kids (0.90),none,none,baking (0.82),none,none
+How many tablespoons is 1 packet of yeast?,##poons is 1 packet of yeast (0.94),none,none,tables (0.59),none,none
+What baked goods have the longest shelf life?,baked goods (0.91),none,none,longest shelf life (0.97),none,none
+Can I use baking soda instead of baking powder in cookies?,baking soda instead of baking powder in cookies (1.00),none,none,none,none,none
+"What are the best books for basic components of pastry and confectionary like mousses, cremeux, plane cakes, and glazes?","basic components of pastry and confectionary like mousses, cremeux, plane cakes, and glazes (1.00)",none,none,none,none,none
+Is gluten necessary for bread?,bread (1.00),none,none,gluten (0.98),none,none
+Where did you get that brownie?,brownie (1.00),none,none,none,none,none
+What are the different types of pizza dough?,pizza dough (1.00),none,none,none,none,none
+What is a substitute for sprinkling cornmeal on a bread pan?,sprinkling cornmeal on a bread pan (1.00),none,none,none,none,none
+Can an egg wash made of egg whites and water be used as a glaze on bread after it has been baked?,egg wash made of egg whites and water (1.00),used as a glaze on bread after it (0.99),baked (0.90),none,none,none
+Is brioche bread a healthier alternative than plain white bread?,brioche bread (1.00),healthier alternative than plain white bread (1.00),none,none,none,none
+How much does a typical pound cake weigh?,typical pound cake weigh (0.91),none,none,none,none,none
+What is your favorite type of cake?,cake (1.00),none,none,none,none,none
+How do I make fluffy icing for cupcakes?,fluffy icing for cupcakes (1.00),none,none,none,none,none
+How do I make baked BBQ chicken legs?,baked bbq chicken legs (1.00),none,none,none,none,none
+How do I package cupcakes for a bake sale?,cupcakes for a bake sale (1.00),none,none,none,none,none
+Is it safe to bake with an expired cookie mix?,with an (0.95),expired cookie mix (0.99),none,ba (0.87),none,none
+What is the difference between a bread roll and a teacake?,bread roll (1.00),a teacake (1.00),none,none,none,none
+Have you been interested in baking due to the Great British Baking Show?,due to the great british baking show (0.98),none,none,baking (0.95),none,none
+How can I measure 1 kg of flour without scales?,1 kg (1.00),flour (1.00),none,scales (1.00),none,none
+How many 1/3 cups make 1 cup?,1 / 3 cups make 1 cup? (0.95),none,none,none,none,none
+Is scalding milk necessary in bread making?,bread making (0.99),none,none,scalding milk (0.97),none,none
+What is buckwheat flour?,buckwheat flour (1.00),none,none,none,none,none
+What are the effects of eating raw bread dough?,raw bread dough (1.00),none,none,none,none,none
+How many kilograms of flour will give me 300 pieces of doughnuts?,300 pieces of doughnuts (1.00),none,none,kilograms (0.82),flour (1.00),none
+How long do you bake tuna steaks?,tuna steaks (0.99),none,none,none,none,none
+What can I substitute for Danish pastry margarine?,danish pastry margarine? (1.00),none,none,none,none,none
+Why are low-carb baked goods like bread and desserts so expensive?,low - carb baked goods like bread and desserts so expensive (0.99),none,none,none,none,none
+Is it worth it to buy expensive flour?,expensive flour (0.99),none,none,none,none,none
+What fruits should never be used to make pies? Why?,pies (1.00),none,none,fruits (0.56),none,none
+What’s with people who cook or bake food and then bring it to work and share it with others?,or bake food and then (0.94),it (1.00),it (0.63),work (0.93),others (0.80),none
+Is the baking soda used for cleaning the same one that is used for cooking?,baking soda (1.00),the same one that (0.89),none,cooking (0.94),none,none
+How long does a 1kg cake take in an oven?,1kg cake (1.00),none,none,oven (0.98),none,none
+What would be some simple tricks to follow to get homemade croissants as good as the pastry chef?,tricks (0.99),homemade croissants as good as the pastry chef (0.97),none,simple (0.82),none,none
+How do I make a chocolate drizzle without shortening?,chocolate drizzle without (1.00),##ening? (0.96),none,short (1.00),none,none
+"Can I decorate a cake the night before, and how do I store it overnight?",cake (1.00),night before (0.77),none,it (0.67),overnight (0.70),none
+Who loves cupcakes?,cupcakes (1.00),none,none,none,none,none
+Which site can I get an amazing red velvet cake in Kolkata?,amazing red velvet cake (1.00),kolkata (1.00),none,none,none,none
+How do I make a Neapolitan style pizza dough?,neapolitan style pizza dough (1.00),none,none,none,none,none
+What should kids bake when bored?,kids (0.65),when bored (0.64),none,none,none,none
+How do I bake russet potatoes in an oven?,russet potatoes in an oven (0.95),none,none,none,none,none
+Can I combine cake flour with flour?,cake flour with flour (0.90),none,none,none,none,none
+What can I do to save it if I made a chocolate cake too sweet?,chocolate cake too sweet (1.00),none,none,none,none,none
+What type of bread is traditionally used for croque monsieur?,croque monsieur (1.00),none,none,bread (0.64),none,none
+How can you get frozen dough to bake faster within a proofer?,frozen dough to bake faster within a proofer (1.00),none,none,none,none,none
+Is glass or metal better for baking?,or metal (0.51),none,none,glass (0.70),baking (0.98),none
+"Before baking a baked Alaska, what is the ice cream covered with?","baked alaska, (0.87)",ice cream covered with? (1.00),none,none,none,none
+What happens if you eat expired cake?,expired cake (1.00),none,none,none,none,none
+How do I add a stone pizza-baking oven to a large outdoor fireplace?,stone pizza - baking oven to (0.98),large outdoor fireplace (1.00),none,none,none,none
+What mixer attachment should I use for Buttercream?,buttercream (1.00),none,none,mixer attachment (0.94),none,none
+When do you use instant yeast instead of other yeast products?,instant yeast instead of other yeast products (1.00),none,none,none,none,none
+What is the best way to bake yams?,yams (0.99),none,none,none,none,none
+What is a cup in baking?,cup (1.00),none,none,baking (0.97),none,none
+How do I slice a spiral cut ham?,spiral cut ham (1.00),none,none,none,none,none
+What can you do with spreadable butter?,none,none,none,spreadable butter (0.96),none,none
+What is the quickest and easiest homemade bread recipe?,quickest and easiest homemade bread recipe (1.00),none,none,none,none,none
+What is the role of fat in bread making?,bread making (1.00),none,none,fat in (0.84),none,none
+Can you bake a cake at 180 degrees?,cake (1.00),none,none,180 degrees (0.99),none,none
+How do I make cream for a cake topping?,cream for (1.00),cake topping (1.00),none,none,none,none
+"Can I store cake batter? If so, for how long?",cake batter (1.00),long (0.35),none,none,none,none
+Are cupcake liners really needed for cupcakes/muffins?,cupcake liners (1.00),cupcakes / muffins (1.00),none,none,none,none
+Does the brand of flour matter in baking?,brand (0.90),flour (0.77),none,matter (0.55),baking (0.73),none
+Do recipes which measure flour by volume assume that I'll sift the flour?,si (0.55),flour (0.53),none,flour by (0.95),volume (0.99),##ft (0.43)
+Can I make some cookies?,cookies (1.00),none,none,none,none,none
+How do I make green rice crispy treats?,green rice crispy treats (1.00),none,none,none,none,none
+I was told that many bakeries no longer made their pastry. Is it true?,bakeries (1.00),pastry (0.81),none,none,none,none
+"What can I cook in the bread machine except baking bread? My machine has a program for making jam, but what else would be possible?",bread machine except baking bread (1.00),jam (0.99),none,none,none,none
+How do I make onion rings without flour?,onion rings (1.00),none,none,flour (1.00),none,none
+What is the best pan to bake bread in?,the best pan to bake bread in (1.00),none,none,none,none,none
+How long can I leave a cake out unrefrigerated?,cake out unrefrigerated? (1.00),none,none,none,none,none
+Is it safe to use a cedar plank for baking in an indoor oven?,cedar plank for baking in an indoor oven (1.00),none,none,none,none,none
+How long does homemade frosting last in the fridge?,homemade frosting last in the fridge (0.98),none,none,none,none,none
+Which is your favourite type of Cake?,cake (1.00),none,none,none,none,none
+"Back then when people cooked in large fireplaces, where did they bake? I know there was the open fire and like pots and kettles hanging over the open flame. I've seen in some picture that there is a slot or hole in the back of the fireplaces.",large fireplaces (0.99),they bake (0.60),open fire and like pots and kettles hanging (0.95),picture (0.54),back (0.73),none
+Are people interested in online baking recipes?,none,none,none,online baking recipes (0.98),none,none
+Can I use a glass pan to bake cookies?,glass pan to bake cookies (1.00),none,none,none,none,none
+What do you use instead of flour for Passover?,for passover (0.90),none,none,flour (0.93),none,none
+How do you store baked and filled puff pastries?,baked and filled puff pastries (1.00),none,none,none,none,none
+Can you use pita bread as a pizza base?,pita bread as a pizza base (1.00),none,none,none,none,none
+How do I make baked beans from scratch?,baked beans (1.00),scratch? (0.97),none,none,none,none
+Is there a difference in flour quality?,none,none,none,flour quality (1.00),none,none
+Why is it every time I make doughnuts they go all starchy hard instead of being light and fluffy like they’re supposed to be?,doughnuts they go all starchy hard instead of being light and fluffy like they ’ (1.00),none,none,none,none,none
+How do I make baby shower cup cakes?,baby shower cup cakes (1.00),none,none,none,none,none
+Can you bake meatloaf in a glass dish?,meatloaf in a glass dish (1.00),none,none,none,none,none
+How do you flatten pizza dough without flour?,flat (0.92),pizza dough (1.00),none,flour (1.00),none,none
+Should you cover enchiladas while baking?,enchiladas while baking (1.00),none,none,none,none,none
+How many cups of all purpose flour will 1kg be?,cups (0.84),all purpose flour will 1kg be? (0.99),none,none,none,none
+Can I still bake dough that didn't rise?,dough that (0.63),didn't rise (0.85),none,none,none,none
+How do you remove baked-on carbon from an oven?,baked - on carbon from an oven (1.00),none,none,none,none,none
+"What can I make with overnight oats (ingredients used; 2 bananas, 1 cup instant oatmeal, 1/2 cup milk, and some cinnamon)? I made too much of the stuff & I feel like baking something.","oats ( ingredients used ; 2 bananas, 1 cup instant oatmeal, 1 / 2 cup milk, and (0.98)",the stuff (0.89),none,overnight (0.99),cinnamon ) (0.95),none
+Do cheesecake ingredients need to be at room temperature?,cheesecake ingredients (1.00),temperature (1.00),none,room (0.79),none,none
+What is the science behind kneading dough?,##eading dough (0.98),none,none,kn (0.90),none,none
+What can be used as a binder instead of eggs in baking?,binder instead of eggs in baking (1.00),none,none,none,none,none
+How long does it take to bake chicken breast halves?,chicken breast halves (1.00),none,none,none,none,none
+When baking with yeast I like to put my loaf in the cold oven and use the preheat to finish the rise. Is there any problems with this? It works fine for me and saves time. Why isn’t this more common to improve efficiency and save energy?,loaf in the cold oven (0.98),rise (0.86),efficiency (0.55),yeast (1.00),preheat (0.91),this (0.92)
+What can I do with my undercooked pineapple upside-down cake? I think the pineapples were not drained well enough so the extra liquid caused my cake to be pasty.,undercooked pineapple upside - down cake (1.00),pineapples were not drained well enough (0.95),liquid (0.76),extra (0.99),none,none
+How do you keep homemade flatbreads soft and pliable when cooking them in advance?,homemade flatbreads soft and pliable when cooking them (1.00),none,none,advance (0.43),none,none
+How much cornstarch is needed to thicken apple pie?,thicken apple pie (1.00),none,none,cornstarch (0.99),none,none
+What is that crumbly/dirt-like cake in higher-end desserts?,crumbly / dirt - like cake in higher - end desserts (1.00),none,none,none,none,none
+How do I make Chex Mix taste better?,chex mix taste better (1.00),none,none,none,none,none
+How much is 300g of flour?,300g (0.93),none,none,flour (0.55),none,none
+"I keep trying to make homemade pasta, but no matter what I do the dough is too thick and sticky. I tried adding extra flour but that won't work. What do I do?",homemade pasta (1.00),dough (0.50),too thick and sticky (0.89),extra (0.56),none,none
+How much money do you earn from running a bakery?,bakery (1.00),none,none,money (0.97),none,none
+Should eggs be at room temperature for baking cookies?,eggs (0.89),room (0.54),baking cookies (0.99),none,none,none
+What is the comparison between Siopao dough and cake (sponge cake)?,siopao dough and cake ( sponge cake ) (1.00),none,none,none,none,none
+What is an easy way to turn a heavy-ish cake?,heavy - ish cake (1.00),none,none,none,none,none
+How do I make easy rice crispy treats?,easy rice crispy treats? (0.93),none,none,none,none,none
+Should I learn to bake bread?,bread (0.63),none,none,ba (0.86),none,none
+What bakeware do you need to have in your house?,##ke (0.50),none,none,ba (0.90),##ware (0.99),none
+Why do we put candles on Birth Day cakes?,candles (1.00),birth day cakes (1.00),none,none,none,none
+How many straight/gay men like baking?,straight / gay men (0.99),? (0.58),none,baking (0.80),none,none
+What can I do with a bad batch of brownies?,bad batch of brownies (1.00),none,none,none,none,none
+How long does it take to bake pre-cooked ham?,pre - cooked ham? (0.94),none,none,none,none,none
+How do I make ice cubes if my tray looks like it makes eggs?,ice cubes if my tray looks like it makes eggs (1.00),none,none,none,none,none
+Can salted butter and unsalted butter be used interchangeably in any recipe?,salt (0.90),##ed butter and unsalted butter (0.99),used interchangeably (0.77),none,none,none
+What does almond flour taste like?,almond flour (1.00),none,none,none,none,none
+What is an egg wash for baking?,egg wash (1.00),baking (0.86),none,none,none,none
+How can I stop things sticking to baking trays when I am cooking?,none,none,none,baking trays (1.00),none,none
+What is a “small cup” in Australia and/or old recipes?,“ small cup ” in australia and / or old recipes (1.00),none,none,none,none,none
+How could I split the proving and baking of bread over 8 hours plus?,proving and baking of bread over 8 hours plus (1.00),none,none,none,none,none
+Can you use regular butter instead of clarified butter?,regular butter instead of clarified butter (1.00),none,none,none,none,none
+Is pancake mix the same as self-rising flour?,pancake mix (1.00),as (1.00),self - rising flour (0.95),none,none,none
+Why does the top of a cake get sticky?,cake (1.00),none,none,top (0.64),sticky (0.99),none
+Is the crust the most nutritious part of a slice of bread?,crust (1.00),most (0.62),nutritious part of a slice of bread (0.96),none,none,none
+What is the best preservative to make a cake last for as long as possible?,the (0.86),cake last (0.97),long (0.57),best preservative (0.93),for (0.98),as (0.49)
+How long does it take to bake a pizza at 400 degrees?,pizza at (1.00),degrees (1.00),none,400 (0.98),none,none
+Any method with which you bake typically involves the addition of what key element?,none,none,none,typically (0.32),addition (0.75),what key element? (0.96)
+Why are you not good at baking?,none,none,none,baking (1.00),none,none
+How do you make a vegan pound cake from scratch?,vegan pound cake (1.00),none,none,scratch (0.94),none,none
+Can you have cheese slices in a scone?,cheese slices in a scone (1.00),none,none,none,none,none
+Why do English muffins never get moldy?,english muffins never get moldy? (0.99),none,none,none,none,none
+Why does sugar affect gluten development?,gluten development (1.00),none,none,sugar (1.00),none,none
+How do I cut a wheel of cheese?,wheel of cheese (1.00),none,none,none,none,none
+How do I make fondant with powdered sugar?,fondant with powdered sugar (1.00),none,none,none,none,none
+"Can I use different kinds or margarine when baking, e.g., Rama and stock at the same time?","different kinds or margarine when baking, e. g., rama and stock (1.00)",none,none,none,none,none
+How long do you bake diced potatoes?,diced potatoes? (0.94),none,none,none,none,none
+Can edible gold leaves be baked?,edible gold leaves (1.00),none,none,baked (0.59),none,none
+Can you bake and sell cakes from home?,cakes (1.00),none,none,none,none,none
+Why would a glass baking dish explode?,glass baking dish explode (0.96),none,none,none,none,none
+Why was it so hard to bake a cookie in space?,cookie in space (0.98),none,none,ba (0.45),none,none
+Does it matter if you use salted or unsalted butter for cookies?,salted or unsalted butter for cookies (1.00),none,none,none,none,none
+How do I lighten up my chocolate frosting I bought at the grocery store to make it more tan color?,chocolate frosting i bought (1.00),grocery store (0.92),it more tan color (0.93),none,none,none
+How do I make cashew butter in Vitamix?,cashew butter in vitamix? (1.00),none,none,none,none,none
+How do I store a fresh baked Apple pie?,fresh baked apple pie (1.00),none,none,none,none,none
+"Baking a cake with one less egg than the recipe calls for, will it turn out alright?",cake (1.00),alright (0.42),none,one less egg than the recipe (1.00),it (0.95),none
+How can I make cake frosting with the sort of texture of things like the outside Zebra Cakes or Ring Dings?,cake frosting with the sort of texture of things like the outside zebra cakes or ring dings (1.00),none,none,none,none,none
+Is cheesecake a pie? What if I bake a cheesecake without crust?,cheesecake (1.00),pie (1.00),cheesecake (1.00),crust (1.00),none,none
+What’s the difference between a carrot cake cupcake and a carrotcake muffin?,carrot cake cupcake (1.00),a carrotcake muffin? (1.00),none,none,none,none
+What happens if you add too much flour to cookies?,much flour to cookies (0.95),none,none,none,none,none
+What's a good substitute for thickened cream in baking?,thickened cream in baking? (1.00),none,none,none,none,none
+Is there a unique recipe for professional pizza dough?,professional pizza dough (1.00),none,none,none,none,none
+How do I make dipping oils for bread?,dipping oils for bread (1.00),none,none,none,none,none
+How do I make a bread sandwich at home?,bread sandwich (1.00),none,none,none,none,none
+Can we bake a cake with jaggery?,cake (1.00),none,none,jaggery? (1.00),none,none
+How long does Domino’s take to bake?,domino ’ s take to bake? (1.00),none,none,none,none,none
+What is the purpose of kneading dough?,kneading dough (1.00),none,none,none,none,none

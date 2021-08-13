@@ -1,0 +1,498 @@
+utterance,dishname_first (score),dishname_second (score),dishname_third (score),ingredient_first (score),ingredient_second (score),ingredient_third (score)
+Does peanut butter that is sold in the market really contain a lot of peanut or just a small amount of peanut added with flavor enhancing?,peanut butter that (1.00),market (0.94),lot of (0.66),peanut (1.00),peanut (0.99),enhancing (0.96)
+How do I keep fresh pasta from sticking?,fresh pasta from sticking? (1.00),none,none,none,none,none
+Does it matter what size of eggs you use in a recipe?,eggs (0.99),none,none,none,none,none
+How do I make fluffy icing for cupcakes?,fluffy icing for cupcakes (1.00),none,none,none,none,none
+Does buttermilk powder as a buttermilk substitute tenderize chicken?,buttermilk powder as (1.00),buttermilk substitute tenderize chicken (1.00),none,none,none,none
+How do I cook on a cast iron griddle?,cast iron griddle? (1.00),none,none,none,none,none
+How do you choose and cook your pasta so that it sticks well to the sauce?,pasta (1.00),it sticks well to the sauce (0.72),none,none,none,none
+Could lard ever become a popular cooking ingredient again?,##rd (1.00),popular cooking ingredient again (0.99),none,la (0.89),none,none
+How do I cook an angus steak in an oven?,angus steak in an oven (1.00),none,none,none,none,none
+Why does cake icing taste so bad?,cake icing (1.00),bad (0.63),none,none,none,none
+"Apart from stew, what can you cook in a slow cooker?",slow cooker (1.00),none,none,stew (1.00),none,none
+How is cubed steak made? Why?,cubed steak (1.00),none,none,none,none,none
+How do I cook a beef round eye steak?,beef round eye steak (1.00),none,none,none,none,none
+What is your favorite BBQ side?,favorite bbq side (1.00),none,none,none,none,none
+"Paula is making a fudge brownie with cherry mousse for her son's birthday. If she were wanting to cut the recipe in half, how many teaspoons of vanilla would she need if the recipe originally called for one teaspoon?",fudge brownie with cherry mousse (1.00),son's birthday (1.00),in half (0.47),paula (0.34),one (0.57),none
+How can I make a homemade strudel?,homemade strudel? (1.00),none,none,none,none,none
+What is your favorite dessert from your culture?,favorite (0.89),dessert (0.90),none,culture (0.32),none,none
+What are some dishes that require ingredients that 99% of people don't have at home?,dishes (1.00),99 % of people (0.89),none,ingredients that (0.69),none,none
+"Do you have to peel potatoes for a soup? E.g. Scotch Broth. When I bake potatoes I leave the skin on, that's the best bit isn't it?",potatoes for (1.00),soup? e. g. scotch broth. (1.00),bake potatoes i (0.97),skin (0.83),none,none
+Does sugar help cakes rise during baking?,cakes (1.00),none,none,sugar (1.00),baking (0.57),none
+What goes best with a peanut butter in a sandwich besides jam?,goes (0.72),peanut butter in a sandwich besides jam? (0.96),none,none,none,none
+Can you sue someone for using your recipe?,none,none,none,none,none,none
+How do you put nuts on the side of a cake?,nuts on the side of (0.98),cake (0.99),none,none,none,none
+How do I make creamed spinach with milk?,creamed spinach with milk (1.00),none,none,none,none,none
+"Can apples be easily substituted with blueberries, strawberries, cherries or peaches in an apple pie recipe without altering the bake time?",apples (0.89),"easily substituted with blueberries, strawberries, cherries or peaches in an (0.94)",apple pie (0.94),altering (1.00),bake time (0.63),none
+How do I make ground beef taste good?,ground beef taste good? (0.96),none,none,none,none,none
+Why do baking pans need to be the correct size when baking a cake?,baking pans (0.97),correct size (0.99),cake (1.00),none,none,none
+"What dishes do you love to eat, but loathe to prepare?",dishes (0.79),none,none,prepare (1.00),none,none
+"When making potato salad, do you peel and chunk the potatoes first, or boil them while, peel, and chunk them after they are cooked?",potato salad (1.00),"peel and chunk the potatoes first, (0.92)","boil them while, peel, and chunk them after they (0.99)",cooked (0.72),none,none
+How do restaurants really protect their secret recipes?,restaurants (1.00),secret recipes (0.66),none,none,none,none
+How do I make gravy from a beef roast?,gravy from a beef roast (1.00),none,none,none,none,none
+How do I make panipuri (puchka)?,panipuri ( puchka )? (1.00),none,none,none,none,none
+How do I cook pasta without a pot?,pasta (1.00),none,none,a (1.00),pot (1.00),none
+What is the tastiest chicken dish from Singapore?,tastiest chicken dish from singapore (1.00),none,none,none,none,none
+What ingredient spoils a food dish for you if it’s in it?,food dish (1.00),’ (0.54),none,ingredient (0.69),it (0.46),in (0.60)
+How much boneless ribeye roast per person?,bone (0.67),person (0.93),none,##less ribeye roast per (0.93),none,none
+How do I make chimichurri sauce for steak?,chimichurri sauce for steak (1.00),none,none,none,none,none
+How long does it take to cook a 9lb chicken?,9lb chicken? (1.00),none,none,none,none,none
+Are there any good low-fat recipes for chocolate cheesecake?,low - fat (1.00),chocolate cheesecake (1.00),none,none,none,none
+How do I safely make cold cut deli meat?,cold cut deli meat (1.00),none,none,none,none,none
+Why do we cook cereal products?,cereal products (1.00),none,none,none,none,none
+What's the best lamb for roasting?,the best lamb for roasting? (1.00),none,none,none,none,none
+Why are my mashed potatoes watery?,mashed potatoes watery (1.00),none,none,none,none,none
+Can piranha fish be used as food or cooking?,piranha fish (1.00),food or (0.72),none,cooking (0.71),none,none
+What makes a dish successful?,dish successful (0.96),none,none,none,none,none
+What's the best way to bake white bread?,best (0.80),white bread (0.94),none,none,none,none
+What ingredients are not in regular eggs that are present in brown eggs and visa versa?,regular eggs that are present in brown eggs and visa versa (0.95),none,none,ingredients (0.54),none,none
+How do I make good and tasty cheese at home with simply boiled milk?,good and tasty cheese (1.00),with simply boiled milk (1.00),none,none,none,none
+What is the best temperature to cook a joint of beef?,joint of beef (1.00),none,none,none,none,none
+How many times should you flip a steak when cooking?,steak when cooking (1.00),none,none,none,none,none
+What type of soup is the best for you?,soup (0.98),best (0.77),none,none,none,none
+What are some interesting ways to cook eggs?,eggs (1.00),none,none,interesting (0.77),none,none
+What are some good recipes that include tuna fish?,good (0.74),none,none,tuna fish? (0.99),none,none
+How can I make cauliflower rice bearable to eat?,cauliflower rice bearable to eat (0.99),none,none,none,none,none
+Does marinating a steak in beer before grilling it help to improve the flavor?,steak in beer before grilling it (1.00),none,none,marina (0.99),flavor (0.56),none
+"How can I make my chicken stock more chicken-y without using bouillon stock cubes? I already used a whole chicken, onion, garlic, ginger and a Bay leaf and added salt.",chicken stock more chicken - y without (1.00),bouillon stock cubes (1.00),"whole chicken, onion, garlic, ginger and a bay leaf and added salt. (0.97)",using (1.00),none,none
+How long does it take to bake a pizza at 400 degrees?,pizza at (1.00),degrees (1.00),none,400 (0.98),none,none
+"Are there any methods of cooking whole or just the caps (stem removed) of baby bella/cremini, white button, and Portobello mushrooms without them either becoming very watery nor without being burnt and losing their flavor?","whole or just the caps ( stem removed ) of baby bella / cremini, white button, and portobello mushrooms (1.00)",very watery nor (1.00),none,them (1.00),either (0.51),becoming (0.50)
+How do I cook fresh beets and greens?,fresh beets and greens? (1.00),none,none,none,none,none
+Can you deep fry a cake?,cake (1.00),none,none,none,none,none
+Which vegetables go well with chocolate?,vegetables (0.98),none,none,chocolate (1.00),none,none
+What is the best food on the menu at Starbucks?,the best food (0.99),menu (0.51),starbucks (0.85),none,none,none
+Can recipes be legally protected from being copied?,recipes (0.88),protected (0.40),none,being (0.90),copied (0.52),none
+Should you melt butter when making a cake?,cake (1.00),none,none,butter (0.98),none,none
+How do I spice up canned spaghetti sauce?,canned spaghetti sauce? (0.95),none,none,none,none,none
+What goes great with a salad?,salad (1.00),none,none,none,none,none
+Is slow cooking always the best way to cook brisket?,cooking (0.53),brisket (1.00),none,slow (0.87),none,none
+How do I cook a beef shank center cut?,beef shank center cut (1.00),none,none,none,none,none
+What dishes are better the day after they're cooked?,dishes (0.96),day after (0.53),cooked (0.49),none,none,none
+How long do you bake filet mignon?,filet mignon? (0.94),none,none,none,none,none
+"If chicken-fried steak is a thing, why isn't there steak-grilled chicken?",chicken - fried steak (1.00),thing (0.94),steak - grilled chicken (0.92),none,none,none
+What is the most popular food dish in Norway?,popular (0.62),food dish (0.88),norway (0.58),none,none,none
+How do you like to cook a turkey in the oven?,turkey in the oven (1.00),none,none,none,none,none
+What's your favourite recipe for lamb? What would you have with the lamb?,lamb (1.00),none,none,lamb (0.81),none,none
+How do I bottle maple syrup in glass?,maple syrup in glass? (1.00),none,none,none,none,none
+How do I make halal chicken over rice?,halal chicken over rice? (1.00),none,none,none,none,none
+"When preparing cakes in a professional bakeshop, what will most bakers use to measure their ingredients?",cakes (1.00),professional bakeshop (0.99),bakers (0.96),most (0.61),measure (0.60),ingredients (0.99)
+"What are some ""must cook"" recipes for new chefs?",""" must cook "" (0.94)",new chefs (1.00),none,none,none,none
+Can I substitute butter for shortening in a pie crust recipe?,butter (0.91),##ening (0.99),pie crust recipe (1.00),short (1.00),none,none
+How do I use extra white boiled rice left after lunch?,extra white boiled rice left after lunch (1.00),none,none,none,none,none
+Are you able to make Vietnamese foods from scratch at home?,vietnamese foods from scratch (1.00),none,none,none,none,none
+French baguettes are delicious when fresh but by the next day they are stale. The only use I can think if is making croutons. What else can you do with a stale baguette?,french baguettes (0.99),delicious when fresh (1.00),next day they (0.67),none,none,none
+What are the best pans to cook with and have food not stick to it or burn?,the best pans (0.97),with and have (0.81),not (0.84),food (0.58),stick (0.70),it (1.00)
+How do I make a mash potato with cheese?,mash potato with cheese (1.00),none,none,none,none,none
+Why do so many hamburger aficionados recommend 80/20 meat for making hamburgers?,hamburger aficionados recommend 80 / 20 meat for making hamburgers? (1.00),none,none,none,none,none
+What is the difference between sushi soy sauce and regular soy sauce?,sushi soy sauce and regular soy sauce (1.00),none,none,none,none,none
+How long do you cook a beef roast at 350 degrees?,beef roast at 350 degrees (1.00),none,none,none,none,none
+Do you cook the pasta before baking it with pasta sauce and cheese?,pasta before baking it with pasta sauce and cheese (0.99),none,none,none,none,none
+"Paula is making French Toast Casserole for her family's breakfast. She needs eight whole large eggs for the recipe. If she were converting the eggs into tablespoons, eight eggs would be equivalent to how many tablespoons?",paula (0.35),french toast casserole for her family's breakfast (1.00),whole large eggs for the (0.99),eight (0.82),none,none
+How do I roast cornish hens in an oven?,cornish hens in an oven (1.00),none,none,none,none,none
+How do you cover a cake with ganache?,cake (1.00),none,none,ganache? (1.00),none,none
+How is a Little Caesars stuffed crust pizza made?,little caesars stuffed crust pizza made (1.00),none,none,none,none,none
+How many 1/8 cups does it take to make a cup?,1 / 8 cups (0.97),cup (1.00),none,none,none,none
+What is your favorite hot sauce to use with eggs?,favorite hot sauce to use with eggs (0.98),none,none,none,none,none
+What are some recipes that are warm and cozy for cold weather that are not soup and curries?,cozy for cold weather that are not (0.64),and currie (0.70),none,warm and (0.80),soup (0.41),##s (0.98)
+What is a dish I can make for 20 family members at a get together that they will remember and talk about for years?,dish (0.99),20 family members at a get together (0.99),they (0.85),none,none,none
+What is the strangest ingredient that you like to add to your food to enhance flavor?,strangest (0.92),food to enhance flavor (0.93),none,ingredient (0.60),none,none
+How do I bake a 10-pound turkey?,10 - pound turkey? (1.00),none,none,none,none,none
+Is vanilla the finest of the flavors?,finest (0.75),the (0.70),flavors (0.62),vanilla (0.64),none,none
+"What is worse, pineapple on pizza or mayonnaise on pizza?",pineapple on pizza or mayonnaise on pizza (1.00),none,none,none,none,none
+What is the best way to cook beef brisket?,beef brisket? (0.97),none,none,none,none,none
+"When making your pizza at home, how do you apply the toppings?",pizza (1.00),? (0.37),none,the (0.99),toppings (0.81),none
+What is the best sandwich recipe for breakfast?,the best sandwich (1.00),breakfast (1.00),none,none,none,none
+"As a chef or cook, what is your favorite dish to prepare at home?",chef (0.85),favorite dish (0.99),none,none,none,none
+Can you mix peanut butter into a brownie mix?,peanut butter into a brownie mix (0.98),none,none,none,none,none
+"Why do certain recipes for German potato salad suggest to serve it warm and not cold (potatoes, salad, cooking)?","german potato salad suggest to serve it warm and not cold ( potatoes, salad, cooking ) (1.00)",none,none,none,none,none
+How do I make buttermilk from 2 milk?,buttermilk from 2 milk? (1.00),none,none,none,none,none
+How do I make unsweetened cocoa powder sweetened?,unsweetened cocoa powder sweetened? (1.00),none,none,none,none,none
+What are some at home recipes for an inner fungus?,at home (0.97),inner fungus (1.00),none,none,none,none
+How do you make pancakes that do not taste terrible? What are your favorite recipes?,pancakes (1.00),favorite (0.46),none,taste (0.95),terrible (0.98),recipes (0.53)
+How do you make an egg roll?,egg roll (1.00),none,none,none,none,none
+What should you never do when barbecuing chicken?,barbecuing chicken? (1.00),none,none,none,none,none
+How do I make a French onion dip easily?,french onion dip easily? (0.99),none,none,none,none,none
+What is a pepita seed?,pepita seed (1.00),none,none,none,none,none
+What meats do I need to use to make pepperoni?,pepperoni? (1.00),none,none,meats (0.82),none,none
+How do you season your turkey for Thanksgiving?,turkey for thanksgiving (0.84),none,none,none,none,none
+What makes white bread soft?,white bread soft (1.00),none,none,none,none,none
+"When a recipe calls for a teaspoon or a tablespoon of something, is the default a level or heaping one if not specified?",recipe (0.92),teaspoon or a tablespoon of something (1.00),level or heaping one (1.00),default (0.54),specified (0.91),none
+What is the most delicious toast? What is the recipe?,most delicious toast (0.93),none,none,none,none,none
+What is the secret recipe in your country that only a few people know?,secret (0.99),country (0.34),none,none,none,none
+Why did the center of my cake fall?,center (0.66),cake (1.00),none,none,none,none
+What is the baking method of cooking?,baking (0.99),cooking (0.50),none,none,none,none
+How do I thaw hash browns for a casserole?,tha (0.69),hash browns for a (0.90),casserole? (1.00),none,none,none
+What is the easiest way to cook meatballs?,meatballs (1.00),none,none,none,none,none
+Have you ever used a wrong ingredient while cooking that turned into a disaster?,wrong ingredient (0.98),that turned into a disaster (0.98),none,none,none,none
+Does the butter brand matter in baking?,butter brand (1.00),none,none,baking (0.61),none,none
+What are the best dishes to make that can sit out at room temp for a long time? How? Why?,the best dishes (0.99),that can sit out at room temp for (0.99),long time (0.97),none,none,none
+"Are squirrels edible? How is it best to cook them, and how do they taste?",them (0.99),none,none,squirrels (0.70),taste (0.68),none
+What are some of the different preferences in which people order their eggs to be cooked? What is the most popular preference that the vast majority of people prefer?,different (0.40),eggs (0.95),cooked (0.84),preferences (0.75),popular preference (0.48),none
+How do I keep guacamole fresh and green?,guacamole fresh and green? (1.00),none,none,none,none,none
+Is lasagna only one flavour? Pasta have so many flavours but I only can find the same one lasagna recipe.,lasagna (0.99),one (0.58),pasta (0.50),flavours (1.00),none,none
+What's a recipe to make pancakes without milk?,pancakes (1.00),none,none,milk (1.00),none,none
+Can you get enough of Greek cuisine?,greek cuisine (1.00),none,none,none,none,none
+How do you detect the difference between all-purpose and plain flour?,difference (0.67),all - purpose and plain flour (1.00),none,none,none,none
+Why do some bread recipes call for more yeast?,bread recipes (0.81),? (0.86),none,yeast (0.50),none,none
+What are some great recipes with mint leaves?,none,none,none,mint leaves? (0.90),none,none
+Can a German potato salad be served cold?,german potato salad (1.00),served cold (0.96),none,none,none,none
+"What is Kakdi called in English, and is there a recipe?",kakdi called (0.77),english (0.48),none,none,none,none
+How do you make thick crust pizza?,thick crust pizza (1.00),none,none,none,none,none
+How do you apply fondant decorations to the side of a cake?,fondant decorations to the side of (1.00),cake (1.00),none,none,none,none
+"Is there a good cooking channel that focus on authentic Italian food, preferably in English or with English subtitles?",good cooking channel (0.89),"authentic italian food, preferably in english or with english subtitles (1.00)",none,none,none,none
+How do you cook steak fajitas without the meat being too tough?,steak fajitas (1.00),none,none,the (1.00),meat being (0.75),tough (0.95)
+How do I make chili Mac and cheese?,chili mac and cheese (1.00),none,none,none,none,none
+Can I replace stout in a cake recipe with milk?,cake (1.00),none,none,stout (0.74),milk (1.00),none
+Which Italian region has the tastiest cuisine?,italian region (0.63),none,none,tastiest cuisine (0.88),none,none
+Why does homemade fried rice never taste the same as fried rice from a Chinese restaurant? Am I missing some secret ingredient or method?,homemade fried rice never taste the same as fried rice from a chinese restaurant (1.00),ingredient or (0.63),none,secret (1.00),method (0.94),none
+What is the best recipe that you have seen on a video clip?,the best (1.00),video clip (0.99),none,none,none,none
+How do I make granola bars with granola?,granola bars with granola? (1.00),none,none,none,none,none
+How do I cook a 5lb beef tenderloin?,5lb beef tenderloin? (1.00),none,none,none,none,none
+How do I make chicken fajitas at home?,chicken fajitas (1.00),none,none,none,none,none
+What meat goes well with baked beans?,none,none,none,meat (0.96),baked beans (1.00),none
+How do I cook jalapenos on the stove?,jalapenos on the stove (1.00),none,none,none,none,none
+How do you keep lobster meat from sticking to the shell?,lobster meat from sticking to the shell (0.99),none,none,none,none,none
+What is your method for making bread pudding?,bread pudding (1.00),none,none,none,none,none
+What are your favorite seasonings or toppings you like to use when making roasted vegetables?,favorite seasonings or toppings (0.99),roasted vegetables (0.91),none,none,none,none
+How do I make caramel without brown sugar?,caramel without (1.00),sugar (1.00),none,brown (1.00),none,none
+"Why are truffles so expensive, and do they really make a difference in food?",##uffles (0.67),difference (0.47),none,tr (0.96),expensive (0.52),food (1.00)
+Why do some recipes call for a specific variety of rice?,specific variety of rice (1.00),none,none,recipes (0.98),none,none
+Can I bake pizza on wax paper?,pizza on wax paper (0.99),none,none,none,none,none
+Why is roasting vegetables the best way to cook them?,roast (0.95),vegetables (0.99),best (0.75),none,none,none
+What are the best deal management systems for private equity and venture capital firms to identify potential companies and manage the deal process internally?,the best deal management (1.00),private equity and venture capital firms (1.00),potential companies (0.89),internally (0.76),none,none
+How can you replicate a restaurant quality Caesar salad at home?,restaurant quality caesar salad (1.00),none,none,none,none,none
+How do I cook a rib eye roast in the oven?,rib eye roast in the oven (1.00),none,none,none,none,none
+What tastes better when it's not made properly?,when it (0.48),properly (0.45),none,made (0.54),none,none
+How do I make curly fries by hand?,curly fries (1.00),none,none,none,none,none
+What can you use instead of baking powder for pancakes?,baking powder for pancakes (0.99),none,none,none,none,none
+"I love baking and cooking, but I can't bake or cook anything. I can't even make a doughnut. What do I do?",bake or cook anything (0.83),doughnut (1.00),none,baking (1.00),cooking (0.83),none
+How do I cook a 3 lb roast beef?,3 lb roast beef? (1.00),none,none,none,none,none
+What happens to the mind with consciousness after spiritual awakening?,mind with consciousness after spiritual awakening (0.89),none,none,none,none,none
+What is a good way to sweeten marinara sauce without sugar?,sweeten marinara sauce (1.00),none,none,sugar (1.00),none,none
+How long does it take to cook chicken parmesan in an air fryer?,chicken parmesan in an air fryer (1.00),none,none,none,none,none
+Which dish do you default to when you have no ideas on what to cook?,none,none,none,dish (0.40),ideas (0.74),what (0.83)
+How long do you cook little smokies?,little smokies? (1.00),none,none,none,none,none
+Can you mix Hennessy with Sprite?,hennessy with sprite (1.00),none,none,none,none,none
+What are the easiest dishes to make that would look most impressive to a guest?,would look most impressive (0.91),guest (0.66),none,none,none,none
+Can you cook Progresso soup in the can?,progresso soup in the can (1.00),none,none,none,none,none
+How do you make instant noodles feel like an elite meal?,instant noodles feel like an elite meal (1.00),none,none,none,none,none
+What is Yakitori sauce made of?,yakitori sauce made of (1.00),none,none,none,none,none
+How do you keep your nachos from getting soggy in the oven?,nachos from getting soggy in the oven (1.00),none,none,none,none,none
+Do I have to have cinnamon to bake an apple pie? Why couldn’t I just mix sugar in with the apples and that’s it then fill it in the pie?,ba (0.97),apple pie (1.00),sugar in with the apples and that ’ (0.87),cinnamon (1.00),none,none
+How do I make icing sugar for cakes?,icing sugar for cakes (1.00),none,none,none,none,none
+What are some of your favorite recipes?,favorite (0.96),none,none,none,none,none
+How do I make buttermilk from sweet milk?,buttermilk from sweet milk? (1.00),none,none,none,none,none
+How do you cook foods that you hate?,foods (1.00),none,none,none,none,none
+Do you prefer to make your own pizza or buy it from a pizzeria? Why or why not?,pizza (1.00),it from a pizzeria (0.94),none,why (0.55),why (0.39),none
+"What recipes do you routinely use more garlic cloves in than called for, and why?",garlic cloves in than called for (0.97),none,none,", (0.61)",none,none
+How much sugar can you reduce from a cake recipe?,cake (1.00),none,none,sugar (1.00),none,none
+What is an easily made and healthy dish for dinner?,easily made and healthy dish (1.00),dinner (1.00),none,none,none,none
+What is your go-to 'save it from the trash’ recipe?,go - to'save it from the trash ’ (1.00),none,none,none,none,none
+Guy is making Bananas Foster for dessert. The recipe calls for one quart of ice cream. How many cups of ice cream is Guy going to get from one quart of ice cream?,guy (0.40),bananas foster for dessert (1.00),recipe (0.99),none,none,none
+Can you bake a bundt cake in a 9x13 pan?,bundt cake in a 9x13 pan (1.00),none,none,none,none,none
+What are some healthy recipes for a fussy baby?,fussy baby? (1.00),none,none,healthy (0.94),none,none
+What's the best thing you can make with a tomato?,best thing (0.80),with a (0.99),tomato? (0.84),none,none,none
+How do you preserve tomatoes?,tomatoes (1.00),none,none,none,none,none
+How do I make orange juice with oranges?,orange juice with oranges? (1.00),none,none,none,none,none
+How do I make sure that my shrimp dumpling is not overcooked?,shrimp dumpling (1.00),##cooked? (0.98),none,over (0.99),none,none
+What is your favorite potato dish recipe?,favorite potato dish (1.00),none,none,none,none,none
+Is there a dish that requires months or years before it's ready to eat?,dish (0.99),none,none,months or years before it (0.86),eat (0.96),none
+What are the main ingredients required for making a tempting shawarma at home?,ingredients (0.67),tempting shawarma (1.00),none,main (0.90),none,none
+What are incredible vegetarian recipes that will make you forget about meat?,vegetarian (0.78),none,none,meat (1.00),none,none
+How do I make spicy sauce for sushi?,spicy sauce for sushi? (1.00),none,none,none,none,none
+How long does it take to bake hamburgers at 350?,hamburgers at 350? (0.90),none,none,none,none,none
+I'm a South African currently living overseas. Can anyone help me with a traditional boerewors recipe?,south african (1.00),overseas (0.99),traditional boerewors (1.00),none,none,none
+How do I make a sugar scrub at home?,sugar scrub (1.00),none,none,none,none,none
+How do I make a perfect sunny side up every time?,perfect sunny side up every time (1.00),none,none,none,none,none
+What is the best way to cook silverside?,silverside? (1.00),none,none,none,none,none
+How long does it take to bake a cured ham?,cured ham (1.00),none,none,none,none,none
+I am getting burned out on chocolate flavored desserts. What is the second most popular flavor that comes to desserts?,chocolate flavored desserts (1.00),second most popular flavor that (0.82),desserts (0.93),none,none,none
+What is your cooking secret ingredient?,cooking secret ingredient (0.99),none,none,none,none,none
+"Is it true that if someone attempts to grill frozen brats and hamburgers on the grill without unthawing them first, they will most likely burn the outside but leave the inside uncooked?",frozen brats and hamburgers on the grill (1.00),them first (0.96),uncooked? (0.55),unthawing (0.97),outside (0.62),inside (0.82)
+What are the different types of pizza dough?,pizza dough (1.00),none,none,none,none,none
+Can beef marinate in lemon juice longer than two hours?,beef marinate in lemon juice longer than two hours (0.98),none,none,none,none,none
+What cooking ingredients should you always have?,none,none,none,cooking ingredients (0.96),none,none
+"If you could make a new pizza roll flavor, what would you make?",new pizza roll flavor (1.00),what (0.88),none,none,none,none
+How do you make blueberry pie filling from scratch?,blueberry pie filling from scratch? (0.97),none,none,none,none,none
+What are some of the common Russian cuisines / dishes?,common russian cuisines / dishes (1.00),none,none,none,none,none
+How do I make beef liver taste good?,beef liver taste good? (0.94),none,none,none,none,none
+What is the best way to cook skinless chicken thighs?,skinless chicken thighs (1.00),none,none,none,none,none
+What's the worst ingredient you have ever cooked with?,worst (0.55),cooked (0.46),none,ingredient (0.73),none,none
+How do I use oyster sauce with shrimp?,oyster sauce with shrimp? (1.00),none,none,none,none,none
+I have never eaten such delicious eggs. What is a simple and easy breakfast?,delicious eggs (1.00),simple and easy breakfast (1.00),none,none,none,none
+Can you ferment your salad dressings?,fe (0.64),salad dressings (1.00),none,none,none,none
+Can you use protein pancake mix for waffles?,protein pancake mix for waffles (1.00),none,none,none,none,none
+"How do people do ""super fine"" garlic dice?",""" super fine "" garlic dice? (1.00)",none,none,none,none,none
+How do you know when cocoa powder has spoiled?,cocoa powder has spoiled? (0.99),none,none,none,none,none
+Are there any recipes that can't properly be made vegan?,' (0.67),be made vegan (0.96),none,t properly (0.41),none,none
+What ingredient do you always add more than is called for in a recipe?,more than is called (0.69),in (0.56),none,ingredient (0.50),for (0.40),none
+What makes an angel food cake have no fat?,angel food cake (1.00),? (1.00),none,no (0.99),fat (1.00),none
+Is black pudding like summer sausage?,black pudding (0.99),summer sausage (1.00),none,none,none,none
+What are the basic ingredients to make a delicious soup?,delicious soup (1.00),none,none,basic (0.71),none,none
+What is the easiest way to make a pizza at home?,pizza (1.00),none,none,none,none,none
+Why isn't homemade pizza as good as a pizza joint one?,homemade pizza (1.00),good as a (1.00),pizza joint one (0.96),none,none,none
+What are some simple cooking tips that can make a quick and easy dish taste better?,quick and easy dish taste better (1.00),none,none,simple cooking tips (0.89),none,none
+Why do I find it so exhausting to cook and eat?,none,none,none,none,none,none
+What is the most interesting pizza topping you have had at a pizzeria?,most (0.93),pizza topping (0.98),pizzeria (0.92),interesting (0.36),none,none
+What is a good substitute for adobo sauce?,adobo sauce (1.00),none,none,none,none,none
+How do I make my fried hot wings stay crispy when sauced?,fried hot wings stay crispy when sauced? (0.99),none,none,none,none,none
+How long does it take to cook a pecan pie?,pecan pie (1.00),none,none,none,none,none
+Are Beyond Meat meatballs any good?,none,none,none,meat meatballs (0.83),good (0.47),none
+Have you ever tried to follow a recipe from a cooking show? What happened?,recipe (1.00),cooking show (1.00),none,none,none,none
+How do I cook a sirloin tri-tip steak?,sirloin tri - tip steak? (1.00),none,none,none,none,none
+What are some toppings that do not go well with pizza?,with (0.34),none,none,toppings that (1.00),go well (0.74),pizza (0.99)
+Is it okay to use dried herbs when recipes call for fresh?,dried herbs when recipes call (1.00),? (1.00),none,fresh (0.99),none,none
+Is cranberry sauce actually a sauce?,cranberry sauce (1.00),sauce (0.88),none,none,none,none
+What is the biggest no-no when making fried rice?,biggest no - no when making fried rice? (0.97),none,none,none,none,none
+"What are some typical homemade dishes, that Greeks eat for dinner. What does a typical Greek dinner table look like? What sort of dishes are very typical in a Greek household?","typical homemade dishes, that greeks eat for dinner (0.97)",typical greek dinner table look (0.99),dishes (1.00),none,none,none
+Do you prefer baked or fried chicken wings?,baked or fried chicken wings (1.00),none,none,none,none,none
+How do I make tofu taste like steak?,tofu taste like steak (1.00),none,none,none,none,none
+Can you use a dessert syrup instead of flavouring? I need a Raspberry flavouring to mix in with white chocolate or an alternative.,dessert syrup instead of flavouring (1.00),raspberry flavouring to mix in with white chocolate (1.00),an alternative (0.92),none,none,none
+What do I do with a pork belly?,pork belly (1.00),none,none,none,none,none
+How long does it take to cook pasta in the microwave?,pasta in the microwave? (1.00),none,none,none,none,none
+What are five-ingredient dishes under 350 calories?,five - ingredient dishes (1.00),calories? (0.98),none,350 (0.98),none,none
+What are some cheap body building foods?,cheap body building foods (0.98),none,none,none,none,none
+How much is 16 oz of pasta?,16 oz of pasta (1.00),none,none,none,none,none
+How do you make bread lighter and fluffy?,bread lighter and fluffy? (1.00),none,none,none,none,none
+How can you make a homemade pizza stone?,homemade pizza stone (1.00),none,none,none,none,none
+How long do you cook lamb chops?,lamb chops (1.00),none,none,none,none,none
+What type of dish would you create at a luxurious feast with only vegetables and fruits?,dish (0.96),luxurious feast with only vegetables and fruits (0.88),none,none,none,none
+What is the best recipe in your arsenal?,the best (1.00),arsenal (0.43),none,none,none,none
+"What is your best ""poor people food"" recipe?","best "" poor people food "" (1.00)",none,none,none,none,none
+What is the perfect amount of time to marinate meat before cooking?,perfect (0.97),meat (0.99),none,time (0.99),marinate (0.74),cooking (0.95)
+Why do some bread recipes call for a second rise?,bread recipes (1.00),second rise (1.00),none,none,none,none
+How do I cut beef for stir fry?,beef for stir fry (1.00),none,none,none,none,none
+How long does it take to cook oatmeal in a microwave?,oatmeal in a microwave (1.00),none,none,none,none,none
+What is your favourite dish that can be made with the cheapest of ingredients?,dish (0.99),made with the cheapest of ingredients (0.96),none,none,none,none
+How do I steam kale without a steamer?,kale (0.73),none,none,steamer (1.00),none,none
+What dish is absolutely unique to where you live?,dish (0.36),none,none,none,none,none
+Which is your favorite spread to put on toast or bagels?,spread (0.73),toast or bagels? (1.00),none,none,none,none
+What are some at home recipes for an inner toenail fungus?,at home (0.95),inner toenail fungus (1.00),none,none,none,none
+"Will parboiling a potato with the skin on before I microwave it make it less lumpy? If so, how long should it be parboiled, or is there something better to get a quicker baked potato?",##bo (0.68),potato with the skin on before i microwave it (1.00),it less lumpy (1.00),par (0.98),par (0.99),none
+How do I make thin flat burger patties?,thin flat burger patties? (0.97),none,none,none,none,none
+Can I use celery flakes instead of celery?,celery flakes instead of celery (1.00),none,none,none,none,none
+What type of cake is made without additional fat?,cake (1.00),none,none,additional fat (1.00),none,none
+"How do you make a super chewy and fudgy brownie that's not too sweet? All the recipes I've looked at contain at least a cup of sugar, and my family doesn't really like treats that are too sweet.",super chewy and fudgy brownie that's not too sweet (1.00),cup of sugar (1.00),family (0.85),too (0.93),none,none
+Is it healthier to cook the broth separately from the noodles when making instant noodles?,the broth separately from the noodles when making instant noodles (1.00),none,none,health (0.97),none,none
+How many 2/3 cups are in 3 cups?,2 / 3 cups (1.00),in 3 cups (1.00),none,none,none,none
+What is the best way to cook perch?,perch? (1.00),none,none,none,none,none
+How do I cook a country cured ham?,country cured ham? (1.00),none,none,none,none,none
+What are some dishes that were popular in the '60s that no one serves anymore?,dishes (1.00),' 60s that (0.75),serves anymore (0.39),no (0.40),one (0.60),none
+How do you make an omelet taste better?,omelet taste better (1.00),none,none,none,none,none
+"Why is it that when I add a scoop of protein powder to my pancake mix the pancakes are hard and chalky, not fluffy anymore? Is there anything I can add to counteract this?","scoop of protein powder to my pancake mix the pancakes are hard and chalky, not (0.99)",anymore (1.00),counteract this (0.72),fluffy (0.72),none,none
+How do you find recipes for ingredients that you already have?,ingredients (1.00),none,none,none,none,none
+What's the best thing to do with soggy French fries?,best (0.64),soggy french fries (0.91),none,none,none,none
+How many bags of sprinkles do I need to cover a sprinkle cake?,##rinkles (1.00),sprinkle cake (1.00),none,bags (0.63),sp (1.00),none
+What are some ways to cheat saltiness when you add too much salt in your cooking?,saltiness when you add too much salt in (0.94),none,none,cooking (0.58),none,none
+"Do I need to boil raw frozen shrimp for four minutes before I cook it in the skillet to make fried rice, or can I just throw the frozen raw shrimp into the skillet and cook with the fried rice?",raw frozen shrimp for four minutes (0.99),it in the skillet to make fried rice (1.00),frozen raw shrimp into the skillet (1.00),none,none,none
+Do you need to cook chicken before putting it in a slow cooker?,chicken (1.00),it in a slow cooker (1.00),none,none,none,none
+How do I cook waffles in the oven?,waffles in the oven (1.00),none,none,none,none,none
+How do I build a wood pizza oven?,wood pizza oven (1.00),none,none,none,none,none
+Can I use chicken broth instead of milk in mashed potatoes?,chicken broth instead of milk in mashed potatoes (1.00),none,none,none,none,none
+How does plating affect the presentation of a dish?,dish (1.00),none,none,plating (1.00),none,none
+"How does one prepare ""beans on toast"", as in Tim Roth's favorite meal in the television series Lie To Me? Is this standard British cuisine I've never heard of or did they make it up for the show in an effort to portray his earthy nature?","beans on toast "", as in tim roth's favorite meal in the television series lie (1.00)",standard british cuisine (1.00),never heard (0.90),none,none,none
+How long do you fry salmon patties?,salmon patties (1.00),none,none,none,none,none
+"What goes better with pancakes, bacon or ham?","pancakes, bacon or ham? (0.95)",none,none,none,none,none
+How long do udon noodles take to cook?,udon noodles (1.00),none,none,none,none,none
+How long does it take to deep fry chicken patties?,deep fry chicken patties (1.00),none,none,none,none,none
+Is marjoram used in Italian cooking?,##joram (0.84),italian cooking (0.99),none,mar (1.00),none,none
+What can you use to bind burgers instead of eggs?,burgers instead of eggs (1.00),none,none,none,none,none
+What pizza is the best?,pizza (0.96),best (0.94),none,none,none,none
+How do I make a vanilla frosting similar to the one on frozen Betty Crocker frozen devil's food cake? The bakery discontinued making them!,vanilla frosting similar to the one on frozen betty crocker frozen devil's food cake (1.00),them! (0.92),none,bakery (0.44),none,none
+What is a good sauce for a roast beef sandwich?,good sauce (0.75),roast beef sandwich (1.00),none,none,none,none
+What are the top recipes I can make with my light sugared canned sour cherry preserves?,with my light sugared canned sour cherry preserves (0.98),none,none,top (0.58),none,none
+What can I do with hard pita bread?,none,none,none,hard pita bread (0.97),none,none
+What is sweet pepper powder in tagine recipes?,sweet pepper powder in tagine recipes (1.00),none,none,none,none,none
+What ingredient do you hate prepping?,none,none,none,ingredient (0.36),prepping (0.99),none
+How is pea soup made using a hambone? Why?,pea soup (1.00),hambone? (0.89),none,none,none,none
+What is cooking in a bag called?,bag called? (0.87),none,none,none,none,none
+Are there any delicious snacks that are not known in your country?,none,none,none,delicious snacks (0.93),none,none
+How much butter goes into a single croissant 🥐?,goes into (0.95),single croissant 🥐? (1.00),none,butter (1.00),none,none
+How do you make green enchilada sauce?,green enchilada sauce? (1.00),none,none,none,none,none
+What would you bring for a potluck dinner tonight?,potluck dinner tonight (1.00),none,none,none,none,none
+What are some foods that look good but taste horrible?,foods (1.00),but taste (0.80),none,good (0.36),horrible (0.62),none
+How much cheese is needed for Mac and cheese?,mac and cheese (1.00),none,none,cheese (1.00),none,none
+A recipe calls for 1 /3 cup of suger 2 cups of flour. How many cups of flour do you need to add 3 cups of sugar?,1 / 3 cup of suger 2 cups of flour (1.00),many cups of flour (1.00),3 cups of sugar (1.00),none,none,none
+What is the best way to get the “fishy” taste out of fish?,“ fishy ” taste out of fish (1.00),none,none,none,none,none
+What are some canned food ideas for a supper?,canned food (0.84),supper (1.00),none,none,none,none
+How do I make horseradish from the root?,horseradish from the root? (1.00),none,none,none,none,none
+How do you fix mushy pancakes?,mushy pancakes (1.00),none,none,none,none,none
+Who makes the best frozen curly fries?,the best frozen curly fries? (1.00),none,none,none,none,none
+"What's the best way to cook a beef heart, and what is the best seasoning for it?","beef heart, (1.00)",the best seasoning (0.93),it (0.98),what (0.89),none,none
+Does the brand of flour matter in baking?,brand (0.90),flour (0.77),none,matter (0.55),baking (0.73),none
+What's you favorite chicken soup or chicken stew recipe?,chicken soup or chicken stew recipe (1.00),none,none,none,none,none
+I try to watch 'hidden' sugar intake and wonder why you don't list sugar in your recipes' nutrition numbers?,' hidden'sugar intake (1.00),why you don't list sugar in your recipes'nutrition numbers (1.00),none,none,none,none
+Is the ancient Rome recipe for garum still practiced today?,ancient rome (1.00),garum still practiced today (1.00),none,none,none,none
+What kinds of fruits would taste nicely in pudding?,fruits (1.00),nicely in (0.67),none,pudding (0.37),none,none
+Should you put egg in your burger recipe?,egg in (0.93),burger recipe (0.88),none,none,none,none
+What is the best protein pancake mix?,the best protein pancake mix (1.00),none,none,none,none,none
+"To make the most nutritious and tasty almond milk, is it best to soak the almonds first, or roast them?",most (0.48),nutritious and tasty almond milk (1.00),"almonds first, (1.00)",so (0.57),roast (0.90),none
+How do I make boxed stuffing taste better?,boxed stuffing taste better (1.00),none,none,none,none,none
+How long do you boil sausage before frying?,sausage before frying? (1.00),none,none,none,none,none
+What are some of the best ways to elevate a simple dish up to another level?,the best (1.00),eleva (0.80),simple dish up (1.00),none,none,none
+What are your techniques in cooking eggs to be delicious?,eggs to be delicious (1.00),none,none,none,none,none
+What dishes use sauerkraut?,dishes (0.66),none,none,sauerkraut? (1.00),none,none
+Is there a type of cheesy chicken enchilada that doesn’t have red sauce in general?,cheesy chicken enchilada that doesn ’ t have red sauce (1.00),none,none,none,none,none
+What are some good sausage filling recipes?,good sausage filling (1.00),none,none,none,none,none
+How do you keep hot dogs warm for a party?,hot dogs warm for (1.00),party (1.00),none,none,none,none
+How do I make spinach salad taste good?,spinach salad taste good? (1.00),none,none,none,none,none
+What is mornay sauce?,mornay sauce (1.00),none,none,none,none,none
+"What recipe do you make the most, and how do you do it?","the most, (0.90)",none,none,none,none,none
+How do you cook frozen vegetables so they are crisp?,frozen vegetables so they are crisp? (1.00),none,none,none,none,none
+How do I make a banana puree for a baby?,banana puree for a baby (1.00),none,none,none,none,none
+"Is it a really good idea to add salt to egg whites before beating them (baking, salt, egg whites, cooking)?",really good (0.89),"salt to egg whites before beating them ( baking, salt, egg whites, cooking ) (0.99)",none,none,none,none
+"What meals are at least semi-healthy, easy to make, and delicious?",meals (0.89),"semi - healthy, easy to make, and delicious (0.79)",none,none,none,none
+Which recipes do you want to pass down to future generations?,down (0.38),future generations (0.62),none,none,none,none
+"One of my favorite dishes are sandwiches, but I also love working out. What is the best and healthiest sandwich that I can make at home?",dishes (0.92),sandwiches (1.00),the best and healthiest sandwich (0.97),working out (1.00),none,none
+Why is my chicken-fried steak so bland? Is there a non-bland chicken fried steak and gravy recipe?,chicken - fried steak so bland (1.00),non - bland chicken fried steak and gravy recipe (0.97),none,none,none,none
+What is chipotle sauce taste like?,chipotle sauce taste (0.98),none,none,none,none,none
+How do you make store-bought icing easier to spread?,store - bought icing easier to spread (1.00),none,none,none,none,none
+"When making whipped cream, I accidentally put salt into it. I also don't want to let it all go to waste, so what are some creative uses of salty whipped cream?",whipped cream (1.00),into it (1.00),it all (0.95),salt (0.89),creative (0.97),none
+Can I use a glass pan to bake cookies?,glass pan to bake cookies (1.00),none,none,none,none,none
+What desserts can I make with honey (not based on honey but with honey if that makes sense)?,desserts (0.97),honey ( not based on honey but with honey if that (0.88),) (0.61),sense (0.39),none,none
+How do you make edible gold leaf for cakes?,edible gold leaf for cakes (1.00),none,none,none,none,none
+What can we make with white chocolate?,chocolate (0.92),none,none,white (0.98),none,none
+Should you use strong flour or plain flour when making bread?,strong flour or plain flour when making bread (1.00),none,none,none,none,none
+How do I cut a tomato for salsa?,tomato for salsa? (0.99),none,none,none,none,none
+How much dried basil do I use in place of fresh?,none,none,none,dried basil (1.00),fresh? (0.95),none
+What are the diabetic food recipes for beginners?,diabetic food (1.00),beginners (0.88),none,none,none,none
+Which is the most American recipe of all time?,most american (0.98),all time (0.85),none,none,none,none
+"When a recipe asks for ""15 oz. can diced tomatoes"", do they mean the weight of the whole can or tomatoes alone?",""" 15 oz. can diced tomatoes "" (0.95)",weight of the whole can or tomatoes alone (0.98),none,none,none,none
+"What is the best summer recipe, make fruit salad or vegetable salad?",the best summer recipe (0.89),fruit salad or vegetable salad (0.98),none,none,none,none
+"What is your ""Oh my gosh, you have to give me this recipe"" dish that people always request you to make?",""" (0.97)","oh my gosh, (1.00)","recipe "" dish (1.00)",none,none,none
+Baking: How do you make great bread?,great bread (1.00),none,none,none,none,none
+What dish did you make the most in 2020?,dish (0.97),the most in 2020? (1.00),none,none,none,none
+What is the hardest pastry to make?,hardest pastry (0.99),none,none,none,none,none
+Can anyone share an eggless muffin recipe for my son as he is allergic to eggs?,eggless muffin (1.00),son (1.00),none,eggs (1.00),none,none
+How do I cook tamales on the stove?,tamales on the stove (1.00),none,none,none,none,none
+Is egg wash necessary for bread?,bread (1.00),none,none,egg wash (1.00),none,none
+What is the proper way to use cornstarch to thicken sauces?,cornstarch to thicken sauces (1.00),none,none,none,none,none
+How should salad be stored?,none,none,none,salad (0.87),none,none
+What do Spanish people typically eat for dinner. What does a typical Spanish dinner table look like? What sort of dishes are very typical in a Spanish household? Please provide also some pictures.,people (1.00),dinner (1.00),typical spanish dinner table look (1.00),spanish (0.33),pictures (0.99),none
+Does a two-topping pizza include only sauce and cheese?,two - topping pizza include only sauce and cheese (1.00),none,none,none,none,none
+"What is the recipe for ""Garfield Potatoes"" served aboard the Titanic?","garfield potatoes "" served aboard the titanic (1.00)",none,none,none,none,none
+How does one develop grit?,none,none,none,grit (0.99),none,none
+What's the best way to make a homemade mashed potato?,homemade mashed potato? (1.00),none,none,none,none,none
+How many eggs are in an omelette?,eggs (0.80),omelette? (0.98),none,none,none,none
+Who buys the most Tabasco sauce?,most tabasco sauce? (0.98),none,none,none,none,none
+How do you make pineapple salsa from scratch?,pineapple salsa (1.00),scratch (1.00),none,none,none,none
+How can we make pizza with the same exact taste as Domino's?,pizza (1.00),none,none,the (1.00),same exact taste as domino's (1.00),none
+Can you use salted butter for cookies?,salted butter for cookies (1.00),none,none,none,none,none
+How does cold flour affect baking?,cold (0.88),none,none,flour (0.72),baking (0.57),none
+What are some good broccoli recipes?,good broccoli recipes (1.00),none,none,none,none,none
+What is the simplest recipe you know?,simplest (0.85),none,none,none,none,none
+How do you make carrot and lentil soup?,carrot and lentil soup? (1.00),none,none,none,none,none
+Why isn't dry pasta salted?,dry pasta salted? (1.00),none,none,none,none,none
+What is the world's best sandwich?,world's best sandwich (1.00),none,none,none,none,none
+What is the difference between Barilla pasta sauce and Prego?,barilla pasta sauce and prego? (1.00),none,none,none,none,none
+How do I make a cupcake box template?,cupcake box template (1.00),none,none,none,none,none
+What does a good pizza taste like?,good pizza (1.00),none,none,none,none,none
+What is a good recipe for fried rice?,fried rice? (0.98),none,none,none,none,none
+How do I cook food in the forest?,food in the forest (0.87),none,none,none,none,none
+What was a surprisingly great cheap meal you have eaten?,surprisingly great cheap meal (1.00),none,none,none,none,none
+How do you reduce too much salt in stew?,too much salt in stew? (0.98),none,none,none,none,none
+Why do some recipes call for both white and brown sugar?,both white and brown sugar (1.00),none,none,recipes (0.99),none,none
+What do home-cooked meals look like where you come from?,home - cooked meals (1.00),where you (0.99),none,none,none,none
+How can I make pizza at home without flour?,pizza (1.00),none,none,flour (1.00),none,none
+Can you make cheesy chicken enchiladas without sauce?,cheesy chicken enchiladas (1.00),none,none,sauce (1.00),none,none
+How do you mince a garlic clove?,garlic clove? (1.00),none,none,min (0.56),none,none
+What do I do if my lasagna is too watery?,lasagna (1.00),watery (0.96),none,none,none,none
+Do you make your own cake for birthdays in your family?,cake (1.00),birthdays in (0.76),family (0.51),none,none,none
+How do you emboss a name on a cake?,name (0.96),cake (1.00),none,none,none,none
+What is the difference between a Cornish pasty and a normal pasty?,cornish pasty and a normal pasty (0.94),none,none,none,none,none
+What are some beginner-friendly recipes for bento boxes?,beginner - friendly (1.00),bento boxes (1.00),none,none,none,none
+What do offenders cook in prison? What are some prison recipes?,offenders (0.93),prison (0.54),prison (0.99),none,none,none
+What are good quick chicken recipes?,good quick chicken (1.00),none,none,none,none,none
+How do I cut iceberg lettuce for burgers?,iceberg lettuce for burgers (1.00),none,none,none,none,none
+In how much water do I need to put ramekins when cooking au bain marie in the oven?,ramekins when cooking au bain marie in the oven (0.94),none,none,water (1.00),none,none
+What are some really simple recipes?,really simple (1.00),none,none,none,none,none
+"What is the English dish, ""toad in the hole"", and what's the reason for its name?",english dish (0.99),""" (0.96)","toad in the hole "" (1.00)",none,none,none
+Is bacon supposed to be chewy or crispy?,bacon (0.98),chewy or crispy? (0.99),none,none,none,none
+How do I make buttercream look like fondant?,buttercream look like fondant (1.00),none,none,none,none,none
+What should I always remember when baking?,none,none,none,none,none,none
+How many hours does it take Moi Moi to cook?,moi moi (1.00),none,none,hours (0.61),none,none
+How long does it take to bake a tri-tip roast?,tri - tip roast (1.00),none,none,none,none,none
+"If you cook meat that turns out very tough, what can you do to soften the meat?",meat (1.00),turns out very tough (0.89),none,soft (0.98),meat (0.77),none
+What temperature should you cook a pot roast to so the meat falls apart?,pot roast to so the meat falls apart (1.00),none,none,none,none,none
+How do I make green rice crispy treats?,green rice crispy treats (1.00),none,none,none,none,none
+What is your variation on the lowly peanut butter and jelly sandwich?,lowly peanut butter and jelly sandwich (1.00),none,none,none,none,none
+How long does it take to bake a bone in chicken thighs?,bone in chicken thighs (1.00),none,none,none,none,none
+What’s your secret hack for boxed macaroni & cheese?,secret (0.99),boxed macaroni & cheese? (1.00),none,none,none,none
+Is Vermont the home for maple syrup?,maple syrup (1.00),none,none,none,none,none
+What are some traditional recipes from Turkey?,traditional (0.79),turkey (0.49),none,none,none,none
+"Do they still make Tabasco sauce (the original one)? If so, what store sells it?",tabasco sauce ( the original one ) (1.00),so (0.53),none,none,none,none
+How can you use a pizza stone to make pizza in a BBQ grill?,pizza stone (1.00),pizza in a bbq grill (1.00),none,none,none,none
+What are some good savory toppings for yogurt?,good savory toppings for yogurt (1.00),none,none,none,none,none
+How do I cook dried pinto beans fast?,dried pinto beans fast? (1.00),none,none,none,none,none
+What is your favorite ketchup recipe and/or unique recipe item for your ketchup?,favorite ketchup recipe and / or unique recipe item for (0.97),ketchup (1.00),none,none,none,none
+How do I make an omelet with spinach?,omelet with spinach? (1.00),none,none,none,none,none
+How do I cook canned sweet peas?,canned sweet peas? (0.98),none,none,none,none,none
+What is a chef's tip that sounds gross but is actually tasty?,chef's tip that sounds gross but is actually tasty (1.00),none,none,none,none,none
+How do you make bacon not crispy?,bacon not crispy? (1.00),none,none,none,none,none
+How do I bake green beans in an oven?,green beans in an oven (1.00),none,none,none,none,none
+"Dan is making chimchurri for an appetizer, but the recipe asks for 2.5 milliliters of black pepper. If Dan is measuring out milliliters in teaspoons, how many teaspoons of black pepper will he need for his recipe?",dan (0.79),chimchurri for an appetizer (1.00),recipe (0.99),none,none,none
+When should strong flour be used?,none,none,none,strong flour (0.96),none,none
+How do I reheat sweet potato fries?,sweet potato fries? (0.96),none,none,none,none,none
+Which bread do you personally use for making grilled cheese?,grilled cheese (1.00),none,none,bread (0.98),none,none
+What’s an ingredient that you’re still hesitant to cook with?,ingredient (0.66),none,none,none,none,none
+How do I thicken pesto sauce?,thick (0.96),pesto sauce (1.00),none,none,none,none
+What is your favorite dessert to make for 4th of July get-togethers?,dessert (0.80),make for (0.83),4th of july get - togethers (0.95),none,none,none
+Can you put too much simple syrup on a cake?,cake (1.00),none,none,simple syrup (0.99),none,none
+How do I make turkey gravy with flour?,turkey gravy with flour? (1.00),none,none,none,none,none
+How do I make my own zesty Italian dressing?,zesty italian dressing (1.00),none,none,none,none,none
+Is baking bacon healthier than frying bacon?,baking bacon healthier than frying bacon (0.97),none,none,none,none,none
+"I want to get into cooking. I don't just want to copy recipes, I want to understand what I am doing. Where do I begin?",cooking (0.78),recipes (0.81),none,none,none,none
+Can you share a photograph of foreign cuisine you made at home?,foreign cuisine you made (1.00),none,none,none,none,none
+What are some easy ways to make fondant?,fondant (1.00),none,none,easy (0.98),none,none
+What is the easiest food to make from scratch?,easiest food (0.85),make from scratch (0.78),none,none,none,none
+Where can I find food recipes using cicadas?,food (1.00),none,none,cicadas? (1.00),none,none
+What is the easiest pasta dish to prepare?,easiest pasta dish (0.99),none,none,none,none,none
+What is your favorite smoked fish recipe?,favorite smoked fish (1.00),none,none,none,none,none
+How to make tasty keto bread?,tasty keto bread? (1.00),none,none,none,none,none
+Is it impolite to ask a restaurant for the recipe of a certain dish that you really loved?,restaurant (1.00),the recipe (0.91),certain dish that (0.84),none,none,none
+How can I find recipes for my air fryer?,air fryer (1.00),none,none,none,none,none
+How do you make butter beer exactly like the book?,butter beer exactly like the book (1.00),none,none,none,none,none
+What's the best chili con carne recipe you've ever made?,the best chili con carne recipe you (0.99),ever made (0.80),none,none,none,none
+Which fruits can ruin your gelatin dessert?,gelatin dessert (1.00),none,none,fruits (0.95),none,none
+How do I make a honey tuille?,honey tuille? (1.00),none,none,none,none,none
+What are some good tips/advice on how to make a healthier vegan bimbimbab from how it's traditionally made?,tips / advice (0.84),healthier vegan bimbimbab from how it's traditionally made (1.00),none,good (1.00),none,none
+How do I cook pasta without water?,pasta (1.00),none,none,water? (0.98),none,none
+How do I prepare a turkey before cooking?,turkey before cooking (1.00),none,none,none,none,none
+What's a good recipe for Cambodian prahok?,cambodian prahok? (1.00),none,none,none,none,none
+"Hunters, what is the tastiest dish you’ve made from your kill?",hunters (0.26),tastiest dish (1.00),’ (1.00),none,none,none
+How do I make ice cream at home?,ice cream (1.00),none,none,none,none,none
+What do you cook today? Pics are welcomed.,welcomed (0.47),none,none,pics (0.49),none,none
+How do people come up with new recipes for food?,food (1.00),none,none,none,none,none
+What ingredients do you use for cooking bacon?,bacon (1.00),none,none,ingredients (0.97),none,none
+What is the purpose of dusting bread with flour before baking?,dustin (0.64),bread with flour (1.00),none,baking (1.00),none,none
+"I want to make a smoothie bowl with frozen strawberries, blueberries, and mangoes. Which fruits do I layer bottom to top?","smoothie bowl with frozen strawberries, blueberries, and mangoes (1.00)",fruits (1.00),to (0.80),bottom (0.43),none,none
+"When chefs/recipes say “season to taste”, what does that actually mean?",chefs / (0.58),“ season to taste ” (0.96),none,actually (0.69),none,none
+You are cooking with a recipe that called for 1/4 pound of butter. How many teaspoons of butter do you add?,1 / 4 pound of butter (1.00),many teaspoons of butter (1.00),none,none,none,none
+How do I bake chicken thighs with skin?,chicken thighs with skin (1.00),none,none,none,none,none
+Should you add garlic to pasta sauce?,garlic to pasta sauce (0.96),none,none,none,none,none
+What can be used as a substitute for Dijon mustard when making deviled eggs?,dijon mustard when making deviled eggs (1.00),none,none,none,none,none
+How do you get shredded coconut to stick to the side of a cake?,shredded coconut to stick to the side of a cake (1.00),none,none,none,none,none
+How do I sub maple syrup for sugar?,maple syrup for sugar (1.00),none,none,none,none,none
+How do I cook a free range turkey?,free range turkey (1.00),none,none,none,none,none
+How can I make cake frosting with the sort of texture of things like the outside Zebra Cakes or Ring Dings?,cake frosting with the sort of texture of things like the outside zebra cakes or ring dings (1.00),none,none,none,none,none
+"What are some tasty, low-calorie alternatives for apples and peanut butter?","tasty, low - calorie alternatives for apples and peanut butter (1.00)",none,none,none,none,none
+My mom usually makes food at 8:30 AM but I get up early and I have to study and also want to eat food before studying or else I feel weak. What are some easy and tasty recipes for suggestions?,food (1.00),8 : 30 am (0.98),early (0.77),study (0.67),studying (0.97),weak (0.49)
+"When a recipe calls for partial ingredients, such as only the egg yolk, what are you supposed to do with the rest?",recipe (0.75),"partial ingredients, such as only the egg yolk (0.95)",none,rest (0.94),none,none
+What is the dressing of Kathi rolls?,kathi rolls (1.00),none,none,none,none,none
+Why and on what occasions would it be important to use certain types of pots to have delicious and perfectly cooked dishes?,types (0.43),pots (0.58),delicious and perfectly cooked dishes (0.82),none,none,none
+"What good “throw everything in a pot, add water and spices, let cook all day” recipes do you have?",everything (0.68),"pot, add water and spices, let cook (0.94)",all day ” (1.00),none,none,none
+Does a burger cook better on a grill than a stove top?,burger (1.00),better on a grill than a stove top (0.96),none,none,none,none
+How do you microwave pasta without drying it out?,pasta (1.00),none,none,drying it out (1.00),none,none
+Should eggs be at room temperature for pancakes?,eggs (0.96),room (0.76),pancakes (1.00),none,none,none
+What do you like to dip your fries in besides ketchup?,fries in besides ketchup? (1.00),none,none,none,none,none
+What are some cool variants on making gnocchi?,gnocchi? (1.00),none,none,cool variants (0.94),none,none
+How do I make edible gummies with a cannabutter?,edible gummies with a cannabutter? (1.00),none,none,none,none,none
+How do I prepare eggs in a shape suited for a bagel?,eggs in (1.00),shape suited for a bagel (1.00),none,none,none,none
+How do I substitute vodka in homemade vanilla extract?,vodka in homemade vanilla extract (1.00),none,none,none,none,none
+How long does it take to cook chicken breast at 400?,chicken breast at 400? (1.00),none,none,none,none,none
+Why is Colonel Sanders’ recipe still a secret after all of these years?,sanders ’ (0.63),secret after (0.39),years (0.37),none,none,none
+How do I cook various recipes?,recipes (0.82),none,none,none,none,none
+What should I name my YouTube cooking channel?,youtube cooking channel (1.00),none,none,none,none,none
+Would cooking tomatoes separately from other ingredients make a difference in a tomato-sauce dish?,tomatoes separately from other ingredients (0.91),difference in a tomato - sauce dish (0.90),none,none,none,none
+What unexpected ingredient do you add to a dish?,dish (1.00),none,none,unexpected ingredient (0.97),none,none
+How much ganache do you use to fill a cake?,cake (1.00),none,none,ganache (1.00),none,none

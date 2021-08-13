@@ -1,0 +1,735 @@
+utterance,dishname_first (score),dishname_second (score),dishname_third (score),ingredient_first (score),ingredient_second (score),ingredient_third (score)
+I see a lot of videos cooking these steaks medium rare. I like mine well done. Why do they do that and how do you like your steaks?,steaks medium rare (1.00),done (0.83),steaks (1.00),videos (0.98),mine (0.64),none
+How do you cook seafood?,seafood (1.00),none,none,none,none,none
+Does chicken breast get softer the longer you cook it?,chicken breast (1.00),none,none,softer (0.40),none,none
+How are restaurants able to have such big menus with a variety of options? Do the cooks have all the recipes memorized? Are the food preparation for every dish already done? What if people don’t order certain dishes? Does the food prep go to waste?,restaurants (0.97),menu (0.91),with a variety of (0.93),big (0.40),##s (0.59),options (0.68)
+Do you prefer to cook for yourself or go out to dinner? Why?,none,none,none,dinner (0.37),none,none
+How do I cook a white sweet potato?,white sweet potato (1.00),none,none,none,none,none
+What can I add to pasta if I have no sauce?,pasta (1.00),none,none,sauce (1.00),none,none
+What is the best way to cook salmon steaks?,salmon steaks (1.00),none,none,none,none,none
+"What does ""bring to a simmer"" mean when cooking?","simmer "" (1.00)",when cooking (0.94),none,none,none,none
+Do you think your mother's cooking is the best?,mother's cooking (1.00),the best (0.96),none,none,none,none
+How long does it take to cook a bone in chicken?,bone in chicken? (1.00),none,none,none,none,none
+How do I cook various recipes?,recipes (0.82),none,none,none,none,none
+Why is it that every cooking or recipe website feels the need to tell us the whole biography of its author?,cooking or recipe website (1.00),whole biography (0.66),its (0.72),none,none,none
+How do I cook filet mignon at home?,filet mignon (1.00),none,none,none,none,none
+What should you never do when cooking mushrooms?,mushrooms (1.00),none,none,none,none,none
+How do I use an induction hob to cook effectively?,induction hob (1.00),cook effectively? (0.83),none,none,none,none
+How long does it take to cook a burger?,burger (1.00),none,none,none,none,none
+Do egg size and temperature matter in baking?,egg size (0.86),none,none,and temperature matter (0.71),baking (0.83),none
+How can I get used to touching hot things while cooking?,hot things while cooking (0.83),none,none,touching (0.98),none,none
+How do you appreciate a good cook?,good cook (0.85),none,none,none,none,none
+What do you cook that smells bad while cooking but tastes good at the end?,smells bad while cooking but tastes good (0.98),none,none,none,none,none
+At what age should you learn to cook?,none,none,none,none,none,none
+Why is it so important for grandmas to know how to cook?,grandmas (0.98),none,none,none,none,none
+How do I cook a boneless pork tenderloin?,boneless pork tenderloin? (1.00),none,none,none,none,none
+"During lockdown I would like to experiment by cooking new foods for my family, ideally with the help of my children (they will eat most foods) what is a simple (easy to cook) recipe from your country that we could try?",new foods (1.00),"family, ideally (0.98)",most foods ) (0.93),lock (0.47),children (0.87),none
+What are some ways to cook frozen arepas?,frozen arepas? (1.00),none,none,none,none,none
+Anyone retired or with time on their hands who have skills in sewing and cooking who would like to share these skills? I'd like to learn.,none,none,none,time on (0.97),hands (0.77),sewing and cooking (1.00)
+"Which is the best steak to grill, picanha or ribeye?","the best steak to grill, picanha or ribeye? (1.00)",none,none,none,none,none
+Which is the difference between pizza steel and pizza stone?,pizza steel and pizza stone (1.00),none,none,none,none,none
+How can I learn to cook if my mom refuses to teach me?,mom (0.39),none,none,none,none,none
+What is the best chef's knife for a serious but not professional cook?,the best chef's knife (1.00),serious but not professional cook (0.99),none,none,none,none
+How does JD Wetherspoons cook their food?,jd wetherspoons (1.00),food (0.97),none,none,none,none
+My ducted range hood often drips oil to the cooking top. Do you have any suggestions?,ducted range hood (1.00),drip (0.73),to the cooking top (1.00),oil (0.95),suggestions (0.98),none
+How long do you cook a duck?,duck (1.00),none,none,none,none,none
+How do I cook calves liver and onions?,calves liver and onions? (1.00),none,none,none,none,none
+One of the things I pride myself on as a teen is being able to cook but as a teen I gotta overthink things so can I really cook? Does following directions from a recipe or on a box really mean I can cook? Or am I just good at following directions?,teen (0.92),teen (0.43),directions from (0.97),overthink things (0.65),following (0.69),following directions (0.98)
+What is the best way to cook peaches for dessert?,peaches for dessert (1.00),none,none,none,none,none
+"I have a 5kg piece of beef to roast, will cutting it into 2 joints decrease the overall cook time in one oven?","5kg piece of beef to roast, (0.96)",it into 2 joints (1.00),overall cook time (0.93),none,none,none
+Can salted butter and unsalted butter be used interchangeably in any recipe?,salt (0.90),##ed butter and unsalted butter (0.99),used interchangeably (0.77),none,none,none
+How do you cook foods that you hate?,foods (1.00),none,none,none,none,none
+What food reminds you of your grandmothers cooking? Have you learned how to make it?,grandmothers cooking (0.99),it (0.56),none,food (0.94),none,none
+How do you cook Hebrew National Franks?,hebrew national franks (1.00),none,none,none,none,none
+What are the best ways to cook canned green beans?,canned green beans? (1.00),none,none,none,none,none
+Why is asparagus always slimy when I cook it?,as (0.89),always (0.33),##y when (0.53),##paragus (0.72),slim (0.90),none
+Are silicone grafe utensils considered good or bad when it comes to cooking? Would it be acceptable for a cook or a chef to have/use?,silicon (0.97),##e grafe utensils considered good or bad (0.93),cook (0.99),cooking (1.00),/ (0.97),none
+How do you avoid dry or tough meats in the slow cooker?,dry or tough meats in the slow cooker (1.00),none,none,none,none,none
+Can you cook fish and chicken in the same oil?,fish and chicken in the same oil (1.00),none,none,none,none,none
+"What is the best way to cook hotdogs (that tastes decent), at home when you do not have access to a grill?","hotdogs ( that tastes decent ), (1.00)",none,none,grill (1.00),none,none
+How do I cook a boneless top round roast?,boneless top round roast (1.00),none,none,none,none,none
+How do I cook a beef round eye steak?,beef round eye steak (1.00),none,none,none,none,none
+Ive been considering buying wagyu beef steak to cook myself and I’m wondering how a novice cook such as myself should cook it? Grill or pan sear with oven finish? As well as what sort of spice rub marinade or other flavors?,wagyu beef steak to (0.93),novice cook (0.99),it? grill or pan sear with oven finish? as well as what (0.98),none,none,none
+Why do some recipes call for eggs at room temperature?,eggs at room temperature (0.88),none,none,recipes (0.92),none,none
+Why do we need to cook the food that we eat?,food that (0.84),none,none,none,none,none
+How can you cook frozen tilapia?,frozen tilapia? (1.00),none,none,none,none,none
+How do you cook a 4lb chicken? How long does it take?,4lb chicken? (1.00),long (0.95),it (1.00),none,none,none
+How can I master using a knife for cooking without taking a course?,knife for cooking (1.00),none,none,taking (1.00),course (1.00),none
+"What does a ""scant cup"" mean in cooking terms?",""" scant cup "" mean in cooking terms (1.00)",none,none,none,none,none
+Should you take the string out of meat before cooking it in the oven?,string out of meat (1.00),it in the oven (0.93),none,none,none,none
+Why do some recipes call for sifted flour?,sifted flour? (0.95),none,none,recipes (0.89),none,none
+Are potatoes used in Chinese cooking?,chinese cooking (0.96),none,none,potatoes (0.82),none,none
+What is the lowest temperature you can cook lamb?,lowest (0.49),lamb (1.00),none,none,none,none
+What is the best way to cook a whole pre-cooked lobster?,whole pre - cooked lobster (1.00),none,none,none,none,none
+What fancy foods can be cooked cheaply at home?,fancy (0.42),foods (0.93),cooked cheaply (0.82),none,none,none
+How many efforts will be wasted in becoming a good cook?,good cook (1.00),none,none,efforts (0.78),none,none
+How do I cook pasta without a pot?,pasta (1.00),none,none,a (1.00),pot (1.00),none
+How do I cut the chicken into pieces to cook?,chicken into pieces (0.98),none,none,none,none,none
+What is the difference between a strata and bread pudding?,strata and bread pudding (1.00),none,none,none,none,none
+Why is potato gratin watery?,potato gratin watery (1.00),none,none,none,none,none
+Do you watch cooking channels on YouTube to learn to cook new dishes?,cooking channels (0.98),new dishes (1.00),none,none,none,none
+"Why do cooks have/want so many sharpies? What are some other habits that cooks do outside of work, without thinking about it?",cooks (0.71),none,none,/ (0.98),many (0.96),sharpies (0.96)
+Is slow cooking always the best way to cook brisket?,cooking (0.53),brisket (1.00),none,slow (0.87),none,none
+How do I cook snapper in the oven?,snapper in the oven (1.00),none,none,none,none,none
+What type of meat is the most tough when cooking?,meat (0.87),the (0.47),most (0.63),tough (0.36),none,none
+How do you cook marinated chicken?,marinated chicken? (1.00),none,none,none,none,none
+Are you a good cook? What are you good at?,none,none,none,none,none,none
+Can I take off the gas deflector on my stove for cooking with a wok?,gas deflector on my stove for cooking with a wok (1.00),none,none,none,none,none
+"When cooking frozen meat, I was told you have to cook it at a lower temperature. Why?",frozen meat (1.00),it (0.96),none,none,none,none
+"If cooks don't eat their own cooking, what then can we say about cooking shows?",cooks (0.91),cooking (0.59),cooking (0.96),shows (0.51),none,none
+"What is the difference between strata, bread pudding, and panade?","strata, bread pudding, and panade (1.00)",none,none,none,none,none
+Would you marry an unattractive woman who can cook or an attractive woman who can’t cook?,unattractive woman who (1.00),cook (1.00),attractive woman who can ’ t cook (0.98),none,none,none
+Is it okay if I use an aircon while I’m cooking?,aircon (1.00),none,none,none,none,none
+"If you had to give either garlic or onion up in cooking, which one would it be?",garlic or onion up in cooking (1.00),one (0.41),none,none,none,none
+How can I make hard boiled egg whites?,hard boiled egg whites? (1.00),none,none,none,none,none
+How do I cut garlic scapes for cooking?,garlic scapes for cooking (1.00),none,none,none,none,none
+Do you like to cook at home?,none,none,none,none,none,none
+What can I cook that doesn't leave a strong/lingering smell?,/ lingering (0.69),none,none,strong (0.89),smell (0.99),none
+When can you say that you know cooking or you are a good cook at least?,cooking (0.35),none,none,none,none,none
+My mom never taught me how to cook. How can I make up for that with my own family now?,up (0.36),none,none,family (0.90),none,none
+What can you cook?,none,none,none,none,none,none
+"When cooking breakfast, what do you cook first?",breakfast (1.00),first? (0.95),none,none,none,none
+How long do you cook stuffed cabbage?,stuffed cabbage? (1.00),none,none,none,none,none
+"As a chef, what are some basic things home cooks do wrong?",basic things home cooks do wrong (1.00),none,none,none,none,none
+Are there any foods that are cooked directly with electricity?,foods (1.00),none,none,cooked directly with (0.69),electricity (0.87),none
+I was given a free pound of 70/30 ground beef from a butcher. What's the best recipe for it that doesn't take many ingredients?,free pound of 70 / 30 ground beef from a butcher (1.00),' (0.98),the best (1.00),ingredients (1.00),none,none
+How long does it take to cook pasta in the microwave?,pasta in the microwave? (1.00),none,none,none,none,none
+How long does it take to cook an egg? How can I cook it faster?,egg (1.00),none,none,none,none,none
+"What should my boyfriend cook? Me (Turkish) bf (Belgian) wants to cook a Turkish meal for his parents to impress them, I can't do it myself due to restrictions. It has to be not too hard and something that can be cooked at home. Any suggestions?",( turkish ) bf ( belgian ) (0.95),turkish meal (1.00),parents (0.98),restrictions (1.00),cooked (0.69),suggestions (0.49)
+How long does it take to cook a 1.5 lb meatloaf?,1. 5 lb meatloaf? (1.00),none,none,none,none,none
+What is a good starting position for someone interested in cooking?,starting (0.85),none,none,cooking (1.00),none,none
+Which dish do you default to when you have no ideas on what to cook?,none,none,none,dish (0.40),ideas (0.74),what (0.83)
+How often do professional chefs cut themselves while cooking?,professional chefs (0.86),cooking (0.63),none,none,none,none
+What unusual things do you slow cook?,things (0.36),none,none,unusual (0.72),none,none
+What is the best way to cook a pig head?,pig head (1.00),none,none,none,none,none
+Why do chefs always hold the handle of the pan with a towel when cooking?,chefs (0.98),handle of the pan with a towel when cooking (1.00),none,none,none,none
+Why is it more common for women to cook in the home but men to cook as a profession?,home (0.63),none,none,men (0.51),none,none
+Does oil or butter help rise the dough?,dough (1.00),none,none,oil or butter (1.00),none,none
+I have to cook in hot weather. Should I use the burner or the stove to make it less hot?,in hot weather (0.97),burner (0.89),the (0.86),the (0.96),or (0.47),stove (0.79)
+Why is garlic used in every savoury dish?,savoury dish (1.00),none,none,garlic (1.00),none,none
+How can I avoid stinking up the house when cooking broccoli?,stinking up the house when cooking broccoli? (1.00),none,none,none,none,none
+I want to have my own kitchen to bake in because my mom doesn’t like when I use the kitchen. She says I take up too much room. Is there a way for me to make a kitchen in my small house?,kitchen (0.88),bake in because (0.87),mom (0.69),room (1.00),none,none
+Can I substitute brown sugar for white sugar in bread?,brown sugar for white sugar in bread (1.00),none,none,none,none,none
+Is it allowed to cook in a hotel room?,hotel room (1.00),none,none,none,none,none
+How do different flours affect a sourdough starter?,flours (0.99),sourdough starter (1.00),none,different (0.44),none,none
+Do you consider cooking an essential life skill? Do you believe it is necessary for a woman to know how to cook rather than a man also knowing how to cook in this current century? Can this make or break your relationship (in your opinion)?,essential life skill (1.00),cook (0.88),current century (1.00),make (0.80),none,none
+How long do you cook canned hominy?,canned hominy? (1.00),none,none,none,none,none
+What are some substitutes for eggs in pancakes?,none,none,none,substitutes for eggs in pancakes (0.92),none,none
+How does salt affect gluten development?,gluten development (0.99),none,none,salt (1.00),none,none
+Why do you want to learn cooking?,cooking (1.00),none,none,none,none,none
+Which fish is best to cook in a curry?,fish (0.62),curry? (1.00),none,none,none,none
+Why does cooking spoiled food not make it safe?,spoiled food not (1.00),it safe (0.66),none,none,none,none
+What are some things that the most popular recipe/cook books do differently?,most popular recipe / cook books (0.99),none,none,differently (0.44),none,none
+What is a cake batter?,cake batter (1.00),none,none,none,none,none
+What’s the best way to become a decent/better home cook? I want to get to a point where I can just look in my fridge and see possibilities. Does that come with time? How can I get there faster?,decent / better home cook (1.00),fridge (0.59),none,possibilities (0.75),time (1.00),none
+How do you cook rice for 100 people?,rice for 100 people (1.00),none,none,none,none,none
+How do you cook pasta in advance without ruining the final result?,pasta (1.00),advance (1.00),the final result (1.00),ruining (1.00),none,none
+How can I write a cooking book for children?,cooking book (1.00),children (1.00),none,none,none,none
+How do I cook pancakes without spreading that horrible smell of burnt oil?,pancakes (1.00),horrible smell of (0.96),none,spreading that (0.98),burnt oil (0.78),none
+I don't know how to cook and I'm 21. How important is it that I learn how to cook?,none,none,none,none,none,none
+What is the best/most efficient way to learn to cook without recipes?,best / most efficient (0.93),none,none,without (0.59),recipes (0.99),none
+"What are heavy-bottom stock pots called (equipment, pot, bulk cooking, cooking)?","heavy - bottom stock pots called ( equipment, pot, bulk cooking, cooking ) (1.00)",none,none,none,none,none
+How long does it take to cook pork on a stove?,pork on a stove (1.00),none,none,none,none,none
+What is the best way to cook osso bucco?,osso bucco? (1.00),none,none,none,none,none
+How do you explore new stuff to cook with?,none,none,none,none,none,none
+What is the most economical food to cook and sell in a restaurant?,economical (0.58),sell in (0.59),restaurant (0.98),none,none,none
+How do I cook the perfect hot dog?,the perfect hot dog (1.00),none,none,none,none,none
+How do you cook an eggplant so it's soft?,eggplant so it's soft (0.99),none,none,none,none,none
+What happens if you use water instead of cooking oil in a pan to cook home-made fries?,instead of cooking oil in a pan (1.00),home - made fries (1.00),none,water (1.00),none,none
+How often do you cook a slow stew?,slow stew (1.00),none,none,none,none,none
+Why is unbleached flour more expensive than bleached flour?,unbleached flour more expensive than bleached flour (1.00),none,none,none,none,none
+How do I cook cheeseburgers in the oven?,cheeseburgers in the oven (1.00),none,none,none,none,none
+How can I keep my house from being filled with smoke while cooking?,house (0.93),none,none,smoke while (0.98),cooking (0.60),none
+How do I cook rib tips in an oven?,rib tips in an oven (1.00),none,none,none,none,none
+How does your mother cook?,none,none,none,none,none,none
+How do I cook tender country ham slices?,tender country ham slices? (0.99),none,none,none,none,none
+What are some cool variants on making gnocchi?,gnocchi? (1.00),none,none,cool variants (0.94),none,none
+"If I cooked three stews, one on the hob, one in the oven, and one in a slow cooker, how could a chef tell which way I cooked them?","three stews, one on the hob, one in the oven (1.00)",one in (0.97),slow cooker (0.99),none,none,none
+What is an introduction about traditional cooking vs. modern cooking?,traditional cooking vs. modern cooking (1.00),none,none,none,none,none
+How long should dry beans be soaked before cooking?,dry beans (1.00),soaked before (0.58),none,cooking (0.81),none,none
+What happened when you tried to cook for the first time?,none,none,none,none,none,none
+How do you cook chicken drumsticks?,chicken drumsticks? (0.95),none,none,none,none,none
+What is mealy pie dough?,mealy pie dough (1.00),none,none,none,none,none
+What is the purpose of dusting bread with flour before baking?,dustin (0.64),bread with flour (1.00),none,baking (1.00),none,none
+Can I still cook an expired frozen chicken?,expired frozen chicken (1.00),none,none,none,none,none
+"What is the difference between white roux, brown roux, and blond roux?","white roux, brown roux, and blond roux (1.00)",none,none,none,none,none
+How do you cook instant pudding?,instant pudding (1.00),none,none,none,none,none
+"Chefs, have you ever had a customer ask you to cook something illegal?",chefs (0.56),illegal (0.42),none,customer (0.98),none,none
+What has cooking taught you?,none,none,none,cooking (1.00),none,none
+When cooking quiche how do you know its done?,quiche (1.00),its done? (0.79),none,none,none,none
+What are the benefits of learning to cook?,none,none,none,none,none,none
+How do I cook neck bones on a stove?,neck bones (1.00),stove (1.00),none,none,none,none
+"I can’t cook and it bothers me. What do I do? I used to be able to bake and cook, now I can't. What's happened?",none,none,none,ba (0.87),happened (0.34),none
+Why is my pot roast so dry and I can cut it like a steak?,pot roast (1.00),dry (0.99),it (0.99),none,none,none
+What are the most valuable cooking skills that you have ever learned?,most (0.78),cooking (0.87),none,valuable (0.46),skills (0.91),none
+Should a man compliment his wife's cooking even when she is a bad cook?,wife's cooking even (0.88),she (0.49),bad (0.52),none,none,none
+How can I thicken a sauce without cooking it?,sauce (1.00),none,none,cooking it (1.00),none,none
+How do I cook oily fish whilst minimising odour?,oily fish whilst minimising odour? (0.99),none,none,none,none,none
+How do I cook a thin cut shoulder steak?,thin cut shoulder steak (1.00),none,none,none,none,none
+Which country has the most difficult cooking? And why?,none,none,none,difficult (0.91),cooking? (0.76),none
+What is the first dish you learned to cook?,first (0.48),dish (0.97),none,none,none,none
+What is the best way to cook onion so that to get rid of onion flavor?,onion so that to get rid of onion flavor (0.97),none,none,none,none,none
+Do you think chefs enjoy their own cook?,chefs (1.00),none,none,cook (0.95),none,none
+How is saltpeter used in cooking?,cooking (0.90),none,none,saltpeter (0.97),none,none
+How do I cook a bone in a ham shank?,bone in a ham shank? (0.95),none,none,none,none,none
+What can you cook in a multicooker?,multicooker (1.00),none,none,none,none,none
+How can you fry chicken without oil?,chicken (1.00),none,none,oil (1.00),none,none
+"I’m 15, and I don’t know how to make any meals for myself. I am too dependent on my parents to cook meals. What can I do?",meals (1.00),meals (1.00),none,parents (0.99),none,none
+"When cooking on a grill and using a meat thermometer, it seems like the hole I puncture in the meat to check the internal temperature let’s all the internal juices out, is this what really happens or am I imagining things?",grill (1.00),"meat thermometer, it (1.00)",like the hole i puncture in the meat (1.00),internal (0.75),what (0.46),imagining (0.35)
+How do you cook goat meat in your country?,goat meat (1.00),country (0.99),none,none,none,none
+Are brown sugar and white sugar interchangeable in baked goods?,brown sugar and white sugar interchangeable in baked goods (1.00),none,none,none,none,none
+Does pan size matter in baking?,pan size (0.71),baking (0.57),none,none,none,none
+Is grading of meat and poultry really required?,meat and poultry (1.00),none,none,none,none,none
+What is the best way to increase the juiciness of meat and improve its flavor?,juiciness of meat (1.00),its flavor (0.78),none,none,none,none
+Why is it important to measure the ingredients properly when baking cakes?,ingredients properly when baking cakes (1.00),none,none,none,none,none
+What ingredients could you replace butter with when cooking?,butter with when cooking (1.00),none,none,ingredients (0.79),none,none
+What is your favorite complete meal to cook in a crock pot?,favorite complete meal (0.87),crock pot (1.00),none,none,none,none
+How many years of training does it take for a Japanese Chef to learn how to remove the tetrodotoxin from the pufferfish before cooking and serving it?,japanese chef (1.00),tetrodotoxin from the pufferfish (0.99),it (0.92),years (0.55),training (1.00),none
+What's the best way to learn how to put the right quantity of spices when cooking?,how to put the right quantity of spices when cooking (1.00),none,none,none,none,none
+How do I cook with a crock pot?,none,none,none,crock pot? (0.91),none,none
+"I live with my boyfriend& his parents. His ma is leaving for a week and a half. Growing up w my dad, I never learned or taught myself to cook. They expect me to step up when she's gone. What are simple meals I can cook for them? They're Puerto Rican.",his parents (0.58),ma (0.44),week and a half (0.88),none,none,none
+How do I cook a 3 lb roast beef?,3 lb roast beef? (1.00),none,none,none,none,none
+My girlfriend moved in with me but she doesn't pay the rent or the bills. She also doesn't cook or clean. How can I tell her that she needs to change her attitude without sounding controlling or greedy?,attitude (0.53),none,none,rent or (0.78),the bills (0.54),or clean (0.88)
+How do you keep homemade flatbreads soft and pliable when cooking them in advance?,homemade flatbreads soft and pliable when cooking them (1.00),none,none,advance (0.43),none,none
+Why are people able to cook when they’re hungry?,when (0.41),none,none,hungry (0.38),none,none
+Why should everyone learn how to cook?,none,none,none,none,none,none
+How can I make ham taste more interesting? The hams I cooked are usually very plain.,ham taste more interesting (1.00),hams (0.96),none,plain (0.62),none,none
+How did microwave ovens change home cooking?,microwave oven (0.86),cooking (0.98),none,##s (0.92),none,none
+What is wrong with a woman cooking for her man?,woman (0.86),man (0.74),none,none,none,none
+How do people come up with new recipes for food?,food (1.00),none,none,none,none,none
+How long should a rub stay on meat before cooking?,rub stay on (1.00),meat before (0.84),none,cooking (0.76),none,none
+How long does it take to cook a Tater Tot hot dish?,tater tot hot dish (1.00),none,none,none,none,none
+Who taught you how to cook?,none,none,none,none,none,none
+How long does it take to cook stuffing in an oven?,stuffing in an oven (1.00),none,none,none,none,none
+What are the benefits of cooking from scratch?,scratch (0.64),none,none,none,none,none
+How long does oatmeal take to cook?,oatmeal take (0.97),none,none,none,none,none
+"I'm 14 and I want to start learning how to cook, but my mom thinks it's not a good idea. How can I gain her trust?",how to cook (0.98),good (0.50),none,trust (0.43),none,none
+What do you call a woman who cooks?,woman (0.99),none,none,none,none,none
+How do I cook chicken legs on a BBQ?,chicken legs on a bbq? (1.00),none,none,none,none,none
+Have you ever used a wrong ingredient while cooking that turned into a disaster?,wrong ingredient (0.98),that turned into a disaster (0.98),none,none,none,none
+Is it safe to cook with colored toothpicks?,none,none,none,colored toothpicks (1.00),none,none
+Why is cooking beef Wellington difficult? What mistakes are easily made and how can I cook one successfully?,beef wellington difficult (1.00),mistakes (0.62),made (0.94),easily (0.68),none,none
+Does the way you prepare garlic impact its flavor?,garlic impact its flavor (1.00),none,none,none,none,none
+How do I cook pheasant on the stove?,pheasant on the stove (1.00),none,none,none,none,none
+How long does gnocchi take to cook?,gnocchi (1.00),none,none,none,none,none
+What is the role of fat in bread making?,bread making (1.00),none,none,fat in (0.84),none,none
+What type of mushrooms will produce the most flavorful cream of mushroom soup?,mushrooms (0.49),the most flavorful cream of mushroom soup (1.00),none,none,none,none
+How much water do I need to cook jasmine rice?,jasmine rice? (1.00),none,none,water (1.00),none,none
+What is a panade in cooking?,panade in cooking (1.00),none,none,none,none,none
+What is the importance of cooking materials to the cook?,cook (0.60),none,none,cooking materials (0.74),none,none
+What is the minimum cooking time for a turkey?,minimum (0.48),turkey (1.00),none,cooking (0.93),none,none
+Which country has the most complicated but rewarding cuisine to cook?,most (0.77),none,none,complicated but rewarding cuisine (0.73),none,none
+What made you learn to cook?,none,none,none,none,none,none
+How do I cook pork loin cubed steak?,pork loin cubed steak? (0.95),none,none,none,none,none
+What is a good fish for cooking crumbed/b battered?,crumbed / b battered? (0.99),none,none,none,none,none
+Why is ribeye the most marbled steak?,ribeye (1.00),most marbled steak (0.86),none,none,none,none
+Is it worth it to buy more expensive eggs?,more expensive eggs (0.94),none,none,none,none,none
+How do I cook on a cast iron griddle?,cast iron griddle? (1.00),none,none,none,none,none
+Is Tfal cookware healthy to cook in?,tfal cookware (0.99),in (0.83),none,none,none,none
+What drives you nuts about cooking competition shows?,cooking competition shows (0.88),none,none,none,none,none
+I’m 25 and need a career. I love to cook but can’t afford culinary school on top of my car payment. What to do?,but can ’ t afford culinary school on (0.94),car payment (0.85),none,none,none,none
+Why does my rice come out dry when I cook it in the rice cooker with the Correct rice/water ratio according to the manual?,rice (0.86),dry (0.45),it in the rice cooker with the correct rice / water ratio (0.99),manual (0.99),none,none
+How can I cook scalded beef tripe?,scalded beef tripe? (0.96),none,none,none,none,none
+What is a simple meal I can cook that will impress my girlfriend?,simple meal (1.00),will impress (0.88),girlfriend (0.76),none,none,none
+How do I cook meat in 5 minutes?,meat in 5 minutes (1.00),none,none,none,none,none
+How long can you keep cooking oil?,cooking oil (1.00),none,none,none,none,none
+"What is the best steak to make at home without a grill? Let me know your best recipe & how to cook it, plus what sides you use.",the best steak (0.99),best (0.99),"it, (0.69)",a (0.96),grill (1.00),what (0.81)
+Why is my pot roast so dry when I cook it?,pot roast so dry (0.85),it (0.81),none,none,none,none
+What are the advantages of cooking food?,food (1.00),none,none,none,none,none
+What was difficult about learning cooking?,cooking (0.28),none,none,none,none,none
+Does cooking kill brucellosis?,brucello (0.64),none,none,cooking (0.98),##sis (0.60),none
+Why is it impossible to make Chinese “take out” food at home taste like the restaurants?,chinese “ take out ” food (1.00),taste like the restaurants (1.00),none,none,none,none
+"If you learned to cook from your mom as a child and always just did it as a normal way to eat, are you disturbed by how people these days seem to make cooking a competition like they saw on TV, alone in their own homes?",from (0.59),mom (0.83),child (0.47),eat (0.80),none,none
+Why is it so hard to learn to cook?,none,none,none,none,none,none
+How do I keep pasta fresh after cooking?,pasta fresh after cooking? (0.98),none,none,none,none,none
+Is cooking a skill that everyone can learn if they just try?,skill (1.00),everyone (0.51),they (0.76),none,none,none
+"What is velveting meat, and what are the benefits?",##ing meat (0.56),none,none,velvet (0.62),none,none
+What are awesome cooking hacks for fixing burnt food?,burnt food (0.82),none,none,hack (0.72),none,none
+What do you do when your girlfriend stops cooking for you?,girlfriend (0.53),none,none,none,none,none
+"I've been struggling for days to learn how to make rice pilaf, but I just can't get the hang of it. What is a good recipe or method to learn to make pilaf from scratch?",how to make rice pilaf (1.00),good (0.52),pilaf (1.00),scratch (0.95),none,none
+What cooking skills did you learn from a movie?,movie (0.95),none,none,cooking skills (0.92),none,none
+If I can cook something at 100 degrees for 25 minutes then can I cook it at 1000 degrees for 2.5 minutes?,none,none,none,100 degrees for 25 minutes (1.00),1000 degrees for 2. 5 minutes (0.84),none
+How do I cook cabbage in a pot?,cabbage in a pot? (0.96),none,none,none,none,none
+How do I cook a pork blade roast?,pork blade roast (1.00),none,none,none,none,none
+How do I cook a rib eye medium rare?,rib eye medium rare? (1.00),none,none,none,none,none
+How does one begin to learn cooking? Where does someone start?,cooking (0.88),none,none,none,none,none
+Should a knife’s handle be heavy or light?,knife ’ s handle (1.00),heavy or light (0.99),none,none,none,none
+What are the introductory mistakes everyone makes when cooking pasta?,introductory (0.77),cooking (0.87),pasta (0.98),mistakes (0.98),none,none
+How do you choose and cook your pasta so that it sticks well to the sauce?,pasta (1.00),it sticks well to the sauce (0.72),none,none,none,none
+How do I cook perogies in the oven?,perogies in the oven (1.00),none,none,none,none,none
+How come when I cook things go well but when I cook for other people it goes terrible?,things go well (1.00),other people (0.99),none,terrible (0.77),none,none
+Why are aprons important when cooking?,cooking (0.53),none,none,aprons (0.88),none,none
+What is the best way to cook Bockwurst?,bockwurst? (1.00),none,none,none,none,none
+What colour should basa be when cooked?,cooked (0.57),none,none,colour (0.74),basa (0.55),none
+"What does one mean when they say they ""can't cook""?","they "" can't cook "" (1.00)",none,none,one (0.42),none,none
+What is the cooking time and temperature for roast beef?,roast beef (1.00),none,none,cooking time and temperature (0.85),none,none
+Why are my waffles not cooking in the middle?,waffles (1.00),middle (0.85),none,none,none,none
+How do I cook food in the forest?,food in the forest (0.87),none,none,none,none,none
+Is marjoram used in Italian cooking?,##joram (0.84),italian cooking (0.99),none,mar (1.00),none,none
+"I’ve got a pizza, how do I cook it without tin foil?",pizza (1.00),it (0.88),none,tin foil (1.00),none,none
+What are the advantages of using unbleached flour in baked goods?,unbleached flour in baked goods (1.00),none,none,none,none,none
+How did you get good at cooking?,none,none,none,cooking (0.99),none,none
+How could cooking be creative?,none,none,none,cooking (0.92),none,none
+Are you proud of your cooking?,none,none,none,cooking (0.95),none,none
+Is it possible to cook a steak on a pan as well as you can on a grill?,steak on a pan as well as you can on a grill (1.00),none,none,none,none,none
+How long do you cook dried beans?,dried beans? (1.00),none,none,none,none,none
+How long does it take to cook frozen meatballs in a crockpot?,frozen meatballs in a crockpot (1.00),none,none,none,none,none
+How do I cook spaetzle swabian egg noodles?,spaetzle swabian egg noodles? (1.00),none,none,none,none,none
+Can you use any flour for a sourdough starter?,sourdough starter (1.00),none,none,flour (1.00),none,none
+Does cooking corned beef longer make it more tender?,corned beef longer (0.88),it (0.58),tender (0.48),none,none,none
+Why do some recipes recommend chilling cookie dough for several hours in the refrigerator?,chilling cookie dough for several hours in the refrigerator (1.00),none,none,recipes (0.83),none,none
+"What is the ""dry hand, wet hand"" method in cooking?",""" dry hand, wet hand "" method (0.91)",none,none,cooking (0.85),none,none
+How do clarified butter and ghee affect baking?,clarified butter and ghee affect baking (1.00),none,none,none,none,none
+Is it safe to cook button mushrooms if they are a week passed the sell by date?,button mushrooms if they are a week passed the sell by date (1.00),none,none,none,none,none
+How long does it take to cook a beef pot roast?,beef pot roast (1.00),none,none,none,none,none
+How can I cook baby back ribs sold in Whole Foods Market? They look great and easy to cook because they are already marinated. Will they give me extra sauce for brushing? Can I just toss them into my oven? Can you tell me the recipe?,baby back ribs sold in whole foods market (1.00),they (1.00),great and easy (1.00),none,none,none
+Are the amateur home cooks really amateurs in the MasterChef show?,amateur home cooks (1.00),amateurs in the masterchef show (1.00),none,none,none,none
+"If you got a lot of free time, which food will you cook?",food (0.63),none,none,free time (1.00),none,none
+How do I cook mixed greens without meat?,mixed greens (1.00),none,none,meat (1.00),none,none
+How do I cook chicken for chicken tacos?,chicken for chicken tacos? (1.00),none,none,none,none,none
+Does Italian cuisine require simpler cooking skills compared to French cuisine?,italian cuisine (0.73),none,none,simpler cooking skills compared (1.00),french cuisine (0.67),none
+Is cooking an important life skill? Why or why not?,important life skill (1.00),why or why not (0.89),none,none,none,none
+What does baking soda do to potatoes?,baking soda (0.81),potatoes (0.64),none,none,none,none
+What is your favorite cooking tip or technique that you would kindly share with me? Anything you know about that makes cooking easier or better.,favorite cooking tip or technique (0.97),easier or (0.51),none,cooking (0.85),better (0.67),none
+Does it matter if you use room-temperature eggs or cold eggs for baking?,room - temperature eggs or cold eggs (1.00),none,none,baking (0.93),none,none
+Which three foods would you ask a cook to prepare to judge how good of a cook someone is? Why?,cook (0.80),prepare to judge how good of a cook someone (0.75),none,foods (0.34),none,none
+What do you cook when your grandchildren visit you?,grandchildren (0.65),none,none,none,none,none
+How does healthy cooking start with pure clay cookware?,healthy cooking (0.98),clay cook (0.93),none,pure (0.98),##ware (0.55),none
+Will high heat cook rice quicker?,rice quicker (1.00),none,none,high heat (0.84),none,none
+How long does it take to cook a burger in a panini press?,burger in a panini press (1.00),none,none,none,none,none
+What is the most complicated food recipe ever?,most (0.99),complicated food recipe ever (0.87),none,none,none,none
+How much dry rice is needed to cook rice?,rice (1.00),none,none,dry rice (1.00),none,none
+"Is writing like cooking? Cooked meat tastes better if it's been rested. Likewise, isn't our writing better if we let the first draft rest before we revise?",cooked meat tastes better (0.98),it (0.99),been rested (0.70),writing (0.89),cooking (0.75),rest (0.43)
+What are the main ingredients used to cook chow mein?,chow mein? (0.94),none,none,main ingredients (0.62),none,none
+What is the proper way to have a burger cooked?,burger cooked? (1.00),none,none,none,none,none
+What cooking skill have you always wanted to master?,none,none,none,cooking skill (0.91),none,none
+How do I make lye water for cooking?,lye water for cooking (0.99),none,none,none,none,none
+How do I cook chicken drumsticks on a stove?,chicken drumsticks on a stove (1.00),none,none,none,none,none
+Why do I feel so sick when I use an IH stove to cook?,ih stove (1.00),none,none,none,none,none
+Why are some meats more expensive than others?,meat (0.95),others (0.72),none,##s more expensive (0.91),none,none
+Who usually does cooking in family?,family (0.54),none,none,cooking (0.86),none,none
+In what level do you consider yourself as a cook?,cook (0.90),none,none,none,none,none
+"I am interested in cooking, but I know less about it. How should I start?",none,none,none,cooking (0.99),it (0.97),none
+Do you break the noodles in half prior to cooking or leave them long?,noodles in half prior (0.99),cooking (0.57),them long (0.79),none,none,none
+How do you cook a 13-pound turkey? How long does it take?,13 - pound turkey (1.00),long (0.76),it (0.98),none,none,none
+Has your wife accepted your cooking?,wife (0.46),none,none,cooking (0.66),none,none
+How long do you have to slow cook tinned sweetcorn to make it less chewy?,tinned sweetcorn to (1.00),it less chewy (0.98),none,none,none,none
+Should brown rice be washed before cooking?,brown rice (0.99),washed (0.75),none,cooking (0.88),none,none
+Why is it recommended to pre cook chicken before grilling?,chicken before grilling (1.00),none,none,none,none,none
+Is a subscription to NYTimes Cooking worth it? Are the recipes good?,nytimes cooking (1.00),it (1.00),none,recipes (0.67),none,none
+How do people not cook?,none,none,none,none,none,none
+How are maths and cooking related?,math (0.72),none,none,##s and cooking related (0.94),none,none
+Do guys care if women don't know how to cook?,women (0.84),none,none,none,none,none
+How do I cook mezbaani (kala vuna)?,mezbaani ( kala vuna )? (1.00),none,none,none,none,none
+Can you use regular butter instead of clarified butter?,regular butter instead of clarified butter (1.00),none,none,none,none,none
+How can you tell how much lighter fluid is too much when cooking on a charcoal grill?,how much lighter fluid is too much when cooking on (0.94),charcoal grill (1.00),none,none,none,none
+How do I cook chicken legs on a stove?,chicken legs on a stove? (1.00),none,none,none,none,none
+How long is bacon good after cooking?,bacon good after cooking (0.99),none,none,none,none,none
+"I was watching this Gordon Ramsey video. He’s cooking on a high heat wok, does anyone know what he is cooking on called?",gordon ramsey video (1.00),high heat wok (0.99),none,called (0.94),none,none
+What is the best way to cook a steak?,steak (1.00),none,none,none,none,none
+"Between smoke and roast, which cooking style brings the best taste of beef meat?",cooking style (0.51),the best taste of beef meat (1.00),none,smoke (1.00),roast (1.00),none
+What age is old enough for children to prepare dinner for the family?,children (0.86),dinner (1.00),family (0.77),age (0.83),none,none
+Do I need to fully cook prosciutto?,prosciutto? (1.00),none,none,none,none,none
+How do you cook mange tout?,mange tout? (1.00),none,none,none,none,none
+Does brown rice take longer to cook?,brown rice (0.99),none,none,none,none,none
+How do I get my own cooking show?,cooking show (0.90),none,none,none,none,none
+"My mom rightfully complained that she is the only one who cooks and would wish that someone in the family would cook ""just once"". I always felt bad about it. What can I do? How can I learn to cook, without lessons?",family (0.70),""" just once "" (1.00)",none,lessons (1.00),none,none
+How long after cleaning your oven with oven cleaning chemicals do you start cooking in there?,oven with oven cleaning chemicals (1.00),none,none,none,none,none
+How do you cook rice in minutes if you don't have a lot of time to do it?,rice in minutes (1.00),none,none,time (0.91),none,none
+What is the difference between cooking wine and regular wine in terms of changing food taste?,cooking wine and regular wine (1.00),food taste (1.00),none,changing (0.98),none,none
+How do I tell my parents their cooking isn't good?,cooking (0.90),' t good (0.76),none,none,none,none
+How do I cook a sirloin steak medium rare?,sirloin steak medium rare? (1.00),none,none,none,none,none
+Do you like to cook or do you prefer eating outside?,eating outside (1.00),none,none,none,none,none
+"What are pie weights, and when should they be used?",pie (1.00),none,none,weights (0.79),when (0.59),none
+How come most people who think they are a good cook can’t actually cook well?,good cook can ’ t actually cook well (0.89),none,none,none,none,none
+Is it difficult for you to cook Vietnamese food? Why?,vietnamese food? (1.00),none,none,none,none,none
+How long do you cook filet mignon?,filet mignon? (1.00),none,none,none,none,none
+How long does it take to cook a half-pound burger?,half - pound burger (1.00),none,none,none,none,none
+How long do you cook salmon patties?,salmon patties (1.00),none,none,none,none,none
+How do humans invent recipes and new food items?,recipes (1.00),new food items (1.00),none,none,none,none
+"This question is for men only: How important is it to you that a woman know how to cook, and that she cook well? Is it different for just a girlfriend vs. potential wife material?",only (0.93),girlfriend vs. potential wife material (1.00),none,men (0.90),well (0.89),none
+When can teenagers be expected to start cooking for themselves?,none,none,none,teenagers (0.39),none,none
+Should fillings be cooked before putting them on an omelet?,fillings (0.81),omelet (1.00),none,cooked (0.96),none,none
+What are the advantages of brining a turkey?,turkey (1.00),none,none,br (0.95),none,none
+How long does it take to cook wings at 400?,wings at 400? (1.00),none,none,none,none,none
+How do you cook a vegetarian lasagne?,vegetarian lasagne? (1.00),none,none,none,none,none
+What are the best ways to cook winkles?,winkles? (1.00),none,none,none,none,none
+"How do I get my (8 and 9 yr) brothers to cook and follow directions? I work for my dad teaching my little brothers to cook twice a week, but one refuses to cook if there's no cheese involved and the other cooks but won't follow directions.",( 8 and 9 yr ) brothers (1.00),cook and follow directions (0.98),dad (0.89),cheese (1.00),directions (0.78),none
+"I am 14 and I can’t cook. My mom does not trust me but does not give me the okay to cook. And when I do try cooking without her knowing, she has a fit. What do I do?",mom (0.31),okay (0.33),none,her (0.84),knowing (0.89),fit (0.98)
+Can I learn cooking and become a cook at 22?,cooking (0.57),cook at 22 (0.94),none,none,none,none
+How long does it take to oven bake chicken breasts?,oven bake chicken breasts (1.00),none,none,none,none,none
+What food item is an example of a moistening agent to the sandwich?,food item (0.95),moistening agent to the sandwich (1.00),none,none,none,none
+How can I learn to be a good cook?,good cook (1.00),none,none,none,none,none
+What are the best pans to cook with and have food not stick to it or burn?,the best pans (0.97),with and have (0.81),not (0.84),food (0.58),stick (0.70),it (1.00)
+How do I cook easy food at home?,easy food (1.00),none,none,none,none,none
+How long do you cook acini de pepe?,acini de pepe? (1.00),none,none,none,none,none
+What are your 10 laws of cooking?,10 laws (0.77),none,none,cooking (0.85),none,none
+What is the best way to cook spaghetti from boiling to sauce? What is your best method of cooking it from start to finish which you really like to eat?,spaghetti from boiling to sauce (1.00),best (1.00),it from start to finish which (1.00),eat (0.76),none,none
+What do you use instead of milk in meatloaf?,instead (0.50),milk in meatloaf? (0.99),none,none,none,none
+Is the cooking science in the manga Food Wars! accurate?,cooking science (0.70),manga food wars! accurate (0.99),none,none,none,none
+"With so many cookbooks out there, is there room for any more? Can you think of a cookbook that does not exist that you would like to see?",cookbook (1.00),none,none,cookbooks (0.98),any (0.95),more (0.63)
+"What's the last meal I should I cook for my husband, I'm getting married?",last (0.73),meal (0.95),none,married (0.54),none,none
+How can you avoid lean ground beef drying out too much when cooking with it?,lean ground beef drying out too much when cooking with it (1.00),none,none,none,none,none
+How do you get time to cook in college and complete assignments?,in college and complete assignments (1.00),none,none,none,none,none
+What is the best way to cook sausage thoroughly without burning it?,sausage thoroughly (1.00),it (1.00),none,burning (1.00),none,none
+What is the secret to moist meatloaf that holds its shape and doesn't fall apart?,moist meatloaf that holds its shape and doesn't fall apart (1.00),none,none,none,none,none
+How can you refreeze a thawed turkey to cook it later? How safe is it?,##ree (1.00),thawed turkey to (1.00),it later (1.00),none,none,none
+How do I cook rolled oats on a stove?,rolled oats on a stove (1.00),none,none,none,none,none
+How long do you cook penne pasta?,penne pasta? (0.98),none,none,none,none,none
+Can I cook partially frozen chicken?,partially frozen chicken (1.00),none,none,none,none,none
+How do I cook prime rib roast beef?,prime rib roast beef? (0.98),none,none,none,none,none
+How could you fry food without always using oil?,food (1.00),none,none,always using oil (1.00),none,none
+How do you know when a liver is cooked?,liver (1.00),cooked (0.97),none,none,none,none
+How can you cook frozen cannelloni?,frozen cannelloni? (1.00),none,none,none,none,none
+"Should you cook meat directly above the flame of a gas stove (grilling, cooking)?","meat directly above the flame of a gas stove ( grilling, cooking ) (1.00)",none,none,none,none,none
+How do I cook ham in a roaster?,ham in a roaster? (0.94),none,none,none,none,none
+What are some cooking secrets that you only learned from your mom or grandma?,mom or grandma (0.97),none,none,cooking secrets (0.96),none,none
+How many hours does it take Moi Moi to cook?,moi moi (1.00),none,none,hours (0.61),none,none
+How long does it take to cook mushrooms in an oven?,mushrooms in an oven (1.00),none,none,none,none,none
+"How does one learn to cook like a chef without culinary school, like those “casual” cooks on MasterChef who never went to culinary school but can create magic on a plate?",chef (0.98),“ casual ” cooks on masterchef (0.94),school (0.51),culinary school (1.00),culinary (0.91),none
+How do you prep and cook shrimp? The little guys scare the cook out of me.,shrimp (1.00),little guys (0.98),the cook (0.91),none,none,none
+What are the differences between a cook and a chef?,cook (1.00),chef (0.97),none,none,none,none
+What is the best way to cook canned soup?,canned soup? (1.00),none,none,none,none,none
+Are there any fish that need to be washed before cooking?,fish (0.96),washed before (0.56),none,cooking (0.83),none,none
+Do you need to cook chicken before putting it in a slow cooker?,chicken (1.00),it in a slow cooker (1.00),none,none,none,none
+How do I cook an authentic one pot Italian meal?,authentic one pot italian meal (1.00),none,none,none,none,none
+What are some tips when cooking frozen sausages?,frozen sausages? (1.00),none,none,tips (1.00),none,none
+"When cooking chicken gizzards, how do you know when they are done?",chicken gizzards (1.00),they (1.00),done (0.88),none,none,none
+When I try to deep fry food it either ends up being soggy and greasy or slightly burnt. What am I doing wrong?,deep fry food (0.86),soggy and greasy or slightly burnt (0.90),none,none,none,none
+"In cooking, what does ""toss to coat"" mean?",""" toss to coat "" (0.99)",none,none,none,none,none
+What is the best temperature to cook steak on a stove top?,steak on a stove top (1.00),none,none,none,none,none
+What are the pros and cons of aluminum baking sheets?,pros and cons of aluminum baking sheets (0.96),none,none,none,none,none
+How do you cook an artichoke without a steamer?,artichoke (1.00),none,none,a (0.78),steamer (1.00),none
+Can piranha fish be used as food or cooking?,piranha fish (1.00),food or (0.72),none,cooking (0.71),none,none
+What are some ways an average cook can quickly up their cooking game?,average cook (1.00),up their cooking game (0.90),none,none,none,none
+How long does it take to cook scallops on a stove?,scallops on a stove (1.00),none,none,none,none,none
+How long does it take to cook raw chicken breasts?,raw chicken breasts? (0.97),none,none,none,none,none
+How do I avoid splatter when cooking with oil?,splatter when cooking with oil (1.00),none,none,none,none,none
+How does sugar affect dough?,dough (1.00),none,none,sugar (0.99),none,none
+Why is Pyrex glass used for cooking?,pyrex glass (1.00),none,none,cooking (0.75),none,none
+How long do I cook frozen bone-in chicken thighs?,frozen bone - in chicken thighs? (1.00),none,none,none,none,none
+What can you not cook in aluminum pans?,aluminum pans (1.00),none,none,none,none,none
+"How do I cook with low, medium, and high heat on a gas stove?",none,none,none,"low, medium, and high heat on (1.00)",gas stove (0.93),none
+Would you rather be with someone who can cook but is not a good housekeeper or keeps a clean house but doesn’t like to cook?,but (0.50),housekeeper (0.81),clean (0.86),good (0.51),house (0.93),cook (0.98)
+How important is it to learn to cook to survive as an international student in Canada?,to survive as an international student (0.94),none,none,canada (0.67),none,none
+Why does yeast need to be activated?,yeast (0.59),activated (0.40),none,none,none,none
+What are the most elegant yet simple dishes to cook?,most elegant yet simple dishes (0.93),none,none,none,none,none
+Is it bad that I don't like to cook?,none,none,none,none,none,none
+Do you think that it's important to know how to cook well?,well (0.99),none,none,none,none,none
+Why do I find it so exhausting to cook and eat?,none,none,none,none,none,none
+Does the butter brand matter in baking?,butter brand (1.00),none,none,baking (0.61),none,none
+Do cooks who work at schools get appreciated during teachers appreciation week?,schools (0.97),during teachers appreciation week (0.91),none,appreciated (0.52),none,none
+What style of Chinese cooking is known for its desserts?,chinese cooking (0.97),none,none,desserts (1.00),none,none
+How long does it take to cook a 6lb ham?,6lb ham? (1.00),none,none,none,none,none
+How long do you cook a beef roast at 350 degrees?,beef roast at 350 degrees (1.00),none,none,none,none,none
+How do I cook coho salmon with skin?,coho salmon with skin (1.00),none,none,none,none,none
+"If you didn’t have any Pam, what tool would you use for your food not to stick to the cooking pan?",food (0.78),cooking (0.98),none,pam (1.00),tool (0.96),pan (0.97)
+How do I cook bass in the oven?,bass in the oven (1.00),none,none,none,none,none
+How do different meat cuts affect the methods of cooking?,cooking (0.77),none,none,meat cuts (0.97),none,none
+What are the pros and cons of being a cook in the military?,cook (0.89),none,none,pros and con (0.81),military (0.39),none
+Are woks practical for cooking for a family?,wo (0.54),family (0.99),none,##ks (0.70),none,none
+Is there a simple way to teach a young teen how to preheat a Ninja Foodi air fryer?,young teen how to preheat a ninja foodi air fryer (1.00),none,none,none,none,none
+"When professional chefs are learning to cook, how much of their identity and personality are they able/allowed to put into the food?",into (0.34),food (0.94),none,identity and (0.77),personality (0.44),able / allowed (0.53)
+"Do I need to change tongs, spoons, or other utensils I used when I started cooking meat midway through cooking to avoid contamination? Or can I use the same throughout the cooking process? Why or why not?","tongs, spoons, or other utensils i used when (0.99)",meat midway through cooking (1.00),same throughout the cooking process (0.95),contamination (1.00),why (0.73),why (0.52)
+How do I make pasta without a pasta maker?,pasta (1.00),none,none,pasta maker (0.99),none,none
+What is the origin of modern cookery?,modern cookery (0.98),none,none,none,none,none
+What does it mean when people say ''cooking with heart''?,''cooking with heart'' (0.90),none,none,none,none,none
+What is the importance of a cook?,cook (1.00),none,none,none,none,none
+How do I cook chicken in a microwave?,chicken in a microwave? (1.00),none,none,none,none,none
+How can a beginner start cooking healthy?,beginner (1.00),cooking healthy? (0.99),none,none,none,none
+How is math used in cooking?,cooking (0.92),none,none,math used (0.98),none,none
+Is cooking now a leisure activity?,leisure activity (0.86),none,none,cooking (0.51),none,none
+"I love jalapeños but I’m sick of eating them by themselves. I am a picky eater. What are some ways I can cook them, or what can I add to them to make them better?",jalapenos (0.94),them (0.79),themselves (0.54),eating (0.96),none,none
+How is your cooking progress in April 2021?,cooking (0.98),april 2021 (0.63),none,progress (0.44),none,none
+How do you kill a lobster before cooking it?,lobster (1.00),it (0.99),none,none,none,none
+"I love baking and cooking, but I can't bake or cook anything. I can't even make a doughnut. What do I do?",bake or cook anything (0.83),doughnut (1.00),none,baking (1.00),cooking (0.83),none
+How do I cook a thin top round steak?,thin top round steak? (1.00),none,none,none,none,none
+How long do you cook sea scallops?,sea scallops? (1.00),none,none,none,none,none
+How do I cook a fresh pork shoulder?,fresh pork shoulder? (1.00),none,none,none,none,none
+How do I cook a boneless sirloin tip roast?,boneless sirloin tip roast? (1.00),none,none,none,none,none
+What's the best way to cook salmon?,salmon (1.00),none,none,none,none,none
+"I’m almost 14 years old and want to be a chef, but not any chef. I want to surpass all of the top chefs out there. I want to be the best! But, I don’t even know what the first thing about cooking is, so what should I do?","chef, (0.87)",any chef (0.66),sur (0.92),cooking (0.99),none,none
+Why is cooking with your child important?,child (0.41),none,none,none,none,none
+How do you check a recipe while you are cooking?,none,none,none,none,none,none
+Do you know how to cook?,none,none,none,none,none,none
+Would grilling a thick steak on low and keeping each side cooking for a half hour at a time cook it all the way through?,thick steak on low (1.00),keeping each side cooking for a half hour at a time (0.95),it (0.84),none,none,none
+Do you like eating out or cooking at home?,eating out (0.92),none,none,none,none,none
+What is utility grade beef?,utility grade beef (0.99),none,none,none,none,none
+What is your secret ingredient?,secret (0.86),none,none,ingredient (0.79),none,none
+"Which is better to cook, a steak or stew?",steak or stew? (1.00),none,none,none,none,none
+Is it better to cook meat slowly at low temperature or cook quickly at high temperature?,meat slowly at low temperature (1.00),cook quickly (0.99),temperature (0.85),high (0.70),none,none
+I am looking for a wrap recipe that includes cooking. What are some suggestions?,wrap (1.00),none,none,cooking (1.00),suggestions? (0.76),none
+Who likes cooking?,none,none,none,cooking (0.99),none,none
+What is your favorite recipe for canned green beans?,canned green beans? (1.00),none,none,none,none,none
+What's the best way to cook gnocchi?,gnocchi? (1.00),none,none,none,none,none
+How do I cook chicken breast without oil?,chicken breast (1.00),none,none,oil (1.00),none,none
+What do you think of a girl who doesn't like to cook?,girl (1.00),none,none,to (0.83),cook (0.90),none
+"What is the definition of ""cooking""?",""" cooking "" (0.96)",none,none,none,none,none
+How long does it take to cook chicken breast at 400?,chicken breast at 400? (1.00),none,none,none,none,none
+How long do you cook sugar cookies?,sugar cookies (1.00),none,none,none,none,none
+How do I cook moist boneless pork chops?,moist boneless pork chops? (1.00),none,none,none,none,none
+How long does it take to cook hot dogs in a slow cooker?,hot dogs in a slow cooker (1.00),none,none,none,none,none
+What is your inspiration to be a good cook?,good cook (1.00),none,none,none,none,none
+How do you get your sons into the kitchen to cook a meal?,sons (0.72),kitchen (0.89),meal (1.00),none,none,none
+"How do I cook a wolf in Seattle, WA?","wolf in seattle, wa (1.00)",none,none,none,none,none
+How do I learn to cook?,none,none,none,none,none,none
+How can you tell when someone doesn't know how to cook?,none,none,none,cook (0.54),none,none
+Which Food Channel show is the best to learn to cook from?,food channel (0.98),the best (0.68),from? (1.00),none,none,none
+What is the baking method of cooking?,baking (0.99),cooking (0.50),none,none,none,none
+How much rice do you cook for 10 people?,10 people (0.90),none,none,rice (1.00),none,none
+How do you tell rice is done cooking?,rice is done cooking (1.00),none,none,none,none,none
+How long does it take to cook pork per pound?,pork per pound? (1.00),none,none,none,none,none
+What are the effects of more people watching cooking shows?,people (0.90),cooking shows (1.00),none,none,none,none
+"When using Marsala cooking wine, how do you ensure all the alcohol is cooked out? Does it need to come to a boil, and for how long?",marsala cooking wine (1.00),all the alcohol is cooked out (0.91),it (0.94),for (0.75),none,none
+What are some of the basic cooking techniques which every cook must possess?,basic cooking (0.88),cook (0.63),none,techniques (0.99),none,none
+How do I bake trout in the oven?,trout in the oven (1.00),none,none,none,none,none
+When is the best time to add spices when cooking?,spices when cooking (1.00),none,none,none,none,none
+What are the signs that you are good at cooking vs. bad at cooking?,none,none,none,cooking vs. bad at cooking (0.90),none,none
+Can you cook on a tortilla press?,tortilla press (1.00),none,none,none,none,none
+What is the hardest recipe in the world to cook?,hardest (0.80),none,none,none,none,none
+How long do udon noodles take to cook?,udon noodles (1.00),none,none,none,none,none
+Are there any cook books that explain the science behind the steps rather than just listing off the steps?,science behind the steps (0.76),off (0.53),none,cook books (0.78),just (0.51),listing (0.76)
+Can you cook pasta ahead of time and reheat?,pasta ahead of time and reheat (1.00),none,none,none,none,none
+What is your favorite uncommon spice or herb to cook with?,favorite uncommon spice or herb to (0.98),with (0.94),none,none,none,none
+How do you cook uncured bacon? Do you cook it at a lower or higher temperature than regular bacon? Cook it for more or less time?,uncured bacon (1.00),it (1.00),lower or higher temperature than regular bacon (1.00),more (0.99),none,none
+What is chervil used for in cooking?,chervil (0.90),cooking (0.63),none,none,none,none
+Do I have to cook pancetta or can I eat it right out of the package?,pancetta (1.00),it right out of the package (1.00),none,none,none,none
+How do I cook shredded chicken for tacos?,shredded chicken for tacos? (1.00),none,none,none,none,none
+Why would a guy need a wife if he is an excellent cook?,guy (0.99),wife (0.58),none,excellent (0.49),none,none
+How long does it take to cook a pecan pie?,pecan pie (1.00),none,none,none,none,none
+What are some grilling mistakes that are ruining BBQ meat?,ruining bbq meat? (0.88),none,none,grilling mistakes (0.75),none,none
+Did you learn cooking before marriage?,none,none,none,cooking (0.84),marriage (0.91),none
+Is reverse searing a steak better than sous viding a steak?,steak better than sous viding a steak (1.00),none,none,none,none,none
+How would you improve a garlic bread recipe?,garlic bread recipe (1.00),none,none,none,none,none
+How long does it take to cook thighs in an oven?,thighs in an oven (1.00),none,none,none,none,none
+What is the mirepoix of French cooking?,mirepoix of french cooking (1.00),none,none,none,none,none
+How do you keep mayonnaise from splitting?,mayonnaise from splitting? (1.00),none,none,none,none,none
+How can I cook frozen spaghetti?,frozen spaghetti? (1.00),none,none,none,none,none
+How do I cook a beef chuck shoulder roast?,beef chuck shoulder roast? (1.00),none,none,none,none,none
+How do I cook a Kentucky Legend ham?,kentucky legend ham? (1.00),none,none,none,none,none
+What is a good substitute for tomato sauce when cooking?,tomato sauce when cooking (1.00),none,none,none,none,none
+What are the important necessities that belong in the kitchen when cooking?,important (0.56),kitchen (0.49),cooking (0.77),necessities (0.98),none,none
+"Men, do you need a wife who can cook? If she can't cook, is this a deal breaker?",wife (0.91),? if she (0.76),' t cook (0.62),men (0.42),none,none
+How long does it take to cook rice on a stove?,rice on a stove (1.00),none,none,none,none,none
+Can we agree that cooking and cleaning is a life learned skill and not a gender role?,cooking and cleaning (0.87),life learned skill (1.00),role (0.90),gender (0.97),none,none
+How do you cook Chef Boyardee ravioli on the stove?,chef boyardee ravioli on the stove (1.00),none,none,none,none,none
+What do you cook today? Pics are welcomed.,welcomed (0.47),none,none,pics (0.49),none,none
+How long do you cook lamb chops?,lamb chops (1.00),none,none,none,none,none
+How long does it take for shrimp to cook?,shrimp (0.96),none,none,none,none,none
+What is the first thing you should always do before starting to cook?,none,none,none,none,none,none
+How long does it take to cook tortellini in a slow cooker?,tortellini in a slow cooker (1.00),none,none,none,none,none
+How long does celery take to cook?,celery (1.00),none,none,none,none,none
+What is the difference between cooking with cold water or boiling water start?,with cold water or boiling water start (0.94),none,none,none,none,none
+What happens if you put too much bread crumbs in meatloaf?,too much bread crumbs in meatloaf? (1.00),none,none,none,none,none
+Could you prepare and cook a dish in just 6 minutes?,dish (1.00),just 6 minutes (0.67),none,none,none,none
+How important is a good pan for cooking?,good pan for cooking (1.00),none,none,none,none,none
+How do you make a turkey?,turkey (1.00),none,none,none,none,none
+How Will I survive When I Don’t Know How to Cook?,none,none,none,none,none,none
+"Aside from salt and pepper, which spice would you say you use the most when cooking?",the most (0.70),none,none,"salt and pepper, which spice (0.91)",when cooking (0.72),none
+How long does a 3 lb roast take to cook?,3 lb roast (1.00),none,none,none,none,none
+Why should boys learn how to cook?,none,none,none,boys (0.68),none,none
+What does feeding a sourdough starter mean?,sourdough starter (1.00),none,none,none,none,none
+Why do I eat so much when I cook for myself?,for (0.98),none,none,none,none,none
+When did you start teaching your child to cook? My 8-year-old is eating like a horse but it's snacking. I'd like to teach him to cook sausage or boil water for boiled eggs. Is he too young?,8 - year - old (0.91),horse (0.87),it (0.59),snack (0.48),young (0.47),none
+How do I cook a turkey for kids?,turkey for kids (1.00),none,none,none,none,none
+What are some uncomplicated ingredients that can really make a boring dish tasty?,can really make (0.89),boring dish tasty (0.97),none,uncomplicated ingredients that (0.95),none,none
+How much water do I need to cook rice?,rice (1.00),none,none,water (1.00),none,none
+How on earth can they cook a whole ostrich without cutting it up?check this video https://go.menjelajahi.com/vx4NxYy,whole ostrich (1.00),it up (1.00),https : (0.97),cutting (1.00),video (0.58),none
+"What is your favorite way to cook food? Are you team: Fried, Steamed, Baked, Pan seared, Stir Frying, Broiling, pressure cooking, or microwaving. I know there's a lot of choices, but out of all of them, what is your fav?",food (1.00),"team : fried, steamed, baked, pan seared, stir frying, broiling, pressure cooking, or microwaving (0.99)",none,choices (0.99),fav (0.98),none
+What is the modern world's most difficult recipe?,modern world's most difficult recipe (0.94),none,none,none,none,none
+Is it difficult to cook?,none,none,none,none,none,none
+How do I cook pork cutlets in an oven?,pork cutlets in an oven (1.00),none,none,none,none,none
+"If you have no cooking knowledge and experience and want to be able to cook professional-quality food for your future kids, should you go to culinary school?",professional - quality food (1.00),future kids (0.93),culinary school (0.85),cooking knowledge and experience (0.98),none,none
+Why do some bread recipes call for a second rise?,bread recipes (1.00),second rise (1.00),none,none,none,none
+What’s with people who cook or bake food and then bring it to work and share it with others?,or bake food and then (0.94),it (1.00),it (0.63),work (0.93),others (0.80),none
+Is more expensive flour better?,none,none,none,expensive flour (0.54),none,none
+What are the basic principles of poultry cooking?,basic (0.56),poultry cooking (1.00),none,none,none,none
+How does a line cook differ from a prep cook?,line cook (1.00),prep cook (1.00),none,none,none,none
+"When cooking instructions say to use the middle rack of your oven, which rack should one use if one has a 4- or 5-rack oven?",cooking (1.00),"middle rack of your oven, which rack (1.00)",4 - or 5 - rack oven (1.00),none,none,none
+How do I cook a whole stuffed chicken?,whole stuffed chicken? (1.00),none,none,none,none,none
+Why shouldn't we overcrowd the pan when cooking?,overcrowd the pan when cooking (0.96),none,none,none,none,none
+Every time I buy foods I spoil them because I don’t cook. What can I eat without cooking?,foods (1.00),none,none,cook (1.00),cooking (1.00),none
+Is getting a thick cut of meat (1.5 inches+) to room temperature before cooking really that important when you're reverse searing?,thick cut of meat ( 1. 5 inches + ) to room temperature before cooking really (1.00),important when (1.00),reverse searing (0.91),none,none,none
+Why do some cooks pound meat with a mallet?,cooks pound meat with a mallet? (1.00),none,none,none,none,none
+How do I keep turkey warm after cooking?,turkey warm after cooking? (0.98),none,none,none,none,none
+"What is vital wheat gluten flour, and when should it be used?",vital wheat gluten flour (0.94),it (0.59),none,when (0.41),none,none
+How do I cook a pork shoulder butt roast?,pork shoulder butt roast? (1.00),none,none,none,none,none
+How long do you cook little smokies?,little smokies? (1.00),none,none,none,none,none
+What are the most common mistakes when making crème brûlée?,creme brulee? (1.00),none,none,none,none,none
+What are some myths about cooking pasta that actually aren't true?,pasta that actually aren't true (0.93),none,none,myths (0.96),none,none
+What does “butterfly” mean in cooking?,butterfly ” (0.65),cooking (0.68),none,none,none,none
+Is it okay to cook a pot roast for 3-4 hours on high if the recipe calls for 7-8 hours on low?,pot roast for 3 - 4 hours on high if the recipe (1.00),7 - 8 hours on low (0.95),none,none,none,none
+Can you cook Progresso soup in the can?,progresso soup in the can (1.00),none,none,none,none,none
+How do I fry hamburgers on the stove?,hamburgers on the stove (1.00),none,none,none,none,none
+Can you cook summer sausage? Why or why not?,summer sausage (1.00),why or why not (0.97),none,none,none,none
+How long does it take to cook a filet in an oven?,filet in an oven (1.00),none,none,none,none,none
+How long does it take to cook chicken in sauce?,chicken in sauce? (1.00),none,none,none,none,none
+What are the Romanian dishes that you can cook?,romanian dishes (1.00),none,none,none,none,none
+Does a burger cook better on a grill than a stove top?,burger (1.00),better on a grill than a stove top (0.96),none,none,none,none
+What three basic cooking skills should every beginner learn?,basic cooking (0.58),beginner (1.00),none,skills (0.90),none,none
+What are some topics about cooking?,none,none,none,cooking (0.96),none,none
+How do you cook frozen dumplings without a steamer?,frozen dumplings (1.00),none,none,a (0.92),steamer (1.00),none
+Does freezing steak affect taste?,freezing steak affect (0.67),none,none,none,none,none
+How long would it take to cook a slow stew for on your cooking appliances lowest setting?,slow stew for on your cooking appliances lowest setting (1.00),none,none,none,none,none
+How do I cook a cook's spiral ham?,cook's spiral ham (1.00),none,none,none,none,none
+How does one cook rice perfectly?,rice perfectly (1.00),none,none,none,none,none
+How much time is needed to cook half a cup of rice?,half a cup of rice? (1.00),none,none,none,none,none
+"I just purchased an oven, turns out its a drying oven, can I still cook and bake in it?",oven (1.00),its a drying oven (0.89),bake in it (0.98),none,none,none
+What makes you a good cook or a good chef?,good (0.81),good chef (0.90),none,none,none,none
+How do I price cooking classes done in my home?,cooking classes done (0.85),none,none,none,none,none
+Do you have to cook canned corn?,canned corn (1.00),none,none,none,none,none
+Which step is most important in cooking any type of food?,food (0.98),none,none,step (0.55),none,none
+What are some examples of how cooking varies region to region in Italy?,varies region to region (0.74),italy (0.58),none,none,none,none
+What are the pros and cons of stewing meat?,pros and cons of stewing meat (0.92),none,none,none,none,none
+Why is A5 Wagyu so expensive?,##5 wagyu so expensive (0.98),none,none,none,none,none
+How long does it take to cook veggies in an oven?,veggies in an oven (1.00),none,none,none,none,none
+Is searing meat before cooking worth the extra effort?,meat before (0.57),extra (0.47),none,cooking (0.57),effort (0.41),none
+How do you cook dried fish?,dried fish? (1.00),none,none,none,none,none
+How do I cook perch in the oven?,perch in the oven (1.00),none,none,none,none,none
+"I recently developed interest in cooking and I want to make it a profession. I was never introduced to cooking when I was child, but now I am 19. Is my interest okay, or am I confused?",profession (0.49),okay (0.38),none,cooking (0.88),cooking (1.00),interest (0.36)
+Why are most dishes in an oven heated at 200 degrees Celsius?,dishes (0.80),oven heated at 200 degrees celsius (1.00),none,none,none,none
+How long does it take to roast a rack of lamb?,rack of lamb? (1.00),none,none,none,none,none
+How do I make an easy stir fry sauce?,easy stir fry sauce? (1.00),none,none,none,none,none
+Why don’t you like cooking?,cooking (0.86),none,none,none,none,none
+Do ingredients in a slow cooker need to be mixed while cooking?,slow cooker (1.00),mixed while cooking (0.93),none,none,none,none
+"Is there a book, blog, or something that talks about the fundamentals of cooking?","book, blog (0.99)",none,none,the fundamentals (0.99),cooking (0.96),none
+Do you think cooking is important for boys?,boys (0.58),none,none,cooking (0.85),none,none
+How can I become a skilled chef and make delicious food and be praised?,skilled chef (1.00),delicious food and be praised (0.93),none,none,none,none
+Does it upset you if you are trying to cook in the kitchen and people keep coming in to your space while you’re trying to cook?,in the kitchen (1.00),space (0.39),none,none,none,none
+Does the type of oil I use in cooking matter?,cooking matter (0.66),none,none,oil (0.98),none,none
+How do you define the levels to cooking?,levels (0.86),none,none,cooking (0.42),none,none
+What is the meaning of commercial cooking?,commercial cooking (1.00),none,none,none,none,none
+What happens when you overcook pasta?,overcook pasta (1.00),none,none,none,none,none
+"If your mother never allowed you to cook, what was the reason?",none,none,none,mother (0.35),none,none
+How do I cook uttapam?,uttapam? (1.00),none,none,none,none,none
+What is the thing used while cooking to get fire?,fire (0.70),none,none,thing (0.68),none,none
+Do most Americans know how to cook at home nowadays instead of going out to eat?,americans (0.52),nowadays (0.92),none,eat (0.90),none,none
+What are some cooking photos of yourself?,cooking (0.76),none,none,photos (1.00),none,none
+What can an inexperienced cook make as an entree for large numbers of people?,inexperienced (0.84),make as an entree for large numbers of people (1.00),none,none,none,none
+Do people cook expensive steak like wagyu beef well done?,expensive steak like wagyu beef well done? (1.00),none,none,none,none,none
+What are the Peruvian dishes that you can cook?,peruvian dishes (1.00),none,none,none,none,none
+What are the benefits of wrapping chicken breasts with foil?,chicken breasts with foil (0.98),none,none,none,none,none
+Is it bad if you don’t know how to cook at age 26?,bad (0.54),none,none,26 (0.40),none,none
+How long does it take to cook chicken at 300 degrees?,chicken at 300 degrees (1.00),none,none,none,none,none
+How do I cook chicken skewers in an oven?,chicken skewers in an oven (1.00),none,none,none,none,none
+Is cooking a science or art?,science or art (1.00),none,none,none,none,none
+"How do you help your girlfriend learn to cook since she's admittedly clueless at it but feels bad since you do all the cooking and she's inspired to learn by her guy being talented at it (relationships, cooking, food, cuisine, love, sharing moments)?",since (0.64),admittedly clueless (0.60),but feels bad (0.70),it (0.64),cooking (0.94),it ( (0.82)
+How do I cook pork loin sirloin chops?,pork loin sirloin chops? (1.00),none,none,none,none,none
+"A friend of mine told me ""Cooking alone for yourself is so sad"". Cooking by myself, for myself is one of my favorite parts of the day. What do you guys think?","alone for yourself is so sad "" (0.89)",none,none,none,none,none
+How long does it take to cook corn in water?,corn in water (1.00),none,none,none,none,none
+How do I cook a bone in a pork roast?,bone in a pork roast (1.00),none,none,none,none,none
+How long do you cook cupcakes for?,cupcakes for (1.00),none,none,none,none,none
+How much will my cooking improve if I switch from an electric cooktop to gas?,cooking (0.43),electric cooktop to (0.88),none,gas (0.83),none,none
+How long does it take to cook a 20-pound turkey with stuffing?,20 - pound turkey with stuffing (1.00),none,none,none,none,none
+How long do you cook fresh ravioli?,fresh ravioli? (1.00),none,none,none,none,none
+What does medium high heat mean when cooking?,medium high heat (1.00),cooking (0.98),none,none,none,none
+How long does it take to cook boneless chicken tenders?,boneless chicken tenders (1.00),none,none,none,none,none
+"Should the gills be removed when cooking Portobello mushrooms, but not other mushrooms?","portobello mushrooms, but not other mushrooms (1.00)",none,none,gills (1.00),none,none
+(13 boy) should I learn how to cook? Is it important?,boy (0.43),none,none,13 (0.34),important (0.85),none
+Is a sous vide cooker worthwhile for home use?,sous vide cooker (1.00),home (0.99),none,none,none,none
+What does ‘spatchcock’ mean in cooking?,spatchcock ’ (1.00),none,none,cooking (0.56),none,none
+Is parchment paper better to cook with than foil?,with than foil (0.99),none,none,parchment paper (0.60),none,none
+What are the Vietnamese dishes that you can cook?,vietnamese dishes (0.99),none,none,none,none,none
+How does cooking time affect food?,food (0.94),none,none,cooking time (1.00),none,none
+Can all Asians cook?,none,none,none,asian (0.32),none,none
+How long after a lobster dies do you have to cook it?,lobster dies (1.00),it (0.51),none,none,none,none
+How long does it take to cook a 2.6 pound roast?,2. 6 pound roast? (1.00),none,none,none,none,none
+Why do so many cooking shows do such a poor job of teaching viewers how to cook?,cooking shows (0.98),poor (0.80),viewers (0.74),none,none,none
+I recently saw a video of a chef cutting an onion rather carefully into small pieces. What is the most professional way to cut an onion into small bits? What is taught at cooking school?,chef cutting (0.99),onion rather carefully into small pieces (1.00),professional (0.41),small (0.77),none,none
+How do you cook when you don't like cooking?,when (0.94),none,none,cooking (0.94),none,none
+How do I cook pakora properly?,pakora properly (1.00),none,none,none,none,none
+What are good books to learn cooking techniques for beginner cooks?,cooking techniques for beginner cooks (1.00),none,none,none,none,none
+Do you think cookbooks are useful? How did you learn to cook?,cookbooks (0.97),none,none,none,none,none
+How do you add smoke flavor to food cooked on a gas grill?,smoke flavor (1.00),food cooked on a gas grill (1.00),none,none,none,none
+How can I teach my girlfriend how to cook food for her boyfriend?,food (1.00),boyfriend (0.75),none,none,none,none
+Must I know how to cook to be a good wife?,good wife (1.00),none,none,none,none,none
+What is the best way to season chicken to take away that strong flavor/smell?,best (0.73),chicken to take away that strong flavor / smell (0.99),none,none,none,none
+Can vegetables be roasted at lower temperatures?,vegetables (1.00),roasted (0.46),temperatures (0.38),lower (0.46),none,none
+Why does my cooking oil always turn black?,cooking oil (0.95),none,none,black (0.85),none,none
+"What's the quickest way to cook pinto beans, so I can make homemade refried beans?",quick (0.97),pinto beans (1.00),homemade refried beans (0.92),none,none,none
+How long does it take to cook an 8-pound ham?,8 - pound ham? (1.00),none,none,none,none,none
+Why did early humans cook their food?,early humans (0.80),food (0.93),none,none,none,none
+What is a good substitute for Pernod when cooking?,pernod when cooking (1.00),none,none,none,none,none
+How long does it take to cook a beef rib roast?,beef rib roast (1.00),none,none,none,none,none
+Is it okay to put your seasoning in cooking oil before placing the meat in the pan?,seasoning in cooking oil (1.00),meat in the pan (0.97),none,none,none,none
+Do you like your mom’s cooking?,mom ’ s cooking (0.99),none,none,none,none,none
+I want to cook potatoes too slow and cook them until they are fully liquid then add the rest of the soup ingredients. Is this plausible?,potatoes too slow (1.00),cook them until they are fully liquid (0.95),add the rest of the soup ingredients (1.00),none,none,none
+How do I cook turnip greens without meat?,turnip greens (1.00),none,none,meat (1.00),none,none
+What is the difference between slow low temperature cooking and fast high temperature cooking?,slow low temperature cooking and fast high temperature cooking (0.99),none,none,none,none,none
+How do you use oven shelves correctly for cooking?,oven shelves (1.00),cooking (0.79),none,none,none,none
+"In a marriage, is cooking the wife’s responsibility?",marriage (0.95),wife ’ s responsibility (1.00),none,none,none,none
+What is the difference between cooking in wood fire and others? How does it affect the cooking process?,wood fire and others (1.00),cooking (0.53),none,it (0.96),process (0.52),none
+How long will a dish meant to cook for 40 minutes at 375°F take to cook at 425°F? Is there a general equation that can be applied to such scenarios when two items must be simultaneously cooked in an oven?,dish (1.00),for 40 minutes at 375°f take (1.00),425°f (1.00),general equation (0.71),oven (0.57),none
+Is prime steak worth it?,prime steak (0.98),none,none,it (0.48),none,none
+What are your most unique tips on how to cook eggs?,eggs (1.00),none,none,none,none,none
+What are some essential tips for cooking fish on the grill?,fish on the grill (1.00),none,none,essential tips (1.00),none,none
+How do I cook waffles in the oven?,waffles in the oven (1.00),none,none,none,none,none
+What is the best set of pots for those who cook every day?,the best (0.63),pots (0.95),every day (0.85),none,none,none
+How long should you let chicken rest after cooking?,chicken rest after cooking (1.00),none,none,none,none,none
+What are some good side dishes for a chicken casserole?,side dishes (0.99),chicken casserole? (1.00),none,good (0.92),none,none
+"How often do you cook at home, why?",none,none,none,none,none,none
+Can chicken cook in the crockpot for 15-20 hours?,chicken (0.94),in the crockpot for 15 - 20 hours (1.00),none,none,none,none
+"I'm cooking lasagna and the recipe says to add 1/2 a cup of water to the edges of the pan. Does this mean in the pan with the food, or in a water bath?",lasagna (1.00),the recipe (0.98),add 1 / 2 a cup of water to the edges of the pan (0.95),none,none,none
+When is it best to add parsley during the cooking process?,parsley during the cooking process (1.00),none,none,none,none,none
+"When starting to cook, what should you practice and try to master first?",first (0.43),none,none,master (0.82),none,none
+Is it important to warm the flour before making bread?,flour before making bread (1.00),none,none,none,none,none
+What would be the secret to cooking many dishes as easily as a great chef would?,dishes (0.87),easily (0.63),great chef (0.75),none,none,none
+Do we need to wash meat mince before cooking?,meat mince before cooking (1.00),none,none,none,none,none
+"For a potential wife, are skills like cooking and cleaning important?",none,none,none,cooking and cleaning important (0.91),none,none
+How do I cook sirloin tips in an oven?,sirloin tips in an oven (1.00),none,none,none,none,none
+How hot do you cook a turkey?,turkey (1.00),none,none,none,none,none
+What’s difficult to cook but easy to eat?,but (0.46),none,none,eat (0.98),none,none
+"What is the best way to cook precooked bolar beef roast? I know, it is a sad question.",precooked bolar beef roast (1.00),sad question (0.86),none,none,none,none
+How do you cook asparagus so it's not bitter?,asparagus (1.00),it ' (1.00),bitter (1.00),none,none,none
+What do Catholic priests like to cook the most?,catholic (0.97),the most? (1.00),none,none,none,none
+Which cooking method is the least energy efficient?,cooking (0.77),least (0.56),none,energy efficient (0.99),none,none
+Are salted eggs good for health?,salt (1.00),##ed eggs (0.90),none,health (0.97),none,none
+Is grass-fed butter the same as organic butter?,grass - fed butter (1.00),same as organic butter (0.95),none,none,none,none
+How do I cook and mash sweet potatoes?,and mash sweet potatoes? (1.00),none,none,none,none,none
+Should you use warm water when making bread dough?,bread dough (1.00),none,none,warm water (0.99),none,none
+How long does it take to cook a picnic pork shoulder?,picnic pork shoulder? (1.00),none,none,none,none,none
+How do I cook a 2-pound meatloaf?,2 - pound meatloaf? (1.00),none,none,none,none,none
+Which cooking college is the best in the state you live in?,cooking (0.57),best in the state (0.92),none,college (0.44),none,none
+What does heavy cream do to soup?,soup (0.56),none,none,heavy cream (0.99),none,none
+Can you cook cooked prawns?,cooked prawns (1.00),none,none,none,none,none
+Which cuisine are you 'afraid' to try cooking and are not confident of pulling off?,cooking (0.70),none,none,cuisine (0.37),pulling (1.00),off (0.62)
+How do I cook pasta without a stove?,pasta (1.00),none,none,a (1.00),stove (1.00),none
+"When cooking, do you just fry your meat or do you boil it first?",meat (1.00),it (0.65),none,boil (0.51),none,none
+Why should men learn cooking and then actually cook at home?,cooking (0.99),none,none,none,none,none
+Do you have any beginner's guide to home cooking for dogs?,dogs (0.53),none,none,beginner's guide (1.00),home cooking for (0.85),none
+How long does risotto take to cook?,risotto (1.00),none,none,none,none,none
+What are good locations to be a chef?,chef (1.00),none,none,none,none,none
+How long does it take to cook frittata in an oven?,frittata in an oven (1.00),none,none,none,none,none
+What is the benefit of using a mezzaluna knife over a traditional knife?,mezzaluna knife over a traditional knife (1.00),none,none,none,none,none
+What's the most delicious thing that you can cook?,most (0.97),delicious thing (0.76),none,none,none,none
+How do I cook a pot roast fast?,pot roast fast? (1.00),none,none,none,none,none
+How long does it take to cook a cornish hen?,cornish hen (1.00),none,none,none,none,none
+"Can I combine meat and fruit in a main dish? If so, what do you suggest?",meat and fruit in (1.00),main dish (1.00),none,none,none,none
+What is French couscous?,couscous (1.00),none,none,french (0.50),none,none
+Is it okay to cook half of the box brownie mix and save the other half for later?,half of the box brownie mix (1.00),the other half (1.00),none,later (0.99),none,none
+What are the most fundamental principles of cooking?,fundamental (0.41),cooking (0.60),none,none,none,none
+"If I use good cooking utensils, knives, frying pans, etc., will the food be delicious?",cooking (0.72),", knives, frying pans, (0.91)",food (0.73),utensils (0.94),etc. (0.79),none
+Why do some people think that those who put cream in sauces actually don't know how to cook well?,cream in sauces actually don't (1.00),well (0.99),none,none,none,none
+Do cooks get splatter burns and splash backs lowering products into the fryers?,splatter burns and splash backs lowering products into the fryers (1.00),none,none,none,none,none
+How do I best cook old-ish/bitter asparagus?,old - ish / bitter asparagus? (1.00),none,none,none,none,none
+"My 20-year-old son is learning how to cook. He tried to cook a home recipe, but it didn’t turn out well. How important is it to continue to try to learn and improve in cooking when some meals come out as a disaster?",20 - year - old (0.97),home recipe (1.00),when some (0.78),well (0.32),cooking (0.90),none
+How long does it take to learn to cook a hamburger?,hamburger (1.00),none,none,none,none,none
+What are the benefits of boiling meatballs before frying them?,boiling meatballs before frying them (0.98),none,none,none,none,none
+Can you cook and eat spoiled food?,spoiled food (1.00),none,none,none,none,none
+What kinds of things do you like to cook or are good at cooking?,things (0.87),none,none,cooking (1.00),none,none
+I'm 19 and live alone. What are some very basic recipes or things I could cook for myself? I've never been taught to prepare anything.,very basic recipes or things (1.00),none,none,none,none,none
+How many cups of dry rice are needed to cook?,cups (0.83),rice (0.83),none,dry (0.62),none,none
+What is the difference between USDA Prime and Angus beef?,usda prime and angus beef? (0.93),none,none,none,none,none
+How can you cook sausages in the microwave?,sausages in the microwave? (1.00),none,none,none,none,none
+How do you cook like a chef at home?,chef (0.99),none,none,none,none,none
+What is the most difficult type of pasta to make from scratch at home?,difficult (0.75),pasta to make from scratch (1.00),none,none,none,none
+How do you cook female eggplants?,female eggplants? (0.99),none,none,none,none,none
+What are the different ways to tell when pasta is cooked perfectly?,when pasta is cooked perfectly? (0.94),none,none,none,none,none
+What was a memorable mishap of your early cooking days?,memorable mishap of your early cooking days (1.00),none,none,none,none,none
+What if she says ill cook for you one day maybe?,ill (0.82),one day maybe (0.96),none,none,none,none
+What vodka do you use for cooking?,cooking (0.90),none,none,vodka (0.96),none,none
+How do I cook a turkey with cheesecloth?,turkey with cheesecloth? (1.00),none,none,none,none,none
+How can I learn to cook delicious vegetables and be good in cooking vegetarian food?,delicious vegetables (1.00),good in cooking vegetarian food (1.00),none,none,none,none
+Should I cook on the shiny side of aluminum or the dull side?,shiny side of aluminum or the dull side (0.98),none,none,none,none,none
+What are some of the best rums to use in cooking?,the best rums (1.00),cooking (0.82),none,none,none,none
+How do I cook a beef round steak?,beef round steak (1.00),none,none,none,none,none

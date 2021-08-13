@@ -1,0 +1,889 @@
+utterance,dishname_first (score),dishname_second (score),dishname_third (score),ingredient_first (score),ingredient_second (score),ingredient_third (score)
+How do I increase the umami flavor of a vegan soup?,umami flavor of a vegan soup (1.00),none,none,none,none,none
+"I’m 17 and I forget to eat sometimes, but my mum won’t let me eat if it’s after lunchtime, says one meal is fine (walk 2 miles most days) and I don’t need so much food. she’ll always be like (eg. sandwich) one is enough etc-I’m not skinny, but help?",##time (0.89),meal is fine ( walk 2 miles most days ) (0.89),( eg. sandwich ) one is enough etc - (0.91),eat (0.88),lunch (0.52),food (1.00)
+If a restaurant doesn't have a drive thru. How are you supposed to pick up your mobile order?,restaurant (1.00),mobile order (0.83),none,drive thru (1.00),none,none
+What’s a good meal someone can pick up from Walmart or Albertsons for bodybuilding type meals?,good meal (1.00),from walmart or albertsons for bodybuilding type meals (0.97),none,none,none,none
+What do you think about people who order steaks well-done?,steaks well - done? (1.00),none,none,none,none,none
+How much does it cost to set up a hotdog cart in New York City?,hotdog cart (1.00),new york city (1.00),none,none,none,none
+Is it OK to eat a small piece of egg shell accidentally?,small piece of egg shell accidentally (1.00),none,none,none,none,none
+"What is pickling salt, and what is a good substitute?",pickling salt (1.00),good substitute (0.80),none,none,none,none
+How many 1/4 teaspoons make 1 teaspoon?,1 / 4 teaspoons make 1 teaspoon? (0.97),none,none,none,none,none
+Why is the ice in my freezer white but at restaurants it is clear?,in (0.71),freezer white (1.00),none,ice (0.76),restaurants (0.84),clear (0.81)
+"My 16-year-old daughter wasn't eating dinner the other night and I asked her why. She said that her friends told her that they don't eat pasta because it will make them fat, so she's not going to either. How should I handle this situation correctly?",16 - year - old daughter (0.98),dinner (0.35),friends (0.38),fat (0.45),either (0.59),none
+Why does my husband need so much food?,none,none,none,food (1.00),none,none
+"Is it tacky to bring food to a party in the store bought original container? To me, it looks like you’ve made no effort.",tack (0.93),food (1.00),party in the store bought original container (1.00),effort (0.99),none,none
+"Intermittent fasting is changing the way people eat. But there are so many different ways to fast these days, is one method better than all the rest?",none,none,none,intermittent fasting (0.65),different (0.55),fast (0.90)
+"For a month and a half, I had been strictly eating healthy meals. No fast food at all. Recently I’ve had a couple fast food meals, but every time I eat them now; I get terrible stomach pains and diarrhea. Why is this?",month and a half (0.64),healthy meals (0.85),food (0.57),fast (1.00),all (0.67),terrible (0.54)
+Do nightclubs serve food?,nightclub (0.92),none,none,food (0.83),none,none
+What are the three of your favorite kinds of food?,favorite kinds of food (0.99),none,none,none,none,none
+"My OCD is preventing me from eating a decent meal. It's not that I have body-image concerns, but I like the sense of control over my body that severely restricting my daily caloric intake gives me. What do I do?",decent meal (1.00),body that severely restricting (0.40),daily caloric intake (0.99),ocd (0.99),body - image concerns (0.98),control (0.82)
+A young Pomeranian first time pregnant ate 1 T blue cheese. Does she need emergency treatment?,young pomeranian first time pregnant (1.00),1 t blue cheese (1.00),treatment (0.57),emergency (1.00),none,none
+Where can I buy Green Giant canned vegetables?,green giant canned vegetables? (1.00),none,none,none,none,none
+What do you want to eat if today is your last day?,today (0.65),last day (0.43),none,none,none,none
+A fruit juice can is 14cm in diameter and 15.6cm high. What is its capacity in liters [1 liter=1000cm3] [take π=22/7]?,fruit juice can (1.00),##cm in diameter and 15. 6cm high (1.00),capacity in liters [ 1 liter = 1000cm3 ] [ take π = 22 / 7 ] (0.97),14 (0.75),none,none
+"How long would it take to die if you didn’t drink anything or eat anything, and exercise?",anything (0.65),none,none,eat (0.51),anything (0.53),exercise (0.98)
+My vegan dog isn't into his food. How do I flavor it so it tastes better? He hasn't been eating enough and I can't give him animal product since that would support animal cruelty.,vegan dog (1.00),food (0.97),it (0.85),eating (0.74),enough (0.92),animal (0.98)
+Will going on a vegetarian diet reduce my regurgitation?,##urg (0.82),none,none,reg (0.56),##itation (0.46),none
+Is it safe to eat day-old sushi that's been refrigerated?,day - old sushi that's been refrigerated (1.00),none,none,none,none,none
+Is halal chicken slaughtered in a way that is less or more humane than non-halal chicken?,halal chicken (1.00),or more (0.70),than non - halal chicken (0.90),less (0.78),humane (0.36),none
+Can a thin crust pizza lover and a pan-crust pizza lover make it as a couple?,thin crust pizza lover and a pan - crust pizza lover (0.99),it (1.00),couple (0.93),none,none,none
+What’s the best way to track calories and eat less?,calories and eat less (0.97),none,none,none,none,none
+Why don't people eat more offal?,offal? (1.00),none,none,none,none,none
+Is seafood vegetarian?,none,none,none,seafood (0.64),none,none
+"I haven’t eaten in 2 days, why am I still not hungry?",2 days (0.45),none,none,hungry (0.52),none,none
+Do any of the fast food chains get their chicken from Tyson Foods?,fast food chains (1.00),chicken from tyson foods (0.94),none,none,none,none
+Does McDonald's have meat alternatives?,mcdonald's (1.00),none,none,meat alternatives (1.00),none,none
+Is it bad to sleep or even lie down after a heavy meal?,down after (0.73),heavy meal (0.98),none,sleep (0.96),none,none
+What is the most famous pizza in New York?,most (0.60),famous (0.67),pizza (1.00),none,none,none
+How much vegan protein do you need in a meal to maximize muscle growth?,meal to maximize (0.79),none,none,vegan protein (1.00),muscle growth (0.70),none
+What snacks have no sugar?,snacks (0.36),none,none,no (1.00),sugar (0.94),none
+"As a parent, what would you do if your teenager said, “People only eat leftovers for dinner when they are poor”?","teenager said, “ people only eat (0.99)",leftovers for dinner when (0.84),” (0.61),poor (0.34),none,none
+Can you use mayonnaise mix with dumpling stuff?,mayonnaise mix with dumpling stuff (1.00),none,none,none,none,none
+Why is English food not so popular in the world?,english food (0.98),popular (0.68),none,none,none,none
+How can I eat healthy if I'm constantly starving?,healthy (1.00),starving (0.44),none,none,none,none
+What's the one sandwich that reminds you of wonderful childhood memories?,one sandwich (0.98),wonderful childhood memories (1.00),none,none,none,none
+Why do people like cereal with milk?,cereal with milk (1.00),none,none,none,none,none
+"If your husband rejects your food over a little misunderstanding and goes to bed hungry, as a good wife, what will you do?",food over a (0.97),little misunderstanding (0.97),bed hungry (0.39),none,none,none
+What are your favourite good mood foods?,favourite good mood foods (1.00),none,none,none,none,none
+When do you use instant yeast instead of other yeast products?,instant yeast instead of other yeast products (1.00),none,none,none,none,none
+What are some American Chinese food that are unheard of in China?,american chinese food that are unheard of in china (1.00),none,none,none,none,none
+"I'd like to buy some goat cheese, but I want it to be from happy goats. Where can I buy humane goat cheese? (e.g: not from farm factories)",goat cheese (1.00),from happy goats (0.99),humane goat cheese? ( e. g : not from farm factories ) (0.93),none,none,none
+How do you know if a watermelon is ripe before opening it?,watermelon is ripe (1.00),it (0.99),none,opening (0.60),none,none
+Why doesn't McDonald’s sell hamburger in India?,mcdonald ’ s sell hamburger (1.00),india (1.00),none,none,none,none
+Can you eat the pasta that was left out overnight?,pasta that was left out overnight (1.00),none,none,none,none,none
+Why are little amounts of food making me feel full?,little (0.86),none,none,food (1.00),none,none
+How do you feel about legalizing horse meat for consumption?,legalizing horse meat for consumption (1.00),none,none,none,none,none
+What’s the weirdest meal you were ever served at a friend’s house (as either a child or an adult)?,weirdest meal (1.00),were ever served (0.97),friend ’ s house ( as either (0.84),none,none,none
+What do you eat whenever the weather is cold?,weather (0.93),cold (0.32),none,none,none,none
+Do people in Italy usually skip breakfast?,italy (0.68),breakfast (0.51),none,none,none,none
+I just had a meal and I'm about to go on a car ride. Does eating food make motion sickness worse?,meal (0.85),car ride (1.00),motion sickness worse (0.83),eating food (0.57),none,none
+"If you do not get food for 1 day, what would you do?",food (0.68),1 day (0.84),none,none,none,none
+Is obsession with race healthy or unhealthy in the USA?,none,none,none,race healthy or unhealthy in the usa (0.94),none,none
+What are the easy ways to digest pizza?,easy (0.97),pizza (1.00),none,none,none,none
+What do you put on waffles?,waffles (1.00),none,none,none,none,none
+How many protein bars is it safe to eat in one day?,day (0.75),none,none,protein bars (1.00),none,none
+What is the best time to eat lunch and dinner?,lunch and dinner (1.00),none,none,none,none,none
+"Is it unhealthy if I only eat chicken breast, rice and vegetables?",unhealthy (0.70),"chicken breast, rice and vegetables (1.00)",none,none,none,none
+How long does milk stay fresh?,milk (0.93),fresh (0.53),none,none,none,none
+What is the most natural way to eat?,most (0.67),natural (0.65),eat (0.51),none,none,none
+"What would happen if I went to an Italian restaurant, ordered a pizza, and when it arrived, opened a can of pineapple slices and put them all over the pizza?",italian restaurant (1.00),pizza (1.00),it arrived (0.82),them (0.96),all (0.38),none
+"Are vegans against all suffering, or only animal suffering in the context of meat factories (and not in the contexts of being driven from their homes to make room for vegetable farms)?",vega (0.91),or (0.64),meat factories ( (0.94),"all suffering, (0.96)",only animal suffering (0.93),none
+"Why do lovers of good wine, when they taste it, almost seem to be making love with it?",good wine (0.93),when they taste it (0.92),none,love (0.35),none,none
+What do most people with an under-eating disorder consume?,none,none,none,under - eating disorder (1.00),none,none
+Can we take Eno after a meal?,eno (1.00),meal (0.77),none,none,none,none
+What are some meal plan tips for college students?,meal plan (1.00),college students (1.00),none,none,none,none
+My cat broke her veganism by stealing ham. I am so devastated. I knew I shouldn't have allowed my friends to bring their own food. What do I do?,cat (0.77),veganism (0.99),stealing ham (0.72),friends (0.27),none,none
+Is it wrong for my dad to go get food for himself and his wife but not get any food for his kids at home when he knows we are all hungry and have no food in the house?,food (1.00),and his wife (0.77),kids (0.55),food (0.98),no (0.85),food in (0.99)
+My friend's puppy doesn't like her food because it is vegetables and she refuses to give her meat as she's a vegan. How do I convince my friend to let the puppy eat some meat?,friend (0.48),puppy (0.95),food (0.34),vegetables (0.98),none,none
+Why are most Taco Bell’s combined with KFC?,taco bell ’ s combined with kfc (1.00),none,none,none,none,none
+I left my opened Buffalo Wild Wings wild sauce out of the refrigerator for 2 days. It should be okay to use right?,opened buffalo wild wings wild sauce out of the refrigerator (1.00),2 days (0.98),? (1.00),right (0.63),none,none
+"What would you do if you saw a werewolf rummaging around your kitchen, eating your food?",werewolf rummaging around (1.00),kitchen (1.00),food (0.43),none,none,none
+How do you stop people from stealing lunch from your office fridge?,lunch from (1.00),office fridge (1.00),none,none,none,none
+Is it illegal to display an old food hygiene rating? The place I work displays a 5 from 2014 despite the current rating from 2021 being a 1.,old food hygiene rating (1.00),place (1.00),5 from 2014 despite the current rating from 2021 (0.98),1 (0.72),none,none
+"What foods should a person with fatty liver eat, and which ones should they avoid at all costs?",foods (0.86),person (0.61),none,fatty liver eat (1.00),ones (1.00),costs (0.62)
+Is chicken the only bird meat that is dangerous when undercooked?,bird (0.74),meat (0.38),when underco (0.50),chicken (0.96),dangerous (0.76),##oked (0.70)
+"If a food bank gives away severely dented cans of evaporated milk, could this be a possible risk factor for contracting botulism?",food bank (1.00),severely dented cans of evaporated milk (1.00),risk factor (0.82),contracting (0.54),none,none
+"Am I right to feel patronised when a friend says they're proud of me every time I eat, even though eating has never been an issue for me?",patron (0.77),when (0.50),friend (0.45),##ised (0.79),eating (1.00),none
+Why do pizzas in Italy have only two or three main toppings compared to the six or seven on the typical American pizza?,pizzas (0.99),italy (0.38),none,only (0.89),two or three main toppings compared to (0.98),the (0.66)
+What do you get a chocolate lover for their birthday?,chocolate lover (1.00),their birthday (0.86),none,none,none,none
+What is the tastiest sandwich in the US in your opinion?,tastiest sandwich in the us (1.00),none,none,none,none,none
+Is it true that Americans have no food culture?,americans (0.99),none,none,food culture (1.00),none,none
+What are the types of pufferfish you can't eat?,pufferfish you can't eat (1.00),none,none,none,none,none
+Where is the bile produced and stored? Which component of the food does it help to digest?,none,none,none,bile produced and stored (0.92),component (0.63),food (0.28)
+What is the most ethical meat to eat?,ethical (0.64),meat (0.96),none,none,none,none
+"Why is it important that wild animals never view humans as a source of food, shelter, or affection?",wild animals (0.99),", (0.49)",or (0.48),humans (0.65),food (0.94),shelter (0.99)
+How do I use a microwave omelet maker?,microwave omelet maker (1.00),none,none,none,none,none
+"Is it okay to eat say an apple, pear, banana, some cherries, and strawberries each day?","apple, pear, banana, some cherries, and strawberries each (0.99)",none,none,none,none,none
+How many blueberries are too much to eat in one day?,##berries (0.96),much (0.53),day (0.85),blue (0.87),none,none
+Why does butter turn brown on heating?,butter (1.00),brown on (0.95),none,heating (0.49),none,none
+How many slices of pizza are in a Pizza Hut large pizza?,slices (0.73),pizza (1.00),pizza hut large pizza? (1.00),none,none,none
+Did anyone buy chocolates today to celebrate National Chocolate Day?,chocolates (1.00),national chocolate day (1.00),none,none,none,none
+Can I sue an UberEats deliveryman for stealing my fries?,ubereats deliveryman (1.00),fries (1.00),none,none,none,none
+What do people with eating disorders usually think when someone invites them to lunch or dinner?,lunch or dinner (0.88),none,none,eating disorders (1.00),none,none
+Do cinnamon and vanilla go together?,cinnamon and vanilla (0.79),none,none,none,none,none
+What are some of the best types of stews that are best for their nutrients?,the best types of stews that (1.00),best for (0.72),none,nutrients (0.95),none,none
+"What is the vegetable ""karela"" called in English?","vegetable "" karela "" called in english (0.97)",none,none,none,none,none
+Why do I feel better after eating steak?,steak (1.00),none,none,none,none,none
+How do you know when dehydrated tomatoes are done?,dehydrated tomatoes are done (1.00),none,none,none,none,none
+How do you know if pet food is healthy for your pets?,pet food (1.00),for (0.52),pets (0.63),none,none,none
+What food or drink do you enjoy that many other people dislike?,many other people dislike (0.69),none,none,food or (0.67),drink (0.41),none
+What food contains the most carbohydrates?,food (0.61),none,none,most (0.38),carbohydrates? (1.00),none
+Why does my 14-month-old dog have a reaction to adult food despite being weaned off of puppy food for 2 weeks? Does that mean she will need to be on puppy food forever?,14 - month - old dog (1.00),reaction (0.53),food (0.92),adult (1.00),despite (0.74),2 (0.59)
+"Should I be worried if I ate bad rice? I’m not sure how old it was, I ate a good amount of it probably like 10 tablespoons full until I realized it just wasn’t right.",bad rice (1.00),old it was (0.94),good amount (0.93),right (0.75),none,none
+"Which one is correct, “did you take lunch” or “had your lunch”?",lunch ” (1.00),” (0.81),none,lunch (0.97),none,none
+What will happen to a 15 year old kid if he/she eats 1-3 eggs every day for a year?,15 year old kid if he / she eats 1 - 3 eggs every day for (0.98),year (0.74),none,none,none,none
+I want to use stevia instead of sugar but don’t like the taste- what brand or type of stevia do you use?,stevia instead of sugar (1.00),- what brand or type of stevia (1.00),none,the (0.68),taste (0.54),none
+What goes with deep fried chicken?,deep fried chicken? (0.99),none,none,none,none,none
+Can you use vanilla powder to make vanilla sugar?,vanilla powder (0.99),vanilla sugar (1.00),none,none,none,none
+How do I make sauce out of tomatoes?,sauce out of tomatoes (1.00),none,none,none,none,none
+Why do people make a chomping sound when they eat?,chomping sound when they eat (0.95),none,none,none,none,none
+Will it be okay to drink a glass of lemon after having meals?,glass of lemon after having meals (0.99),none,none,none,none,none
+Why does intentionally gorging on greasy fast food and full-fat milk tend to exacerbate chronic pancreatitis symptoms?,intentionally gorg (0.92),greasy fast food and full - fat milk tend (0.99),exacerba (0.97),none,none,none
+Can I temporarily stop eating carbohydrates (just for 1 month of calorie deficit)?,carbohydrates ( just for 1 month of calorie deficit )? (1.00),none,none,none,none,none
+Have you ever been poisoned by eating the wrong type of mushroom? What type of long-term damage did you suffer?,wrong type of mushroom (0.97),- term (0.79),none,long (1.00),damage (0.88),none
+How does religion influence food choices?,food (0.97),none,none,religion (1.00),choices (0.84),none
+I just had a fresh mango for the first time in forever and it reminded me a lot of peaches. Are mangos and peaches related biologically?,fresh mango for the first time in forever (1.00),it (0.99),peaches (1.00),biologically (0.59),none,none
+Have you ever torn a few bananas from a large bunch at a supermarket because you only want to buy a few?,bananas from a large bunch (1.00),supermarket (0.61),few (0.49),none,none,none
+Is fried okra healthy?,fried okra healthy (0.98),none,none,none,none,none
+Why is our cat so hungry all the time? How many times a day should a cat eat?,cat (1.00),hungry all (0.64),many times (0.66),none,none,none
+Is it okay to force someone to become vegan?,vegan (1.00),none,none,none,none,none
+How long should I boil pasta?,pasta (1.00),none,none,none,none,none
+Does Kobe beef have to be from Japan?,kobe beef (0.95),japan (0.61),none,none,none,none
+Why is steaming faster than baking?,none,none,none,steaming faster (0.78),baking (0.94),none
+Is Honey Nut Cheerios low carb?,honey nut cheerios low carb? (1.00),none,none,none,none,none
+How do I keep fresh pasta from sticking?,fresh pasta from sticking? (1.00),none,none,none,none,none
+For years my wife has been making dinner for me but I came home last night and out of the blue she said I had to make my own dinner. I asked her why and she just told me she's tired of cooking for me. What should I say?,dinner (1.00),out (0.33),blue (0.36),the (0.47),cooking (0.62),none
+"What is better in dry cat food, rice or corn?","dry cat food, rice or corn? (1.00)",none,none,none,none,none
+What are some healthy foods that you should eat frequently?,none,none,none,healthy foods (0.97),frequently (0.43),none
+What will happen if you put a powder in the freezer?,powder in the freezer? (1.00),none,none,none,none,none
+Would you eat a peanut butter and spam sandwich?,peanut butter and spam sandwich (1.00),none,none,none,none,none
+Are McDonald fries halal in the USA?,mcdonald fries halal (1.00),usa (0.96),none,none,none,none
+Can you eat or is it better not to eat before taking MDMA?,before (0.52),mdma (0.77),none,taking (0.72),none,none
+Why do South Koreans eat dogs? I have a dog and I can’t imagine eating her. Ewwww! No! Why do they do this?,south koreans (1.00),dogs (1.00),dog (1.00),none,none,none
+Why do people say they don’t like white chocolate?,none,none,none,white chocolate (0.88),none,none
+Is it fair if Muslim students are told to eat vegetarian options when the school does not offer halal meals?,muslim students (0.91),vegetarian options when (0.85),school (0.53),hal (1.00),none,none
+How do you get your child to eat without a TV?,child (0.99),none,none,a (0.98),tv (1.00),none
+Is it healthy to blend fruits with yogurt?,fruits with yogurt (0.99),none,none,none,none,none
+My husband has hired a chef for him and never eats food cooked by me. Should I accept this? What should I do?,none,none,none,food cooked (0.64),none,none
+"I’ve had 3 bologna sandwiches within the last 2 weeks, one in which I just ate yesterday. I just read that it’s safe to eat heated up but I did NOT heat them. 30 weeks preg I’m worried I harmed baby. What will happen? Someone plz help I’m stressed…",3 bologna sandwiches (0.97),2 weeks (1.00),one in (0.71),pl (0.33),none,none
+"If one slice of bread molds, do you throw away the entire loaf or just that slice?",slice (0.99),bread molds (1.00),the entire loaf or just that slice (0.89),none,none,none
+How could green beans be stored to have them available all year round?,green beans (1.00),them available all year round (0.92),none,none,none,none
+What is the best food I can eat to lose weight if I don't work out?,best food (0.84),out (0.54),none,weight (0.63),none,none
+Why am I more irritable when I don’t eat?,ir (0.62),##ritable when (0.41),none,eat (0.71),none,none
+How many shots of espresso are in a white chocolate mocha?,shots (0.39),espresso are in (1.00),white chocolate mocha? (1.00),none,none,none
+How much do you expect to pay for a burger?,burger (1.00),none,none,none,none,none
+Is Chinese food very expensive in the United States?,chinese food (0.86),united states (0.61),none,none,none,none
+Is there a right time as to when or when not to eat a restaurant's free bread?,right (0.61),or when not (0.96),restaurant's free bread (1.00),when (0.80),none,none
+"Today I felt very acidic in my stomach. I vomited about 5 times today, especially after I eat even the smallest foods. I even started to vomit my own stomach acid and blood. What should I do?",stomach (0.40),5 times (0.71),even the smallest foods (0.92),none,none,none
+What can I eat instead of rice on keto diet?,rice on keto diet (0.93),none,none,none,none,none
+Are Cheetos halal?,cheetos halal (1.00),none,none,none,none,none
+How did competitive eater Joey Chestnut eat 76 hotdogs in 10 minutes?,competitive eater joey chestnut eat 76 hotdogs in 10 minutes (1.00),none,none,none,none,none
+What would you do if you saw your dog eating expensive dog food in your neighbor's yard and your neighbor grinning from ear to ear watching?,dog eating expensive dog food in your neighbor's yard (1.00),your neighbor grinning from ear to ear watching (0.97),none,none,none,none
+"If a doctor’s instructions for a colonoscopy prep states that one should have no nuts for 48 hours before the test, does that also include non solid forms of nuts, such as almond milk and peanut butter, and why or why not?",doctor (0.95),colonoscopy prep states that one (1.00),nuts for 48 hours before (0.98),no (0.97),non (0.99),none
+How much food would I have to eat to create a black hole in my stomach?,black hole in (0.88),stomach (0.98),none,food (1.00),none,none
+Why do people like eating breakfast in bed? It seems more like a nuisance than a luxury.,breakfast (1.00),bed (0.70),nuisance (0.76),luxury (0.96),none,none
+"If I occasionally urinate in an empty milk container after I've finished the milk in it, is it then okay to put the container with urine in a trash container that gets picked up by the city?",empty milk container (1.00),finished the milk in it (0.97),container (1.00),urine (1.00),none,none
+What is the best way to eat maca powder?,maca powder? (1.00),none,none,none,none,none
+What should you eat to nourish your body?,body (0.49),none,none,nouri (0.66),none,none
+How warm does the environment temperature have to be to activate dry yeast?,warm (0.28),environment temperature (0.81),dry yeast (1.00),none,none,none
+Are Australian lobsters considered superior in the quality of its meat as compared to Maine lobsters?,australian lobsters (0.95),its (0.50),compared (0.43),quality (0.88),meat as (0.97),maine (0.72)
+Should kibble (pet food) be mixed with water? How long does wet kibble last?,kibble ( pet food ) (1.00),mixed with water (0.96),kibble (1.00),wet (0.85),last (0.63),none
+What kind of meat is in meat tortellini?,meat (0.66),meat tortellini? (0.95),none,none,none,none
+Why do ice and salt make ice cream?,ice and salt make ice cream (1.00),none,none,none,none,none
+Why doesn’t ice cream smell like sherbet?,ice cream (1.00),sherbet (1.00),none,none,none,none
+What is your opinion on Beyond Meat launching meat-free chicken tenders in the United States?,beyond meat launching meat - free chicken tenders in the united states (0.97),none,none,none,none,none
+What vegetable do you hate that everyone loves?,everyone (0.37),none,none,vegetable (0.56),none,none
+What happens if we eat papaya during periods?,papaya during periods (1.00),none,none,none,none,none
+"If I attend a black family’s cookout, what type of food should I expect to be served?",black family ’ s cookout (1.00),food (1.00),served (0.48),none,none,none
+Why do most cheap foods that taste good also end up being really unhealthy?,cheap foods (0.98),taste (0.48),also (0.94),good (0.46),unhealthy (0.51),none
+Why does everything I eat taste like vomit? I have been trying to eat food all day and nothing tastes good.,food (1.00),day (0.40),none,vomit (0.89),nothing (0.87),good (0.96)
+"Your father says he's going to grab some milk, it's been 15 years and he actually returns home with the milk. What do you say/do?",milk (1.00),it (1.00),been 15 years (0.73),milk (0.98),/ (0.52),none
+What is the best technique to ensure pan-fried sandwiches (e.g. a reuben) does not fall apart when you flip it?,pan - fried sandwiches ( e. g. a reuben ) does not fall apart when (1.00),it (0.85),none,none,none,none
+"I had a Chinese takeaway last night, but today made from scratch a beef mince and vegetable puff pastry pie. Is it because of Brexit? Or, just a crazy thought, but might some things not be because of Brexit, good or bad, and might've been anyway?",chinese takeaway (1.00),made from scratch a beef mince and vegetable puff pastry pie (1.00),crazy thought (0.96),brexit (0.97),brexit (0.99),none
+"I’m 14 and I’m a very picky eater, I don’t eat any vegetables or any meat that is partly done. I’ve also had traumatic memories with veggies when I was little. How can I bring myself to try new foods?",very picky eater (0.98),vegetables or any (0.54),foods (0.95),meat that (0.56),partly (0.87),done (0.95)
+Are McDonald's apple pies really made out of potatoes and high-fructose corn syrup?,mcdonald's apple pies really made out of potatoes and high - fructose corn syrup (1.00),none,none,none,none,none
+I’m 19. How do I fake being ill so I can go to the hospital just to eat their free food? I don’t get food at home. My dad never buys me any.,ill (0.65),hospital (0.83),free food (0.98),food (1.00),none,none
+"My cat won't move; not even to eat or drink. She is still breathing, and conscious, and cries sometimes. She's old, but has seemed healthy before. What is wrong with her?",cat (0.98),move (0.47),or drink (0.52),", (0.36)",seemed (0.34),none
+"I stopped eating and completely lost my appetite and don’t feel hungry anymore, and recently my body parts have been shaking for no reason at all and I feel really weak. Why? I am a teen.",body (0.63),shaking (0.40),none,appetite (0.47),hungry anymore (0.73),parts (0.63)
+Does Chicago-style pizza exist in Italy?,chicago - style pizza (1.00),italy (0.69),none,none,none,none
+"If humans don't need meat to survive, why did we choose to eat meat for thousands of years?",humans (0.57),meat for thousands (0.62),years (0.33),meat (1.00),none,none
+Are people working at fast food restaurants allowed to eat from the food stations present there? Who doesn't fancy free food right?,fast food restaurants allowed (1.00),eat from the food stations present there (1.00),who doesn't fancy free food right (1.00),none,none,none
+"You have to invite your neighbors over for dinner. Either the ones to the left of you, right of you or directly across from you. Who do you invite and why?",neighbors (0.86),dinner (0.62),ones (0.56),directly (0.29),none,none
+What should vegans avoid?,vega (0.98),none,none,none,none,none
+Is cheese still edible if left out of the fridge overnight?,cheese (0.99),edible if left out of the fridge overnight (0.87),none,none,none,none
+"Is it true that Italians always take the garlic out when cooking, whereas the French keep it in the food and eat it? What explains this difference?",italians (0.96),garlic out when cooking (1.00),french (0.90),it (0.58),difference (0.52),none
+Can I make some cookies?,cookies (1.00),none,none,none,none,none
+What are the best fish for making sushi?,sushi? (1.00),none,none,none,none,none
+"I can eat natural cow milk, yogurt, sweet, chocolate, and ice cream without any problems, but eating cheese hurts my stomach. What are the problems? This should not happen as cheese contains less lactose.","natural cow milk, yogurt, sweet, chocolate, and ice cream (1.00)",cheese (0.72),problems (0.46),any (1.00),problems (1.00),lac (0.96)
+"If relationship tastes like a drink, what does yours taste like?",relationship (0.79),drink (0.99),none,yours (0.90),none,none
+"As a waiter or waitress, what's the strangest combination of main and side order that you've ever seen a customer order?",waiter or waitress (0.71),strangest combination of main and side order that (0.99),ever (0.48),none,none,none
+Why do some children not like sweets/sugar?,children (1.00),sugar? (0.76),none,sweets / (0.97),none,none
+I've never gotten high from edibles. Should I eat a whole 500mg edible?,from edibles (0.91),whole 500mg edible (1.00),none,none,none,none
+How does stuff get out of my lungs? For example when a piece of food or water goes down the wrong way?,lungs (0.41),piece (0.93),food or water goes down the (0.75),stuff (0.69),none,none
+Why does whole milk give me diarrhea but not others?,milk (0.79),diarrhea but not others (0.90),none,whole (0.86),none,none
+"My mom is too busy to feed me. She always pushes me off and leaves me to cook my own food, but I'm only 12. I haven't ate anything today because there's no food here either. What do I do?",food (0.94),anything (0.81),none,food here either (0.89),none,none
+Is there a certain stage of banana that we should eat eat for workout?,that (0.61),eat for workout (0.84),none,banana (0.84),none,none
+How do you discipline a dog who eats his food bowls?,dog (1.00),eats his food bowls (1.00),none,none,none,none
+"When a recipe calls for a teaspoon or a tablespoon of something, is the default a level or heaping one if not specified?",recipe (0.92),teaspoon or a tablespoon of something (1.00),level or heaping one (1.00),default (0.54),specified (0.91),none
+What can you cook on an outdoor griddle?,outdoor griddle (1.00),none,none,none,none,none
+Is it true that part of the Markle problem was her total lack of British table etiquette and an inability to use a knife and fork in the European manner?,markle problem (1.00),table et (0.97),##tte (0.67),british (1.00),##ique (0.61),none
+"If a religion prohibits eating pork, what happens if a child who is brought up with this religion eats pork? What are the ramifications? How strict is this rule?",religion (0.85),pork (0.96),child (0.98),religion (0.41),pork (0.96),ramification (0.85)
+How many 15 oz cans make a pound?,pound? (0.98),none,none,15 oz cans (0.98),none,none
+Would you put ice cream on top of a hamburger?,ice cream on top of (1.00),hamburger (1.00),none,none,none,none
+What kind of sausage patty does McDonald’s use?,sausage patty (1.00),mcdonald ’ s use (0.99),none,none,none,none
+Why do eggs sometime give you a nauseous feeling after eating?,sometime (0.99),nauseous feeling after (0.99),none,eggs (0.94),eating (0.97),none
+What is the hardest diet in the world?,hardest (0.85),none,none,none,none,none
+"Malaysian food: What are the differences among Mee Rebus, Mee Jawa and Mee Rojak Mamak?",malaysian food : (0.78),"mee rebus, mee jawa and mee rojak mamak? (1.00)",none,none,none,none
+"Every day, I typically eat 6 oz of salmon, 4-6 veggie meatballs, and 6oz of blueberries. Am I consuming too many calories?","6 oz of salmon, 4 - 6 veggie meatballs, and 6oz of blueberries (1.00)",many calories? (1.00),none,none,none,none
+Do you feed your cat milk?,cat milk (1.00),none,none,none,none,none
+Is Australian Wagyu as good as Japanese Wagyu?,australian wagyu (0.99),good as japanese wagyu? (0.97),none,none,none,none
+Which is the food that is stolen the most?,food (0.86),stolen (0.38),the (0.31),none,none,none
+"A simple ""Yes"" or ""No"" question. Can you get diabetes from honey?","simple "" yes "" or "" no "" question (1.00)",diabetes from honey (0.99),none,none,none,none
+What alcohol is good with fried chicken?,none,none,none,alcohol (0.32),fried chicken? (1.00),none
+How long should a person wait after a meal to take fruits?,person (0.50),meal (1.00),none,fruits (0.96),none,none
+"Why does water taste so good, even though it tastes like nothing?",water (0.77),good (0.33),it (0.45),nothing (0.96),none,none
+My cat ate a crumb (about a gram) of chocolate that I accidentally left out and ate it. Will she be okay?,cat (0.71),crumb ( about a gram ) of chocolate that (1.00),accidentally left out (1.00),none,none,none
+Would you recommend Blue Buffalo wet kitten food? My 4 1/2 month old kitten seems tired by the same 4 choices (Fancy Feast).,blue buffalo wet kitten food? (1.00),4 1 / 2 month old kitten seems tired by the same 4 choices ( fancy feast ). (0.98),none,none,none,none
+"Besides ketchup, what else do you dip French fries in that is delicious?",french fries in that is (0.90),none,none,ketchup (1.00),delicious (0.67),none
+Why do people eat shrimp with their heads on?,shrimp with their heads on (1.00),none,none,none,none,none
+Can a doctor consume a quantity of red meat?,doctor (0.90),quantity (0.73),red meat (1.00),none,none,none
+How do you eat?,none,none,none,none,none,none
+How can you get nutrients without eating fruits and vegetables?,nutrients (0.99),and vegetables (0.93),none,eating fruits (0.96),none,none
+Is it right to eat fried eggs and bread for dinner?,fried eggs and bread for dinner (1.00),none,none,none,none,none
+Can dogs eat fermented milk?,dogs (1.00),fermented milk (1.00),none,none,none,none
+I'm Asian and prefer using a fork over chopsticks. Am I a rarity?,fork over chopsticks (1.00),##rity (1.00),none,ra (0.84),none,none
+What is a list of fruits with many seeds?,fruits with many seeds (1.00),none,none,none,none,none
+What happens when you eat more than your body needs for energy?,than (0.38),body (0.41),none,energy (0.90),none,none
+How often do you eat ice cream?,ice cream? (1.00),none,none,none,none,none
+Is processed food like sweet potato wedges just as bad as regular potato wedges without all the added things like E numbers and extra salt and stuff?,processed food (0.85),sweet potato wedges just as bad as regular potato wedges (1.00),the added things like e numbers and extra salt and stuff (0.91),all (1.00),none,none
+Is Crocodile or Alligator meat very tasty? What does it taste like? How commonly eaten and how expensive to order at a restaurant? How compared to snake meat? Does it make you sick?,crocodile or alligator meat (1.00),tasty (0.98),it (0.98),how (0.43),it (0.73),none
+Which plastic containers are microwave safe?,plastic containers (0.99),microwave safe (0.93),none,none,none,none
+What do you think of people who allow their children (say 11 years old) to eat adult-sized meals and desserts in restaurants?,( say 11 years old ) (1.00),adult - sized meals and desserts (1.00),none,children (0.75),restaurants (0.93),none
+What is the salt and ice diet?,salt and ice (1.00),none,none,none,none,none
+What can I eat when I am positive in corona?,? (0.92),none,none,corona (1.00),none,none
+I'm a 15 years old girl and I stopped eating meat in February but my skin condition has gotten so much worse. I have more acne than I used to and my cheeks get red all the time. Does somebody know why?,15 years old girl (1.00),meat (0.99),february (0.77),skin (0.45),worse (0.37),acne (1.00)
+What is the maximum number of hot pockets that is acceptable to eat in one day?,hot pockets that (1.00),acceptable (0.68),eat in (0.79),none,none,none
+Is it good to eat eggs every day on a keto diet?,eggs every day on (1.00),keto diet (0.93),none,none,none,none
+What are some foods I should order for my boyfriend from overseas on Uber to make him feel loved?,boyfriend from overseas on uber (0.82),feel (0.49),loved (0.66),foods (0.57),none,none
+What do you put in party food boxes?,party food boxes (1.00),none,none,none,none,none
+Why does Cheese have the reputation of causing very bad dreams? How it is logically possible that Cheese does cause nightmares or bad dreams? Which other foods cause bad dreams too and how compared to cheese?,cheese (0.98),very bad dreams (1.00),it (0.61),other foods (0.63),cheese (0.94),none
+What will happen if I eat five pounds of uncooked rice and chug a gallon of boiling water?,five pounds of uncooked rice and chug a gallon of boiling water (1.00),none,none,none,none,none
+Is it unhealthy to eat mushrooms that grow from your pillow?,mushrooms that grow from (1.00),pillow (0.92),none,##health (0.54),none,none
+"If someone swallowed the spiciest pepper, would it still be spicy after being pooped out or do the spicy properties subside after digestion?",spiciest pepper (1.00),it still (0.79),spicy after being pooped out (0.99),spicy (0.55),digest (0.97),none
+How long does it take to wait for Uber Eats delivery?,uber eats delivery (1.00),none,none,none,none,none
+What fruit was eaten by Adam and Hawa?,fruit (0.85),and hawa? (0.87),none,adam (0.59),none,none
+"Is there any support in the Jewish community for eating poultry with dairy, since birds don't make milk, and thus, it only violates an arbitrary rabbinic decree, and not the eternal Torah?",jewish community (0.94),"poultry with dairy, since birds don't (0.87)",milk (0.85),eternal (0.83),none,none
+How can I make cornbread in my air fryer?,cornbread in my air fryer (1.00),none,none,none,none,none
+"When dating, should couples split the bill while out to eat?",the (0.99),bill while out (0.94),none,eat (0.84),none,none
+"Do you believe your ancestral heritage, culture, and/or ethnic background influences your food choices?","ancestral heritage, culture, and / or ethnic (0.98)",food (0.58),none,background (0.50),choices (0.72),none
+What should I eat late at night if I get hungry? I am trying to be healthy.,healthy (0.87),none,none,none,none,none
+I eat 1000 calories a day and I count my calories. Is that enough? I’m 12 years old.,1000 calories a day (1.00),calories (0.98),none,none,none,none
+"In English, if you say that a dish is ""quite nice ""actually"""" does that mean you didn't expect it to taste good, but to your surprise it does?",dish (1.00),""" quite nice "" actually "" "" (0.79)",none,good (0.75),none,none
+Can vegetarians make up every single nutrient they sacrifice by not eating meat? Or is there any nutrient that they HAVE TO sacrifice?,vegetarian (0.50),single nutrient (0.77),none,not (0.88),eating (0.51),meat (0.95)
+"How would a starving person react to suddenly having a lot of food? I'm writing a story, and I've read some, where they start eating a ton, but others where they are reluctant to eat a lot. Which would be more realistic?",starving person (1.00),having (0.53),lot of food (0.78),", (0.99)",eat (0.93),realistic (0.48)
+Why am I always feeling super thirsty after eating at buffets? Is it due to the salt content or the MSG?,thirsty after eating (0.57),buffets (0.95),none,the (0.99),salt content or the msg (0.73),none
+What is the best way to store banana nut bread?,banana nut bread (1.00),none,none,none,none,none
+Is it OK to breastfeed in areas in which eating is expressly prohibited?,##fe (0.49),areas (0.80),none,breast (0.84),eating (1.00),expressly prohibited (0.87)
+Are people who empty their meal plates in restaurants considered normal?,meal plates in restaurants (0.98),none,none,normal (0.71),none,none
+"Eating has become a pointless endeavor over the past couple of months. I usually only drink a cup of juice and eat maybe one half of a sandwich and some fruit or granola. I feel perfectly fine, but my husband is a bit worried. What do I do?",pointless (0.87),couple (0.42),months (0.36),fruit or (0.84),none,none
+How many types of watermelons exist?,##melons (1.00),none,none,water (0.81),none,none
+"I’m 14, weigh 100lbs, and I’m 5’3. I’m turning 15 soon and still haven’t had my period and I’m barely a 32A bra size. I eat alot of healthy food and get about 3000 calories a day. What do I do?",100lbs (0.78),’ 3 (0.97),soon (1.00),period (0.94),3000 (0.81),none
+At what temperature does the collagen in pork break down?,collagen in pork break down (1.00),none,none,none,none,none
+Is it wrong to eat dolphin meat?,dolphin meat (1.00),none,none,none,none,none
+Why do I feel more anger and aggression when weight training on a meat diet than on a vegetable diet?,meat (1.00),vegetable (0.91),none,anger and aggression when weight training (0.85),none,none
+What makes rice from a Chinese restaurant sticky?,rice from a (0.98),chinese restaurant sticky? (1.00),none,none,none,none
+I have not been hungry in 3 days. Is this normal?,3 (0.67),normal (0.51),none,days (0.37),none,none
+What does it mean giving food to mad people?,food (0.99),mad people (0.99),none,none,none,none
+"My dad won’t buy me food, all I get is a room. What do I do?",food (1.00),none,none,room (0.89),none,none
+What is the most efficient and cost effective way for someone new to wine to taste a large cross section?,most efficient and (0.83),effective (0.90),large cross section (0.98),cost (0.78),wine (0.99),none
+Is it bad for a dog to eat raw pizza?,dog (1.00),eat raw pizza (0.90),none,none,none,none
+How long is Lactaid milk good for?,lactaid milk (1.00),for (0.79),none,none,none,none
+How long does cake last in the fridge?,cake (1.00),fridge (0.57),none,none,none,none
+What is the worst pizza topping you have eaten at a pizzeria?,worst pizza topping (0.94),at (0.46),pizzeria (0.99),none,none,none
+Is hotel food harmful during pregnancy?,pregnancy (0.37),none,none,hotel food (0.99),none,none
+"What effect would it have on your health to eat maggot infested meat, and have you ever done it?",maggot infested meat (1.00),none,none,none,none,none
+Did the Prophet Muhammad eat fish?,prophet muhammad (0.98),fish (1.00),none,none,none,none
+Is it a good idea to fast all day and not eat until dinner?,fast all day and not eat until dinner (0.85),none,none,none,none,none
+Is picky eating a result of parenting methods during mealtimes?,picky (0.99),parenting methods during mealtimes (0.88),none,none,none,none
+What will happen if someone drinks expired bottled water?,expired bottled water (1.00),none,none,none,none,none
+Why do Westerners/white people eat dassie?,westerners / white people (1.00),dassie? (1.00),none,none,none,none
+"Why don’t chefs wipe their knives after sharpening? I’ve sharpened knives before, and I’ve noticed metal dust when wiping the knife afterward?",chefs (0.88),knives after sharpening (1.00),knives (0.47),metal dust when (0.92),none,none
+What does vinegar do to pastry dough?,pastry dough (1.00),none,none,vinegar (1.00),none,none
+Is there a smoothie diet for vegans?,smoothie (1.00),vegans (1.00),none,none,none,none
+Will there be peace on Earth when man no longer eats meat?,peace (0.41),none,none,man (0.38),meat (1.00),none
+"Using team development stages model, descibe the steps for the formation of a temporary team which is formulated to establish a food chain franchise in your city?",development stages (0.95),temporary team (1.00),formulated (0.52),team (0.85),model (0.84),none
+How do vegans eat their sourdough bread?,vega (1.00),sourdough bread? (0.93),none,none,none,none
+"Why won't my cat eat meat? She eats dry cat food right now and she is one and a half years old. She won't eat any kind of meat, cooked or raw, but she will eat vegetables, fruits and other things.",cat (0.97),meat (1.00),dry cat food (1.00),none,none,none
+Why is my dog not eating her dog food but likes to eat human foods? She's not sick by the way.,dog (0.88),dog food (1.00),human foods (0.80),sick by (0.47),none,none
+What is the busiest Chick-Fil-A restaurant in the USA?,busiest chick - fil - a restaurant (0.99),usa (0.83),none,none,none,none
+What is the most a restaurant has ever done for you after messing up your order?,restaurant (1.00),ever (0.30),order (0.62),most (0.49),none,none
+"Which produces heat in the body, chicken or mutton?","body, chicken or mutton? (0.97)",none,none,heat in (0.70),none,none
+What are food cravings and how do they work?,food (0.98),none,none,cravings (0.69),they (0.42),none
+What foods contain the highest healthy chemical potential energy levels?,foods (0.91),highest (0.68),none,healthy chemical potential energy levels (0.97),none,none
+Why do you whip egg whites for an angel food cake?,egg whites for an (0.99),angel food cake (1.00),none,none,none,none
+Do you like ice cream soda?,ice cream soda (1.00),none,none,none,none,none
+Is hunger truly the best sauce?,truly (0.57),the best sauce (0.99),none,none,none,none
+"If you have worked at any fast food chain, what are some things customers aren't aware of?",fast food chain (1.00),none,none,customers (0.71),none,none
+What products contain hidden sugar?,products (0.36),none,none,hidden sugar? (0.98),none,none
+How many calories are in a coffee frappuccino?,##ories (1.00),coffee frappuccino? (1.00),none,cal (1.00),none,none
+How do I stop my parents from forcing me to eat lots of food?,lots of food (0.99),none,none,none,none,none
+How much CO2 is released from 1 kg of beef?,1 kg of beef (0.97),none,none,co2 is released from (0.89),none,none
+How long without food until I pass out?,none,none,none,food (1.00),none,none
+What is a food that starts with n?,food (1.00),none,none,n? (0.97),none,none
+What food has the highest amount of Omega-3?,food (0.75),highest (0.71),none,amount (0.85),omega - 3? (1.00),none
+"What foods make you wonder ""who was the first crazy person to taste that?""",""" (0.37)",first crazy person (0.82),that (0.76),foods (0.65),none,none
+"How do I cook a wolf in Seattle, WA?","wolf in seattle, wa (1.00)",none,none,none,none,none
+Why do South Koreans prefer to eat their food while it's still too hot?,south koreans (0.99),food (0.53),it (0.99),none,none,none
+My next door neighbor has a huge tomato plant that has nice tomatoes hanging into my yard. Should I pick them or would that be wrong?,next door (0.99),huge tomato plant that has nice tomatoes hanging (0.98),yard (0.33),none,none,none
+How many chicken wings are 3 oz?,chicken wings are 3 oz? (1.00),none,none,none,none,none
+Do even the poorest people in the United States of America have unlimited access to food? Does the government there provide free meals to every family that requests it?,poorest people (0.99),united states of america (0.90),government (0.33),food (1.00),none,none
+How do I eat poo for beginners?,poo for beginners? (1.00),none,none,none,none,none
+What is the most classic street food in Italy?,most classic street food (0.87),italy (0.56),none,none,none,none
+Is hospital food any good?,hospital (0.70),none,none,food (0.52),none,none
+Is it safe to eat uncooked bacon?,uncooked bacon? (0.93),none,none,none,none,none
+What foods are cheaper to make at home than to buy already made?,foods (0.85),already made (0.77),none,none,none,none
+Do you need to dry tomato seeds from your bush to grow a new plant or can you plant a freshly picked tomato that has the seeds exposed in the dirt?,tomato seeds from your bush (1.00),new plant (1.00),freshly picked tomato (1.00),the (0.42),seeds (1.00),exposed (0.54)
+Can we eat broken milk?,broken milk (1.00),none,none,none,none,none
+Can I eat chocolate on a low-carb diet?,chocolate (1.00),low - carb diet (1.00),none,none,none,none
+At what age should you cull your roosters to get the best meat?,roosters to get the best meat (0.99),none,none,none,none,none
+Should I tip a pizza from Pizza Hut? Why?,pizza from pizza hut (1.00),none,none,none,none,none
+Has anyone known to sterilize plant-based meat? Is it the same as how we sterilize conventional meat? I am looking for heating treatment for plant based meat.,##ril (0.55),plant - based meat (1.00),sterilize conventional meat (0.87),ste (1.00),##ize (0.72),heating (0.98)
+Similar eggs have gone all frozen from the fridge. How do I make them soft again?,similar eggs (0.78),frozen from the fridge (0.80),soft again (0.96),none,none,none
+What are the benefits of eating canned tuna?,canned tuna (1.00),none,none,none,none,none
+Do you share your lunch with your siblings?,lunch (1.00),siblings (0.44),none,none,none,none
+Are Doritos halal? Why or why not?,do (0.99),##ritos halal? why or why not (0.81),none,none,none,none
+How much wasabi would kill me?,none,none,none,wasabi (1.00),none,none
+What's the best way to get an egg off your windows?,egg off your windows (1.00),none,none,none,none,none
+"Do African American citizens have the same access to fiber, nutrients, and fruits and vegetables as white (non African decent) citizens?",african american citizens (0.99),nutrients (0.69),white ( non african decent ) citizens (0.92),"fiber, (0.96)",", and fruits and vegetables (0.87)",none
+"Given the fact that dining out/ordering food is very expensive in Greece, while the actual average wage there is around 300 euros per month, how are restaurants and fast food businesses able to operate in Greece?",dining out / ordering food (1.00),very expensive in greece (0.99),actual average wage there (0.97),300 (0.47),none,none
+Can a pancake mix substitute for a cake mix?,pancake mix (1.00),cake mix (0.93),none,none,none,none
+Do the French fix different foods for children the way Americans give the kid mac and cheese instead of what everyone else is eating?,french fix different foods (1.00),children the way americans give the kid mac and cheese instead of what everyone else (0.97),none,none,none,none
+What should you eat if you're up late at night and hungry?,late (0.44),none,none,night (0.34),hungry (0.53),none
+"Why do people assume I am vegetarian just because I don't eat meat often? I still eat meat, I just don't eat it in every meal.",meat (0.64),meal (0.77),none,meat often (0.99),it (0.63),none
+"How do we feel about bringing babies to eat in restaurants? Looking to hear from parents, servers, fellow diners, etc.",babies to eat in restaurants? (1.00),"hear from parents, servers, fellow diners (0.91)",etc. (0.74),none,none,none
+Is Canadian food similar to American?,canadian food (0.95),? (0.98),none,american (0.94),none,none
+Why does Oreo crème taste so good?,oreo creme taste (1.00),good (1.00),none,none,none,none
+Why do Greek potatoes taste different (and better) from American potatoes?,greek potatoes taste different ( and better ) from american potatoes (0.97),none,none,none,none,none
+Would you take a potato chip and eat it?,potato chip (1.00),it (1.00),none,none,none,none
+My spouse is gaining weight after marriage and I'm the only one who cooks. He puts the blame on me and my food. What can I do?,none,none,none,weight (0.97),marriage (0.72),food (0.89)
+What happened to the orange popsicles with vanilla ice cream inside?,orange popsicles with vanilla ice cream inside (1.00),none,none,none,none,none
+How do you cook when you don't like cooking?,when (0.94),none,none,cooking (0.94),none,none
+What are the worst foods for sugar?,worst (0.81),none,none,sugar (0.84),none,none
+What is the best way to reuse a plastic milk jug?,plastic milk jug (1.00),none,none,none,none,none
+How long after wisdom teeth removal can you eat sushi?,removal (0.70),sushi? (1.00),none,wisdom teeth (0.81),none,none
+Why is sweet tea so popular in the South?,sweet tea (1.00),south (0.66),none,none,none,none
+How rare can you eat a steak?,steak (1.00),none,none,none,none,none
+How long after butchering would meat go bad if left out?,meat go bad if left out (1.00),none,none,butcher (0.87),none,none
+"I tried the Paleo diet. After 3 days, I no longer had a sweet tooth or any urge to drink alcohol or eat junk food. Is this common?",paleo (1.00),days (0.72),alcohol or (1.00),3 (0.58),sweet tooth or any urge (0.84),junk (0.49)
+Is it dangerous for a dog to eat yeast dough?,dog (1.00),yeast dough (0.99),none,none,none,none
+What is your country's version of Spanish tapas?,spanish tapas? (0.98),none,none,none,none,none
+Can't the Northern Ireland Jewish community obtain kosher foods and ingredients from the Republic of Ireland instead of getting them from Great Britain?,northern ireland jewish community (1.00),kosher foods and ingredients from the republic of ireland (1.00),them (0.56),none,none,none
+Have you ever walked out of a restaurant after you were seated by a waiter or waitress?,restaurant (1.00),seated (0.66),or (0.81),waiter (0.85),waitress (0.52),none
+"Why does lettuce get ""rusty red""? Is it okay to eat it?",lettuce (1.00),""" rusty red ""? (0.92)",it (0.99),none,none,none
+What should you eat when you're tired of cooking?,none,none,none,cooking (1.00),none,none
+What are the best foods to prevent acne for a vegan?,acne for a vegan (1.00),none,none,none,none,none
+Why do people seem to think all fast food workers want $15 an hour?,all fast food workers want $ 15 an hour (0.93),none,none,none,none,none
+Has a type of ice cream ever been marketed that contained crunchy bacon bits mixed with vanilla or French vanilla ice cream?,ice cream (1.00),contained crunchy bacon bits mixed with vanilla or french vanilla ice cream (1.00),none,none,none,none
+Will consuming high-quality olive oil daily help a person live a long healthy life?,high - quality olive oil daily (1.00),long healthy life (0.99),none,none,none,none
+Am I the only one who disliked meat before even knowing where it comes from? I thought kids were supposed to be picky eaters.,meat (0.87),kids (0.99),picky eaters (0.98),before (0.60),even knowing where it comes from (0.55),none
+How do I make Captain D's fish batter?,captain d's fish batter (1.00),none,none,none,none,none
+What does a cherry plum taste like?,cherry plum (1.00),none,none,none,none,none
+Do you need to eat fish to get DHA?,fish to get dha (1.00),none,none,none,none,none
+"You are sleeping, you are hungry, and you have butter cheese and juice in the fridge. What is the first thing you will open?",first thing (0.35),none,none,butter cheese and juice in the fridge (0.96),none,none
+What foods are unhealthy to eat after being vaccinated against rabies?,foods (0.86),unhealthy (0.62),after being vaccinated against rabies (0.97),eat (0.36),none,none
+What is the difference between sour cream and mayonnaise?,sour cream and mayonnaise? (1.00),none,none,none,none,none
+Is it safe to store dry food in plastic containers?,dry food in plastic containers (1.00),none,none,none,none,none
+What is dimorace?,dimorace (0.63),none,none,none,none,none
+What is the rudest thing someone has done or said when you have hosted/cooked for them?,rudest thing (0.70),when (0.52),/ (0.57),done or said (0.38),hosted (0.60),cooked (0.41)
+"When eating BBQ pork, do you want the meat to be shredded/chopped, pulled, small chunks or sliced?",bbq pork (1.00),meat (1.00),"be shredded / chopped, pulled, small chunks or sliced (1.00)",none,none,none
+Are humans going to have to eventually become vegetarian? Should I do it now? (I’m honestly undecided on this and here to be convinced by sensible arguments),none,none,none,##ecided (0.37),this (0.87),sensible arguments ) (0.98)
+What is that one food that you remember that made you fat?,one (0.44),fat (0.50),none,food (0.68),none,none
+How long can a McDonald’s hamburger sit out before it actually tastes spoiled?,long (0.50),mcdonald ’ s hamburger sit out (1.00),it actually tastes spoiled (0.97),none,none,none
+Can diabetics eat at Subway?,diabetics (0.92),subway (0.93),none,none,none,none
+I want to gain muscle and lose fats at the same time. Should I cut my food portion in daily meals?,muscle (1.00),##s (0.78),same (0.61),fat (0.74),none,none
+Why is giving up junk food so hard?,junk food (1.00),none,none,none,none,none
+What happens if you cook with an unseasoned cast iron pan?,none,none,none,unseasoned cast iron pan (0.96),none,none
+Is it okay to eat mango at night?,mango (1.00),none,none,none,none,none
+How do you detox your body after eating junk food?,det (0.78),body after eating junk food (0.94),none,none,none,none
+What are the food that helps to lose weight faster?,weight faster (0.76),none,none,food (0.99),none,none
+What's the green stuff people eat with fish and chips? Is it guacamole?,green stuff people eat with fish and chips? (1.00),it guacamole? (0.93),none,none,none,none
+What kind of animal likes to eat bananas at night? A certain animal is stealing and eating bananas from our house location in Bhagalpur (Bihar).,animal (0.51),bananas (1.00),night (0.98),b (0.33),none,none
+"I don't eat non-veg but cook non-veg food for my in-laws, does it effect my spiritual growth?",non - veg (1.00),non - veg food (1.00),in - laws (1.00),none,none,none
+"Do cats really prefer eating from the food container rather than from their bowl? If that’s not unusual, how do I get my cat to eat from the bowl itself?",cats (1.00),from the (0.87),food container rather (0.79),eating (0.59),unusual (0.25),none
+Is cheddar on Philly cheese steaks relatively good?,cheddar on philly cheese steaks relatively good (0.98),none,none,none,none,none
+Were nuts considered unhealthy in the past?,unhea (0.58),##y (0.53),none,nuts (0.48),##lth (0.38),past (0.50)
+What foods are good after radiation exposure?,foods (0.83),good (0.46),none,after (0.35),radiation exposure (0.80),none
+What foods are high in natural sugar?,foods (0.97),none,none,natural sugar? (1.00),none,none
+How much uncooked rice makes 1 cup cooked?,1 cup cooked? (1.00),none,none,uncooked rice makes (0.87),none,none
+Is it okay to eat burgers from McDonald's on keto diet if you order it without the bun and any condiments with carbs?,burgers from mcdonald's on keto diet (1.00),and any con (0.93),##s with (0.92),the bun (0.73),##diment (1.00),car (0.97)
+How can eating Takis kill you?,none,none,none,takis (0.98),none,none
+What types of chicken pieces make up an 8-piece KFC chicken bucket?,pieces (1.00),8 - piece kfc chicken bucket (1.00),none,chicken (1.00),none,none
+What should be eaten during Thursday Fast?,thursday fast (0.95),none,none,none,none,none
+"How do I skip dinner when my parents make me eat it? I find ways to skip other meals, but I feel disgusting when I eat dinner. (Please just give me answers-i know it isnt healthy but I feel so fat and I need ways to skip dinner)",dinner (1.00),it (0.63),other (0.45),disgusting (0.69),it (0.56),healthy (0.53)
+Which cultures completely avoid meat consumption?,none,none,none,meat consumption (1.00),none,none
+I feel full and hungry at the same time. What should I do?,none,none,none,none,none,none
+What is Jaehyun's favorite food?,jaehyun's favorite food (1.00),none,none,none,none,none
+How did you deal with a coworker eating your food?,coworker eating your food (1.00),none,none,none,none,none
+What are the best Chinese snacks?,the best chinese snacks (1.00),none,none,none,none,none
+Which eating habit is ordinary in your country but strange in the rest of the world?,eating (0.93),ordinary (0.55),country (0.35),habit (0.79),strange (0.34),none
+How much should I charge for my meal prep plan? It includes 6 meals and is very healthy.,meal prep plan (1.00),meals (0.99),none,6 (1.00),healthy (0.66),none
+What happens to the mind with consciousness after spiritual awakening?,mind with consciousness after spiritual awakening (0.89),none,none,none,none,none
+Discuss the type and use of growth promoters feed additives in animal nutrition? What are your recommendations for using feed additives for milk enhancement in dairy and meat production in beef animals.,growth promoters feed additives in animal nutrition (1.00),feed additives for milk enhancement (1.00),and (0.99),type (0.65),dairy (0.82),meat (0.86)
+What do I do if I don't want to share my food?,food (0.76),none,none,none,none,none
+What do we call a person who cuts and sells meat?,meat (0.67),none,none,none,none,none
+"My dad ate a pizza with a pound of cheese and a pound of peperoni and he eats alot of junk food, nobody can stop him from eating not even me and even when I try to tell him to stop he doesnt stop eating junk food and im worried what do I do?",pizza with a (1.00),of cheese and a pound of peperoni (1.00),eats alot of junk food (0.93),pound (0.53),nobody (0.54),not (0.77)
+"How did 'kimchi', a type of food known to be eaten by peasants and those in famines due to its preservative quality, become the pride of Korea?",kimchi ' (0.98),type of food (0.88),eaten (0.82),famine (0.97),its (0.55),preservative quality (0.97)
+Is dark chocolate good or bad for your heart?,chocolate good or bad (0.61),heart (0.60),none,dark (0.94),none,none
+What are healthy snacks that keep you full?,full (0.42),none,none,healthy snacks (0.69),none,none
+"Will parboiling a potato with the skin on before I microwave it make it less lumpy? If so, how long should it be parboiled, or is there something better to get a quicker baked potato?",##bo (0.68),potato with the skin on before i microwave it (1.00),it less lumpy (1.00),par (0.98),par (0.99),none
+What chain restaurant(s) does your spouse love?,chain restaurant ( (0.92),) (0.52),spouse love (0.80),s (0.62),none,none
+"Is the term ""sea salt"" redundant? Doesn’t all table salt come from the sea?","sea salt "" redundant (0.99)",table salt (1.00),from (0.49),all (0.57),none,none
+How long do you water bath salsa?,water bath salsa (1.00),none,none,none,none,none
+Watching a YouTube video today I realised I had never tried goat meat. I’ve never seen it in a UK supermarket. Where/how could I get some? What does it taste like? Is it worth trying? What cut do I get?,youtube (1.00),goat meat (0.99),uk supermarket (0.93),? (0.99),trying (0.99),cut (0.68)
+Why is tomato ketchup banned in France?,tomato ketchup banned (1.00),france (0.98),none,none,none,none
+Have you ever tried coffee that tasted like it smelled?,coffee that tasted like it smelled (0.95),none,none,none,none,none
+If I eat rice will my belly increase in size?,rice (0.94),belly (0.95),none,size (0.81),none,none
+Does a cat need to eat rice?,cat (1.00),rice (1.00),none,none,none,none
+Why do all Subways have a weird kind of chemical smell whenever you walk in? Is it some kind of preservative they put in their decrepit bread?,subways (1.00),weird kind of chemical smell whenever (1.00),in (0.83),none,none,none
+Is it safe to eat oysters during pregnancy?,oysters (1.00),pregnancy (0.70),none,none,none,none
+How can my food control my mood?,none,none,none,food (0.99),mood (0.50),none
+"I have brownie mix but no eggs, what is the best substitute for the eggs?",best (0.60),eggs? (0.81),none,brownie mix (1.00),"eggs, what (0.90)",the (0.84)
+Can you eat cake for dinner?,cake (1.00),dinner (0.84),none,none,none,none
+Who eats rice with bananas?,rice with bananas (1.00),none,none,none,none,none
+What's the problem with butter in Canada?,butter in canada (0.98),none,none,none,none,none
+Are chicken wings healthy? Why or why not?,chicken wings healthy (0.82),why (0.27),why not (0.53),none,none,none
+How can I get hungry in 5~10 minutes?,hungry (0.60),5 ~ 10 minutes? (0.90),none,none,none,none
+My friends keep mocking me for being a vegetarian. How can I start eating meat?,meat (1.00),none,none,none,none,none
+What foods shouldn't be eaten straight out of a can?,foods (0.93),eaten straight out of a can (0.96),none,none,none,none
+What are the worst foods for belly fat?,worst (0.59),belly fat (1.00),none,none,none,none
+What was the single best food or beverage you put into your mouth in recent memory?,single best food or beverage you put into (0.99),mouth (1.00),recent memory (0.96),none,none,none
+"If you can only eat one vegetable, which one would give you the most nutritional value?",vegetable (1.00),one (0.53),most (0.44),nutritional value (0.85),none,none
+How did the different civilisations learn to eat foods with dipping sauces?,different civilisation (0.90),foods with dipping sauces (1.00),none,none,none,none
+I just got my 7-week-old pug. What food should I feed him?,7 - week - old pug (1.00),none,none,food (0.89),none,none
+What happens when you eat too much icing?,too much icing (1.00),none,none,none,none,none
+"If mangoes are slightly brown and soft inside, have they gone bad?",mangoes (1.00),slightly brown and soft inside (0.99),none,gone (0.68),bad (0.74),none
+I'm 14 years old and a very picky eater. I don't like any fruits or vegetables except bananas. It hasn't been a health issue but it's just embarrassing. How can I bring myself to try new foods?,very (0.92),picky eater (0.92),or (0.68),fruits (0.99),vegetables except bananas (0.82),embarrassing (0.56)
+Why do I feel so nauseated when I think about eating?,nausea (0.77),none,none,##ted (0.37),eating (0.93),none
+How much watermelon is too much? I can eat 3-5 pounds a day while in season.,##melon is too much (0.96),3 - 5 pounds a day (1.00),none,water (1.00),season (0.74),none
+"What would a fusion of pancakes, waffles, and French toast look like?",fusion (0.99),"pancakes, waffles, and french toast (1.00)",none,none,none,none
+"Is it possible for an all-kosher diet to still be enjoyable and tasty, or is it too deprived?",all - kosher diet (1.00),be enjoyable and tasty (0.97),none,still (0.37),deprived (0.57),none
+What does soaking onions in milk do?,soaking onions in milk do (0.97),none,none,none,none,none
+Can I eat mushroom and milk together?,mushroom and milk together (1.00),none,none,none,none,none
+What type of meat scares you the most?,none,none,none,meat (1.00),none,none
+What is the most comforting smell in the world?,most (0.58),comforting (0.93),none,smell (0.29),none,none
+How do you handle a situation where someone shows up empty handed to a potluck and then wants to leave with a load of leftovers?,empty handed to a potluck and then (0.97),none,none,leftovers (0.93),none,none
+What is the historical background of Chinese people eating almost everything as a food?,chinese people eating almost everything as a food (0.94),none,none,historical (0.87),none,none
+Is rancid olive oil bitter?,rancid olive oil bitter (1.00),none,none,none,none,none
+Is it okay to eat a leftover burger after I refrigerated it and left it overnight?,leftover burger after i refrigerated it and left it overnight (1.00),none,none,none,none,none
+How much sodium is in cream cheese?,cream cheese (1.00),none,none,sodium is in (0.96),none,none
+"If you have 3 eggs for breakfast and you are 4 people, what would you do?",people (0.78),none,none,3 eggs for breakfast (0.92),4 (0.60),none
+"If I ate 652 calories a day but ate lots of protein and nutrients, would I get sick?",652 calories a day but (0.96),lots of (0.89),and nutrients (1.00),protein (0.90),none,none
+"Which should I take on day two of food poisoning? I am having bad nausea, Kaopectate or Gravol?",day two of food poisoning (1.00),"nausea, kaopectate or gravol? (0.99)",none,bad (0.99),none,none
+What country in the world has the best food?,the best (0.61),none,none,food? (0.91),none,none
+Is the Doritos Locos Taco authentic Mexican food?,doritos locos taco authentic mexican food (1.00),none,none,none,none,none
+"Is it unhealthy to eat less than half of one meal per day? I'm 5'5"" and weigh 112 lbs, so I'm not thin. I really don't get that hungry. Besides, I've always had a mental aversion to food.",unhealth (0.56),less than half of one meal per day (1.00),"' 5 "" (0.98)",112 (0.51),mental avers (0.68),food (1.00)
+Why do vegetarians try to shame people who eat meat when plants are alive too?,vegetarian (0.51),people (0.58),meat when plants are alive too (0.85),none,none,none
+How do I make crispy onion cabbage pakora? https://youtu.be/vikNDXY0i2U,crispy onion cabbage pakora? https : / / youtu. be / vikndxy0i2u (1.00),none,none,none,none,none
+Is itopride before or after food or between food?,itopride (0.65),or after food or between food (0.78),none,none,none,none
+How come my sodium and saturated fat intake is high even though I eat healthy?,sodium and saturated fat intake (1.00),high (0.60),none,healthy (0.95),none,none
+Why is the butter I made not potent enough?,butter (1.00),none,none,potent enough (0.64),none,none
+What should you eat everyday to stay healthy?,everyday (0.50),healthy (0.52),none,none,none,none
+How long should I wait between breakfast and a workout?,breakfast (0.98),workout (0.49),none,none,none,none
+My therapist started eating lunch during our session. It was a full dinner plate of salmon and sides. I told her I felt like she didn’t give me her full attention. How bad is it for her to have done this?,lunch (1.00),session (0.79),it (0.54),none,none,none
+Is Tabasco a good sauce to put on sardines?,tabasco (0.99),sauce (0.99),sardines (0.92),none,none,none
+Did McDonald's give me food poisoning?,food (1.00),none,none,mcdonald's (0.96),poisoning (0.57),none
+Why do eggs and pineapples not go together?,eggs and pineapples not go together (0.93),none,none,none,none,none
+What country is most famous for chocolate?,none,none,none,chocolate (1.00),none,none
+What if your school cafeteria ladies refuse to serve kids lunch and go on a strike for higher pay?,school cafeteria ladies (0.98),kids lunch (1.00),pay (0.98),higher (0.95),none,none
+Where does Chik-Fil-A get its chicken from? Is it Tyson?,chik - fil - a get its chicken from (0.98),? (1.00),none,tyson (0.98),none,none
+Can vegans eat meringue since only the yolk grows to be a chick and not the egg white?,vega (0.97),meringue since only the yolk grows to be a (1.00),chick (0.72),none,none,none
+How much ice cream is in a scoop?,scoop (1.00),none,none,ice cream (1.00),in (0.61),none
+What would happen if I injected guacamole in my bloodstream?,guacamole in (0.99),bloodstream (1.00),none,none,none,none
+Can you eat rusty lettuce?,rusty lettuce (1.00),none,none,none,none,none
+Why is eating too much pizzas and burgers bad for you?,too much (0.80),pizzas and burgers (0.95),none,none,none,none
+Can you get a sausage that's like a haggis in size that's cooked in an oven?,sausage (1.00),' s like a haggis in size that's (0.95),in an oven (0.90),cooked (0.60),none,none
+Can I eat raw mango during a fever?,raw mango during (1.00),fever (1.00),none,none,none,none
+What happens to your body if you never eat vegetables?,body (0.37),vegetables (1.00),none,none,none,none
+Are ham shank bones okay for my dog to chew on?,ham shank bones (1.00),dog (0.96),on (0.65),none,none,none
+Can DoorDash pick up multiple orders?,doordash (0.98),multiple orders (1.00),none,none,none,none
+"If a restaurant customer drops their food on the floor accidentally (like a whole burger), should the restaurant replace it or should the customer?",restaurant customer (0.99),food on the floor accidentally ( like a whole burger ) (0.93),restaurant (0.62),it (0.60),customer (0.92),none
+"Science has discovered how to make all kinds of candy very healthy, a meal in itself, low calorie, sustainable and tastes as good as before. What are you having for dinner and how often do you have it each week?","all kinds of candy very healthy, a meal in itself, low calorie, sustainable and (1.00)",dinner (0.91),often (0.99),tastes (0.43),good (0.94),before (0.59)
+"If I eat in small portions, like cutting it in halves or in quarters, without counting the calorie content of every food, can I still lose weight?",small portions (0.80),it in halves or in quarters (0.95),every food (0.59),counting (1.00),calorie content (0.98),weight (1.00)
+What do you eat on a raw food diet?,raw food (1.00),none,none,none,none,none
+"If you ordered pamplemousse in a French restaurant, what would you be served?",pamplemousse in a french restaurant (1.00),none,none,none,none,none
+How do I shut down radical vegans claiming that eating meat is abusing animals?,radical vegans claiming (0.97),meat is abusing (0.80),none,animals (0.81),none,none
+If you left macaroni and cheese out for less than 24 hours and then put it in the fridge is it still good?,macaroni and cheese out for less than 24 hours (0.97),it (0.97),fridge (0.39),good (0.63),none,none
+There is a warning on the back of some seaweed I bought saying it can expose you to cadmium and lead. Is this something I should be worried about?,back (0.45),seaweed i bought saying it can (1.00),##mium and lead (1.00),cad (0.98),none,none
+"I was crushing dried catnip leaves and there was fine almost powdered catnip on the end of the pestle, so I snorted it, is this fine?",dried catnip leaves (1.00),there was (0.76),almost powdered catnip on the end of the pestle (1.00),fine (0.59),fine (0.31),none
+Is white rice and chicken a good diet for losing weight?,white rice and chicken (1.00),weight (0.86),none,losing (0.96),none,none
+Which tribe has the best soup in Nigeria?,tribe (0.47),the best soup (0.99),nigeria (0.95),none,none,none
+"If peanuts were a true nut, would people still have allergies to them?",peanuts (1.00),true nut (1.00),people (0.37),allergies to them (0.88),none,none
+Is McDonald's selling frozen or fresh burgers?,mcdonald's selling frozen or fresh burgers (0.96),none,none,none,none,none
+Why should not eat mango and milk together?,mango and milk together (1.00),none,none,none,none,none
+Is it arduous to form baby food?,baby food (1.00),none,none,ar (0.88),none,none
+Is it okay to eat expired cereal?,expired cereal (1.00),none,none,none,none,none
+What should I eat before a water fast?,water fast (1.00),none,none,none,none,none
+Why is it okay to eat cheese if it's moldy but not other foods?,cheese if it's moldy but not other foods (0.99),none,none,none,none,none
+What can my wife do about finding a band aid in her food from a fast food restaurant?,band aid in her food from a fast food restaurant (1.00),none,none,none,none,none
+What does it mean to have a dream about seeing someone eating lots of salad?,eating lots of salad (0.88),none,none,none,none,none
+What do you eat every day?,none,none,none,none,none,none
+Why dont I feel hungry ever? (recovering from an eating disorder),hungry ever? ( recovering (0.99),disorder ) (0.97),none,eating (0.59),none,none
+"When you bake a layer cake in standard cake pans, should you put the cake pans straight on the oven rack or on a cookie sheet that goes on the oven rack?",layer cake in standard cake pans (1.00),cake pans straight on the oven rack (1.00),cookie sheet that goes on (0.96),none,none,none
+How much bread is in a bagel?,bagel? (1.00),none,none,bread (0.52),none,none
+How can I lose belly fat while eating fast food?,fat (0.94),fast food (1.00),none,belly (0.98),none,none
+What would you eat at 3 am?,3 am (0.88),none,none,none,none,none
+What nuts are bad for cats?,cats (0.91),none,none,nuts (0.45),none,none
+Does breakfast sausage go bad in the refrigerator?,breakfast sausage (1.00),bad in the refrigerator (0.99),none,none,none,none
+What is the best way to store mushrooms at home?,mushrooms (1.00),none,none,none,none,none
+Why do people eat corn starch right out the box?,corn starch right out the box (1.00),none,none,none,none,none
+I started hating people who consume beef. Is that right or wrong?,beef (1.00),right or wrong (0.50),none,none,none,none
+"When invited to someone's home to dinner, is it rude to ask to take food home?",food (0.74),none,none,home (0.31),none,none
+What are some emotions that affect food choices?,food choices (0.79),none,none,emotions (1.00),none,none
+How much protein does 100 gm of paneer have?,100 gm of paneer (1.00),none,none,protein (1.00),none,none
+Which Burger King outlets accept EBT?,burger king outlets (1.00),##bt? (0.75),none,e (1.00),none,none
+"I am conducting a survey for males vs females. If male, how many pizza toppings do you like on your pizza? If female, how many pizza toppings do you like on your pizza?",males vs females (0.99),male (0.79),many pizza toppings (0.98),none,none,none
+What does vanilla sugar do in baking?,vanilla sugar (1.00),none,none,baking (0.82),none,none
+Is free range meat tougher?,free range meat tougher (0.96),none,none,none,none,none
+"What are some tips for someone in their second trimester but is still lacking an appetite, like can literally go a day without eating?",second trimester (0.77),day (0.75),none,appetite (0.98),like (0.23),eating (1.00)
+Can banana be eaten with curd?,banana (1.00),none,none,curd (0.97),none,none
+"Why has the UK banned the export (to the EU.) of raw meats (sausages, etc.) except frozen meats?",uk (0.60),export ( (0.66),"eu. ) of raw meats ( sausages, etc. ) except frozen meats (0.98)",none,none,none
+What are some fruits and vegetables that start with an f?,fruits (0.67),that (0.62),with an (0.77),and vegetables (0.77),f (0.63),none
+How do I avoid mold on food?,food (0.77),none,none,mold on (0.94),none,none
+What part of the cow is 'tomahawk steak'?,cow (1.00),tomahawk steak ' (1.00),none,none,none,none
+How long does it take to cook frozen taquitos in an air fryer?,frozen taquitos in an air fryer (1.00),none,none,none,none,none
+My cat won't eat vegan food. What is wrong?,cat (0.98),vegan food (1.00),none,wrong (0.62),none,none
+Is it legal for a landlord to enter your apartment and watch your TV and eat your food? I came home to find my landlord sitting on my couch eating my potato chips… he told me he can because he owns the property.,landlord (0.77),apartment (0.74),tv (0.71),property (0.44),none,none
+Are there any good fictional depictions (humorous or serious) of the first person to eat cheese?,humorous or serious (0.69),the first person (0.62),cheese (1.00),good fictional depictions (0.86),) (0.82),none
+"I am really hungry, but have no food at the moment. What can help me forget my hunger?",none,none,none,food (1.00),hunger (0.82),none
+My son (16 years old) won’t stop asking me to feed him chicken dippers every night. We’ve had them every night for the last 2 weeks and I feel enough is enough. He only eats fast food. What should I do?,16 years old ) (0.68),’ (0.35),chicken dippers every night (0.94),them (0.82),enough is (0.72),none
+"What has happened to Pizza Hut pizza? It was so good in the 80s and 90s, but now it’s practically inedible.",pizza hut pizza (1.00),it was so good in the 80s and 90s (0.95),##ible (0.85),in (0.59),##ed (0.76),none
+Is it okay to only eat meat and vegetables at 13?,meat and vegetables at 13? (0.87),none,none,none,none,none
+"If a Muslim cannot eat halal, is it okay to eat kosher?",muslim (0.99),halal (1.00),kosher (1.00),none,none,none
+What can I do if I ate an undercooked hamburger and have stomach issues?,undercooked hamburger (1.00),issues (1.00),none,stomach (1.00),none,none
+Can you fry chicken with mustard oil?,chicken with mustard oil (1.00),none,none,none,none,none
+Will a restaurant make more tip if the tip options are quantified through percentage vs fixed dollar amounts?,restaurant make more tip if the tip options are quantified through percentage vs fixed dollar amounts (1.00),none,none,none,none,none
+Why does my weight always go up after I eat Chinese food?,chinese food (1.00),none,none,weight (1.00),none,none
+Which veggies grill best?,ve (0.99),##ggies grill best? (0.86),none,none,none,none
+Is it possible to make chocolate milk from 100% cacao powder?,chocolate milk from 100 % cacao powder (1.00),none,none,none,none,none
+"Can grains used as chicken feed be fermented then dried? If yes, what's the best way to do that?",grains (0.74),chicken feed be fermented then dried? (0.97),yes (0.99),none,none,none
+Where can you buy the best bagels in California?,the best bagels in california (1.00),none,none,none,none,none
+How many carbs are in a Boston cream donut?,##bs (1.00),boston cream donut? (1.00),none,car (1.00),none,none
+What dessert goes with fried chicken?,dessert (0.35),? (0.94),none,fried chicken (0.83),none,none
+Can yeast be added in cake making?,cake (1.00),none,none,yeast (1.00),added (0.50),making (0.50)
+I ate an Apple pie that was left in it's package at room temperature for 24 hours. Will I get food poisoning?,apple pie that was left in it's package at room (0.98),hours (0.51),poisoning (1.00),24 (0.66),food (0.95),none
+Can you mix baking powder and vinegar?,baking powder and vinegar (1.00),none,none,none,none,none
+"Does packaged sausage, like Jimmy Dean sausage, stay good past the expiration date? If so, then how long?",packaged sausage (1.00),like jimmy dean sausage (0.96),stay good past the expiration date (0.92),none,none,none
+"Every day, I typically eat 6oz of salmon, 4-6 veggie meatballs, and 6oz of blueberries. Am I eating too much food?","6oz of salmon, 4 - 6 veggie meatballs, and 6oz of blueberries (1.00)",none,none,food (0.99),none,none
+What is the best way to store prawns?,prawns (1.00),none,none,none,none,none
+At what age can a child eat goldfish?,child (1.00),goldfish? (0.99),none,none,none,none
+Should restaurants allow customers to change/take off food items from the meal they want to order?,restaurants (0.50),customers (0.71),/ take off food items from the meal (0.87),none,none,none
+"How do picky eaters deal with social dinners for work, dates, etc.?",picky eater (1.00),"for work, dates, etc (0.87)",none,social dinners (0.97),. (0.64),none
+"If my neighbor’s chicken comes into my yard, do I have the right to eat it? Was it not trespassing?",neighbor ’ s chicken (0.99),yard (0.69),it (0.54),tres (0.61),##pass (0.63),none
+What local specialty does your country have?,country (0.45),none,none,local specialty (0.92),none,none
+Do you enjoy eating dinner alone sometimes?,dinner alone (0.85),none,none,none,none,none
+"How can I live healthy and make sure I get the carbonhydrates I need, when I can't eat gluten or starch?",carbonhydrates (0.85),i can't eat gluten or starch (0.94),none,none,none,none
+In what ways is being a vegetarian counterproductive in the fight to end climate change?,vegetarian counterproductive in the fight to end climate change (0.96),none,none,none,none,none
+What are the effects of more people watching cooking shows?,people (0.90),cooking shows (1.00),none,none,none,none
+"Why do some dog owners refuse to feed their dogs regular ""human-food""?",dog owners (1.00),"dogs regular "" human - food "" (1.00)",none,none,none,none
+"If you let your child eat in the car, how often do they cause a mess after eating?",child (0.84),car (0.50),mess (0.55),eating (0.98),none,none
+"Do Italians make ""one-pot"" pasta dishes like this one?   https://www.myrecipes.com/recipe/pasta-tomato-basil-sauce","one - pot "" pasta dishes like this one (1.00)",myrecipes. com / recipe (0.98),pasta - tomato - basil - sauce (0.98),none,none,none
+Does Jesus eat carbs?,jesus (0.80),##bs (0.99),none,car (0.81),none,none
+What should be the first thing to drink in the morning?,morning (0.49),none,none,none,none,none
+What kinds of foods contain hidden fats?,foods (1.00),none,none,hidden fats? (1.00),none,none
+Can you order from multiple restaurants at one go on Swiggy?,multiple restaurants (0.98),one go on swiggy (1.00),none,none,none,none
+"Why do all Pho soups taste the same? Also, will I get hated if I eat everything off of my noodle soup except for the soup itself?",pho soups (1.00),same (0.43),everything off of (0.81),hated (0.60),none,none
+Was anyone else's cat/s obsessed with food right after adoption?,cat / s obsessed (0.99),right (0.29),none,food (1.00),adoption (0.88),none
+What is your favorite Jewish food?,favorite jewish food (0.97),none,none,none,none,none
+"I’m 17, I dieted a lot in my past years. When I decided to go into normal eating, I realised I don’t know when/how to eat. How do I eat normally & still lose weight?",normal eating (0.95),i (0.72),’ (0.54),when / (0.53),weight (1.00),none
+Could I stay skinny if I workout 5 times a week and eat 1 meal a day (and after throw it up)?,skinny (0.68),5 times a week (0.89),1 meal a day ( and after throw it up ) (0.83),none,none,none
+Why do Americans not like to eat durian fruit?,durian fruit? (1.00),none,none,none,none,none
+"Does your spouse want you to cook all of the meals at home, even though they’re a better cook than you?",all of the meals (1.00),they ’ (0.71),none,spouse (0.44),none,none
+"What if Subway was giving free sandwiches? If you could eat a $5 footlong in less than 5 minutes you get it for free, but if you failed you had to pay the $5 dollars. Would you participate?",free sandwiches (0.99),$ 5 footlong in less than 5 minutes (1.00),$ 5 dollars (1.00),subway (0.67),failed (0.59),none
+How can a paper popcorn box be replaced?,paper popcorn box (1.00),replaced (0.74),none,none,none,none
+Is it true that US soldiers get food airdropped to them every day?,soldiers (0.61),food airdropped to them every day (0.84),none,none,none,none
+Can takis kill you?,none,none,none,takis (0.97),none,none
+How do you keep the crust of a frozen pizza from burning?,crust (1.00),frozen pizza from (0.95),none,burning (0.98),none,none
+At what temperature will an egg instantly boil?,egg instantly boil (1.00),none,none,none,none,none
+Why do Americans eat with just a fork and not a knife and fork?,americans (0.86),none,none,just (1.00),fork (0.96),knife and fork (0.87)
+Why isn't honey suitable for vegans?,honey (0.51),vegans (0.99),none,none,none,none
+"Why are the meat-free, meat-style meals twice as expensive as real meat?","meat - free, meat - style meals twice as expensive (1.00)",real meat (0.96),none,none,none,none
+How can meat production contribute to global warming when it's part of the biogenic cycle?,global warming when it (0.83),biogenic cycle (0.87),none,meat production (0.93),none,none
+Can I whip cream that is past its use by date?,cream (0.98),none,none,date (0.99),none,none
+"What’s the specialty food in Birmingham, AL?","specialty food in birmingham, al? (1.00)",none,none,none,none,none
+What are the cuisines of North Korea?,north korea (1.00),none,none,none,none,none
+How long does it take for a dog to get used to new food?,dog (1.00),used (0.50),none,new food (1.00),none,none
+What foods and drinks should I remove to lose weight?,foods (0.51),none,none,drinks (0.88),weight (0.74),none
+Is there a database that gives the bar codes/ UPC codes mapping to ingredients of packed foods?,bar codes / upc codes mapping to ingredients of packed foods (1.00),none,none,none,none,none
+Is cooking shirtless a bad idea? I accidentally touched my tummy with a hot frying pan and burned the skin slightly.,shirtless (1.00),tummy with a hot frying pan (0.97),slightly (0.90),skin (0.66),none,none
+I want to try being a vegetarian for a week. What are some tips to do this?,none,none,none,tips (0.99),none,none
+Is it healthy to eat pizza daily?,pizza daily (1.00),none,none,none,none,none
+Are Starbucks sugar-free syrups good?,starbucks sugar - free syrups good (0.99),none,none,none,none,none
+How do you say “Chinese food” in Chinese?,“ chinese food ” in chinese? (0.91),none,none,none,none,none
+Who does buy fresh vegetables?,fresh vegetables (1.00),none,none,none,none,none
+What is the best way to not feel hungry/ignore being hungry?,hungry / (0.66),hungry (0.36),none,none,none,none
+How do you eat Vegemite like an Aussie?,vegemite like an aussie? (1.00),none,none,none,none,none
+Can a cat eat chicken eggs?,cat (1.00),chicken eggs (1.00),none,none,none,none
+Why are UK kebab shops allowed to advertise chips when they're actually selling fries?,uk kebab shops (1.00),advertise chips when they're actually selling fries (1.00),none,none,none,none
+Is goat meat bad for health?,goat meat (0.88),none,none,health (1.00),none,none
+What foods reduce pores on the face?,foods (0.45),none,none,pores on the face (0.92),none,none
+"My dog just ate 3 sugared donuts, what should I do?",dog (0.90),3 sugared donuts (1.00),none,none,none,none
+What food was ruined for you (you can't eat anymore) since trying the nicer/fancier version?,( you can't eat anymore ) (0.94),nicer / fancier version (1.00),none,food (0.79),none,none
+Can a dog eat too much of a good thing?,dog (1.00),much of a good thing (1.00),none,none,none,none
+What does the wait staff in fine dining restaurants think of people who want to take their leftovers home?,wait staff in fine dining restaurants (0.93),##overs home (0.85),none,left (0.50),none,none
+"A new waitress at my favorite restaurant read my order back to me, but I wasn't listening because everyone usually knows what I order. The order came out wrong, but the manager still charged me extra to fix it. Is this standard business practice?",favorite restaurant (0.50),order (0.38),order (0.74),manager (0.32),extra (0.36),none
+Are potatoes used in Chinese cooking?,chinese cooking (0.96),none,none,potatoes (0.82),none,none
+How do you get the fishy taste out of salmon?,fishy taste out of salmon (1.00),none,none,none,none,none
+What is the most difficult vegetable to extract oil from?,most (0.70),difficult (0.52),vegetable (0.80),none,none,none
+When do McDonald’s sauces expire?,mcdonald ’ s sauces expire (1.00),none,none,none,none,none
+Is BBQ as expensive to make as restaurants charge for it ($20 for two meats and sides)?,bbq (0.75),restaurants charge for it ( $ 20 for two meats and sides ) (0.99),none,none,none,none
+What is the difference between chicken eggs and the eggs we eat?,chicken eggs and the eggs we (0.97),none,none,none,none,none
+How frequently do you take snacks and drink in your pocket inside a movie theater to save money?,snacks and drink in your pocket inside (0.92),movie theater (0.97),none,money (0.82),none,none
+How do I get my Asian parents to stop commenting on how and what I eat? They always nag at me for eating at a later time or how much I eat even if it has a good amount of calories and it’s healthy.It really upsets me :(,asian parents (1.00),and what i eat (0.96),much (1.00),how (0.99),##ories (0.53),it (0.43)
+Does it matter if you use brown sugar or white sugar in cookies?,brown sugar or white sugar in cookies (1.00),none,none,none,none,none
+When was tartar sauce invented and by who?,tartar sauce invented (0.97),none,none,none,none,none
+Is kaopectate used to stop nausea from food poisoning? Can you take Gravol at the same time?,##opectate (0.75),nausea from food poisoning (1.00),gravol (0.99),ka (0.97),none,none
+How do I say ‘have you eaten dinner’?,dinner ’ (1.00),none,none,none,none,none
+What is the healthiest way to cook frozen vegetables?,health (0.97),frozen vegetables (1.00),none,none,none,none
+Do the Russians eat/make sauerkraut?,russians (0.96),/ make sauerkraut? (0.97),none,none,none,none
+What made you learn to cook?,none,none,none,none,none,none
+"What is a Korean steakhouse with grilled cook your own food in Times Square, New York City?",korean steakhouse with grilled cook your own food (1.00),"times square, new york city (1.00)",none,none,none,none
+Do you like a nice crusty bloomer for breakfast? I like to cut my own.,nice crusty bloomer for breakfast (1.00),own (0.99),none,none,none,none
+Is salt a necessary part of the human diet?,human (0.98),none,none,salt (1.00),none,none
+How do I saute spinach with olive oil?,spinach with olive oil? (0.95),none,none,sa (0.83),none,none
+"Are broccoli, spinach, and cabbage the best vegetables for you to eat?","broccoli, spinach, and cabbage the best (0.88)",none,none,vegetables (0.75),none,none
+"If a food has a strong smell and taste, if anything at all, what can that tell you about whether or not you should be eating it?",food (1.00),none,none,"strong smell and taste, if anything (0.98)",all (0.36),that (0.62)
+Should I feed my pet alien?,pet alien (1.00),none,none,none,none,none
+Is chocolate milk unhealthy if you're addicted to it?,chocolate milk unhealthy (0.96),none,none,it (1.00),none,none
+"I have heard that frozen pizzas have aluminum added to the cheese. Typically, is there aluminum added to the cheese of restaurant (take out and delivery included) pizza also?",frozen pizzas have (1.00),the cheese (0.95),to the cheese of restaurant ( take out and delivery included ) pizza also (0.98),aluminum added to (0.77),aluminum added (0.98),none
+Why can’t we buy chicken breasts with the skin on? Are the poor chickens grown skinless?,chicken breasts with the skin on (1.00),poor chickens grown skinless? (0.98),none,none,none,none
+Is it safe to eat cooked chicken that’s been left out overnight?,cooked chicken that ’ s been left out overnight (1.00),none,none,none,none,none
+What foods and drinks do you find weird and bizarre?,drinks (0.95),weird and bizarre? (0.98),none,foods (0.75),none,none
+What are some African foods that have low calories?,african foods (1.00),none,none,low calories (0.95),none,none
+I gag during and after eating food. Is this normal?,food (0.97),normal (0.61),none,none,none,none
+What can you do if you have a one-year-old who refuses to eat baby food?,one - year - old who refuses (1.00),eat baby food (1.00),none,none,none,none
+"For those who have grown up vegetarian, how would you describe the taste of different meats (chicken, beef, pork, etc.)?","different meats ( chicken, beef, pork, etc. ) (0.93)",none,none,none,none,none
+Which is the best non veg pizza in dominos?,the best non veg pizza in dominos? (1.00),none,none,none,none,none
+What's the difference between mayonnaise and salad dressing?,mayonnaise and salad dressing? (0.99),none,none,none,none,none
+Do you know how to quickly bring an egg that has just been taken out of the refrigerator to room temperature?,egg that has just been taken out of the refrigerator (1.00),room temperature (0.90),none,none,none,none
+Is there any food an air fryer can’t cook?,air fryer can ’ t cook (1.00),none,none,food (0.97),none,none
+Is it ok to eat a peach fruit cup that's 7 years old?,peach fruit cup that's 7 years old (1.00),none,none,none,none,none
+"Is it bad if two people order one meal in a restaurant to avoid wasting food? If not, why does it feel so?",bad (0.52),one meal in a restaurant (0.87),none,wasting (0.99),food (0.61),none
+How hot should oil be for frying?,frying (0.82),none,none,hot (0.27),oil (0.62),none
+"Even if I love the taste of meat, I want to become a vegetarian for ethical reasons. How can I do that?",meat (1.00),none,none,ethical reasons (0.71),none,none
+Would you prefer a delivery bot or an actual person to deliver your food?,delivery bot (1.00),actual person (1.00),food (1.00),none,none,none
+Is China the biggest honey producer in the world?,honey producer (0.90),none,none,none,none,none
+"Why doesn’t my baby brother (1.5 years old) not eat his food, and usually when he does eat it gets stuck in his throat, he doesn’t have appetite apart from breast milk?",baby brother ( 1. 5 years old ) not (0.98),food (0.78),stuck (0.44),it (0.53),appetite apart from (0.99),breast milk (1.00)
+"How was it decided we could eat duck eggs during the war in the UK? I was in a children's home in Devon, and distinctly remember those large eggs.",duck eggs during the war (1.00),the uk (1.00),children's home (1.00),large (0.76),none,none
+Which part of the plant is cabbage?,plant (0.98),cabbage (0.91),none,none,none,none
+What are the health benefits of eating goat meat?,goat meat (1.00),none,none,health (0.57),none,none
+What do we call the people who eat meat and fish?,meat and fish (1.00),none,none,none,none,none
+"When it comes to English culinary cuisine, I believe Shepherd's Pie to be the top of the menu. Can you change my mind?",english culinary cuisine (0.98),shepherd's pie to be the top of the menu (0.99),none,none,none,none
+What meal can you eat everyday to lose weight?,meal (0.63),everyday (0.87),none,weight (0.94),none,none
+Is raw hamburger meat bad if it is brown on the outside?,raw hamburger meat bad (0.90),it (0.80),on the outside (0.81),brown (0.54),none,none
+Were the condemned offered a last meal in the Soviet Union during the Stalin era?,condemned (0.49),last meal in the soviet union during the stalin era (1.00),none,none,none,none
+How can you fix a cast iron pan that becomes sticky after cooking?,cast iron pan that becomes sticky after cooking (1.00),none,none,none,none,none
+Can eating certain foods trigger appendicitis?,##end (0.55),none,none,foods (0.35),app (0.83),##icitis (0.59)
+What fact did you learn that made you stop eating a particular food?,particular food (0.98),none,none,fact (0.47),none,none
+How long can I go without eating before I get very sick?,none,none,none,eating (1.00),sick (0.29),none
+How much is a serving of coffee?,serving (1.00),coffee (1.00),none,none,none,none
+Can you eat eggplant on your period?,eggplant (1.00),period (1.00),none,none,none,none
+Is it safe for plumbing to flush a partially-consumed typical size entree down the toilet? I don't want my husband to find out I have been eating just a tiny amount of the food in my doctor prescribed meal plan.,partially - consumed typical size entree down the toilet (1.00),tiny amount of the food in (0.99),doctor prescribed meal plan (1.00),none,none,none
+"Why are companies making meat-free, meat-style dishes? Surely vegetarians do not desire these items as they are a reminder of meat consumption.","meat - free, meat - style dishes (1.00)",items (0.92),consumption (0.99),meat (1.00),none,none
+Is artificial meat kosher?,artificial meat kosher (0.91),none,none,none,none,none
+What's avocado fruit called in Kannada?,avocado fruit called in kannada (0.94),none,none,none,none,none
+"I don’t eat during the day at all. Usually, I might have a bowl of cereal before bed then not eat until the next night (same thing). What effect will this have on me?",bowl (0.99),next (0.42),( same thing ) (0.40),cereal (0.75),night (0.26),none
+What meal is the most important meal of the day?,meal (0.76),most (0.79),important (0.51),none,none,none
+Which is worse for the body? Eating too fast or eating too little?,body (0.89),eating too fast or eating (0.70),little (0.88),none,none,none
+"Question to vegans. If animals died peacefully with no pain or harm, old age for example, would you still eat meat? I’ve asked TVT and she never replied.",vegans (0.62),animals died peacefully with no (0.93),age (0.55),"pain or harm, old (0.85)",tvt (0.68),none
+Is it true that a Teflon non-stick pan has a better overall taste and flavor to it when cooking steak meat than a cast iron pan which possesses a more metal taste?,teflon non - stick pan (1.00),overall taste and flavor (1.00),it when cooking steak meat (0.88),better (0.96),more (0.95),none
+"I've been binge eating for years now. I tried everything and I just can't seem to stop. How can I stop this, and is there anyway I can distract myself from thinking about food?",i just can't seem to stop (0.91),none,none,everything (0.55),anyway (0.93),food (0.99)
+How did some restaurants manage to survive through the COVID-19 pandemic restrictions?,restaurants (0.97),covid - 19 pandemic restrictions (0.97),none,none,none,none
+Can I eat eggs and buttermilk together?,eggs and buttermilk together (1.00),none,none,none,none,none
+"Why does my sister eat a lot of food, then force herself to puke it back up? She says it makes her stomach feel better? I don’t think it’s healthy.",food (0.98),##ke it back up (0.85),stomach (0.74),pu (0.89),better (0.27),healthy (0.48)
+What are the side effects of eating instant noodles every day?,instant noodles every day (1.00),none,none,side (0.98),none,none
+Can a nutritionist work from home in 2021?,nutritionist (1.00),2021 (0.90),none,none,none,none
+What is the healthiest food we can eat?,healthiest food (1.00),none,none,none,none,none
+What is the best way to reheat a McDonald's Big Mac?,##hea (0.75),mcdonald's big mac? (0.97),none,none,none,none
+Why does Islam permit non-vegetarian food?,non - vegetarian food (0.86),none,none,islam (0.84),none,none
+In Mexican cooking why is it that some people boil their salsa ingredients and some roast them? Is it preference? Is there a huge flavor difference? And as a person who's only roasted my salsa should I try it boiled?,mexican cooking (0.82),their salsa ingredients and (0.92),them (0.96),roast (1.00),preference (0.96),huge (0.59)
+"Eating has become a pointless effort over the past few months. I usually only drink a cup of juice and eat maybe one half of a sandwich. I actually feel fine, but my husband is concerned. What do I do?",pointless effort (0.92),months (0.35),cup of juice (0.91),none,none,none
+Does Burger King have Beyond Meat?,burger king (1.00),none,none,beyond meat (1.00),none,none
+Why do I get gum pain after eating meat?,gum pain after eating meat (0.86),none,none,none,none,none
+What specific nutrients and foods have been identified to be particularly beneficial for lung health and what foods are potentially detrimental so should be avoided?,health (0.57),none,none,specific nutrients and (0.50),foods (0.72),lung (0.89)
+Would eating a plastic bag be vegan?,plastic bag (1.00),vegan (0.78),none,none,none,none
+What can we do if infants drink milk and lemon?,infants (0.84),milk and lemon? (1.00),none,none,none,none
+"If you ordered 1000 French fries and 1000 chicken McNuggets, which one would McDonald's most likely prepare?","1000 french fries and 1000 chicken mcnuggets, (1.00)",one would mcdonald's most likely prepare (1.00),none,none,none,none
+How much is 30 mL in tablespoons?,30 ml in tablespoons? (1.00),none,none,none,none,none
+"Why is pizza unhealthy when its ingredients are tomato, cheese, wheat, and eggs, which are all healthy?","pizza unhealthy when its ingredients are tomato, cheese, wheat, and eggs (0.98)",which (0.42),none,healthy (0.84),none,none
+Can jackfruit kill you?,jackfruit (0.99),none,none,none,none,none
+What kind of gelatin is in vitamin D3?,##atin (0.98),vitamin d3 (0.68),none,gel (0.94),none,none
+What is celery in Telugu?,celery (1.00),telugu (0.92),none,none,none,none
+How often do you eat canned or boxed soups and has this changed during the COVID-19 pandemic?,canned or boxed soups (1.00),this (0.84),the covid - 19 pandemic (0.99),changed (0.99),during (0.41),none
+"If you were on death row, what would you request for your last meal?",death row (0.97),last meal (0.78),none,none,none,none
+Can you keep healthy bones as a vegan?,healthy bones as (1.00),vegan (1.00),none,none,none,none
+What are some things kids used to eat in the past that they no longer do?,kids (0.92),past (0.51),none,none,none,none
+Why doesn't anyone make beer out of potatoes?,beer out of potatoes (1.00),none,none,none,none,none
+How common are parasites in farmed fish compared to wild-caught fish?,farmed fish compared to wild - caught fish (1.00),none,none,none,none,none
+How is pancetta different from other cured meats?,pancetta (1.00),from other cured meats (0.95),none,none,none,none
+Is it safe to eat pizza left out overnight?,pizza left out overnight (1.00),none,none,none,none,none
+Is it OK to eat ramen when you have the stomach flu?,ramen when you have the stomach flu (0.98),none,none,none,none,none
+What is the best time to order McDonald’s?,mcdonald ’ s (1.00),none,none,none,none,none
+"I can go to the grocery store any time and buy farm-raised catfish filets. Why can't I also buy bass, crappie, or bluegill at a grocery store?",grocery store (1.00),farm - raised catfish filets (0.99),"bass, crappie, or bluegill (0.99)",none,none,none
+Why don't people eat more plant-based meat?,plant - based meat (1.00),none,none,none,none,none
+Will I die from eating raw shrimp?,raw shrimp (1.00),none,none,none,none,none
+What happens when you feel hungry?,hungry (0.75),none,none,none,none,none
+"My girlfriend ate an apple and eggs for breakfast, which is good, but I told her not to eat a cookie for dessert during lunch and she didn’t listen to me. What’s going on?","apple and eggs for breakfast, which is good (0.95)",cookie for dessert (1.00),none,lunch (0.57),none,none
+Do Turkish people in Turkey eat turkeys for Christmas?,turkish people (0.89),turkeys for christmas (1.00),none,turkey (0.63),none,none
+What creamers or milk (if any) would coffee connoisseurs recommend since Coffeemate has such a bad reputation?,creamers or milk ( if any ) (0.97),coffee connoisseurs recommend since coffeemate (0.92),reputation (0.43),bad (0.43),none,none
+Do you let your kids eat snacks in the car when the car is new?,kids (0.93),snacks in the car when the car (1.00),new (0.58),none,none,none
+What does malt and milk give to the body when combined?,body (0.72),combined (0.50),none,malt and milk (1.00),when (0.40),none
+"Suddenly, I suddenly increased the amount of food and water I have in a day for a couple of days now. Why? Is this bad?",day for (0.47),couple (0.44),days now (0.48),food and water (0.79),in (0.56),bad (0.52)
+"If humans aren't designed to eat meat because we have to cook it, why do we cook anything?",meat (1.00),anything (0.99),none,it (0.28),none,none
+"If people stop eating meat, what will happen to the animals?",meat (1.00),animals (0.86),none,none,none,none
+Is it racist if I find East Asian food disgusting to eat?,racist (0.45),east asian food disgusting to eat (0.97),none,none,none,none
+Why is cookie dough ice cream the best flavor?,cookie dough ice cream the best flavor (1.00),none,none,none,none,none
+Why do people bring babies to restaurants?,babies (1.00),none,none,restaurants (0.49),none,none
+What was left after Jesus shared the loaves and fish?,loaves and fish? (1.00),none,none,left (0.56),jesus (0.53),none
+Which fruit has the most natural sugar?,fruit (0.98),most (0.46),none,natural sugar (0.98),none,none
+What are some low calories drink in Starbucks?,low (0.81),starbucks (0.98),none,calories drink (0.84),none,none
+What's your favorite cheap meal that you still eat regardless of where you are financially?,favorite cheap meal that (0.95),none,none,financially (0.64),none,none
+What is one meal you make once a week?,meal (0.96),once a week (0.85),none,none,none,none
+Will eating a large amount of fruits daily make me fat?,large (0.90),fruits daily (0.92),fat (0.73),none,none,none
+How can raw eggs cause an abortion?,abortion (1.00),none,none,raw eggs (0.83),none,none
+How do you start making food from scratch?,food (1.00),scratch (0.57),none,none,none,none
+Should you eat before taking ecstacy?,ecstacy? (0.86),none,none,none,none,none
+I can't bake and I'm tired of it. What do I do?,i (0.96),bake (0.89),none,it (1.00),none,none
+Does cooking vegetables change their nutritional value?,vegetables (0.97),none,none,nutritional value (0.97),none,none
+Why is KFC so expensive?,kfc (1.00),expensive (0.75),none,none,none,none
+How do I clean baby toys with vinegar?,baby toys with vinegar? (1.00),none,none,none,none,none
+"Why do independent Italian restaurants in the UK, seemingly run by Italians, put cream in their carbonara? Is it to suit British tastes or is this easier to cook in a busy restaurant?",independent italian restaurants (1.00),uk (1.00),"seemingly run by italians, put cream in their carbonara (1.00)",none,none,none
+What is the best way to eat beef?,beef (1.00),none,none,none,none,none
+"Can I live on under 800 calories a day for the rest of my life? I'll typically consume one cup of V8 juice, one bowl of vegetable curry, and 6 veggie meatballs. I feel totally satisfied eating this amount every day.",under 800 calories a day (1.00),"cup of v8 juice, (0.98)",bowl (1.00),none,none,none
+What is the healthiest late-night snack?,healthiest late - night snack (1.00),none,none,none,none,none
+Who loves dim sum?,sum (0.99),none,none,dim (0.66),none,none
+My sister accidentally drank expired orange juice. The orange juice was expired about 4 months ago. What should we do?,expired orange juice. the orange juice was expired about (0.96),months ago (0.99),none,4 (0.31),none,none
+Someone placed a garlic dipping sauce cup on one of the slices of pizza. Is the rest safe to eat?,garlic dipping sauce cup (1.00),the slices of pizza (1.00),none,rest (0.68),eat (0.94),none
+How do I order a cake for a birthday in Singapore?,cake (1.00),birthday in singapore (0.99),none,none,none,none
+What is the best container to use in a microwave?,the best container (0.90),microwave? (0.88),none,none,none,none
+How do you make boiled rice less boring?,boiled rice less boring? (1.00),none,none,none,none,none
+Has a waiter ever said anything to you that made you uncomfortable with finishing your food?,waiter (0.99),food (0.85),none,finishing (1.00),none,none
+What happens when you eat too much takis?,too much takis? (1.00),none,none,none,none,none
+"I eat mainly lentils, beans, chickpeas, rice, and chicken on my diet. Is it healthy?","mainly lentils, beans, chickpeas, rice, and chicken (1.00)",none,none,healthy (0.74),none,none
+Is pizza or McDonalds healthier?,pizza or mcdonalds (1.00),##ier (0.95),none,health (0.44),none,none
+How do you discipline a 7 year old hiding food so he doesn't have to eat it?,7 year old hiding food (1.00),he (0.97),it (0.99),eat (0.96),none,none
+Why shouldn't people in China eat dogs?,china (0.54),dogs (0.98),none,none,none,none
+Is eating too many cherries bad? And how much is too much?,many (0.98),cherries bad (0.85),much (1.00),none,none,none
+What changes did you notice when you first became a vegan?,vegan (1.00),none,none,changes (0.74),none,none
+Why do I have trouble figuring out if I'm full or hungry?,none,none,none,hungry (0.86),none,none
+"If you were offered free sandwiches for the rest of your life from your favorite sandwich shop, but you had to call them ""sammies"" instead of ""sandwiches"", with a straight face, every time you ordered, would you accept the offer?",free sandwiches (0.95),rest (0.55),life from (0.55),straight (0.99),none,none
+What are the food items which make you feel sleepy?,food (0.87),sleepy (0.69),none,items (0.98),none,none
+Why don't some kids like vegan foods?,kids like vegan foods (1.00),none,none,none,none,none
+Do you like to eat Empanaditas de Pipián?,empanaditas de pipian? (1.00),none,none,none,none,none
+"How does the lead content of edible seaweeds [nori, dulse] vary around the world? . Does seaweed growing in China contain more lead than average?",content of (1.00),"edible seaweeds [ nori, dulse ] vary (0.99)",seaweed growing (0.95),lead (0.95),more (0.95),lead (0.93)
+Why do you soak onions in water before frying?,so (0.99),onions in water before frying (1.00),none,none,none,none
+What are other fast food chains like Sonic Drive-in?,fast food chains like sonic drive - in (1.00),none,none,none,none,none
+"I have someone who is insisting that expired milk can be taken off of the grocery store shelves, reprocessed and sold again with a new expiration date. Is this true?","expired milk can be taken off of the grocery store shelves, reprocessed and sold again with a (1.00)",expiration date (0.91),none,new (0.96),none,none
+What would you do if your husband thought he was too good to eat your mom's food?,husband (0.37),good (0.69),mom's food (0.89),none,none,none
+What fruit contains the most seeds?,fruit (0.93),the most (0.38),none,seeds (1.00),none,none
+What do those who enjoy boiled eggs eat them with?,boiled eggs (0.95),with (0.65),none,none,none,none
+My sugar goes up and down every day no matter how right I eat from 300 to 80 and all in between. Why and how can I fix it?,sugar (0.58),up (0.59),and down (0.58),none,none,none
+What gives the Chinese rice its unique flavor and taste?,chinese rice (1.00),unique flavor and taste (0.94),none,none,none,none
+"If someone doesn't RSVP for a wedding rehearsal dinner, do they get to eat?",##vp for a (0.78),wedding rehearsal dinner (1.00),none,rs (0.43),eat (0.98),none
+"If I was at your house tonight, what would I be eating?",none,none,none,none,none,none
+What’s a meal most people likely never had?,meal (0.88),people likely never (0.54),none,none,none,none
+"What times would you class as breakfast, lunch, and dinner?","breakfast, lunch (0.99)",and dinner (0.99),none,none,none,none
+What is the most interesting pizza topping you have had at a pizzeria?,most (0.93),pizza topping (0.98),pizzeria (0.92),interesting (0.36),none,none
+"Would non-vegans ever consider going vegan? If not, why?",vegans (0.75),vegan? (0.82),none,none,none,none
+Do I need to scale salmon before cooking?,salmon (1.00),none,none,cooking (0.83),none,none
+When is pork done?,pork done (0.88),none,none,none,none,none
+"My puppy is vegan (it's 100% healthy, don't worry) and he gets bored with his food so easily. It's time to change food. I can't find vegan puppy food in the UK anywhere. What should I do?",puppy (0.95),vegan ( it (0.96),"100 % healthy, don't worry ) (0.89)",food (0.99),none,none
+Which American pizza chain is the best and most like real Italian pizza?,american pizza chain (1.00),the best and most like real italian pizza? (1.00),none,none,none,none
+What is the powder stuff that they use to make candy sour?,candy sour? (0.97),none,none,powder stuff (0.92),none,none
+Is Fructooligosaccharide powder sold in the U.S.?,fructooligosaccharide powder sold in the u. s. (0.93),none,none,none,none,none
+How many carbs should you eat per meal?,per meal (0.98),none,none,carbs (0.94),none,none
+What is the best way to eat collagen?,collagen? (1.00),none,none,none,none,none
+"Random question, but how long do you usually eat dinner? I usually take about 10-15 minutes. Sometimes shorter or longer.",random question (0.65),dinner (1.00),10 - 15 (0.72),minutes (0.83),shorter (0.74),longer (0.96)
+"If I was at your home this morning, what would I be eating?",morning (0.64),none,none,none,none,none
+Did people see all fats as bad for their health in the past?,all fats as bad for their health (0.82),past (0.71),none,none,none,none
+Why can't watermelon be eaten with other fruits?,watermelon (1.00),eaten with other fruits (0.98),none,none,none,none
+What's the core impact of food safety?,food safety (1.00),none,none,core impact (0.92),none,none
+What cannot be cooked in a steam oven?,steam oven (1.00),none,none,none,none,none
+Why is all the food im eating going to my face?,none,none,none,food im eating going (0.73),face (0.33),none
+How did people know how to make sourdough in ancient times?,sourdough in ancient times (1.00),none,none,none,none,none
+My budgie ate a salted cashew. I didn't know they were salted. I rubbed it off anyways but a little bit of salt was probably left. Will my bird be ok after consuming a somewhat small amount of salt?,budgie (0.67),salted cashew (1.00),they (1.00),salt (1.00),left (0.30),none
+Why is unbleached flour more expensive than bleached flour?,unbleached flour more expensive than bleached flour (1.00),none,none,none,none,none
+My uncle left an unopened 3 litre carton of milk out of the fridge. 4.25 hours later I found it and put it in the fridge. Will it be safe to drink?,unopened 3 litre carton of milk out of the fridge (1.00),4. 25 hours later (0.97),fridge (0.58),drink (0.91),none,none
+What can I do about my neighbor's food smells coming into my apartment and making me incredibly sick? I've tried everything.,neighbor's food smells coming (0.97),apartment (0.83),sick (0.52),everything (0.92),none,none
+Is it easier to detox or not to detox?,not to det (0.46),none,none,detox (0.87),##ox (0.79),none
+"How do I tell my girlfriend to stop eating so much without hurting her feelings? She always complains about gaining too much weight, but then stuffs herself with a large amount of dairy (cheese, brownies, cookie dough) that makes her bloated.",so much (0.73),much (0.96),"large amount of dairy ( cheese, brownies, cookie dough ) that (0.93)",hurting (0.99),feelings (0.29),gaining (0.43)
+Would a human survive only eating one whole gorilla every 3 weeks?,human (0.99),one whole gorilla every 3 weeks (0.98),none,none,none,none
+What are the sizes of Pizza Hut pizzas?,pizza hut pizzas (1.00),none,none,none,none,none
+Does Subway Tuna really have no actual tuna in it?,subway tuna (1.00),none,none,no (0.99),actual tuna in it (0.93),none
+What is the best side dish for fried chicken?,the best side (1.00),fried chicken? (0.98),none,none,none,none
+Is the carne asada at Chipotle Spicy?,carne asada at chipotle spicy? (1.00),none,none,none,none,none
+"I had some shredded cheese in the refrigerator, but it seems like it melted in there, what happened?",none,none,none,shredded cheese in the refrigerator (1.00),but it seems like it melted in there (0.85),none
+"I love eating sushi, and it tastes so delicious. How can I make a California sushi roll at home?",sushi (0.98),it (0.97),delicious (1.00),none,none,none
+What's a food item or dish that gets unnecessary hate?,food item or dish that (0.93),hate (0.60),none,unnecessary (0.59),none,none
+"Which to choose: a thick juicy steak with fat fries, or a fat sizzling hamburger with onions and all the toppings, accompanied by slim-sliced fried potatoes? Which would you prefer, and why? Analyze. Assess. Elaborate.","thick juicy steak with fat fries, or a fat sizzling hamburger with onions and all the toppings, accompanied (1.00)",- sliced fried potatoes? (1.00),", and why (0.99)",slim (1.00),none,none
+What restaurant in your opinion has the most inviting smell when you first walk in?,restaurant (0.55),the most (0.67),you first (0.94),inviting smell when (0.84),none,none
+"Is it true that if you lost your sense of smell an Apple and onion would taste the same, or is this just a myth?",sense (0.49),apple and onion would taste the same (0.88),none,smell (0.99),none,none
+How much is a pound of ham?,pound of ham (1.00),none,none,none,none,none
+"If I drink water all day and don't eat anything until dinner, will I lose weight?",none,none,none,water (0.53),eat (0.66),anything (0.69)
+How do I make my chicken tender after I've cooked it and it's tough?,chicken tender after (1.00),' ve cooked it (0.95),it (0.99),tough (0.93),none,none
+Is it safe to eat fried cookie dough?,fried cookie dough (1.00),none,none,none,none,none
+How can you force yourself to stop eating junk food?,junk food (1.00),none,none,none,none,none
+Do they make eggplant parmesan in Italy?,eggplant parmesan in italy (1.00),none,none,none,none,none
+"Which plant-based ""meat"" product would you recommend for kids?","plant - based "" meat "" product (1.00)",kids (0.98),none,none,none,none
+What should you eat or avoid to avoid pus formation in wounds?,pus formation in wounds (1.00),none,none,none,none,none
+Can I use spread butter to make a chocolate chip cookie?,butter (0.70),chocolate chip cookie (1.00),none,spread (0.99),none,none
+"Can some bacteria metabolise vinegar, as a food source for them? If so, what is the byproduct of this metabolism? (I know some bacteria convert alcohols to acids)","vinegar, as (0.82)",food source (0.80),metabolism (0.39),bacteria metabolise (0.95),byproduct (0.94),bacteria convert (0.86)
+Why do we need to make good choices of food?,choices (0.93),food (0.76),none,none,none,none
+Is it true that Bang Chan snuck food for twice when they were on their diet?,bang chan snuck food for twice when they were (0.99),their (0.83),none,none,none,none
+Which less-price organic foods are best to increase one’s immune system?,less - price organic foods (1.00),one ’ s immune system (0.97),none,none,none,none
+How many calories are in au gratin potatoes?,##ories (0.93),in (0.43),au gratin potatoes (1.00),cal (0.95),none,none
+Is it rude and against etiquette to eat in public at Ramadan?,rude and against (0.91),eat (0.52),public at ramadan (0.88),etiquette (0.79),none,none
+Why does ice cream make my stomach upset but not milk?,stomach upset but not milk (0.95),none,none,ice cream (0.99),none,none
+Is it okay to add cheese to scrambled eggs?,cheese to scrambled eggs (1.00),none,none,none,none,none
+What do vegans have on toast?,vega (1.00),none,none,toast (0.81),none,none
+Why is the Western world against eating arachnids but support eating crustaceans?,western (0.96),arachnids but support eating crustaceans (1.00),none,none,none,none
+I want hot funyuns. What should I do?,hot funyuns (1.00),none,none,none,none,none
+How do you revive dead yeast?,dead yeast? (1.00),none,none,none,none,none
+What restaurant delivers food and accepts cash?,food (1.00),none,none,cash (0.98),none,none
+What are the effects of eating too much chocolate?,much (0.98),chocolate (0.91),none,none,none,none
+"Is coconut considered a type of nut? If you’re allergic to peanuts, is that the same as being allergic to all nuts?",coconut (0.54),nut (0.99),none,peanuts (1.00),that (0.92),same (0.93)
+I accidentally left milk in my cupboard for a year. It's turned into cheese. Can I eat it?,it (0.33),turned (0.48),cheese (0.83),milk (0.90),none,none
+"Which is better, junk food or healthy food?",junk food or healthy food (0.94),none,none,better (0.44),none,none
+I’ve gained weight and I can eat before bed and still wake up completely starving. Why am I so hungry?,before bed (0.56),none,none,weight (0.72),starving (0.30),none
+Why do people on death row get last meals?,death row (1.00),meals (0.51),none,last (0.62),none,none
+What makes Italian rice so expensive?,italian rice so expensive (0.96),none,none,none,none,none
+I bought raw chicken breast and left it on the counter for two hours. Is it safe to freeze and eat later?,raw chicken breast (1.00),it on the counter for two hours (0.80),and (1.00),freeze (0.97),eat (0.54),none
+"What is ""gnocco fritto""?","gnocco fritto "" (1.00)",none,none,none,none,none
+Is it okay to drink milk that's gone slightly bad?,milk that's gone slightly bad (1.00),none,none,none,none,none
+Are fermented vitamins the best?,fermented vitamin (0.91),best (0.63),none,##s (0.72),none,none
+I'm asthmatic but I love ice cream so I bought it and ate it and much chest immediately shut down. Now my aunt thinks it's her food that caused this. Should I confess?,ice cream (1.00),it (1.00),it (0.99),food (0.93),none,none
+"Are the beef burgers in restaurants smoked? Burgers in restaurants don't taste at all like what I cook, unlike chicken burgers when I cook it at home its taste is similar. If the beef burgers are smoked then show me how to smoke a burger?",beef burgers in restaurants smoked? burgers in restaurants (1.00),t (0.97),all (0.60),taste (0.61),taste (0.83),similar (0.53)
+Is it rude to eat on the train in Japan?,train (0.67),japan (0.82),none,none,none,none
+Which foods should I avoid after a dog bite?,dog bite (1.00),none,none,foods (0.49),none,none
+What is the best food for the brain?,best (0.75),the (0.67),brain (0.97),none,none,none
+What is the fear of milk called?,fear (0.55),none,none,milk called (0.96),none,none
+Why is the rice you eat outside delicious?,rice (0.92),outside delicious (0.75),none,none,none,none
+Can you eat uncooked oatmeal?,uncooked oatmeal? (1.00),none,none,none,none,none
+Can you eat durian after getting a Covid-19 vaccine shot?,durian (1.00),covid - 19 vaccine shot (1.00),none,none,none,none
+How much do I need to feed an 8-week puppy?,8 - week puppy (1.00),none,none,none,none,none
+Is keto diet good for gut health?,keto diet (0.96),health (0.86),none,gut (0.98),none,none
+How can you tell if olive oil is real?,olive oil (1.00),real (0.99),none,none,none,none
+Would you date a meat eater?,meat eater (1.00),none,none,none,none,none
+My parents are not in the house and there's five bottles of wine on the fridge. What will happen if I taste a little wine?,five bottles (0.76),wine (0.99),wine (0.95),none,none,none
+I often don't eat because of laziness. What should I do?,none,none,none,laziness (0.92),none,none
+What are the risks of too much saturated fats while eating at maintenance?,too much saturated fats while eating (0.97),none,none,maintenance (0.72),none,none
+"I ate tiny pieces of glass with food, will anything happen to me?",tiny pieces of glass with food (1.00),anything (0.32),none,none,none,none
+How far from the center of a nuclear blast would every frozen pizza cook to perfection?,far (0.89),center (0.42),nuclear blast (1.00),perfection (0.96),none,none
+Is it dangerous to eat bananas and eggs together?,bananas and eggs together (1.00),none,none,none,none,none
+The Philippines are the world's number two at exporting bananas. Why can't I find any bananas from there in European supermarkets? They are all from South America.,world (0.88),number two at exporting bananas (0.76),bananas from there (0.76),philippines (0.41),none,none
+What happens to your body when you stop eating junk food?,junk food (1.00),none,none,body (0.41),none,none
+How many calories should a 150 lb person eat?,##ories (1.00),150 lb person eat (0.89),none,cal (0.99),none,none
+Why are cow tails so delicious?,cow tails (1.00),delicious (0.99),none,none,none,none
+Why can’t sausages be made in Northern Ireland?,sausages (1.00),made (0.45),northern ireland (0.89),none,none,none
+What is the best time to skip a meal?,meal (1.00),none,none,none,none,none
+How long does it take to deep fry pizza rolls?,deep fry pizza rolls (1.00),none,none,none,none,none
+What should never be eaten with a durian fruit?,none,none,none,durian fruit (0.77),none,none
+"White rice is a staple food for more than half of the world's population, but is white rice really healthy?",white rice (1.00),staple food (0.98),than half (0.87),healthy (0.70),none,none
+How are ripened bananas dried to make a fruit snack for later enjoyment?,ripened bananas dried (0.98),fruit snack for (0.99),enjoyment (0.44),later (0.82),none,none
+What is an Australian substitute for graham crackers?,australian (0.96),graham crackers? (1.00),none,none,none,none
+What's the worst thing to eat?,worst (0.86),thing (0.62),none,none,none,none
+Should you contact your state or local health department if you spot a cockroach in the back-alley parking lot of an upscale Italian restaurant?,state or local health department (0.99),cockroach in the back - alley parking lot of (1.00),upscale italian restaurant (1.00),none,none,none
+What foods have healthy sugars?,foods (0.66),none,none,healthy sugars? (1.00),none,none
+I ate 9 ounces of blueberries in one day. Is that toxic or dangerous?,9 ounces of blueberries in one day (0.98),or (0.84),none,toxic (0.91),dangerous (0.80),none
+Do vegetarians smell nicer than people who eat meat?,nice (0.95),meat (0.99),none,none,none,none
+"For all of you vegans and meat-eaters out there, why are you guys not considered herbivore or carnivore? Vegans and herbivores and meat eaters and carnivore literally do the same thing.",vegans and meat - eaters (0.98),guys (0.31),herbivore or carnivore? (0.91),none,none,none
+"We know that Dr. Pepper's is the most agnostic drink, but what is the most agnostic meal?",dr. pepper's is the most agnostic drink (1.00),the most agnostic meal (1.00),none,none,none,none
+"When traveling abroad, do you eat local dishes or are you looking for fast food and food that is familiar to you?",local dishes (1.00),fast food and food that (0.90),familiar (0.87),none,none,none
+What is the fastest way to get hungry in Minecraft?,hungry in minecraft (1.00),none,none,none,none,none
+They tell you not to eat the night before surgery but then what happens in emergency surgery?,night before surgery but then (0.98),emergency surgery (0.79),none,none,none,none
+Why do cats beg for food when they still have food in their bowl?,cats (1.00),none,none,food (0.58),food (1.00),bowl (0.47)
+How do you know when an eggplant is done baking?,eggplant is done baking (1.00),none,none,none,none,none
+"As a non-Italian, what is the best dish you have tasted in Italy?",non (0.71),italian (0.99),the best dish (0.99),italy (0.52),none,none
+Why is it that the average lentils available in stores have become smaller over the past couple of years?,average lentils available in stores have become smaller (0.94),past couple of years (0.63),none,none,none,none
+How do you know if something is rancid?,? (0.67),none,none,rancid (0.88),none,none
+Is it wrong of me to sometimes feed my pot-bellied pig bacon?,pot - bellied pig bacon (1.00),none,none,none,none,none
+"At McDonald's, what happens to the food that no one orders in a day? Do they serve it the next day or is it thrown away?",mcdonald's (0.99),food that no one orders in a day (0.93),it (0.45),thrown (0.64),none,none
